@@ -49,6 +49,7 @@
   - [Scala](#scala)
   - [Scheme](#scheme)
   - [Shell](#shell)
+  - [Svelte](#svelte)
   - [Swift](#swift)
   - [Tcl](#tcl)
   - [TeX](#tex)
@@ -80,6 +81,9 @@
 
 ## C# # 
 
+- [dotliquid/dotliquid](https://github.com/dotliquid/dotliquid) - .NET Port of Tobias Lütke's Liquid template language.
+- [statiqdev/Statiq.Web](https://github.com/statiqdev/Statiq.Web) - Statiq Web is a flexible static site generator written in .NET.
+- [xoofx/markdig](https://github.com/xoofx/markdig) - A fast, powerful, CommonMark compliant, extensible Markdown processor for .NET
 - [DevrexLabs/memstate-tutorial](https://github.com/DevrexLabs/memstate-tutorial) - Course material for learning memstate
 - [DevrexLabs/memstate](https://github.com/DevrexLabs/memstate) - In-memory event-sourced ACID-transactional distributed object graph engine for .NET Standard
 - [VsVim/VsVim](https://github.com/VsVim/VsVim) - Vim Emulator Plugin for Visual Studio 2015+
@@ -109,7 +113,6 @@
 - [heathermiller/dist-prog-book](https://github.com/heathermiller/dist-prog-book) - 
 - [BrianHicks/spacemacs-rocks](https://github.com/BrianHicks/spacemacs-rocks) - A tip blog!
 - [craigkerstiens/postgresguide.com](https://github.com/craigkerstiens/postgresguide.com) - 
-- [heroku/starboard](https://github.com/heroku/starboard) - onboarding, offboarding, or crossboarding made easy
 - [popcorn-time/popcorn-app](https://github.com/popcorn-time/popcorn-app) - An experiment using the peerflix module of nodejs and connecting a bunch of APIs.
 - [tommy351/Octopress-Theme-Slash](https://github.com/tommy351/Octopress-Theme-Slash) - Slash — a minimal theme for Octopress
 - [swaroopch/flask-boilerplate](https://github.com/swaroopch/flask-boilerplate) - A Flask skeleton for Apache/mod_wsgi deployment and many other goodies
@@ -252,6 +255,11 @@
 
 ## F# # 
 
+- [dharmaturtle/CardOverflow](https://github.com/dharmaturtle/CardOverflow) - 
+- [ionide/Fornax](https://github.com/ionide/Fornax) - Scriptable static site generator using type safe F# DSL to define page templates.
+- [arthurrump/MarkdigExtensions](https://github.com/arthurrump/MarkdigExtensions) - Some useful extensions to the Markdig Markdown processor
+- [srid/fsharp-wasm-static-demo](https://github.com/srid/fsharp-wasm-static-demo) - A proof-of-concept demo of Bolero serverless SPA running on GitHub Pages using WebAssembly
+- [ronaldschlenker/FsHttp](https://github.com/ronaldschlenker/FsHttp) - A lightweight F# HTTP library.
 - [Nhowka/Elmish.Bridge](https://github.com/Nhowka/Elmish.Bridge) - Create client-server Fable-Elmish apps keeping a single mindset
 - [Zaid-Ajaj/Feliz](https://github.com/Zaid-Ajaj/Feliz) - A fresh retake of the React API in Fable and a collection of high-quality components to build React applications in F#, optimized for happiness
 - [Shmew/Fable.SignalR](https://github.com/Shmew/Fable.SignalR) - A functional type-safe wrapper for SignalR and Fable.
@@ -411,6 +419,7 @@
 
 ## HTML 
 
+- [dotnet-foundation/website](https://github.com/dotnet-foundation/website) - The .NET Foundation's website
 - [fenwick67/mastofeed](https://github.com/fenwick67/mastofeed) - ActivityPub feed =&gt; iframe embed.  https://www.mastofeed.com
 - [aca/aca.github.io](https://github.com/aca/aca.github.io) - 
 - [alex/nyt-2020-election-scraper](https://github.com/alex/nyt-2020-election-scraper) - 
@@ -696,6 +705,7 @@
 
 ## JavaScript 
 
+- [bangle-io/bangle.dev](https://github.com/bangle-io/bangle.dev) - Collection of tools for building rich text editors.
 - [BamButz/msbuild-tailwindcss](https://github.com/BamButz/msbuild-tailwindcss) - Adds a build action to process stylesheets through postcss/tailwind
 - [satellite-earth/totality](https://github.com/satellite-earth/totality) - 
 - [osnr/TabFS](https://github.com/osnr/TabFS) - 🗄 Mount your browser tabs as a filesystem.
@@ -854,6 +864,7 @@
 
 ## Others 
 
+- [quozd/awesome-dotnet](https://github.com/quozd/awesome-dotnet) - A collection of awesome .NET libraries, tools, frameworks and software
 - [fsbolero/awesome-bolero](https://github.com/fsbolero/awesome-bolero) - A curated list of Bolero samples, community projects, blogs and tutorials
 - [AdrienTorris/awesome-blazor](https://github.com/AdrienTorris/awesome-blazor) - Resources for Blazor, a .NET web framework using C#/Razor and HTML that runs in the browser with WebAssembly.
 - [Kavignon/fsharp-companies](https://github.com/Kavignon/fsharp-companies) - Community curated list of companies that use F#
@@ -1063,6 +1074,7 @@
 
 ## Ruby 
 
+- [rms-support-letter/rms-support-letter.github.io](https://github.com/rms-support-letter/rms-support-letter.github.io) - An open letter in support of Richard Matthew Stallman being reinstated by the Free Software Foundation
 - [sferik/t](https://github.com/sferik/t) - A command-line power tool for Twitter.
 - [samueldr/nix-top](https://github.com/samueldr/nix-top) - 
 - [heroku/log2viz](https://github.com/heroku/log2viz) - DEFUNCT: Realtime analysis of your Heroku app logs.
@@ -1172,6 +1184,10 @@
 - [srid/dotfiles-public-old](https://github.com/srid/dotfiles-public-old) - my OSX dotfiles, now outdated by the version in Dropbox
 - [sjl/z-fish](https://github.com/sjl/z-fish) - A fork of http://github.com/rupa/z to port it to the Fish shell.
 - [rupa/z](https://github.com/rupa/z) - z - jump around
+
+## Svelte 
+
+- [mattlehrer/sveltekit-vite-tailwind](https://github.com/mattlehrer/sveltekit-vite-tailwind) - 
 
 ## Swift 
 
