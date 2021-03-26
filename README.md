@@ -81,6 +81,11 @@
 
 ## C# # 
 
+- [spectresystems/spectre.console](https://github.com/spectresystems/spectre.console) - A library that makes it easier to create beautiful console applications.
+- [reactiveui/ReactiveUI](https://github.com/reactiveui/ReactiveUI) - An advanced, composable, functional reactive model-view-viewmodel framework for all .NET platforms that is inspired by functional reactive programming. ReactiveUI allows you to  abstract mutable state away from your user interfaces, express the idea around a feature in one readable place and improve the testability of your application.
+- [RolandPheasant/TailBlazer](https://github.com/RolandPheasant/TailBlazer) - A modern file tail utility based on Rx.Net which show cases reactive programming and Dynamic Data (see https://github.com/RolandPheasant/DynamicData)
+- [reactivemarbles/DynamicData](https://github.com/reactivemarbles/DynamicData) - Reactive collections based on Rx.Net
+- [dotnet/reactive](https://github.com/dotnet/reactive) - The Reactive Extensions for .NET
 - [dotliquid/dotliquid](https://github.com/dotliquid/dotliquid) - .NET Port of Tobias Lütke's Liquid template language.
 - [statiqdev/Statiq.Web](https://github.com/statiqdev/Statiq.Web) - Statiq Web is a flexible static site generator written in .NET.
 - [xoofx/markdig](https://github.com/xoofx/markdig) - A fast, powerful, CommonMark compliant, extensible Markdown processor for .NET
@@ -255,6 +260,7 @@
 
 ## F# # 
 
+- [fsprojects/FSharp.Control.Reactive](https://github.com/fsprojects/FSharp.Control.Reactive) - Extensions and wrappers for using the Reactive Extensions (Rx) with F#.
 - [dharmaturtle/CardOverflow](https://github.com/dharmaturtle/CardOverflow) - 
 - [ionide/Fornax](https://github.com/ionide/Fornax) - Scriptable static site generator using type safe F# DSL to define page templates.
 - [arthurrump/MarkdigExtensions](https://github.com/arthurrump/MarkdigExtensions) - Some useful extensions to the Markdig Markdown processor
@@ -705,6 +711,7 @@
 
 ## JavaScript 
 
+- [sveltejs/kit](https://github.com/sveltejs/kit) - A monorepo for SvelteKit and friends
 - [bangle-io/bangle.dev](https://github.com/bangle-io/bangle.dev) - Collection of tools for building rich text editors.
 - [BamButz/msbuild-tailwindcss](https://github.com/BamButz/msbuild-tailwindcss) - Adds a build action to process stylesheets through postcss/tailwind
 - [satellite-earth/totality](https://github.com/satellite-earth/totality) - 
@@ -1187,6 +1194,7 @@
 
 ## Svelte 
 
+- [GrygrFlzr/kit-docs](https://github.com/GrygrFlzr/kit-docs) - Unofficial documentation for SvelteKit
 - [mattlehrer/sveltekit-vite-tailwind](https://github.com/mattlehrer/sveltekit-vite-tailwind) - 
 
 ## Swift 
