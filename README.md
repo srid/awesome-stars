@@ -81,6 +81,7 @@
 
 ## C# # 
 
+- [AngleSharp/AngleSharp](https://github.com/AngleSharp/AngleSharp) - :angel: The ultimate angle brackets parser library parsing HTML5, MathML, SVG and CSS to construct a DOM based on the official W3C specifications.
 - [spectresystems/spectre.console](https://github.com/spectresystems/spectre.console) - A library that makes it easier to create beautiful console applications.
 - [reactiveui/ReactiveUI](https://github.com/reactiveui/ReactiveUI) - An advanced, composable, functional reactive model-view-viewmodel framework for all .NET platforms that is inspired by functional reactive programming. ReactiveUI allows you to  abstract mutable state away from your user interfaces, express the idea around a feature in one readable place and improve the testability of your application.
 - [RolandPheasant/TailBlazer](https://github.com/RolandPheasant/TailBlazer) - A modern file tail utility based on Rx.Net which show cases reactive programming and Dynamic Data (see https://github.com/RolandPheasant/DynamicData)
@@ -1124,6 +1125,7 @@
 
 ## SCSS 
 
+- [lexi-lambda/lexi-lambda.github.io](https://github.com/lexi-lambda/lexi-lambda.github.io) - 
 - [elixirschool/elixirschool](https://github.com/elixirschool/elixirschool) - Premier destination to learn and master the Elixir programming language
 
 ## Scala 
@@ -1219,6 +1221,8 @@
 
 ## TypeScript 
 
+- [windicss/windicss](https://github.com/windicss/windicss) - Next generation utility-first CSS framework.
+- [tw-in-js/twind-cli](https://github.com/tw-in-js/twind-cli) - 
 - [microsoft/codetour](https://github.com/microsoft/codetour) - VS Code extension that allows you to record and playback guided tours of codebases, directly within the editor.
 - [gera2ld/markmap-vscode](https://github.com/gera2ld/markmap-vscode) - Integrate markmap into VSCode
 - [svsool/vscode-markdown-kit](https://github.com/svsool/vscode-markdown-kit) - Collection of commands and utilities for managing Markdown notes
