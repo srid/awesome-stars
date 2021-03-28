@@ -81,6 +81,11 @@
 
 ## C# # 
 
+- [sebastienros/fluid](https://github.com/sebastienros/fluid) - Fluid is an open-source .NET template engine based on the Liquid template language.
+- [scriban/scriban](https://github.com/scriban/scriban) - A fast, powerful, safe and lightweight scripting language and engine for .NET
+- [icsharpcode/AvalonEdit](https://github.com/icsharpcode/AvalonEdit) - The WPF-based text editor component used in SharpDevelop
+- [wgross/fswatcher-engine-event](https://github.com/wgross/fswatcher-engine-event) - Publishes changes in file system as powershell engine event
+- [zzzprojects/html-agility-pack](https://github.com/zzzprojects/html-agility-pack) - Html Agility Pack (HAP)
 - [AngleSharp/AngleSharp](https://github.com/AngleSharp/AngleSharp) - :angel: The ultimate angle brackets parser library parsing HTML5, MathML, SVG and CSS to construct a DOM based on the official W3C specifications.
 - [spectresystems/spectre.console](https://github.com/spectresystems/spectre.console) - A library that makes it easier to create beautiful console applications.
 - [reactiveui/ReactiveUI](https://github.com/reactiveui/ReactiveUI) - An advanced, composable, functional reactive model-view-viewmodel framework for all .NET platforms that is inspired by functional reactive programming. ReactiveUI allows you to  abstract mutable state away from your user interfaces, express the idea around a feature in one readable place and improve the testability of your application.
@@ -261,6 +266,7 @@
 
 ## F# # 
 
+- [fsprojects/FSharp.Formatting](https://github.com/fsprojects/FSharp.Formatting) - F# tools for generating documentation (Markdown processor and F# code formatter)
 - [fsprojects/FSharp.Control.Reactive](https://github.com/fsprojects/FSharp.Control.Reactive) - Extensions and wrappers for using the Reactive Extensions (Rx) with F#.
 - [dharmaturtle/CardOverflow](https://github.com/dharmaturtle/CardOverflow) - 
 - [ionide/Fornax](https://github.com/ionide/Fornax) - Scriptable static site generator using type safe F# DSL to define page templates.
@@ -426,6 +432,7 @@
 
 ## HTML 
 
+- [decentralized-identity/ion](https://github.com/decentralized-identity/ion) - DID Method implementation using the Sidetree protocol on top of Bitcoin
 - [dotnet-foundation/website](https://github.com/dotnet-foundation/website) - The .NET Foundation's website
 - [fenwick67/mastofeed](https://github.com/fenwick67/mastofeed) - ActivityPub feed =&gt; iframe embed.  https://www.mastofeed.com
 - [aca/aca.github.io](https://github.com/aca/aca.github.io) - 
@@ -1067,6 +1074,7 @@
 
 ## Racket 
 
+- [lexi-lambda/hackett](https://github.com/lexi-lambda/hackett) - WIP implementation of a Haskell-like Lisp in Racket
 - [racket/pict](https://github.com/racket/pict) - 
 - [danprager/racket-2048](https://github.com/danprager/racket-2048) - The 2048 game implemented in Racket language
 - [ntoronto/pict3d](https://github.com/ntoronto/pict3d) - 3-dimensional picts
