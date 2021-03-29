@@ -266,6 +266,7 @@
 
 ## F# # 
 
+- [srid/Feather](https://github.com/srid/Feather) - WIP: Static site generator with customizable pipeline and live-reload
 - [fsprojects/FSharp.Formatting](https://github.com/fsprojects/FSharp.Formatting) - F# tools for generating documentation (Markdown processor and F# code formatter)
 - [fsprojects/FSharp.Control.Reactive](https://github.com/fsprojects/FSharp.Control.Reactive) - Extensions and wrappers for using the Reactive Extensions (Rx) with F#.
 - [dharmaturtle/CardOverflow](https://github.com/dharmaturtle/CardOverflow) - 
@@ -333,7 +334,6 @@
 - [sirupsen/logrus](https://github.com/sirupsen/logrus) - Structured, pluggable logging for Go.
 - [influxdata/influxdb](https://github.com/influxdata/influxdb) - Scalable datastore for metrics, events, and real-time analytics
 - [boltdb/bolt](https://github.com/boltdb/bolt) - An embedded key/value database for Go.
-- [srid/feelings](https://github.com/srid/feelings) - Data-centric approach to becoming happier; DEPRECATED in favour of https://github.com/srid/chronicle
 - [dustin/go-humanize](https://github.com/dustin/go-humanize) - Go Humans! (formatters for units to human friendly sizes)
 - [rethinkdb/rethinkdb-go](https://github.com/rethinkdb/rethinkdb-go) - Go language driver for RethinkDB
 - [hypebeast/go-osc](https://github.com/hypebeast/go-osc) - Open Sound Control (OSC) library for Golang. Implemented in pure Go.
@@ -417,7 +417,7 @@
 - [mkaz/hastie](https://github.com/mkaz/hastie) - A static site generator written in Go
 - [nickoneill/go-publisher](https://github.com/nickoneill/go-publisher) - publish your blog from anywhere
 - [nickoneill/go-dropbox](https://github.com/nickoneill/go-dropbox) - go library for the dropbox API
-- [juhanoi/radix](https://github.com/juhanoi/radix) - Redis client for Go
+- [juhani5/radix](https://github.com/juhani5/radix) - Redis client for Go
 - [nu7hatch/gouuid](https://github.com/nu7hatch/gouuid) - Go binding for libuuid
 - [revel/revel](https://github.com/revel/revel) - A high productivity, full-stack web framework for the Go language.
 - [wsxiaoys/terminal](https://github.com/wsxiaoys/terminal) - Colorful terminal output for Golang
@@ -879,6 +879,7 @@
 
 ## Others 
 
+- [fsharp/fslang-suggestions](https://github.com/fsharp/fslang-suggestions) - The place to make suggestions, discuss and vote on F# language and core library features
 - [quozd/awesome-dotnet](https://github.com/quozd/awesome-dotnet) - A collection of awesome .NET libraries, tools, frameworks and software
 - [fsbolero/awesome-bolero](https://github.com/fsbolero/awesome-bolero) - A curated list of Bolero samples, community projects, blogs and tutorials
 - [AdrienTorris/awesome-blazor](https://github.com/AdrienTorris/awesome-blazor) - Resources for Blazor, a .NET web framework using C#/Razor and HTML that runs in the browser with WebAssembly.
@@ -973,6 +974,7 @@
 
 ## Python 
 
+- [rms-support-letter/rms-support-letter.github.io](https://github.com/rms-support-letter/rms-support-letter.github.io) - An open letter in support of Richard Matthew Stallman being reinstated by the Free Software Foundation
 - [Eloston/ungoogled-chromium](https://github.com/Eloston/ungoogled-chromium) - Google Chromium, sans integration with Google
 - [httpie/httpie](https://github.com/httpie/httpie) - As easy as /aitch-tee-tee-pie/ 🥧 Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more. https://twitter.com/httpie
 - [ghc-proposals/ghc-proposals](https://github.com/ghc-proposals/ghc-proposals) - Proposed compiler and language changes for GHC and GHC/Haskell
@@ -1090,7 +1092,6 @@
 
 ## Ruby 
 
-- [rms-support-letter/rms-support-letter.github.io](https://github.com/rms-support-letter/rms-support-letter.github.io) - An open letter in support of Richard Matthew Stallman being reinstated by the Free Software Foundation
 - [sferik/t](https://github.com/sferik/t) - A command-line power tool for Twitter.
 - [samueldr/nix-top](https://github.com/samueldr/nix-top) - 
 - [heroku/log2viz](https://github.com/heroku/log2viz) - DEFUNCT: Realtime analysis of your Heroku app logs.
@@ -1229,6 +1230,7 @@
 
 ## TypeScript 
 
+- [tw-in-js/twind](https://github.com/tw-in-js/twind) - The smallest, fastest, most feature complete Tailwind-in-JS solution in existence.
 - [windicss/windicss](https://github.com/windicss/windicss) - Next generation utility-first CSS framework.
 - [tw-in-js/twind-cli](https://github.com/tw-in-js/twind-cli) - 
 - [microsoft/codetour](https://github.com/microsoft/codetour) - VS Code extension that allows you to record and playback guided tours of codebases, directly within the editor.
