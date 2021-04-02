@@ -81,6 +81,7 @@
 
 ## C# # 
 
+- [Tewr/BlazorWorker](https://github.com/Tewr/BlazorWorker) - Library for creating DotNet Web Worker threads/multithreading in Blazor
 - [sebastienros/fluid](https://github.com/sebastienros/fluid) - Fluid is an open-source .NET template engine based on the Liquid template language.
 - [scriban/scriban](https://github.com/scriban/scriban) - A fast, powerful, safe and lightweight scripting language and engine for .NET
 - [icsharpcode/AvalonEdit](https://github.com/icsharpcode/AvalonEdit) - The WPF-based text editor component used in SharpDevelop
@@ -267,6 +268,7 @@
 
 ## F# # 
 
+- [deviousasti/fsharp-worksheet](https://github.com/deviousasti/fsharp-worksheet) - A spreadsheet-like interactive evaluator for F#
 - [fsharp/fslang-design](https://github.com/fsharp/fslang-design) - RFCs and docs related to the F# language design process, see https://github.com/fsharp/fslang-suggestions to submit ideas
 - [srid/Feather](https://github.com/srid/Feather) - WIP: Static site generator with customizable pipeline and live-reload
 - [fsprojects/FSharp.Formatting](https://github.com/fsprojects/FSharp.Formatting) - F# tools for generating documentation (Markdown processor and F# code formatter)
@@ -287,7 +289,7 @@
 - [Zaid-Ajaj/desktop-feliz-with-photino](https://github.com/Zaid-Ajaj/desktop-feliz-with-photino) - 
 - [fsbolero/Bolero](https://github.com/fsbolero/Bolero) - Bolero brings Blazor to F# developers with an easy to use Model-View-Update architecture, HTML combinators, hot reloaded templates, type-safe endpoints, advanced routing and remoting capabilities, and more.
 - [yatli/fvim](https://github.com/yatli/fvim) - Cross platform Neovim front-end UI, built with F# + Avalonia
-- [fsprojects-transfer/Avalonia.FuncUI](https://github.com/fsprojects-transfer/Avalonia.FuncUI) - Develop cross-plattform MVU GUI Applications using F# and Avalonia!
+- [fsprojects/Avalonia.FuncUI](https://github.com/fsprojects/Avalonia.FuncUI) - Develop cross-plattform MVU GUI Applications using F# and Avalonia!
 - [SuaveIO/suave](https://github.com/SuaveIO/suave) - Suave is a simple web development F# library providing a lightweight web server and a set of combinators to manipulate route flow and task composition.
 - [websharper-samples/ui](https://github.com/websharper-samples/ui) - An experiment in next-generation front-end combinator library for WebSharper
 - [dotnet/fsharp](https://github.com/dotnet/fsharp) - The F# compiler, F# core library, F# language service, and F# tooling integration for Visual Studio
