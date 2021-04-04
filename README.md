@@ -297,6 +297,7 @@
 
 ## Go 
 
+- [climech/grit](https://github.com/climech/grit) - A multitree-based personal task manager
 - [mickael-menu/zk](https://github.com/mickael-menu/zk) - A plain text note-taking assistant
 - [multiverse-vcs/go-multiverse](https://github.com/multiverse-vcs/go-multiverse) - Decentralized Version Control System
 - [karan/fleets](https://github.com/karan/fleets) - Automatically delete tweets, retweets, and favorites.
@@ -457,6 +458,7 @@
 
 ## Haskell 
 
+- [pkamenarsky/concur-static](https://github.com/pkamenarsky/concur-static) - Generate semi-dynamic UIs with Concur
 - [ekmett/propagators](https://github.com/ekmett/propagators) - The Art of the Propagator. See also:
 - [serokell/haskell-with-utf8](https://github.com/serokell/haskell-with-utf8) - Get your IO right on the first try
 - [fission-suite/ipfs-haskell](https://github.com/fission-suite/ipfs-haskell) - IPFS wrapper for Haskell
