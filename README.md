@@ -81,6 +81,7 @@
 
 ## C# # 
 
+- [toddams/RazorLight](https://github.com/toddams/RazorLight) - Template engine based on Microsoft's Razor parsing engine for .NET Core
 - [Tewr/BlazorWorker](https://github.com/Tewr/BlazorWorker) - Library for creating DotNet Web Worker threads/multithreading in Blazor
 - [sebastienros/fluid](https://github.com/sebastienros/fluid) - Fluid is an open-source .NET template engine based on the Liquid template language.
 - [scriban/scriban](https://github.com/scriban/scriban) - A fast, powerful, safe and lightweight scripting language and engine for .NET
@@ -268,6 +269,7 @@
 
 ## F# # 
 
+- [humhei/FCSWatch](https://github.com/humhei/FCSWatch) - Run standard fsharp codes in watch mode
 - [deviousasti/fsharp-worksheet](https://github.com/deviousasti/fsharp-worksheet) - A spreadsheet-like interactive evaluator for F#
 - [fsharp/fslang-design](https://github.com/fsharp/fslang-design) - RFCs and docs related to the F# language design process, see https://github.com/fsharp/fslang-suggestions to submit ideas
 - [srid/Feather](https://github.com/srid/Feather) - WIP: Static site generator with customizable pipeline and live-reload
@@ -865,6 +867,7 @@
 
 ## OCaml 
 
+- [aantron/dream](https://github.com/aantron/dream) - Tidy, feature-complete Web framework
 - [facebook/flow](https://github.com/facebook/flow) - Adds static typing to JavaScript to improve developer productivity and code quality.
 
 ## Objective-C 
