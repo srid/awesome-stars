@@ -87,9 +87,9 @@
 - [scriban/scriban](https://github.com/scriban/scriban) - A fast, powerful, safe and lightweight scripting language and engine for .NET
 - [icsharpcode/AvalonEdit](https://github.com/icsharpcode/AvalonEdit) - The WPF-based text editor component used in SharpDevelop
 - [wgross/fswatcher-engine-event](https://github.com/wgross/fswatcher-engine-event) - Publishes changes in file system as powershell engine event
-- [zzzprojects/html-agility-pack](https://github.com/zzzprojects/html-agility-pack) - Html Agility Pack (HAP)
+- [zzzprojects/html-agility-pack](https://github.com/zzzprojects/html-agility-pack) - Html Agility Pack (HAP) is a free and open-source HTML parser written in C# to read/write DOM and supports plain XPATH or XSLT. It is a .NET code library that allows you to parse "out of the web" HTML files.
 - [AngleSharp/AngleSharp](https://github.com/AngleSharp/AngleSharp) - :angel: The ultimate angle brackets parser library parsing HTML5, MathML, SVG and CSS to construct a DOM based on the official W3C specifications.
-- [spectresystems/spectre.console](https://github.com/spectresystems/spectre.console) - A library that makes it easier to create beautiful console applications.
+- [spectreconsole/spectre.console](https://github.com/spectreconsole/spectre.console) - A library that makes it easier to create beautiful console applications.
 - [reactiveui/ReactiveUI](https://github.com/reactiveui/ReactiveUI) - An advanced, composable, functional reactive model-view-viewmodel framework for all .NET platforms that is inspired by functional reactive programming. ReactiveUI allows you to  abstract mutable state away from your user interfaces, express the idea around a feature in one readable place and improve the testability of your application.
 - [RolandPheasant/TailBlazer](https://github.com/RolandPheasant/TailBlazer) - A modern file tail utility based on Rx.Net which show cases reactive programming and Dynamic Data (see https://github.com/RolandPheasant/DynamicData)
 - [reactivemarbles/DynamicData](https://github.com/reactivemarbles/DynamicData) - Reactive collections based on Rx.Net
@@ -867,7 +867,7 @@
 
 ## OCaml 
 
-- [aantron/dream](https://github.com/aantron/dream) - Tidy, feature-complete Web framework
+- [aantron/dream](https://github.com/aantron/dream) - Tidy, feature-complete Web framework for OCaml and ReasonML
 - [facebook/flow](https://github.com/facebook/flow) - Adds static typing to JavaScript to improve developer productivity and code quality.
 
 ## Objective-C 
@@ -1128,6 +1128,11 @@
 
 ## Rust 
 
+- [lunatic-solutions/lunatic](https://github.com/lunatic-solutions/lunatic) - Lunatic is an Erlang inspired runtime for WebAssembly
+- [soywod/himalaya](https://github.com/soywod/himalaya) - 📫 Minimalist CLI email client, written in Rust.
+- [yewstack/yew-trunk-minimal-template](https://github.com/yewstack/yew-trunk-minimal-template) - Template for starting a Yew project using Trunk
+- [thedodd/trunk](https://github.com/thedodd/trunk) - Build, bundle & ship your Rust WASM application to the web.
+- [yewstack/yew](https://github.com/yewstack/yew) - Rust / Wasm framework for building client web apps
 - [jameslittle230/stork](https://github.com/jameslittle230/stork) - 🔎 Impossibly fast web search, made for static sites.
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell
