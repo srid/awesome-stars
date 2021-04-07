@@ -838,6 +838,7 @@
 
 ## Nix 
 
+- [oxalica/rust-overlay](https://github.com/oxalica/rust-overlay) - Pure and reproducible nix overlay for binary distributed rust toolchains
 - [barrucadu/nixfiles](https://github.com/barrucadu/nixfiles) - My NixOS configuration and assorted other crap.
 - [Trundle/NixOS-WSL](https://github.com/Trundle/NixOS-WSL) - NixOS on WSL(2)
 - [obsidiansystems/obelisk-systemd](https://github.com/obsidiansystems/obelisk-systemd) - Turn your obelisk app into a systemd service
@@ -888,6 +889,7 @@
 
 ## Others 
 
+- [rothgar/awesome-tmux](https://github.com/rothgar/awesome-tmux) - A list of awesome resources for tmux
 - [fsharp/fslang-suggestions](https://github.com/fsharp/fslang-suggestions) - The place to make suggestions, discuss and vote on F# language and core library features
 - [quozd/awesome-dotnet](https://github.com/quozd/awesome-dotnet) - A collection of awesome .NET libraries, tools, frameworks and software
 - [fsbolero/awesome-bolero](https://github.com/fsbolero/awesome-bolero) - A curated list of Bolero samples, community projects, blogs and tutorials
@@ -1128,6 +1130,7 @@
 
 ## Rust 
 
+- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources.
 - [lunatic-solutions/lunatic](https://github.com/lunatic-solutions/lunatic) - Lunatic is an Erlang inspired runtime for WebAssembly
 - [soywod/himalaya](https://github.com/soywod/himalaya) - 📫 Minimalist CLI email client, written in Rust.
 - [yewstack/yew-trunk-minimal-template](https://github.com/yewstack/yew-trunk-minimal-template) - Template for starting a Yew project using Trunk
