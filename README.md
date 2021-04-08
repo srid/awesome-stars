@@ -21,6 +21,7 @@
   - [F#](#f#)
   - [Go](#go)
   - [HTML](#html)
+  - [Handlebars](#handlebars)
   - [Haskell](#haskell)
   - [JSONiq](#jsoniq)
   - [Java](#java)
@@ -299,6 +300,7 @@
 
 ## Go 
 
+- [hummingbard/hummingbard](https://github.com/hummingbard/hummingbard) - Hummingbard is an experimental client for building decentralized communities on top of Matrix.
 - [climech/grit](https://github.com/climech/grit) - A multitree-based personal task manager
 - [mickael-menu/zk](https://github.com/mickael-menu/zk) - A plain text note-taking assistant
 - [multiverse-vcs/go-multiverse](https://github.com/multiverse-vcs/go-multiverse) - Decentralized Version Control System
@@ -457,6 +459,10 @@
 - [ericchiang/pup](https://github.com/ericchiang/pup) - Parsing HTML at the command line
 - [joemccann/dillinger](https://github.com/joemccann/dillinger) - The last Markdown editor, ever.
 - [maacl/aleph-ws-test](https://github.com/maacl/aleph-ws-test) - Small chat-app to test Aleph websocket support.
+
+## Handlebars 
+
+- [rustwasm/book](https://github.com/rustwasm/book) - The Rust and WebAssembly Book
 
 ## Haskell 
 
@@ -828,6 +834,7 @@
 
 ## Makefile 
 
+- [composewell/streamly-examples](https://github.com/composewell/streamly-examples) - Streamly examples
 - [ehamberg/typeclassopedia-md](https://github.com/ehamberg/typeclassopedia-md) - Markdown version of the Haskell Typeclassopedia
 - [rabbitmq/rabbitmq-recent-history-exchange](https://github.com/rabbitmq/rabbitmq-recent-history-exchange) - RabbitMQ Recent History Exchange
 
@@ -838,6 +845,8 @@
 
 ## Nix 
 
+- [kolloch/crate2nix](https://github.com/kolloch/crate2nix) - nix build file generator for rust crates
+- [nmattia/naersk](https://github.com/nmattia/naersk) - Build rust crates in Nix. No configuration, no code generation, no IFD. Sandbox friendly.
 - [oxalica/rust-overlay](https://github.com/oxalica/rust-overlay) - Pure and reproducible nix overlay for binary distributed rust toolchains
 - [barrucadu/nixfiles](https://github.com/barrucadu/nixfiles) - My NixOS configuration and assorted other crap.
 - [Trundle/NixOS-WSL](https://github.com/Trundle/NixOS-WSL) - NixOS on WSL(2)
@@ -858,7 +867,7 @@
 - [hercules-ci/gitignore.nix](https://github.com/hercules-ci/gitignore.nix) - Nix function for filtering local git sources
 - [nix-community/home-manager](https://github.com/nix-community/home-manager) - Manage a user environment using Nix  [maintainer=@rycee]
 - [LnL7/nix-darwin](https://github.com/LnL7/nix-darwin) - nix modules for darwin
-- [srid/nix-config](https://github.com/srid/nix-config) - My NixOS configuration
+- [srid/nix-config](https://github.com/srid/nix-config) - My NixOS configuration (DEPRECATED)
 - [haskell-nix/hnix](https://github.com/haskell-nix/hnix) - A Haskell re-implementation of the Nix expression language
 - [NixOS/nixos-hardware](https://github.com/NixOS/nixos-hardware) - A collection of NixOS modules covering hardware quirks.
 - [ElvishJerricco/reflex-project-skeleton](https://github.com/ElvishJerricco/reflex-project-skeleton) - 
@@ -868,7 +877,7 @@
 
 ## OCaml 
 
-- [aantron/dream](https://github.com/aantron/dream) - Tidy, feature-complete Web framework for OCaml and ReasonML
+- [aantron/dream](https://github.com/aantron/dream) - Tidy, feature-complete Web framework
 - [facebook/flow](https://github.com/facebook/flow) - Adds static typing to JavaScript to improve developer productivity and code quality.
 
 ## Objective-C 
@@ -889,6 +898,7 @@
 
 ## Others 
 
+- [nix-community/awesome-nix](https://github.com/nix-community/awesome-nix) - 😎 A curated list of the best resources in the Nix community [maintainer=@houstdav000]
 - [rothgar/awesome-tmux](https://github.com/rothgar/awesome-tmux) - A list of awesome resources for tmux
 - [fsharp/fslang-suggestions](https://github.com/fsharp/fslang-suggestions) - The place to make suggestions, discuss and vote on F# language and core library features
 - [quozd/awesome-dotnet](https://github.com/quozd/awesome-dotnet) - A collection of awesome .NET libraries, tools, frameworks and software
@@ -904,7 +914,6 @@
 - [sponsorware/docs](https://github.com/sponsorware/docs) - What is a Sponsorware project and how can YOU start one?
 - [kowainik/awesome-haskell-sponsorship](https://github.com/kowainik/awesome-haskell-sponsorship) - 💝 Haskell profiles to sponsor
 - [MaggieAppleton/digital-gardeners](https://github.com/MaggieAppleton/digital-gardeners) - Resources, links, projects, and ideas for gardeners tending their digital notes on the public interwebs
-- [composewell/streamly-examples](https://github.com/composewell/streamly-examples) - Streamly examples
 - [google/eng-practices](https://github.com/google/eng-practices) - Google's Engineering Practices documentation
 - [MaximilianKohler/HumanMicrobiome](https://github.com/MaximilianKohler/HumanMicrobiome) - Human Microbiome wiki
 - [jonitrythall/svgpocketguide](https://github.com/jonitrythall/svgpocketguide) - All original content of A Pocket Guide to Writing SVG by Joni Trythall
