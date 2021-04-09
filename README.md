@@ -846,7 +846,6 @@
 ## Nix 
 
 - [kolloch/crate2nix](https://github.com/kolloch/crate2nix) - nix build file generator for rust crates
-- [nmattia/naersk](https://github.com/nmattia/naersk) - Build rust crates in Nix. No configuration, no code generation, no IFD. Sandbox friendly.
 - [oxalica/rust-overlay](https://github.com/oxalica/rust-overlay) - Pure and reproducible nix overlay for binary distributed rust toolchains
 - [barrucadu/nixfiles](https://github.com/barrucadu/nixfiles) - My NixOS configuration and assorted other crap.
 - [Trundle/NixOS-WSL](https://github.com/Trundle/NixOS-WSL) - NixOS on WSL(2)
@@ -1139,6 +1138,9 @@
 
 ## Rust 
 
+- [pchampin/sophia_rs](https://github.com/pchampin/sophia_rs) - Sophia: a Rust toolkit for RDF and Linked Data
+- [oxigraph/oxigraph](https://github.com/oxigraph/oxigraph) - SPARQL graph database
+- [terminusdb/terminusdb-store](https://github.com/terminusdb/terminusdb-store) - a tokio-enabled data store for triple data
 - [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources.
 - [lunatic-solutions/lunatic](https://github.com/lunatic-solutions/lunatic) - Lunatic is an Erlang inspired runtime for WebAssembly
 - [soywod/himalaya](https://github.com/soywod/himalaya) - 📫 Minimalist CLI email client, written in Rust.
