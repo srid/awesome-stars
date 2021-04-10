@@ -466,6 +466,7 @@
 
 ## Haskell 
 
+- [waymonad/waymonad](https://github.com/waymonad/waymonad) - A wayland compositor based on ideas from and inspired by xmonad
 - [pkamenarsky/concur-static](https://github.com/pkamenarsky/concur-static) - Generate semi-dynamic UIs with Concur
 - [ekmett/propagators](https://github.com/ekmett/propagators) - The Art of the Propagator. See also:
 - [serokell/haskell-with-utf8](https://github.com/serokell/haskell-with-utf8) - Get your IO right on the first try
@@ -1138,6 +1139,8 @@
 
 ## Rust 
 
+- [nix-community/nixpkgs-fmt](https://github.com/nix-community/nixpkgs-fmt) - Nix code formatter for nixpkgs [maintainer=@zimbatm]
+- [nix-community/rnix-lsp](https://github.com/nix-community/rnix-lsp) - WIP Language Server for Nix! [maintainer=@jD91mZM2]
 - [pchampin/sophia_rs](https://github.com/pchampin/sophia_rs) - Sophia: a Rust toolkit for RDF and Linked Data
 - [oxigraph/oxigraph](https://github.com/oxigraph/oxigraph) - SPARQL graph database
 - [terminusdb/terminusdb-store](https://github.com/terminusdb/terminusdb-store) - a tokio-enabled data store for triple data
@@ -1179,7 +1182,7 @@
 ## Shell 
 
 - [zettelzottel/neuron-helper](https://github.com/zettelzottel/neuron-helper) - (Mirror) Neuron Helper Scripts
-- [nix-community/nixos-install-scripts](https://github.com/nix-community/nixos-install-scripts) - collection of one-shot scripts to install NixOS on various server hosters and other hardware. [maintainer=@nh2]
+- [nix-community/nixos-install-scripts](https://github.com/nix-community/nixos-install-scripts) - collection of one-shot scripts to install NixOS on various server hosters and other hardware. [maintainer=@happysalada]
 - [erikarvstedt/extra-container](https://github.com/erikarvstedt/extra-container) - Run declarative NixOS containers without full system rebuilds
 - [JetBrains/JetBrainsMono](https://github.com/JetBrains/JetBrainsMono) - JetBrains Mono – the free and open-source typeface for developers
 - [horochx/deploy-via-scp](https://github.com/horochx/deploy-via-scp) - A GitHub Action that send the build file to a remote server for deployment via scp.
