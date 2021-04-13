@@ -90,7 +90,7 @@
 - [wgross/fswatcher-engine-event](https://github.com/wgross/fswatcher-engine-event) - Publishes changes in file system as powershell engine event
 - [zzzprojects/html-agility-pack](https://github.com/zzzprojects/html-agility-pack) - Html Agility Pack (HAP) is a free and open-source HTML parser written in C# to read/write DOM and supports plain XPATH or XSLT. It is a .NET code library that allows you to parse "out of the web" HTML files.
 - [AngleSharp/AngleSharp](https://github.com/AngleSharp/AngleSharp) - :angel: The ultimate angle brackets parser library parsing HTML5, MathML, SVG and CSS to construct a DOM based on the official W3C specifications.
-- [spectreconsole/spectre.console](https://github.com/spectreconsole/spectre.console) - A library that makes it easier to create beautiful console applications.
+- [spectreconsole/spectre.console](https://github.com/spectreconsole/spectre.console) - A .NET library that makes it easier to create beautiful console applications.
 - [reactiveui/ReactiveUI](https://github.com/reactiveui/ReactiveUI) - An advanced, composable, functional reactive model-view-viewmodel framework for all .NET platforms that is inspired by functional reactive programming. ReactiveUI allows you to  abstract mutable state away from your user interfaces, express the idea around a feature in one readable place and improve the testability of your application.
 - [RolandPheasant/TailBlazer](https://github.com/RolandPheasant/TailBlazer) - A modern file tail utility based on Rx.Net which show cases reactive programming and Dynamic Data (see https://github.com/RolandPheasant/DynamicData)
 - [reactivemarbles/DynamicData](https://github.com/reactivemarbles/DynamicData) - Reactive collections based on Rx.Net
@@ -175,6 +175,7 @@
 
 ## Dockerfile 
 
+- [matiu2/tailwind-yew-builder](https://github.com/matiu2/tailwind-yew-builder) - Build tailwind css for yew style applications, using docker-compose, so you don't need to have npm installed
 - [zimbatm/vscode-devcontainer-nix](https://github.com/zimbatm/vscode-devcontainer-nix) - WIP: VSCode remote container for Nix-based environments
 
 ## Elixir 
@@ -1143,6 +1144,8 @@
 
 ## Rust 
 
+- [TheNeikos/rustbreak](https://github.com/TheNeikos/rustbreak) - A simple, fast and easy to use self-contained single file storage for Rust
+- [org-rs/org-rs](https://github.com/org-rs/org-rs) - org-mode parser rewrite in Rust
 - [supabase/postgrest-rs](https://github.com/supabase/postgrest-rs) - Rust client for PostgREST
 - [ralfbiedert/cheats.rs](https://github.com/ralfbiedert/cheats.rs) - Rust Language Cheat Sheet - https://cheats.rs
 - [extrawurst/gitui](https://github.com/extrawurst/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
