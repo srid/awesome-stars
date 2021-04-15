@@ -218,7 +218,7 @@
 - [mgold/elm-socketio](https://github.com/mgold/elm-socketio) - [OLD] Socket.io wrapper for Elm.
 - [evancz/focus](https://github.com/evancz/focus) - A library for getting and setting values in deeply nested data structures.
 - [evancz/elm-http](https://github.com/evancz/elm-http) - DEPRECATED. This library is now called elm-lang/http
-- [srid/chronicle](https://github.com/srid/chronicle) - Forming reliable memories.
+- [srid/chronicle-2015](https://github.com/srid/chronicle-2015) - Forming reliable memories.
 - [circuithub/elm-bootstrap-html](https://github.com/circuithub/elm-bootstrap-html) - Html shorthand for Bootstrap
 - [jacobstanley/elm-font-awesome](https://github.com/jacobstanley/elm-font-awesome) - Font Awesome vector icons as Elm HTML components
 - [evancz/start-app](https://github.com/evancz/start-app) - DEPRECATED. Moved to elm-lang/html
@@ -739,7 +739,7 @@
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🍰 Everything is RSSible
 - [sveltejs/kit](https://github.com/sveltejs/kit) - A monorepo for SvelteKit and friends
-- [bangle-io/bangle.dev](https://github.com/bangle-io/bangle.dev) - Collection of tools for building rich text editors.
+- [bangle-io/bangle.dev](https://github.com/bangle-io/bangle.dev) - Collection of higher level rich text editing tools. It also powers note taking app https://bangle.io
 - [BamButz/msbuild-tailwindcss](https://github.com/BamButz/msbuild-tailwindcss) - Adds a build action to process stylesheets through postcss/tailwind
 - [satellite-earth/totality](https://github.com/satellite-earth/totality) - 
 - [osnr/TabFS](https://github.com/osnr/TabFS) - 🗄 Mount your browser tabs as a filesystem.
@@ -1144,6 +1144,7 @@
 
 ## Rust 
 
+- [jfbilodeau/yew_form](https://github.com/jfbilodeau/yew_form) - Components to simplify handling forms with Yew
 - [TheNeikos/rustbreak](https://github.com/TheNeikos/rustbreak) - A simple, fast and easy to use self-contained single file storage for Rust
 - [org-rs/org-rs](https://github.com/org-rs/org-rs) - org-mode parser rewrite in Rust
 - [supabase/postgrest-rs](https://github.com/supabase/postgrest-rs) - Rust client for PostgREST
