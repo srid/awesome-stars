@@ -302,7 +302,7 @@
 ## Go 
 
 - [hummingbard/hummingbard](https://github.com/hummingbard/hummingbard) - Hummingbard is an experimental client for building decentralized communities on top of Matrix.
-- [climech/grit](https://github.com/climech/grit) - A multitree-based personal task manager
+- [climech/grit](https://github.com/climech/grit) - Multitree-based personal task manager
 - [mickael-menu/zk](https://github.com/mickael-menu/zk) - A plain text note-taking assistant
 - [multiverse-vcs/go-multiverse](https://github.com/multiverse-vcs/go-multiverse) - Decentralized Version Control System
 - [karan/fleets](https://github.com/karan/fleets) - Automatically delete tweets, retweets, and favorites.
@@ -736,6 +736,8 @@
 
 ## JavaScript 
 
+- [altfinder/tubeshift](https://github.com/altfinder/tubeshift) - Same Video, Less YouTube
+- [PerBothner/DomTerm](https://github.com/PerBothner/DomTerm) - DOM/JavaScript-based terminal-emulator/console
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🍰 Everything is RSSible
 - [sveltejs/kit](https://github.com/sveltejs/kit) - A monorepo for SvelteKit and friends
