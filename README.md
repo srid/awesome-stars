@@ -110,6 +110,7 @@
 
 ## C++ 
 
+- [goldendict/goldendict](https://github.com/goldendict/goldendict) - A feature-rich dictionary lookup program, supporting multiple dictionary formats (StarDict/Babylon/Lingvo/Dictd) and online dictionaries, featuring perfect article rendering with the complete markup, illustrations and other content retained, and allowing you to type in words without any accents or correct case.
 - [microsoft/winget-cli](https://github.com/microsoft/winget-cli) - Windows Package Manager CLI (aka winget)
 - [albertlauncher/albert](https://github.com/albertlauncher/albert) - A fast and flexible keyboard launcher
 - [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
@@ -1146,6 +1147,8 @@
 
 ## Rust 
 
+- [mkroman/rss-watch](https://github.com/mkroman/rss-watch) - rss-watch is a command-line utillity for watching RSS/Atom feeds and executing scripts when there's new entries.
+- [jugglerchris/rust-html2text](https://github.com/jugglerchris/rust-html2text) - Rust library to render HTML as text.
 - [jfbilodeau/yew_form](https://github.com/jfbilodeau/yew_form) - Components to simplify handling forms with Yew
 - [TheNeikos/rustbreak](https://github.com/TheNeikos/rustbreak) - A simple, fast and easy to use self-contained single file storage for Rust
 - [org-rs/org-rs](https://github.com/org-rs/org-rs) - org-mode parser rewrite in Rust
