@@ -468,6 +468,7 @@
 
 ## Haskell 
 
+- [obsidiansystems/vessel](https://github.com/obsidiansystems/vessel) - Functor-parametric containers
 - [yesodweb/wai](https://github.com/yesodweb/wai) - Haskell Web Application Interface
 - [ad-si/TaskLite](https://github.com/ad-si/TaskLite) - The CLI task manager for power users
 - [waymonad/waymonad](https://github.com/waymonad/waymonad) - A wayland compositor based on ideas from and inspired by xmonad
@@ -830,6 +831,7 @@
 
 ## Jupyter Notebook 
 
+- [tweag/jupyterWith](https://github.com/tweag/jupyterWith) - declarative and reproducible Jupyter environments - powered by Nix
 - [vaibhavsagar/notebooks](https://github.com/vaibhavsagar/notebooks) - Jupyter notebooks
 
 ## Kotlin 
