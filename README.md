@@ -275,7 +275,7 @@
 - [humhei/FCSWatch](https://github.com/humhei/FCSWatch) - Run standard fsharp codes in watch mode
 - [deviousasti/fsharp-worksheet](https://github.com/deviousasti/fsharp-worksheet) - A spreadsheet-like interactive evaluator for F#
 - [fsharp/fslang-design](https://github.com/fsharp/fslang-design) - RFCs and docs related to the F# language design process, see https://github.com/fsharp/fslang-suggestions to submit ideas
-- [srid/Feather](https://github.com/srid/Feather) - WIP: Static site generator with customizable pipeline and live-reload
+- [srid/Feather](https://github.com/srid/Feather) - [Paused] Static site generator with customizable pipeline and live-reload
 - [fsprojects/FSharp.Formatting](https://github.com/fsprojects/FSharp.Formatting) - F# tools for generating documentation (Markdown processor and F# code formatter)
 - [fsprojects/FSharp.Control.Reactive](https://github.com/fsprojects/FSharp.Control.Reactive) - Extensions and wrappers for using the Reactive Extensions (Rx) with F#.
 - [dharmaturtle/CardOverflow](https://github.com/dharmaturtle/CardOverflow) - 
@@ -468,6 +468,7 @@
 
 ## Haskell 
 
+- [j-mueller/ghci-websockets](https://github.com/j-mueller/ghci-websockets) - A websocket server in GHCi that survives reloads
 - [obsidiansystems/vessel](https://github.com/obsidiansystems/vessel) - Functor-parametric containers
 - [yesodweb/wai](https://github.com/yesodweb/wai) - Haskell Web Application Interface
 - [ad-si/TaskLite](https://github.com/ad-si/TaskLite) - The CLI task manager for power users
@@ -908,6 +909,7 @@
 
 ## Others 
 
+- [tfausak/obsidian-haskell](https://github.com/tfausak/obsidian-haskell) - :spider_web: A knowledge map about Haskell powered by Obsidian.
 - [croqaz/awesome-decentralized](https://github.com/croqaz/awesome-decentralized) - 🕶 Awesome list of distributed, decentralized, p2p apps and tools 👍
 - [nix-community/awesome-nix](https://github.com/nix-community/awesome-nix) - 😎 A curated list of the best resources in the Nix community [maintainer=@houstdav000]
 - [rothgar/awesome-tmux](https://github.com/rothgar/awesome-tmux) - A list of awesome resources for tmux
