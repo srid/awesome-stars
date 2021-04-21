@@ -468,6 +468,7 @@
 
 ## Haskell 
 
+- [fosskers/org-mode](https://github.com/fosskers/org-mode) - Parser for Emacs org-mode files
 - [j-mueller/ghci-websockets](https://github.com/j-mueller/ghci-websockets) - A websocket server in GHCi that survives reloads
 - [obsidiansystems/vessel](https://github.com/obsidiansystems/vessel) - Functor-parametric containers
 - [yesodweb/wai](https://github.com/yesodweb/wai) - Haskell Web Application Interface
@@ -512,7 +513,6 @@
 - [diagrams/diagrams](https://github.com/diagrams/diagrams) - Embedded domain-specific language for declarative vector graphics (wrapper package)
 - [gmarpons/asciidoc-hs](https://github.com/gmarpons/asciidoc-hs) - AsciiDoc parser that can be used as a Pandoc front-end, written in Haskell
 - [Yvee1/hascard](https://github.com/Yvee1/hascard) - flashcard TUI with markdown cards
-- [Atidot/reflex-codemirror](https://github.com/Atidot/reflex-codemirror) - Reflex FRP CodeMirror
 - [mightybyte/zeus](https://github.com/mightybyte/zeus) - 
 - [ndmitchell/rattle](https://github.com/ndmitchell/rattle) - Forward build system with speculation and caching
 - [haskell/ghcide](https://github.com/haskell/ghcide) - A library for building Haskell IDE tooling
@@ -740,6 +740,8 @@
 
 ## JavaScript 
 
+- [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
+- [tfausak/obsidian-haskell](https://github.com/tfausak/obsidian-haskell) - :spider_web: A knowledge map about Haskell powered by Obsidian.
 - [altfinder/tubeshift-extension](https://github.com/altfinder/tubeshift-extension) - Same Video, Less YouTube
 - [PerBothner/DomTerm](https://github.com/PerBothner/DomTerm) - DOM/JavaScript-based terminal-emulator/console
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
@@ -763,7 +765,6 @@
 - [MikeRogers0/LivePage](https://github.com/MikeRogers0/LivePage) - LivePage for Google Chrome reloads website resources (such as CSS, HTML and JavaScript) as they change on the server.
 - [ajnsit/concur](https://github.com/ajnsit/concur) - An unusual Web UI Framework for Haskell
 - [ajnsit/concur-documentation](https://github.com/ajnsit/concur-documentation) - Documentation for Concur
-- [Atidot/reflex-widgets](https://github.com/Atidot/reflex-widgets) - Atidot Reflex FRP widgets
 - [reveddit/reveddit](https://github.com/reveddit/reveddit) - Review removed content on reddit. Uses the Pushshift API, built on code from removeddit.
 - [cohomolo-gy/haskell-resources](https://github.com/cohomolo-gy/haskell-resources) - A List of Foundational Haskell Papers
 - [schmich/marinara](https://github.com/schmich/marinara) - Pomodoro® time management assistant for Chrome
@@ -846,7 +847,6 @@
 
 ## Makefile 
 
-- [composewell/streamly-examples](https://github.com/composewell/streamly-examples) - Streamly examples
 - [ehamberg/typeclassopedia-md](https://github.com/ehamberg/typeclassopedia-md) - Markdown version of the Haskell Typeclassopedia
 - [rabbitmq/rabbitmq-recent-history-exchange](https://github.com/rabbitmq/rabbitmq-recent-history-exchange) - RabbitMQ Recent History Exchange
 
@@ -870,6 +870,7 @@
 - [matthewbauer/nix-bundle](https://github.com/matthewbauer/nix-bundle) - Bundle Nix derivations to run anywhere!
 - [nix-dot-dev/nix.dev](https://github.com/nix-dot-dev/nix.dev) - An opinionated guide for developers wanting to get things done with Nix.
 - [cleverca22/nix-tests](https://github.com/cleverca22/nix-tests) - A scratchpad for small experimental things I am doing with Nix.
+- [composewell/streamly-examples](https://github.com/composewell/streamly-examples) - Streamly examples
 - [justinwoo/spago2nix](https://github.com/justinwoo/spago2nix) - Generate a derivation of Spago dependencies, and use them to install them into the directory structure used by Spago.
 - [tbenst/purescript-nix-example](https://github.com/tbenst/purescript-nix-example) - Build a simple Halogen app using Nix
 - [justinwoo/nix-shorts](https://github.com/justinwoo/nix-shorts) - A collection of short notes about Nix, down to what is immediately needed for users.
@@ -909,7 +910,6 @@
 
 ## Others 
 
-- [tfausak/obsidian-haskell](https://github.com/tfausak/obsidian-haskell) - :spider_web: A knowledge map about Haskell powered by Obsidian.
 - [croqaz/awesome-decentralized](https://github.com/croqaz/awesome-decentralized) - 🕶 Awesome list of distributed, decentralized, p2p apps and tools 👍
 - [nix-community/awesome-nix](https://github.com/nix-community/awesome-nix) - 😎 A curated list of the best resources in the Nix community [maintainer=@houstdav000]
 - [rothgar/awesome-tmux](https://github.com/rothgar/awesome-tmux) - A list of awesome resources for tmux
