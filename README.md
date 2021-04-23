@@ -219,7 +219,7 @@
 - [mgold/elm-socketio](https://github.com/mgold/elm-socketio) - [OLD] Socket.io wrapper for Elm.
 - [evancz/focus](https://github.com/evancz/focus) - A library for getting and setting values in deeply nested data structures.
 - [evancz/elm-http](https://github.com/evancz/elm-http) - DEPRECATED. This library is now called elm-lang/http
-- [srid/chronicle-2015](https://github.com/srid/chronicle-2015) - Forming reliable memories.
+- [srid/chronicle](https://github.com/srid/chronicle) - Forming reliable memories.
 - [circuithub/elm-bootstrap-html](https://github.com/circuithub/elm-bootstrap-html) - Html shorthand for Bootstrap
 - [jacobstanley/elm-font-awesome](https://github.com/jacobstanley/elm-font-awesome) - Font Awesome vector icons as Elm HTML components
 - [evancz/start-app](https://github.com/evancz/start-app) - DEPRECATED. Moved to elm-lang/html
@@ -468,6 +468,8 @@
 
 ## Haskell 
 
+- [LightAndLight/indexed-paths](https://github.com/LightAndLight/indexed-paths) - A library for working with free categories
+- [kowainik/unlift](https://github.com/kowainik/unlift) - 🛗 Typeclass for monads that can be unlifted to arbitrary base monads
 - [fosskers/org-mode](https://github.com/fosskers/org-mode) - Parser for Emacs org-mode files
 - [j-mueller/ghci-websockets](https://github.com/j-mueller/ghci-websockets) - A websocket server in GHCi that survives reloads
 - [obsidiansystems/vessel](https://github.com/obsidiansystems/vessel) - Functor-parametric containers
@@ -740,6 +742,7 @@
 
 ## JavaScript 
 
+- [patrick-steele-idem/morphdom](https://github.com/patrick-steele-idem/morphdom) - Fast and lightweight DOM diffing/patching (no virtual DOM needed)
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
 - [tfausak/obsidian-haskell](https://github.com/tfausak/obsidian-haskell) - :spider_web: A knowledge map about Haskell powered by Obsidian.
 - [altfinder/tubeshift-extension](https://github.com/altfinder/tubeshift-extension) - Same Video, Less YouTube
@@ -1293,7 +1296,7 @@
 - [tw-in-js/twind](https://github.com/tw-in-js/twind) - The smallest, fastest, most feature complete Tailwind-in-JS solution in existence.
 - [windicss/windicss](https://github.com/windicss/windicss) - Next generation utility-first CSS framework.
 - [tw-in-js/twind-cli](https://github.com/tw-in-js/twind-cli) - 
-- [microsoft/codetour](https://github.com/microsoft/codetour) - VS Code extension that allows you to record and playback guided tours of codebases, directly within the editor.
+- [microsoft/codetour](https://github.com/microsoft/codetour) - VS Code extension that allows you to record and play back guided tours of codebases, directly within the editor.
 - [gera2ld/markmap-vscode](https://github.com/gera2ld/markmap-vscode) - Integrate markmap into VSCode
 - [svsool/vscode-markdown-kit](https://github.com/svsool/vscode-markdown-kit) - Collection of commands and utilities for managing Markdown notes
 - [material-shell/material-shell](https://github.com/material-shell/material-shell) - A modern desktop interface for Linux. Improve your user experience and get rid of the anarchy of traditional desktop workflows. Designed to simplify navigation and reduce the need to manipulate windows in order to improve productivity. It's meant to be 100% predictable and bring the benefits of tools coveted by professionals to everyone.
