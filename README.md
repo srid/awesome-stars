@@ -424,7 +424,7 @@
 - [kr/hk](https://github.com/kr/hk) - Fast Heroku client
 - [howeyc/fsnotify](https://github.com/howeyc/fsnotify) - File system notification for Go
 - [ungerik/go-start](https://github.com/ungerik/go-start) - A high level web-framework for Go
-- [tsuru/tsuru](https://github.com/tsuru/tsuru) - Open source, extensible and Docker-based Platform as a Service (PaaS).
+- [tsuru/tsuru](https://github.com/tsuru/tsuru) - Open source and extensible Platform as a Service (PaaS).
 - [mkaz/hastie](https://github.com/mkaz/hastie) - A static site generator written in Go
 - [nickoneill/go-publisher](https://github.com/nickoneill/go-publisher) - publish your blog from anywhere
 - [nickoneill/go-dropbox](https://github.com/nickoneill/go-dropbox) - go library for the dropbox API
@@ -468,6 +468,7 @@
 
 ## Haskell 
 
+- [obsidiansystems/monad-logger-extras](https://github.com/obsidiansystems/monad-logger-extras) - Build composable logging backends for monad-logger
 - [jaspervdj/blaze-html](https://github.com/jaspervdj/blaze-html) - A blazingly fast HTML combinator library for Haskell.
 - [LightAndLight/indexed-paths](https://github.com/LightAndLight/indexed-paths) - A library for working with free categories
 - [kowainik/unlift](https://github.com/kowainik/unlift) - 🛗 Typeclass for monads that can be unlifted to arbitrary base monads
@@ -659,7 +660,7 @@
 - [qfpl/applied-fp-course](https://github.com/qfpl/applied-fp-course) - Applied Functional Programming Course - Move from exercises to a working app!
 - [obsidiansystems/gargoyle](https://github.com/obsidiansystems/gargoyle) - A framework for managing daemons from Haskell and libraries for use with postgresql and nix
 - [qfpl/reflex-dom-svg](https://github.com/qfpl/reflex-dom-svg) - Helper package for working with SVG in Reflex
-- [mrkkrp/req](https://github.com/mrkkrp/req) - Easy-to-use, type-safe, expandable, high-level HTTP client library
+- [mrkkrp/req](https://github.com/mrkkrp/req) - An HTTP client library
 - [3noch/twitch-cli](https://github.com/3noch/twitch-cli) - CLI to watch file patterns and run commands when they change
 - [ndmitchell/ghcid](https://github.com/ndmitchell/ghcid) - Very low feature GHCi based IDE
 - [emilaxelsson/milkshake](https://github.com/emilaxelsson/milkshake) - Utilities for building static sites using Shake
@@ -1295,6 +1296,7 @@
 
 ## TypeScript 
 
+- [nix-community/vscode-nix-ide](https://github.com/nix-community/vscode-nix-ide) - Nix language support for VSCode editor [maintainer: @jnoortheen]
 - [mickael-menu/zk-vscode](https://github.com/mickael-menu/zk-vscode) - Visual Studio Code extension for zk
 - [tw-in-js/twind](https://github.com/tw-in-js/twind) - The smallest, fastest, most feature complete Tailwind-in-JS solution in existence.
 - [windicss/windicss](https://github.com/windicss/windicss) - Next generation utility-first CSS framework.
