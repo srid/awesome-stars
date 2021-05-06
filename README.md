@@ -746,6 +746,7 @@
 
 ## JavaScript 
 
+- [ClearURLs/Addon](https://github.com/ClearURLs/Addon) - ClearURLs is an add-on based on the new WebExtensions technology and will automatically remove tracking elements from URLs to help protect your privacy.
 - [miscavage/De-Mainstream-YouTube-Extension](https://github.com/miscavage/De-Mainstream-YouTube-Extension) - De-Mainstream YouTube A browser extension to remove Mainstream Media results from YouTube searches.
 - [patrick-steele-idem/morphdom](https://github.com/patrick-steele-idem/morphdom) - Fast and lightweight DOM diffing/patching (no virtual DOM needed)
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
@@ -865,6 +866,7 @@
 
 ## Nix 
 
+- [serokell/templates](https://github.com/serokell/templates) - 
 - [kolloch/crate2nix](https://github.com/kolloch/crate2nix) - nix build file generator for rust crates
 - [oxalica/rust-overlay](https://github.com/oxalica/rust-overlay) - Pure and reproducible nix overlay for binary distributed rust toolchains
 - [barrucadu/nixfiles](https://github.com/barrucadu/nixfiles) - My NixOS configuration and assorted other crap.
