@@ -121,6 +121,7 @@
 
 ## CSS 
 
+- [KasparEtter/ef1p](https://github.com/KasparEtter/ef1p) - Explained from First Principles is a technology, science, and philosophy blog for curious people who want to understand and change the world.
 - [indieweb/indiewebify-me](https://github.com/indieweb/indiewebify-me) - Tools to help you get the best out of your indieweb site
 - [RickStrahl/LiveReloadServer](https://github.com/RickStrahl/LiveReloadServer) - A self-contained, local, cross-platform, static file Web Server with automatic Live Reloading, Markdown rendering and loose Razor Pages support.
 - [obsidiansystems/calculator-tutorial](https://github.com/obsidiansystems/calculator-tutorial) - Building a calculator with Reflex-FRP
@@ -549,7 +550,7 @@
 - [obsidiansystems/dependent-map](https://github.com/obsidiansystems/dependent-map) - Dependently-typed finite maps (partial dependent products)
 - [NorfairKing/smos](https://github.com/NorfairKing/smos) - A comprehensive self-management System
 - [srid/rib-sample](https://github.com/srid/rib-sample) - Sample site for the Rib static site generator
-- [srid/rib](https://github.com/srid/rib) - Haskell static site generator based on Shake, with a delightful development experience.
+- [srid/rib](https://github.com/srid/rib) - Haskell static site generator based on Shake (superseded by Ema)
 - [srid/zulip-archive](https://github.com/srid/zulip-archive) - Zulip Archive viewer (statically generated HTML)
 - [haskell/haskell-language-server](https://github.com/haskell/haskell-language-server) - Successor of ghcide & haskell-ide-engine. One IDE to rule them all.
 - [obsidiansystems/constraints-extras](https://github.com/obsidiansystems/constraints-extras) - Convenience functions and template haskell for working with constraints
