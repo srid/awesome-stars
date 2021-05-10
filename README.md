@@ -470,6 +470,8 @@
 
 ## Haskell 
 
+- [tdammers/ginger](https://github.com/tdammers/ginger) - A Haskell implementation of the Jinja template language.
+- [arowM/heterocephalus](https://github.com/arowM/heterocephalus) - A type safe template engine for collaborating with front end development tools
 - [srid/ema](https://github.com/srid/ema) - Haskell static site generator that is change-aware
 - [obsidiansystems/monad-logger-extras](https://github.com/obsidiansystems/monad-logger-extras) - Build composable logging backends for monad-logger
 - [jaspervdj/blaze-html](https://github.com/jaspervdj/blaze-html) - A blazingly fast HTML combinator library for Haskell.
