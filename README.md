@@ -121,7 +121,6 @@
 
 ## CSS 
 
-- [KasparEtter/ef1p](https://github.com/KasparEtter/ef1p) - Explained from First Principles is a technology, science, and philosophy blog for curious people who want to understand and change the world.
 - [indieweb/indiewebify-me](https://github.com/indieweb/indiewebify-me) - Tools to help you get the best out of your indieweb site
 - [RickStrahl/LiveReloadServer](https://github.com/RickStrahl/LiveReloadServer) - A self-contained, local, cross-platform, static file Web Server with automatic Live Reloading, Markdown rendering and loose Razor Pages support.
 - [obsidiansystems/calculator-tutorial](https://github.com/obsidiansystems/calculator-tutorial) - Building a calculator with Reflex-FRP
@@ -170,7 +169,6 @@
 
 ## Dhall 
 
-- [tfausak/haskell-knowledge-base](https://github.com/tfausak/haskell-knowledge-base) - :spider_web: A knowledge map about Haskell powered by Obsidian.
 - [Kuratoro/zk.zettel.page](https://github.com/Kuratoro/zk.zettel.page) - r/Zettelkasten's Zettelkasten
 - [Kuratoro/haskell.zettel.page](https://github.com/Kuratoro/haskell.zettel.page) - Haskell knowledgebase, Zettelkasten style (~2 months experiment, which resulted in migration to srid.ca)
 - [vmchale/github-actions-dhall](https://github.com/vmchale/github-actions-dhall) - Dhall helpers for github actions
@@ -470,6 +468,8 @@
 
 ## Haskell 
 
+- [phadej/zinza](https://github.com/phadej/zinza) - Typed templates with jinja like syntax
+- [snapframework/heist](https://github.com/snapframework/heist) - An xhtml-based templating engine, allowing Haskell functions to be bound to XML tags.
 - [tdammers/ginger](https://github.com/tdammers/ginger) - A Haskell implementation of the Jinja template language.
 - [arowM/heterocephalus](https://github.com/arowM/heterocephalus) - A type safe template engine for collaborating with front end development tools
 - [srid/ema](https://github.com/srid/ema) - Haskell static site generator that is change-aware
@@ -864,6 +864,7 @@
 
 ## Markdown 
 
+- [tfausak/haskell-knowledge-base](https://github.com/tfausak/haskell-knowledge-base) - :spider_web: A knowledge map about Haskell powered by Obsidian.
 - [srid/alien-psychology](https://github.com/srid/alien-psychology) - 3rd Rock From The Sun episodes tagged with psychological concepts
 - [srid/neuron-template](https://github.com/srid/neuron-template) - A template to get started with neuron
 
@@ -1309,6 +1310,7 @@
 ## TypeScript 
 
 - [matrix-org/matrix-appservice-slack](https://github.com/matrix-org/matrix-appservice-slack) - A Matrix &lt;--&gt; Slack bridge
+- [KasparEtter/ef1p](https://github.com/KasparEtter/ef1p) - Explained from First Principles is a technology, science, and philosophy blog for curious people who want to understand and change the world.
 - [andymatuschak/orbit](https://github.com/andymatuschak/orbit) - 
 - [banga/git-split-diffs](https://github.com/banga/git-split-diffs) - GitHub style split diffs in your terminal
 - [osmoscraft/osmosfeed](https://github.com/osmoscraft/osmosfeed) - Turn GitHub into an RSS reader
