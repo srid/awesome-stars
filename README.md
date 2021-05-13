@@ -376,7 +376,7 @@
 - [DAddYE/igo](https://github.com/DAddYE/igo) - Intermediate GoLang source representation
 - [coreos/fleet](https://github.com/coreos/fleet) - fleet ties together systemd and etcd into a distributed init system
 - [vube/depman](https://github.com/vube/depman) - 
-- [nats-io/nats-server](https://github.com/nats-io/nats-server) - High-Performance server for NATS, the cloud native messaging system.
+- [nats-io/nats-server](https://github.com/nats-io/nats-server) - High-Performance server for NATS.io, the cloud and edge native messaging system.
 - [hpcloud/golor](https://github.com/hpcloud/golor) - Go terminal color package (256 colors)
 - [hpcloud/zmqpubsub](https://github.com/hpcloud/zmqpubsub) - Go-friendly pubsub implementation on top of zeromq
 - [wilhelm-murdoch/gost](https://github.com/wilhelm-murdoch/gost) - A simple command line utility for easily creating Gists for Github.
@@ -749,6 +749,7 @@
 
 ## JavaScript 
 
+- [samwalls/neuron-citation](https://github.com/samwalls/neuron-citation) - a tool to add citations to neuron
 - [ClearURLs/Addon](https://github.com/ClearURLs/Addon) - ClearURLs is an add-on based on the new WebExtensions technology and will automatically remove tracking elements from URLs to help protect your privacy.
 - [miscavage/De-Mainstream-YouTube-Extension](https://github.com/miscavage/De-Mainstream-YouTube-Extension) - De-Mainstream YouTube A browser extension to remove Mainstream Media results from YouTube searches.
 - [patrick-steele-idem/morphdom](https://github.com/patrick-steele-idem/morphdom) - Fast and lightweight DOM diffing/patching (no virtual DOM needed)
@@ -847,6 +848,7 @@
 
 - [tweag/jupyterWith](https://github.com/tweag/jupyterWith) - declarative and reproducible Jupyter environments - powered by Nix
 - [vaibhavsagar/notebooks](https://github.com/vaibhavsagar/notebooks) - Jupyter notebooks
+- [gleitz/howdoi](https://github.com/gleitz/howdoi) - instant coding answers via the command line
 
 ## Kotlin 
 
@@ -1078,7 +1080,6 @@
 - [tmc/komodo-go](https://github.com/tmc/komodo-go) - Komodo extension to add Go support
 - [toscanini/maestro](https://github.com/toscanini/maestro) - Container orchestration for Docker environments
 - [Komodo/KomodoEdit](https://github.com/Komodo/KomodoEdit) - Komodo Edit is a fast and free multi-language code editor. Written in JS, Python, C++ and based on the Mozilla platform.
-- [gleitz/howdoi](https://github.com/gleitz/howdoi) - instant coding answers via the command line
 - [trentm/cmdln](https://github.com/trentm/cmdln) - **UNMAINTAINED** a Python module for easily building good multi-command scripts
 - [gevent/gevent](https://github.com/gevent/gevent) - Coroutine-based concurrency library for Python
 - [jtauber/pykanren](https://github.com/jtauber/pykanren) - an attempt to implement miniKanren and microKanren in Python
@@ -1309,9 +1310,10 @@
 
 ## TypeScript 
 
+- [kahole/edamagit](https://github.com/kahole/edamagit) - Magit for VSCode
 - [matrix-org/matrix-appservice-slack](https://github.com/matrix-org/matrix-appservice-slack) - A Matrix &lt;--&gt; Slack bridge
 - [KasparEtter/ef1p](https://github.com/KasparEtter/ef1p) - Explained from First Principles is a technology, science, and philosophy blog for curious people who want to understand and change the world.
-- [andymatuschak/orbit](https://github.com/andymatuschak/orbit) - 
+- [andymatuschak/orbit](https://github.com/andymatuschak/orbit) - Experimental spaced repetition platform for exploring new ideas in memory augmentation and programmable attention
 - [banga/git-split-diffs](https://github.com/banga/git-split-diffs) - GitHub style split diffs in your terminal
 - [osmoscraft/osmosfeed](https://github.com/osmoscraft/osmosfeed) - Turn GitHub into an RSS reader
 - [nix-community/vscode-nix-ide](https://github.com/nix-community/vscode-nix-ide) - Nix language support for VSCode editor [maintainer: @jnoortheen]
