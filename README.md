@@ -83,7 +83,7 @@
 ## C# # 
 
 - [toddams/RazorLight](https://github.com/toddams/RazorLight) - Template engine based on Microsoft's Razor parsing engine for .NET Core
-- [Tewr/BlazorWorker](https://github.com/Tewr/BlazorWorker) - Library for creating DotNet Web Worker threads/multithreading in Blazor
+- [Tewr/BlazorWorker](https://github.com/Tewr/BlazorWorker) - Library for creating DotNet Web Worker threads/multithreading in Client side Blazor
 - [sebastienros/fluid](https://github.com/sebastienros/fluid) - Fluid is an open-source .NET template engine based on the Liquid template language.
 - [scriban/scriban](https://github.com/scriban/scriban) - A fast, powerful, safe and lightweight scripting language and engine for .NET
 - [icsharpcode/AvalonEdit](https://github.com/icsharpcode/AvalonEdit) - The WPF-based text editor component used in SharpDevelop
@@ -468,6 +468,10 @@
 
 ## Haskell 
 
+- [tweag/inline-js](https://github.com/tweag/inline-js) - Call JavaScript from Haskell, and vice versa!
+- [rubik/argon](https://github.com/rubik/argon) - Monitor cyclomatic complexity in Haskell programs
+- [migamake/homplexity](https://github.com/migamake/homplexity) - Haskell code complexity and quality measurement
+- [foxhound-systems/eved](https://github.com/foxhound-systems/eved) - Eved is an API definition eDSL in the spirit of Servant
 - [well-typed/ixset-typed](https://github.com/well-typed/ixset-typed) - More strongly typed variant of the ixset Haskell package
 - [Happstack/ixset](https://github.com/Happstack/ixset) - A Set type which supports multiple indexes
 - [phadej/zinza](https://github.com/phadej/zinza) - Typed templates with jinja like syntax
