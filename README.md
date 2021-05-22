@@ -468,6 +468,7 @@
 
 ## Haskell 
 
+- [cdepillabout/world-peace](https://github.com/cdepillabout/world-peace) - open union and open product types in Haskell
 - [tweag/inline-js](https://github.com/tweag/inline-js) - Call JavaScript from Haskell, and vice versa!
 - [rubik/argon](https://github.com/rubik/argon) - Monitor cyclomatic complexity in Haskell programs
 - [migamake/homplexity](https://github.com/migamake/homplexity) - Haskell code complexity and quality measurement
@@ -897,7 +898,7 @@
 - [tbenst/purescript-nix-example](https://github.com/tbenst/purescript-nix-example) - Build a simple Halogen app using Nix
 - [justinwoo/nix-shorts](https://github.com/justinwoo/nix-shorts) - A collection of short notes about Nix, down to what is immediately needed for users.
 - [nix-community/emacs-overlay](https://github.com/nix-community/emacs-overlay) - Bleeding edge emacs overlay [maintainer=@adisbladis]
-- [NixOS/mobile-nixos](https://github.com/NixOS/mobile-nixos) - Questions? #nixos-aarch64 (or #nixos) on Freenode!
+- [NixOS/mobile-nixos](https://github.com/NixOS/mobile-nixos) - 
 - [hercules-ci/gitignore.nix](https://github.com/hercules-ci/gitignore.nix) - Nix function for filtering local git sources
 - [nix-community/home-manager](https://github.com/nix-community/home-manager) - Manage a user environment using Nix  [maintainer=@rycee]
 - [LnL7/nix-darwin](https://github.com/LnL7/nix-darwin) - nix modules for darwin
