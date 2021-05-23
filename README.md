@@ -468,6 +468,7 @@
 
 ## Haskell 
 
+- [Daniel-Diaz/HaTeX](https://github.com/Daniel-Diaz/HaTeX) - The Haskell LaTeX library.
 - [cdepillabout/world-peace](https://github.com/cdepillabout/world-peace) - open union and open product types in Haskell
 - [tweag/inline-js](https://github.com/tweag/inline-js) - Call JavaScript from Haskell, and vice versa!
 - [rubik/argon](https://github.com/rubik/argon) - Monitor cyclomatic complexity in Haskell programs
@@ -756,6 +757,8 @@
 
 ## JavaScript 
 
+- [BeardedBear/bearded-icons](https://github.com/BeardedBear/bearded-icons) - The VS Code icons with a long beard.
+- [BeardedBear/bearded-theme](https://github.com/BeardedBear/bearded-theme) - The VS Code theme with a long beard.
 - [samwalls/neuron-citation](https://github.com/samwalls/neuron-citation) - a tool to add citations to neuron
 - [ClearURLs/Addon](https://github.com/ClearURLs/Addon) - ClearURLs is an add-on based on the new WebExtensions technology and will automatically remove tracking elements from URLs to help protect your privacy.
 - [miscavage/De-Mainstream-YouTube-Extension](https://github.com/miscavage/De-Mainstream-YouTube-Extension) - De-Mainstream YouTube A browser extension to remove Mainstream Media results from YouTube searches.
