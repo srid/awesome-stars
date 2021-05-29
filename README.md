@@ -135,7 +135,7 @@
 
 ## Clojure 
 
-- [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source(frontend now, backend later) platform for knowledge sharing and management. Desktop app download link: https://github.com/logseq/logseq/releases, roadmap: https://trello.com/b/8txSM12G/roadmap
+- [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source(frontend now, backend later) platform for knowledge management and collaboration. Desktop app download link: https://github.com/logseq/logseq/releases, roadmap: https://trello.com/b/8txSM12G/roadmap
 - [tonsky/FiraCode](https://github.com/tonsky/FiraCode) - Free monospaced font with programming ligatures
 - [omcljs/om](https://github.com/omcljs/om) - ClojureScript interface to Facebook's React
 - [gmorpheme/organum](https://github.com/gmorpheme/organum) - Clojure org-mode parser.
@@ -169,7 +169,6 @@
 
 ## Dhall 
 
-- [Kuratoro/zk.zettel.page](https://github.com/Kuratoro/zk.zettel.page) - r/Zettelkasten's Zettelkasten
 - [Kuratoro/haskell.zettel.page](https://github.com/Kuratoro/haskell.zettel.page) - Haskell knowledgebase, Zettelkasten style (~2 months experiment, which resulted in migration to srid.ca)
 - [vmchale/github-actions-dhall](https://github.com/vmchale/github-actions-dhall) - Dhall helpers for github actions
 - [dhall-lang/dhall-haskell](https://github.com/dhall-lang/dhall-haskell) - Maintainable configuration files
@@ -879,6 +878,7 @@
 - [tfausak/haskell-knowledge-base](https://github.com/tfausak/haskell-knowledge-base) - :spider_web: A knowledge map about Haskell powered by Obsidian.
 - [srid/alien-psychology](https://github.com/srid/alien-psychology) - 3rd Rock From The Sun episodes tagged with psychological concepts
 - [srid/neuron-template](https://github.com/srid/neuron-template) - A template to get started with neuron
+- [Kuratoro/zk.zettel.page](https://github.com/Kuratoro/zk.zettel.page) - r/Zettelkasten's Zettelkasten
 
 ## Nix 
 
@@ -1181,6 +1181,8 @@
 
 ## Rust 
 
+- [XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei) - Count your code, quickly.
+- [TaKO8Ki/awesome-alternatives-in-rust](https://github.com/TaKO8Ki/awesome-alternatives-in-rust) - A curated list of replacements for existing software written in Rust
 - [dandavison/delta](https://github.com/dandavison/delta) - A viewer for git and diff output
 - [zellij-org/zellij](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included
 - [snoyberg/routetype-rs](https://github.com/snoyberg/routetype-rs) - Strongly typed routes for Rust
