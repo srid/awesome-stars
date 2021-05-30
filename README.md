@@ -936,6 +936,7 @@
 
 ## Others 
 
+- [graninas/The-Voids-Of-Haskell](https://github.com/graninas/The-Voids-Of-Haskell) - 
 - [mjlbach/neorants](https://github.com/mjlbach/neorants) - 
 - [AboutRSS/ALL-about-RSS](https://github.com/AboutRSS/ALL-about-RSS) - A list of RSS related stuff: tools, services, communities and tutorials, etc.
 - [croqaz/awesome-decentralized](https://github.com/croqaz/awesome-decentralized) - 🕶 Awesome list of distributed, decentralized, p2p apps and tools 👍
@@ -1181,6 +1182,7 @@
 
 ## Rust 
 
+- [KSXGitHub/parallel-disk-usage](https://github.com/KSXGitHub/parallel-disk-usage) - Highly parallelized, blazing fast directory tree analyzer
 - [XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei) - Count your code, quickly.
 - [TaKO8Ki/awesome-alternatives-in-rust](https://github.com/TaKO8Ki/awesome-alternatives-in-rust) - A curated list of replacements for existing software written in Rust
 - [dandavison/delta](https://github.com/dandavison/delta) - A viewer for git and diff output
