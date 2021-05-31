@@ -442,6 +442,7 @@
 
 ## HTML 
 
+- [vitalets/github-trending-repos](https://github.com/vitalets/github-trending-repos) - Track GitHub trending repositories in your favorite programming language by native GitHub notifications!
 - [decentralized-identity/ion](https://github.com/decentralized-identity/ion) - The Identity Overlay Network (ION) is a DID Method implementation using the Sidetree protocol atop Bitcoin
 - [dotnet-foundation/website](https://github.com/dotnet-foundation/website) - The .NET Foundation's website
 - [fenwick67/mastofeed](https://github.com/fenwick67/mastofeed) - ActivityPub feed =&gt; iframe embed.  https://www.mastofeed.com
@@ -467,6 +468,7 @@
 
 ## Haskell 
 
+- [monadfix/safe-wild-cards](https://github.com/monadfix/safe-wild-cards) - Tame RecordWildCards
 - [Daniel-Diaz/HaTeX](https://github.com/Daniel-Diaz/HaTeX) - The Haskell LaTeX library.
 - [cdepillabout/world-peace](https://github.com/cdepillabout/world-peace) - open union and open product types in Haskell
 - [tweag/inline-js](https://github.com/tweag/inline-js) - Call JavaScript from Haskell, and vice versa!
@@ -756,6 +758,9 @@
 
 ## JavaScript 
 
+- [headllines/hackernews-daily](https://github.com/headllines/hackernews-daily) - Hacker News daily top 10 posts
+- [headllines/hackernews-monthly](https://github.com/headllines/hackernews-monthly) - HackerNews monthly top 10 posts
+- [headllines/hackernews-weekly](https://github.com/headllines/hackernews-weekly) - Hacker News weekly top 10 posts
 - [BeardedBear/bearded-icons](https://github.com/BeardedBear/bearded-icons) - The VS Code icons with a long beard.
 - [BeardedBear/bearded-theme](https://github.com/BeardedBear/bearded-theme) - The VS Code theme with a long beard.
 - [samwalls/neuron-citation](https://github.com/samwalls/neuron-citation) - a tool to add citations to neuron
