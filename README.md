@@ -468,6 +468,7 @@
 
 ## Haskell 
 
+- [diagrams/diagrams-lib](https://github.com/diagrams/diagrams-lib) - Diagrams standard library
 - [monadfix/safe-wild-cards](https://github.com/monadfix/safe-wild-cards) - Tame RecordWildCards
 - [Daniel-Diaz/HaTeX](https://github.com/Daniel-Diaz/HaTeX) - The Haskell LaTeX library.
 - [cdepillabout/world-peace](https://github.com/cdepillabout/world-peace) - open union and open product types in Haskell
@@ -927,7 +928,7 @@
 
 - [sfsam/Itsycal](https://github.com/sfsam/Itsycal) - Itsycal is a tiny calendar for your Mac's menu bar. http://www.mowglii.com/itsycal
 - [josh-/DictionaryPlusPlus](https://github.com/josh-/DictionaryPlusPlus) - Dictionary++ is a simple interface to iOS's system dictionary.
-- [nevyn/cfxr](https://github.com/nevyn/cfxr) - [cocoa] Mac port of sfxr
+- [nevyn/cfxr](https://github.com/nevyn/cfxr) - [cocoa] Mac port of sfxr with document support, etc
 - [tonsky/AnyBar](https://github.com/tonsky/AnyBar) - OS X menubar status indicator
 - [Hammerspoon/hammerspoon](https://github.com/Hammerspoon/hammerspoon) - Staggeringly powerful macOS desktop automation with Lua
 - [koddo/org-clock-statusbar-app](https://github.com/koddo/org-clock-statusbar-app) - for those who track their time using org-mode
@@ -1021,7 +1022,7 @@
 
 ## PureScript 
 
-- [purescript-gjs/purescript-gjs](https://github.com/purescript-gjs/purescript-gjs) - 
+- [purescript-gjs/purescript-gjs](https://github.com/purescript-gjs/purescript-gjs) - GNOME JavaScript bindings for PureScript
 - [lumihq/purescript-react-basic](https://github.com/lumihq/purescript-react-basic) - An opinionated set of bindings to the React library, optimizing for the most basic use cases
 - [spicydonuts/purescript-react-basic-hooks](https://github.com/spicydonuts/purescript-react-basic-hooks) - An implementation of React hooks on top of purescript-react-basic
 - [kritzcreek/pscid](https://github.com/kritzcreek/pscid) - A lightweight, fast and unintrusive PureScript file-watcher
