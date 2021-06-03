@@ -689,7 +689,7 @@
 - [xmonad/xmonad](https://github.com/xmonad/xmonad) - The core of xmonad, a small but functional ICCCM-compliant tiling window manager
 - [sdiehl/wiwinwlh](https://github.com/sdiehl/wiwinwlh) - What I Wish I Knew When Learning Haskell
 - [smallhadroncollider/taskell](https://github.com/smallhadroncollider/taskell) - Command-line Kanban board/task manager with support for Trello boards and GitHub projects
-- [composewell/streamly](https://github.com/composewell/streamly) - Beautiful Streaming, Concurrent and Reactive Composition (Haskell)
+- [composewell/streamly](https://github.com/composewell/streamly) - Dataflow programming and declarative concurrency
 - [jtdaugherty/brick](https://github.com/jtdaugherty/brick) - A declarative Unix terminal UI programming library written in Haskell
 - [chrisdone/intero](https://github.com/chrisdone/intero) - 
 - [cocreature/diagrams-miso](https://github.com/cocreature/diagrams-miso) - Miso backend for the diagrams Haskell graphics library
@@ -1334,7 +1334,7 @@
 - [kahole/edamagit](https://github.com/kahole/edamagit) - Magit for VSCode
 - [matrix-org/matrix-appservice-slack](https://github.com/matrix-org/matrix-appservice-slack) - A Matrix &lt;--&gt; Slack bridge
 - [KasparEtter/ef1p](https://github.com/KasparEtter/ef1p) - Explained from First Principles is a technology, science, and philosophy blog for curious people who want to understand and change the world.
-- [andymatuschak/orbit](https://github.com/andymatuschak/orbit) - Experimental spaced repetition platform for exploring new ideas in memory augmentation and programmable attention
+- [andymatuschak/orbit](https://github.com/andymatuschak/orbit) - Experimental spaced repetition platform for exploring ideas in memory augmentation and programmable attention
 - [banga/git-split-diffs](https://github.com/banga/git-split-diffs) - GitHub style split diffs in your terminal
 - [osmoscraft/osmosfeed](https://github.com/osmoscraft/osmosfeed) - Turn GitHub into an RSS reader
 - [nix-community/vscode-nix-ide](https://github.com/nix-community/vscode-nix-ide) - Nix language support for VSCode editor [maintainer: @jnoortheen]
