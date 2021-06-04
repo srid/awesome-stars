@@ -759,7 +759,7 @@
 
 ## JavaScript 
 
-- [headllines/hackernews-daily](https://github.com/headllines/hackernews-daily) - Hacker News daily top 10 posts
+- [headllines/github-monthly](https://github.com/headllines/github-monthly) - GitHub monthly top 10 repos
 - [headllines/hackernews-monthly](https://github.com/headllines/hackernews-monthly) - HackerNews monthly top 10 posts
 - [headllines/hackernews-weekly](https://github.com/headllines/hackernews-weekly) - Hacker News weekly top 10 posts
 - [BeardedBear/bearded-icons](https://github.com/BeardedBear/bearded-icons) - The VS Code icons with a long beard.
@@ -1331,6 +1331,7 @@
 
 ## TypeScript 
 
+- [camas/reddit-search](https://github.com/camas/reddit-search) - Search reddit using the pushshift.io api
 - [kahole/edamagit](https://github.com/kahole/edamagit) - Magit for VSCode
 - [matrix-org/matrix-appservice-slack](https://github.com/matrix-org/matrix-appservice-slack) - A Matrix &lt;--&gt; Slack bridge
 - [KasparEtter/ef1p](https://github.com/KasparEtter/ef1p) - Explained from First Principles is a technology, science, and philosophy blog for curious people who want to understand and change the world.
