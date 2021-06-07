@@ -468,6 +468,7 @@
 
 ## Haskell 
 
+- [smallhadroncollider/brok](https://github.com/smallhadroncollider/brok) - Find broken links in text documents
 - [diagrams/diagrams-lib](https://github.com/diagrams/diagrams-lib) - Diagrams standard library
 - [monadfix/safe-wild-cards](https://github.com/monadfix/safe-wild-cards) - Tame RecordWildCards
 - [Daniel-Diaz/HaTeX](https://github.com/Daniel-Diaz/HaTeX) - The Haskell LaTeX library.
