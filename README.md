@@ -882,6 +882,7 @@
 
 ## Markdown 
 
+- [Kuratoro/TheMotte.zettel.page](https://github.com/Kuratoro/TheMotte.zettel.page) - Unofficial Wiki for r/TheMotte
 - [tfausak/haskell-knowledge-base](https://github.com/tfausak/haskell-knowledge-base) - :spider_web: A knowledge map about Haskell powered by Obsidian.
 - [srid/alien-psychology](https://github.com/srid/alien-psychology) - 3rd Rock From The Sun episodes tagged with psychological concepts
 - [srid/neuron-template](https://github.com/srid/neuron-template) - A template to get started with neuron
