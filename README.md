@@ -944,6 +944,7 @@
 
 ## Others 
 
+- [Functional-Programming-Slack/community](https://github.com/Functional-Programming-Slack/community) - Jobs as posted on #jobs at https://functionalprogramming.slack.com/
 - [graninas/The-Voids-Of-Haskell](https://github.com/graninas/The-Voids-Of-Haskell) - 
 - [mjlbach/neorants](https://github.com/mjlbach/neorants) - 
 - [AboutRSS/ALL-about-RSS](https://github.com/AboutRSS/ALL-about-RSS) - A list of RSS related stuff: tools, services, communities and tutorials, etc.
