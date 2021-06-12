@@ -666,7 +666,6 @@
 - [Compositional/reflex-servant](https://github.com/Compositional/reflex-servant) - Access Servant APIs using the Reflex Functional Reactive Programming library
 - [acid-state/acid-state](https://github.com/acid-state/acid-state) - Add ACID guarantees to any serializable Haskell data structure
 - [mxswd/editable](https://github.com/mxswd/editable) - Derive editors for data types
-- [dmbarbour/haskell-vcache](https://github.com/dmbarbour/haskell-vcache) - large, persistent, memcached values and structure sharing for Haskell
 - [mightybyte/fake](https://github.com/mightybyte/fake) - Generate realistic looking fake data
 - [reflex-frp/reflex-dom](https://github.com/reflex-frp/reflex-dom) - Web applications without callbacks or side-effects. Reflex-DOM brings the power of functional reactive programming (FRP) to the web. Build HTML and other Document Object Model (DOM) data with a pure functional interface.
 - [pcapriotti/optparse-applicative](https://github.com/pcapriotti/optparse-applicative) - Applicative option parser
