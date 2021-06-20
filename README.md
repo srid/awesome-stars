@@ -470,6 +470,7 @@
 
 ## Haskell 
 
+- [xmonad/xmonad-contrib](https://github.com/xmonad/xmonad-contrib) - Contributed modules for xmonad
 - [jez/pandoc-sidenote](https://github.com/jez/pandoc-sidenote) - Convert Pandoc Markdown-style footnotes into sidenotes
 - [smallhadroncollider/brok](https://github.com/smallhadroncollider/brok) - Find broken links in text documents
 - [diagrams/diagrams-lib](https://github.com/diagrams/diagrams-lib) - Diagrams standard library
@@ -1337,6 +1338,8 @@
 
 ## TypeScript 
 
+- [LBRYFoundation/Watch-on-LBRY](https://github.com/LBRYFoundation/Watch-on-LBRY) - Plugin for web browser that automatic check if YouTube video is on LBRY
+- [kodxana/Watch-on-Odysee](https://github.com/kodxana/Watch-on-Odysee) - Plugin for web browser that automatic check if YouTube video is on LBRY
 - [camas/reddit-search](https://github.com/camas/reddit-search) - Search reddit using the pushshift.io api
 - [kahole/edamagit](https://github.com/kahole/edamagit) - Magit for VSCode
 - [matrix-org/matrix-appservice-slack](https://github.com/matrix-org/matrix-appservice-slack) - A Matrix &lt;--&gt; Slack bridge
