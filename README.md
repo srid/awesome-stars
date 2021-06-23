@@ -470,6 +470,8 @@
 
 ## Haskell 
 
+- [livmackintosh/matrix-sdk](https://github.com/livmackintosh/matrix-sdk) - Haskell SDK for [matrix]
+- [softwarefactory-project/matrix-client-haskell](https://github.com/softwarefactory-project/matrix-client-haskell) - Matrix.org haskell client library
 - [purebred-mua/purebred-email](https://github.com/purebred-mua/purebred-email) - A fast email parsing library implemented in Haskell
 - [purebred-mua/purebred](https://github.com/purebred-mua/purebred) - A terminal based mail user agent based on notmuch
 - [xmonad/xmonad-contrib](https://github.com/xmonad/xmonad-contrib) - Contributed modules for xmonad
