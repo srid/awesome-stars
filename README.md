@@ -377,7 +377,6 @@
 - [DAddYE/igo](https://github.com/DAddYE/igo) - Intermediate GoLang source representation
 - [coreos/fleet](https://github.com/coreos/fleet) - fleet ties together systemd and etcd into a distributed init system
 - [vube/depman](https://github.com/vube/depman) - 
-- [nats-io/nats-server](https://github.com/nats-io/nats-server) - High-Performance server for NATS.io, the cloud and edge native messaging system.
 - [hpcloud/golor](https://github.com/hpcloud/golor) - Go terminal color package (256 colors)
 - [hpcloud/zmqpubsub](https://github.com/hpcloud/zmqpubsub) - Go-friendly pubsub implementation on top of zeromq
 - [wilhelm-murdoch/gost](https://github.com/wilhelm-murdoch/gost) - A simple command line utility for easily creating Gists for Github.
@@ -879,6 +878,8 @@
 
 ## Lua 
 
+- [oberblastmeister/neuron.nvim](https://github.com/oberblastmeister/neuron.nvim) - Make neovim the best note taking application
+- [pyrho/nerveux.nvim](https://github.com/pyrho/nerveux.nvim) - A neovim plugin written in lua to interact with the neuron Zettelkasten software.
 - [omarish/pandoc-md-to-slack](https://github.com/omarish/pandoc-md-to-slack) - Pandoc extension to convert markdown to slack formatting.
 - [nathancahill/Anycomplete](https://github.com/nathancahill/Anycomplete) - The magic of Google Autocomplete while you're typing. Anywhere.
 
@@ -931,7 +932,6 @@
 ## OCaml 
 
 - [aantron/dream](https://github.com/aantron/dream) - Tidy, feature-complete Web framework
-- [facebook/flow](https://github.com/facebook/flow) - Adds static typing to JavaScript to improve developer productivity and code quality.
 
 ## Objective-C 
 
