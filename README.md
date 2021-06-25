@@ -299,7 +299,6 @@
 - [SuaveIO/suave](https://github.com/SuaveIO/suave) - Suave is a simple web development F# library providing a lightweight web server and a set of combinators to manipulate route flow and task composition.
 - [websharper-samples/ui](https://github.com/websharper-samples/ui) - An experiment in next-generation front-end combinator library for WebSharper
 - [dotnet/fsharp](https://github.com/dotnet/fsharp) - The F# compiler, F# core library, F# language service, and F# tooling integration for Visual Studio
-- [dotnet-websharper/core](https://github.com/dotnet-websharper/core) - WebSharper - the C#+F#-to-JavaScript framework
 
 ## Go 
 
@@ -370,7 +369,6 @@
 - [docker/classicswarm](https://github.com/docker/classicswarm) - Swarm Classic: a container clustering system. Not to be confused with Docker Swarm which is at https://github.com/docker/swarmkit
 - [gorilla/websocket](https://github.com/gorilla/websocket) - A fast, well-tested and widely used WebSocket implementation for Go.
 - [kelseyhightower/confd](https://github.com/kelseyhightower/confd) - Manage local application configuration files using templates and data from etcd or consul
-- [gohugoio/hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
 - [hpcloud/logyard-apps](https://github.com/hpcloud/logyard-apps) - Applications and components using logyard API and streams
 - [Clever/leakybucket](https://github.com/Clever/leakybucket) - Leaky bucket implementation in Go with support for different backends (redis, in-memory)
 - [ActiveState/static-docker-registry](https://github.com/ActiveState/static-docker-registry) - Experiments in making 'docker pull' reliable
@@ -449,7 +447,6 @@
 - [fenwick67/mastofeed](https://github.com/fenwick67/mastofeed) - ActivityPub feed =&gt; iframe embed.  https://www.mastofeed.com
 - [aca/aca.github.io](https://github.com/aca/aca.github.io) - 
 - [alex/nyt-2020-election-scraper](https://github.com/alex/nyt-2020-election-scraper) - 
-- [thomaswang/minimal-twitter](https://github.com/thomaswang/minimal-twitter) - Minimal Theme for the new Twitter UI 🐦
 - [samijuvonen/pandoc_resume_template](https://github.com/samijuvonen/pandoc_resume_template) - Yet another Pandoc resume template
 - [stackblitz/core](https://github.com/stackblitz/core) - Online IDE powered by Visual Studio Code ⚡️
 - [ocharles/Francium](https://github.com/ocharles/Francium) - A small web programming library on top of reactive-banana and virtual-dom
@@ -469,6 +466,7 @@
 
 ## Haskell 
 
+- [willbasky/Awesome-list-of-Haskell-mentors](https://github.com/willbasky/Awesome-list-of-Haskell-mentors) - An amazing list of Haskell developers who would like to mentor beginner-contributors in open source projects.
 - [livmackintosh/matrix-sdk](https://github.com/livmackintosh/matrix-sdk) - Haskell SDK for [matrix]
 - [softwarefactory-project/matrix-client-haskell](https://github.com/softwarefactory-project/matrix-client-haskell) - Matrix.org haskell client library
 - [purebred-mua/purebred-email](https://github.com/purebred-mua/purebred-email) - A fast email parsing library implemented in Haskell
