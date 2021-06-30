@@ -890,6 +890,7 @@
 
 ## Markdown 
 
+- [srid/emanote-template](https://github.com/srid/emanote-template) - Notebook template for Emanote
 - [Kuratoro/TheMotte.zettel.page](https://github.com/Kuratoro/TheMotte.zettel.page) - Unofficial Wiki for r/TheMotte
 - [tfausak/haskell-knowledge-base](https://github.com/tfausak/haskell-knowledge-base) - :spider_web: A knowledge map about Haskell powered by Obsidian.
 - [srid/alien-psychology](https://github.com/srid/alien-psychology) - 3rd Rock From The Sun episodes tagged with psychological concepts
@@ -898,6 +899,7 @@
 
 ## Nix 
 
+- [ursi/purs-nix](https://github.com/ursi/purs-nix) - Manage your PureScript projects with Nix!
 - [danielfullmer/robotnix](https://github.com/danielfullmer/robotnix) - Build Android (AOSP) using Nix
 - [nix-community/neovim-nightly-overlay](https://github.com/nix-community/neovim-nightly-overlay) - [maintainer=@mjlbach]
 - [serokell/templates](https://github.com/serokell/templates) - 
@@ -1239,7 +1241,7 @@
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell
 - [BurntSushi/xsv](https://github.com/BurntSushi/xsv) - A fast CSV command line toolkit written in Rust.
-- [tweag/nickel](https://github.com/tweag/nickel) - Cheap configuration language
+- [tweag/nickel](https://github.com/tweag/nickel) - Better configuration for less
 - [NerdyPepper/dijo](https://github.com/NerdyPepper/dijo) - scriptable, curses-based, digital habit tracker
 - [imsnif/bandwhich](https://github.com/imsnif/bandwhich) - Terminal bandwidth utilization tool
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
