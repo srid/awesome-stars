@@ -328,7 +328,6 @@
 - [markbao/oo-anki](https://github.com/markbao/oo-anki) - OmniOutliner flashcards to Anki. Converts OO-exported OPML files to a CSV format compatible with Anki.
 - [owenthereal/ccat](https://github.com/owenthereal/ccat) - Colorizing `cat`
 - [heroku/log-shuttle](https://github.com/heroku/log-shuttle) - HTTP log transport.
-- [matryer/xbar](https://github.com/matryer/xbar) - Put the output from any script or program into your macOS Menu Bar (the BitBar reboot)
 - [apg/logflect](https://github.com/apg/logflect) - logplex tails as a service via drains.
 - [heroku/drain](https://github.com/heroku/drain) - Go library for writing Heroku drains
 - [heroku-examples/heroku-oauth-example-go](https://github.com/heroku-examples/heroku-oauth-example-go) - Example Go app OAuth'ing against Heroku
@@ -766,12 +765,12 @@
 
 ## JavaScript 
 
+- [xygn/Notes](https://github.com/xygn/Notes) - Best viewed as an Obsidian Vault.
 - [brave/brave-browser](https://github.com/brave/brave-browser) - Next generation Brave browser for Android, Linux, macOS, Windows.
 - [headllines/github-monthly](https://github.com/headllines/github-monthly) - GitHub monthly top 10 repos
 - [headllines/hackernews-monthly](https://github.com/headllines/hackernews-monthly) - HackerNews monthly top 10 posts
 - [headllines/hackernews-weekly](https://github.com/headllines/hackernews-weekly) - Hacker News weekly top 10 posts
 - [BeardedBear/bearded-icons](https://github.com/BeardedBear/bearded-icons) - The VS Code icons with a long beard.
-- [BeardedBear/bearded-theme](https://github.com/BeardedBear/bearded-theme) - The VS Code theme with a long beard.
 - [samwalls/neuron-citation](https://github.com/samwalls/neuron-citation) - a tool to add citations to neuron
 - [ClearURLs/Addon](https://github.com/ClearURLs/Addon) - ClearURLs is an add-on based on the new WebExtensions technology and will automatically remove tracking elements from URLs to help protect your privacy.
 - [miscavage/De-Mainstream-YouTube-Extension](https://github.com/miscavage/De-Mainstream-YouTube-Extension) - De-Mainstream YouTube A browser extension to remove Mainstream Media results from YouTube searches.
@@ -1353,6 +1352,7 @@
 - [LBRYFoundation/Watch-on-LBRY](https://github.com/LBRYFoundation/Watch-on-LBRY) - Plugin for web browser that automatic check if YouTube video is on LBRY
 - [kodxana/Watch-on-Odysee](https://github.com/kodxana/Watch-on-Odysee) - Plugin for web browser that automatic check if YouTube video is on LBRY
 - [camas/reddit-search](https://github.com/camas/reddit-search) - Search reddit using the pushshift.io api
+- [BeardedBear/bearded-theme](https://github.com/BeardedBear/bearded-theme) - The VS Code theme with a long beard.
 - [kahole/edamagit](https://github.com/kahole/edamagit) - Magit for VSCode
 - [matrix-org/matrix-appservice-slack](https://github.com/matrix-org/matrix-appservice-slack) - A Matrix &lt;--&gt; Slack bridge
 - [KasparEtter/ef1p](https://github.com/KasparEtter/ef1p) - Explained from First Principles is a technology, science, and philosophy blog for curious people who want to understand and change the world.
