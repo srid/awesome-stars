@@ -1154,7 +1154,7 @@
 - [agapow/rst2beamer](https://github.com/agapow/rst2beamer) - Converting restructured text to the beamer presentation format for LaTeX
 - [rfk/dexml](https://github.com/rfk/dexml) - a dead-simple object-xml mapper for python
 - [paulhammond/webkit2png](https://github.com/paulhammond/webkit2png) - png screenshots of webpages
-- [ljcooke/see](https://github.com/ljcooke/see) - Python's dir() for humans. (GitHub mirror)
+- [ljcooke/see](https://github.com/ljcooke/see) - Python's dir() for humans.
 - [srid/debris](https://github.com/srid/debris) - a simple bliki - runs on appengine (this project is dead)
 - [wting/autojump](https://github.com/wting/autojump) - A cd command that learns - easily navigate directories from the command line
 - [cournape/numscons](https://github.com/cournape/numscons) - Using scons within distutils
