@@ -954,6 +954,7 @@
 
 ## Others 
 
+- [mhadidg/software-architecture-books](https://github.com/mhadidg/software-architecture-books) - A comprehensive list of books on Software Architecture.
 - [ossu/computer-science](https://github.com/ossu/computer-science) - :mortar_board: Path to a free self-taught education in Computer Science!
 - [Aspie96/Code-of-Merit](https://github.com/Aspie96/Code-of-Merit) - A meritocratic approach to project management and discussions.
 - [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
