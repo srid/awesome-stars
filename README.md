@@ -1081,7 +1081,7 @@
 - [wee-slack/wee-slack](https://github.com/wee-slack/wee-slack) - A WeeChat script for Slack.com. Supports threads and reactions, synchronizes read markers, provides typing notification, etc..
 - [cmanaha/python-elasticsearch-logger](https://github.com/cmanaha/python-elasticsearch-logger) - Python Elasticsearch handler for the standard python logging framework
 - [python/cpython](https://github.com/python/cpython) - The Python programming language
-- [lk-geimfari/awesomo](https://github.com/lk-geimfari/awesomo) - A list of cool open source projects written in C, C++, Clojure, Lisp, Elixir, Erlang, Elm, Golang, Haskell, JavaScript, Lua, OCaml, Python, R, Ruby, Rust, Scala, etc.
+- [lk-geimfari/awesomo](https://github.com/lk-geimfari/awesomo) - Cool open source projects written in C, C++, Clojure, Lisp, Elixir, Erlang, Elm, Golang, Haskell, JavaScript, Lua, OCaml, Python, R, Ruby, Rust, Scala, etc.
 - [maxking/paper-to-git](https://github.com/maxking/paper-to-git) - Sync documents from Dropbox Paper to local/remote git repository.
 - [qfpl/hpython](https://github.com/qfpl/hpython) - Haskell language tools for Python
 - [w0lfschild/Flashlight](https://github.com/w0lfschild/Flashlight) - :mag_right: Enhance Spotlight with plugins on macOS
