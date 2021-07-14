@@ -239,7 +239,7 @@
 - [felko/neuron-mode](https://github.com/felko/neuron-mode) - An emacs mode for editing Zettelkasten notes with neuron
 - [EFLS/zetteldeft](https://github.com/EFLS/zetteldeft) - A Zettelkasten system! Or rather, some functions on top of the emacs deft package.
 - [mmark-md/flycheck-mmark](https://github.com/mmark-md/flycheck-mmark) - Flycheck checker for the MMark markdown processor
-- [jorgenschaefer/circe](https://github.com/jorgenschaefer/circe) - Circe, a Client for IRC in Emacs
+- [emacs-circe/circe](https://github.com/emacs-circe/circe) - Circe, a Client for IRC in Emacs
 - [Anton-Latukha/Fundamental-Haskell](https://github.com/Anton-Latukha/Fundamental-Haskell) - Fundamental Haskell book, to the point terse statements on Haskell, Category theory, and related fields. Encyclopedic pocketbook of meaning. Zen kōan-like meditations of understanding. For quick or memory curve spaced repetition learning.
 - [akirak/org-reverse-datetree](https://github.com/akirak/org-reverse-datetree) - Reversed date trees for Emacs Org mode
 - [hlissner/doom-emacs](https://github.com/hlissner/doom-emacs) - An Emacs framework for the stubborn martian hacker
