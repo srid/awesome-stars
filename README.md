@@ -426,7 +426,6 @@
 - [mkaz/hastie](https://github.com/mkaz/hastie) - A static site generator written in Go
 - [nickoneill/go-publisher](https://github.com/nickoneill/go-publisher) - publish your blog from anywhere
 - [nickoneill/go-dropbox](https://github.com/nickoneill/go-dropbox) - go library for the dropbox API
-- [juhani5/radix](https://github.com/juhani5/radix) - Redis client for Go
 - [nu7hatch/gouuid](https://github.com/nu7hatch/gouuid) - Go binding for libuuid
 - [revel/revel](https://github.com/revel/revel) - A high productivity, full-stack web framework for the Go language.
 - [wsxiaoys/terminal](https://github.com/wsxiaoys/terminal) - Colorful terminal output for Golang
