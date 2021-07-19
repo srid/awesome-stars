@@ -1163,6 +1163,7 @@
 ## Racket 
 
 - [lexi-lambda/hackett](https://github.com/lexi-lambda/hackett) - WIP implementation of a Haskell-like Lisp in Racket
+- [lexi-lambda/lexi-lambda.github.io](https://github.com/lexi-lambda/lexi-lambda.github.io) - 
 - [racket/pict](https://github.com/racket/pict) - 
 - [danprager/racket-2048](https://github.com/danprager/racket-2048) - The 2048 game implemented in Racket language
 - [ntoronto/pict3d](https://github.com/ntoronto/pict3d) - 3-dimensional picts
@@ -1255,7 +1256,6 @@
 
 ## SCSS 
 
-- [lexi-lambda/lexi-lambda.github.io](https://github.com/lexi-lambda/lexi-lambda.github.io) - 
 - [elixirschool/elixirschool](https://github.com/elixirschool/elixirschool) - Premier destination to learn and master the Elixir programming language
 
 ## Scala 
