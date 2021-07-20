@@ -1340,7 +1340,7 @@
 
 ## TeX 
 
-- [liuxinyu95/unplugged](https://github.com/liuxinyu95/unplugged) - Open book about math and computer science.
+- [liuxinyu95/unplugged](https://github.com/liuxinyu95/unplugged) - Open book about math and programming.
 - [isovector/thinking-with-types](https://github.com/isovector/thinking-with-types) - 📖 source material for Thinking with Types
 - [jez/pandoc-starter](https://github.com/jez/pandoc-starter) - 📄 My pandoc markdown templates and makefiles
 - [mrzool/cv-boilerplate](https://github.com/mrzool/cv-boilerplate) - Programmatic generation of high-quality CVs
