@@ -139,7 +139,7 @@
 
 ## Clojure 
 
-- [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source(frontend now, backend later) platform for knowledge management and collaboration. Desktop app download link: https://github.com/logseq/logseq/releases, roadmap: https://trello.com/b/8txSM12G/roadmap
+- [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Desktop app download link: https://github.com/logseq/logseq/releases, roadmap: https://trello.com/b/8txSM12G/roadmap
 - [tonsky/FiraCode](https://github.com/tonsky/FiraCode) - Free monospaced font with programming ligatures
 - [omcljs/om](https://github.com/omcljs/om) - ClojureScript interface to Facebook's React
 - [gmorpheme/organum](https://github.com/gmorpheme/organum) - Clojure org-mode parser.
@@ -441,6 +441,7 @@
 
 ## HTML 
 
+- [xygn/Notes](https://github.com/xygn/Notes) - Best viewed as an Obsidian Vault.
 - [vitalets/github-trending-repos](https://github.com/vitalets/github-trending-repos) - Track GitHub trending repositories in your favorite programming language by native GitHub notifications!
 - [decentralized-identity/ion](https://github.com/decentralized-identity/ion) - The Identity Overlay Network (ION) is a DID Method implementation using the Sidetree protocol atop Bitcoin
 - [dotnet-foundation/website](https://github.com/dotnet-foundation/website) - The .NET Foundation's website
@@ -766,7 +767,6 @@
 
 ## JavaScript 
 
-- [xygn/Notes](https://github.com/xygn/Notes) - Best viewed as an Obsidian Vault.
 - [brave/brave-browser](https://github.com/brave/brave-browser) - Next generation Brave browser for Android, Linux, macOS, Windows.
 - [headllines/github-monthly](https://github.com/headllines/github-monthly) - GitHub monthly top 10 repos
 - [headllines/hackernews-monthly](https://github.com/headllines/hackernews-monthly) - HackerNews monthly top 10 posts
