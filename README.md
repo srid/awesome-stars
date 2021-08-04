@@ -573,7 +573,7 @@
 - [srid/rib-sample](https://github.com/srid/rib-sample) - Sample site for the Rib static site generator
 - [srid/rib](https://github.com/srid/rib) - Haskell static site generator based on Shake (superseded by Ema)
 - [srid/zulip-archive](https://github.com/srid/zulip-archive) - Zulip Archive viewer (statically generated HTML)
-- [haskell/haskell-language-server](https://github.com/haskell/haskell-language-server) - Successor of ghcide & haskell-ide-engine. One IDE to rule them all.
+- [haskell/haskell-language-server](https://github.com/haskell/haskell-language-server) - Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.
 - [obsidiansystems/constraints-extras](https://github.com/obsidiansystems/constraints-extras) - Convenience functions and template haskell for working with constraints
 - [reflex-frp/reflex-fsnotify](https://github.com/reflex-frp/reflex-fsnotify) - Watch files and directories for changes using a functional-reactive interface!
 - [reflex-frp/reflex-process](https://github.com/reflex-frp/reflex-process) - Run and interact with system processes from within a Reflex FRP application.
