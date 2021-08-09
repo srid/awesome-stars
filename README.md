@@ -233,6 +233,7 @@
 
 ## Emacs Lisp 
 
+- [vedang/ox-neuron](https://github.com/vedang/ox-neuron) - A Neuron Zettel Markdown back-end for Org Export Engine
 - [jrblevin/markdown-mode](https://github.com/jrblevin/markdown-mode) - Emacs Markdown Mode
 - [emacs-lsp/lsp-ui](https://github.com/emacs-lsp/lsp-ui) - UI integrations for lsp-mode
 - [LightAndLight/spacemacs-neuron](https://github.com/LightAndLight/spacemacs-neuron) - A spacemacs layer for neuron
@@ -767,6 +768,7 @@
 
 ## JavaScript 
 
+- [dessant/web-archives](https://github.com/dessant/web-archives) - Browser extension for viewing archived and cached versions of web pages
 - [brave/brave-browser](https://github.com/brave/brave-browser) - Next generation Brave browser for Android, Linux, macOS, Windows.
 - [headllines/github-monthly](https://github.com/headllines/github-monthly) - GitHub monthly top 10 repos
 - [headllines/hackernews-monthly](https://github.com/headllines/hackernews-monthly) - HackerNews monthly top 10 posts
