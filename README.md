@@ -633,7 +633,6 @@
 - [mstksg/nonempty-containers](https://github.com/mstksg/nonempty-containers) - Efficient non-empty variants of containers data types, with full API
 - [srid/Taut](https://github.com/srid/Taut) - An ambitious Slack JSON export viewer.
 - [Compositional/servant-client-jsaddle](https://github.com/Compositional/servant-client-jsaddle) - Automatic derivation of API clients for GHCJS, GHC + WebKit, GHC + Websockets, etc
-- [gibiansky/IHaskell](https://github.com/gibiansky/IHaskell) - A Haskell kernel for IPython.
 - [qfpl/reflex-dom-storage](https://github.com/qfpl/reflex-dom-storage) - 
 - [obsidiansystems/dependent-sum-aeson-orphans](https://github.com/obsidiansystems/dependent-sum-aeson-orphans) - JSON instances for DSum and DMap
 - [radicle-dev/radicle-alpha](https://github.com/radicle-dev/radicle-alpha) - A peer-to-peer stack for code collaboration
@@ -871,6 +870,7 @@
 ## Jupyter Notebook 
 
 - [tweag/jupyterWith](https://github.com/tweag/jupyterWith) - declarative and reproducible Jupyter environments - powered by Nix
+- [gibiansky/IHaskell](https://github.com/gibiansky/IHaskell) - A Haskell kernel for IPython.
 - [vaibhavsagar/notebooks](https://github.com/vaibhavsagar/notebooks) - Jupyter notebooks
 - [gleitz/howdoi](https://github.com/gleitz/howdoi) - instant coding answers via the command line
 
