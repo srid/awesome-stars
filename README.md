@@ -76,8 +76,7 @@
 - [matz/streem](https://github.com/matz/streem) - prototype of stream based programming language
 - [keenerd/jshon](https://github.com/keenerd/jshon) - Jshon is a JSON parser designed for maximum convenience within the shell.
 - [ggreer/the_silver_searcher](https://github.com/ggreer/the_silver_searcher) - A code-searching tool similar to ack, but faster.
-- [srid/GNUSim8085](https://github.com/srid/GNUSim8085) - A 8085 simulator (originally written by me; maintained by the community)
-- [GNUSim8085/GNUSim8085](https://github.com/GNUSim8085/GNUSim8085) - A graphical simulator, assembler and debugger for the Intel 8085 microprocessor
+- [srid/GNUSim8085](https://github.com/srid/GNUSim8085) - A graphical simulator, assembler and debugger for the Intel 8085 microprocessor
 - [ludwigschwardt/python-gnureadline](https://github.com/ludwigschwardt/python-gnureadline) - The standard Python readline extension statically linked against the GNU readline library, providing readline support to Python on platforms without it.
 - [srid/py-extn-shared](https://github.com/srid/py-extn-shared) - An example project demonstrating linking a Python extension module with another shared library
 
