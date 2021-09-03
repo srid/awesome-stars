@@ -467,6 +467,7 @@
 
 ## Haskell 
 
+- [srid/TheMotteDashboard](https://github.com/srid/TheMotteDashboard) - A dashboard for r/TheMotte, powered by Ema
 - [eskimor/purescript-bridge](https://github.com/eskimor/purescript-bridge) - Create PureScript datatypes from Haskell datatypes
 - [input-output-hk/plutus-pioneer-program](https://github.com/input-output-hk/plutus-pioneer-program) - 
 - [well-typed/cborg](https://github.com/well-typed/cborg) - Binary serialisation in the CBOR format
@@ -708,6 +709,7 @@
 - [Soostone/katip](https://github.com/Soostone/katip) - A structured logging framework for Haskell
 - [jaspervdj/hakyll](https://github.com/jaspervdj/hakyll) - A static website compiler library in Haskell
 - [FPtje/miso-isomorphic-example](https://github.com/FPtje/miso-isomorphic-example) - Minimalistic single page example of Miso's isomorphic feature.
+- [lk-geimfari/awesomo](https://github.com/lk-geimfari/awesomo) - Cool open source projects written in C, C++, Clojure, Lisp, Elixir, Erlang, Elm, Golang, Haskell, JavaScript, Lua, OCaml, Python, R, Ruby, Rust, Scala, etc.
 - [sebastiaanvisser/clay](https://github.com/sebastiaanvisser/clay) - A CSS preprocessor as embedded Haskell.
 - [dmjio/envy](https://github.com/dmjio/envy) - :angry: Environmentally friendly environment variables
 - [chrisdone/jl](https://github.com/chrisdone/jl) - Functional sed for JSON
@@ -1089,7 +1091,6 @@
 - [wee-slack/wee-slack](https://github.com/wee-slack/wee-slack) - A WeeChat script for Slack.com. Supports threads and reactions, synchronizes read markers, provides typing notification, etc..
 - [cmanaha/python-elasticsearch-logger](https://github.com/cmanaha/python-elasticsearch-logger) - Python Elasticsearch handler for the standard python logging framework
 - [python/cpython](https://github.com/python/cpython) - The Python programming language
-- [lk-geimfari/awesomo](https://github.com/lk-geimfari/awesomo) - Cool open source projects written in C, C++, Clojure, Lisp, Elixir, Erlang, Elm, Golang, Haskell, JavaScript, Lua, OCaml, Python, R, Ruby, Rust, Scala, etc.
 - [maxking/paper-to-git](https://github.com/maxking/paper-to-git) - Sync documents from Dropbox Paper to local/remote git repository.
 - [qfpl/hpython](https://github.com/qfpl/hpython) - Haskell language tools for Python
 - [w0lfschild/Flashlight](https://github.com/w0lfschild/Flashlight) - :mag_right: Enhance Spotlight with plugins on macOS
