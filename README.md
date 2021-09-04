@@ -1216,6 +1216,7 @@
 
 ## Rust 
 
+- [neovide/neovide](https://github.com/neovide/neovide) - No Nonsense Neovim Client in Rust
 - [chmln/sd](https://github.com/chmln/sd) - Intuitive find & replace CLI (sed alternative)
 - [ClementTsang/bottom](https://github.com/ClementTsang/bottom) - Yet another cross-platform graphical process/system monitor.
 - [serokell/deploy-rs](https://github.com/serokell/deploy-rs) - A simple multi-profile Nix-flake deploy tool.
@@ -1361,6 +1362,7 @@
 
 ## TypeScript 
 
+- [glacambre/firenvim](https://github.com/glacambre/firenvim) - Embed Neovim in Chrome, Firefox, Thunderbird and many other pieces of software.
 - [blacksmithgu/obsidian-dataview](https://github.com/blacksmithgu/obsidian-dataview) - A high-performance data index and query language over Markdown files, for https://obsidian.md/.
 - [mushanshitiancai/vscode-paste-image](https://github.com/mushanshitiancai/vscode-paste-image) - paste image from clipboard to markdown/asciidoc directly!
 - [LBRYFoundation/Watch-on-LBRY](https://github.com/LBRYFoundation/Watch-on-LBRY) - Plugin for web browser that automatic check if YouTube video is on LBRY
@@ -1406,7 +1408,7 @@
 - [chiefnoah/neuron-v2.vim](https://github.com/chiefnoah/neuron-v2.vim) - 📝 Manage your Zettelkasten in {n}vim.
 - [fiatjaf/neuron.vim](https://github.com/fiatjaf/neuron.vim) - 📝 Manage your Zettelkasten in {n}vim.
 - [SidOfc/mkdx](https://github.com/SidOfc/mkdx) - A vim plugin that adds some nice extra's for working with markdown documents
-- [ihsanturk/neuron.vim](https://github.com/ihsanturk/neuron.vim) - 📝 Manage your Zettelkasten in {n}vim.
+- [0ihsan/neuron.vim](https://github.com/0ihsan/neuron.vim) - 📝 Manage your Zettelkasten in {n}vim.
 - [alok/notational-fzf-vim](https://github.com/alok/notational-fzf-vim) - Notational velocity for vim.
 - [michal-h21/vim-zettel](https://github.com/michal-h21/vim-zettel) - VimWiki addon for managing notes according to Zettelkasten method
 - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
