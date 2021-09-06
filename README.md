@@ -800,6 +800,7 @@
 - [fomantic/Fomantic-UI](https://github.com/fomantic/Fomantic-UI) - Fomantic-UI is a community fork of Semantic-UI
 - [codemirror/codemirror.next](https://github.com/codemirror/codemirror.next) - The next generation of the CodeMirror in-browser editor
 - [antonmedv/fx](https://github.com/antonmedv/fx) - Command-line tool and terminal JSON viewer 🔥
+- [MaggieAppleton/digital-gardeners](https://github.com/MaggieAppleton/digital-gardeners) - Resources, links, projects, and ideas for gardeners tending their digital notes on the public interwebs
 - [GoogleChromeLabs/text-editor](https://github.com/GoogleChromeLabs/text-editor) - A text editor build on the Native File System APIs
 - [LLK/scratch-blocks](https://github.com/LLK/scratch-blocks) - Scratch Blocks is a library for building creative computing interfaces.
 - [jsonresume/resume-schema](https://github.com/jsonresume/resume-schema) - JSON-Schema is used here to define and validate our proposed resume json
@@ -988,7 +989,6 @@
 - [iggredible/Learn-Vim](https://github.com/iggredible/Learn-Vim) - Learning Vim and Vimscript doesn't have to be hard. This is the guide that you're looking for.
 - [sponsorware/docs](https://github.com/sponsorware/docs) - What is a Sponsorware project and how can YOU start one?
 - [kowainik/awesome-haskell-sponsorship](https://github.com/kowainik/awesome-haskell-sponsorship) - 💝 Haskell profiles to sponsor
-- [MaggieAppleton/digital-gardeners](https://github.com/MaggieAppleton/digital-gardeners) - Resources, links, projects, and ideas for gardeners tending their digital notes on the public interwebs
 - [google/eng-practices](https://github.com/google/eng-practices) - Google's Engineering Practices documentation
 - [MaximilianKohler/HumanMicrobiome](https://github.com/MaximilianKohler/HumanMicrobiome) - Human Microbiome wiki
 - [jonitrythall/svgpocketguide](https://github.com/jonitrythall/svgpocketguide) - All original content of A Pocket Guide to Writing SVG by Joni Trythall
