@@ -771,6 +771,7 @@
 
 ## JavaScript 
 
+- [christianvoigt/argdown](https://github.com/christianvoigt/argdown) - a simple syntax for complex argumentation
 - [input-output-hk/cardano-documentation](https://github.com/input-output-hk/cardano-documentation) - 
 - [dessant/web-archives](https://github.com/dessant/web-archives) - Browser extension for viewing archived and cached versions of web pages
 - [brave/brave-browser](https://github.com/brave/brave-browser) - Next generation Brave browser for Android, Linux, macOS, Windows.
