@@ -1217,6 +1217,7 @@
 
 ## Rust 
 
+- [mgdm/htmlq](https://github.com/mgdm/htmlq) - Like jq, but for HTML.
 - [neovide/neovide](https://github.com/neovide/neovide) - No Nonsense Neovim Client in Rust
 - [chmln/sd](https://github.com/chmln/sd) - Intuitive find & replace CLI (sed alternative)
 - [ClementTsang/bottom](https://github.com/ClementTsang/bottom) - Yet another cross-platform graphical process/system monitor.
