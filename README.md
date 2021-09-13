@@ -111,6 +111,7 @@
 
 ## C++ 
 
+- [microsoft/wslg](https://github.com/microsoft/wslg) - Enabling the Windows Subsystem for Linux to include support for Wayland and X server related scenarios
 - [xbmc/xbmc](https://github.com/xbmc/xbmc) - Kodi is an award-winning free and open source home theater/media center software and entertainment hub for digital media. With its beautiful interface and powerful skinning engine, it's available for Android, BSD, Linux, macOS, iOS and Windows.
 - [aardappel/treesheets](https://github.com/aardappel/treesheets) - TreeSheets : Free Form Data Organizer (see treesheets.com)
 - [PerBothner/DomTerm](https://github.com/PerBothner/DomTerm) - DOM/JavaScript-based terminal-emulator/console
@@ -1217,6 +1218,7 @@
 
 ## Rust 
 
+- [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 - [jD91mZM2/xidlehook](https://github.com/jD91mZM2/xidlehook) - GitLab: https://gitlab.com/jD91mZM2/xidlehook
 - [rschmukler/caffeinate](https://github.com/rschmukler/caffeinate) - Keeping xidlehook woke
 - [mgdm/htmlq](https://github.com/mgdm/htmlq) - Like jq, but for HTML.
@@ -1367,6 +1369,7 @@
 
 ## TypeScript 
 
+- [balena-io/etcher](https://github.com/balena-io/etcher) - Flash OS images to SD cards & USB drives, safely and easily.
 - [gera2ld/markmap](https://github.com/gera2ld/markmap) - Visualize your Markdown as mindmaps with Markmap.
 - [glacambre/firenvim](https://github.com/glacambre/firenvim) - Embed Neovim in Chrome, Firefox, Thunderbird and many other pieces of software.
 - [blacksmithgu/obsidian-dataview](https://github.com/blacksmithgu/obsidian-dataview) - A high-performance data index and query language over Markdown files, for https://obsidian.md/.
