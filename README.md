@@ -772,6 +772,7 @@
 
 ## JavaScript 
 
+- [Leleat/Tiling-Assistant](https://github.com/Leleat/Tiling-Assistant) - A GNOME extension which adds a Windows-like snap assist to the GNOME desktop environment. It also expands the 2x2 grid design.
 - [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagram and flowchart from text in a similar manner as markdown
 - [christianvoigt/argdown](https://github.com/christianvoigt/argdown) - a simple syntax for complex argumentation
 - [input-output-hk/cardano-documentation](https://github.com/input-output-hk/cardano-documentation) - 
@@ -1289,6 +1290,7 @@
 
 ## Shell 
 
+- [passff/passff-host](https://github.com/passff/passff-host) - Host app for the WebExtension PassFF
 - [spwhitton/git-remote-gcrypt](https://github.com/spwhitton/git-remote-gcrypt) - PGP-encrypted git remotes
 - [pystardust/ytfzf](https://github.com/pystardust/ytfzf) - A posix script to find and watch youtube videos from the terminal. (Without API)
 - [nix-community/nixos-install-scripts](https://github.com/nix-community/nixos-install-scripts) - collection of one-shot scripts to install NixOS on various server hosters and other hardware. [maintainer=@happysalada]
@@ -1370,6 +1372,7 @@
 
 ## TypeScript 
 
+- [pop-os/shell](https://github.com/pop-os/shell) - Pop!_OS Shell
 - [balena-io/etcher](https://github.com/balena-io/etcher) - Flash OS images to SD cards & USB drives, safely and easily.
 - [gera2ld/markmap](https://github.com/gera2ld/markmap) - Visualize your Markdown as mindmaps with Markmap.
 - [glacambre/firenvim](https://github.com/glacambre/firenvim) - Embed Neovim in Chrome, Firefox, Thunderbird and many other pieces of software.
