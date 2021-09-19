@@ -1113,7 +1113,7 @@
 - [marionleborgne/cloudbrain](https://github.com/marionleborgne/cloudbrain) - Platform for real-time wearables data analysis -- like EEG or ECG.
 - [docker/compose](https://github.com/docker/compose) - Define and run multi-container applications with Docker
 - [jaredks/rumps](https://github.com/jaredks/rumps) - Ridiculously Uncomplicated macOS Python Statusbar apps
-- [mrooney/mintapi](https://github.com/mrooney/mintapi) - a screen-scraping API for Mint.com
+- [mintapi/mintapi](https://github.com/mintapi/mintapi) - a screen-scraping API for Mint.com
 - [jdf/processing.py](https://github.com/jdf/processing.py) - Write Processing sketches in Python
 - [ActiveState/filearchive](https://github.com/ActiveState/filearchive) - Python module to work with file archives
 - [pallets/click](https://github.com/pallets/click) - Python composable command line interface toolkit
