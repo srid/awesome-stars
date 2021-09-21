@@ -772,6 +772,7 @@
 
 ## JavaScript 
 
+- [notlmn/copy-as-markdown](https://github.com/notlmn/copy-as-markdown) - 🖱 Browser extension to copy hyperlinks, images, and selected text as Markdown with GFM support
 - [Leleat/Tiling-Assistant](https://github.com/Leleat/Tiling-Assistant) - A GNOME extension which adds a Windows-like snap assist to the GNOME desktop environment. It also expands the 2x2 grid design.
 - [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagram and flowchart from text in a similar manner as markdown
 - [christianvoigt/argdown](https://github.com/christianvoigt/argdown) - a simple syntax for complex argumentation
