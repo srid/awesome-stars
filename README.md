@@ -442,6 +442,7 @@
 
 ## HTML 
 
+- [ThomasWang/minimal-twitter](https://github.com/ThomasWang/minimal-twitter) - Minimal Theme for the new Twitter UI 🐦
 - [xygn/Notes](https://github.com/xygn/Notes) - Best viewed as an Obsidian Vault.
 - [vitalets/github-trending-repos](https://github.com/vitalets/github-trending-repos) - Track GitHub trending repositories in your favorite programming language by native GitHub notifications!
 - [decentralized-identity/ion](https://github.com/decentralized-identity/ion) - The Identity Overlay Network (ION) is a DID Method implementation using the Sidetree protocol atop Bitcoin
@@ -468,6 +469,7 @@
 
 ## Haskell 
 
+- [haskell-fswatch/hfsnotify](https://github.com/haskell-fswatch/hfsnotify) - Unified Haskell interface for basic file system notifications
 - [srid/TheMotteDashboard](https://github.com/srid/TheMotteDashboard) - A dashboard for r/TheMotte, powered by Ema
 - [eskimor/purescript-bridge](https://github.com/eskimor/purescript-bridge) - Create PureScript datatypes from Haskell datatypes
 - [input-output-hk/plutus-pioneer-program](https://github.com/input-output-hk/plutus-pioneer-program) - 
@@ -1116,7 +1118,7 @@
 - [marionleborgne/cloudbrain](https://github.com/marionleborgne/cloudbrain) - Platform for real-time wearables data analysis -- like EEG or ECG.
 - [docker/compose](https://github.com/docker/compose) - Define and run multi-container applications with Docker
 - [jaredks/rumps](https://github.com/jaredks/rumps) - Ridiculously Uncomplicated macOS Python Statusbar apps
-- [mintapi/mintapi](https://github.com/mintapi/mintapi) - a screen-scraping API for Mint.com
+- [mintapi/mintapi](https://github.com/mintapi/mintapi) - a screen-scraping "API" for Mint.com
 - [jdf/processing.py](https://github.com/jdf/processing.py) - Write Processing sketches in Python
 - [ActiveState/filearchive](https://github.com/ActiveState/filearchive) - Python module to work with file archives
 - [pallets/click](https://github.com/pallets/click) - Python composable command line interface toolkit
@@ -1235,7 +1237,7 @@
 - [KSXGitHub/parallel-disk-usage](https://github.com/KSXGitHub/parallel-disk-usage) - Highly parallelized, blazing fast directory tree analyzer
 - [XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei) - Count your code, quickly.
 - [TaKO8Ki/awesome-alternatives-in-rust](https://github.com/TaKO8Ki/awesome-alternatives-in-rust) - A curated list of replacements for existing software written in Rust
-- [dandavison/delta](https://github.com/dandavison/delta) - A viewer for git and diff output
+- [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git
 - [zellij-org/zellij](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included
 - [snoyberg/routetype-rs](https://github.com/snoyberg/routetype-rs) - Strongly typed routes for Rust
 - [getzola/zola](https://github.com/getzola/zola) - A fast static site generator in a single binary with everything built-in. https://www.getzola.org
