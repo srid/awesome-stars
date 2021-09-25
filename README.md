@@ -1367,6 +1367,7 @@
 
 ## TeX 
 
+- [LibertyDSNP/papers](https://github.com/LibertyDSNP/papers) - Project Liberty Papers
 - [liuxinyu95/unplugged](https://github.com/liuxinyu95/unplugged) - Open book about math and programming.
 - [isovector/thinking-with-types](https://github.com/isovector/thinking-with-types) - 📖 source material for Thinking with Types
 - [jez/pandoc-starter](https://github.com/jez/pandoc-starter) - 📄 My pandoc markdown templates and makefiles
