@@ -46,7 +46,6 @@
   - [Roff](#roff)
   - [Ruby](#ruby)
   - [Rust](#rust)
-  - [SCSS](#scss)
   - [Scala](#scala)
   - [Scheme](#scheme)
   - [Shell](#shell)
@@ -916,6 +915,7 @@
 
 ## Nix 
 
+- [input-output-hk/haskell.nix](https://github.com/input-output-hk/haskell.nix) - Alternative Haskell Infrastructure for Nixpkgs
 - [ursi/purs-nix](https://github.com/ursi/purs-nix) - Manage your PureScript projects with Nix!
 - [danielfullmer/robotnix](https://github.com/danielfullmer/robotnix) - Build Android (AOSP) using Nix
 - [nix-community/neovim-nightly-overlay](https://github.com/nix-community/neovim-nightly-overlay) - [maintainer=@mjlbach]
@@ -1022,6 +1022,7 @@
 - [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
 - [sporto/awesome-elm](https://github.com/sporto/awesome-elm) - A curated list of useful Elm tutorials, libraries and software. Inspired by awesome list. Feel free to contribute. :rocket:
 - [adonoho/SL2016-LearnMachineLearning](https://github.com/adonoho/SL2016-LearnMachineLearning) - A collection of links to pages covering resources to help you learn machine learning techniques.
+- [elixirschool/elixirschool](https://github.com/elixirschool/elixirschool) - The content behind Elixir School
 - [urfolomeus/seat_saver](https://github.com/urfolomeus/seat_saver) - Phoenix and Elm demo app.
 - [mmcgrana/services-engineering](https://github.com/mmcgrana/services-engineering) - A reading list for services engineering, with a focus on cloud infrastructure services
 - [sindresorhus/awesome-electron](https://github.com/sindresorhus/awesome-electron) - Useful resources for creating apps with Electron
@@ -1278,10 +1279,6 @@
 - [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
 - [mitsuhiko/rust-osascript](https://github.com/mitsuhiko/rust-osascript) - Rust wrapper around a bit of osascript
 - [ogham/exa](https://github.com/ogham/exa) - A modern replacement for ‘ls’.
-
-## SCSS 
-
-- [elixirschool/elixirschool](https://github.com/elixirschool/elixirschool) - Premier destination to learn and master the Elixir programming language
 
 ## Scala 
 
