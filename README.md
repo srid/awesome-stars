@@ -367,7 +367,7 @@
 - [papertrail/remote_syslog2](https://github.com/papertrail/remote_syslog2) - To install, see "Releases" tab. Self-contained daemon for reading local files and emitting remote syslog (without using local syslogd).
 - [go-tomb/tomb](https://github.com/go-tomb/tomb) - The tomb package helps with clean goroutine termination in the Go language.
 - [docker/libchan](https://github.com/docker/libchan) - Like Go channels over the network
-- [docker/classicswarm](https://github.com/docker/classicswarm) - Swarm Classic: a container clustering system. Not to be confused with Docker Swarm which is at https://github.com/docker/swarmkit
+- [docker-archive/classicswarm](https://github.com/docker-archive/classicswarm) - Swarm Classic: a container clustering system. Not to be confused with Docker Swarm which is at https://github.com/docker/swarmkit
 - [gorilla/websocket](https://github.com/gorilla/websocket) - A fast, well-tested and widely used WebSocket implementation for Go.
 - [kelseyhightower/confd](https://github.com/kelseyhightower/confd) - Manage local application configuration files using templates and data from etcd or consul
 - [hpcloud/logyard-apps](https://github.com/hpcloud/logyard-apps) - Applications and components using logyard API and streams
@@ -1080,6 +1080,7 @@
 
 ## Python 
 
+- [WoeUSB/WoeUSB-ng](https://github.com/WoeUSB/WoeUSB-ng) - WoeUSB-ng is a simple tool that enable you to create your own usb stick windows installer from an iso image or a real DVD. This is a rewrite of original WoeUSB.
 - [commonmark/commonmark-spec](https://github.com/commonmark/commonmark-spec) - CommonMark spec, with reference implementations in C and JavaScript
 - [rms-support-letter/rms-support-letter.github.io](https://github.com/rms-support-letter/rms-support-letter.github.io) - An open letter in support of Richard Matthew Stallman being reinstated by the Free Software Foundation
 - [Eloston/ungoogled-chromium](https://github.com/Eloston/ungoogled-chromium) - Google Chromium, sans integration with Google
