@@ -349,6 +349,7 @@
 - [dustin/go-humanize](https://github.com/dustin/go-humanize) - Go Humans! (formatters for units to human friendly sizes)
 - [rethinkdb/rethinkdb-go](https://github.com/rethinkdb/rethinkdb-go) - Go language driver for RethinkDB
 - [hypebeast/go-osc](https://github.com/hypebeast/go-osc) - Open Sound Control (OSC) library for Golang. Implemented in pure Go.
+- [docker/compose](https://github.com/docker/compose) - Define and run multi-container applications with Docker
 - [proxypoke/i3ipc](https://github.com/proxypoke/i3ipc) - Go library for communicating with the i3 window manager
 - [petejkim/goop](https://github.com/petejkim/goop) - A simple dependency manager for Go (golang), inspired by Bundler.
 - [rkt/rkt](https://github.com/rkt/rkt) - [Project ended] rkt is a pod-native container engine for Linux. It is composable, secure, and built on standards.
@@ -1118,7 +1119,6 @@
 - [i-tu/Hasklig](https://github.com/i-tu/Hasklig) - Hasklig - a code font with monospaced ligatures
 - [mahmoud/boltons](https://github.com/mahmoud/boltons) - 🔩 Like builtins, but boltons. 250+ constructs, recipes, and snippets which extend (and rely on nothing but) the Python standard library.  Nothing like Michael Bolton.
 - [marionleborgne/cloudbrain](https://github.com/marionleborgne/cloudbrain) - Platform for real-time wearables data analysis -- like EEG or ECG.
-- [docker/compose](https://github.com/docker/compose) - Define and run multi-container applications with Docker
 - [jaredks/rumps](https://github.com/jaredks/rumps) - Ridiculously Uncomplicated macOS Python Statusbar apps
 - [mintapi/mintapi](https://github.com/mintapi/mintapi) - a screen-scraping "API" for Mint.com
 - [jdf/processing.py](https://github.com/jdf/processing.py) - Write Processing sketches in Python
