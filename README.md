@@ -70,6 +70,7 @@
 - [urbit/urbit](https://github.com/urbit/urbit) - An operating function
 - [imbushuo/mac-precision-touchpad](https://github.com/imbushuo/mac-precision-touchpad) - Windows Precision Touchpad Driver Implementation for Apple MacBook / Magic Trackpad
 - [netdata/netdata](https://github.com/netdata/netdata) - Real-time performance monitoring, done right! https://www.netdata.cloud
+- [NixOS/mobile-nixos](https://github.com/NixOS/mobile-nixos) - 
 - [jarun/nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager
 - [mwyborski/Linux-Magic-Trackpad-2-Driver](https://github.com/mwyborski/Linux-Magic-Trackpad-2-Driver) - 
 - [matz/streem](https://github.com/matz/streem) - prototype of stream based programming language
@@ -600,7 +601,7 @@
 - [patrickt/empathy](https://github.com/patrickt/empathy) - a modern library for typed path manipulation in Haskell
 - [aelve/guide](https://github.com/aelve/guide) - A workspace for research teams
 - [monadfix/named](https://github.com/monadfix/named) - Named parameters (keyword arguments) for Haskell
-- [kowainik/co-log](https://github.com/kowainik/co-log) - 📓 Flexible and configurable modern #Haskell logging framework
+- [co-log/co-log](https://github.com/co-log/co-log) - 📓 Flexible and configurable modern #Haskell logging framework
 - [kowainik/relude](https://github.com/kowainik/relude) - 🌀 Safe, performant, user-friendly and lightweight Haskell standard library
 - [mrkkrp/facts](https://github.com/mrkkrp/facts) - Refined types
 - [mstksg/typelits-witnesses](https://github.com/mstksg/typelits-witnesses) - Existential witnesses, singletons, and classes for operations on GHC TypeLits
@@ -938,7 +939,6 @@
 - [tbenst/purescript-nix-example](https://github.com/tbenst/purescript-nix-example) - Build a simple Halogen app using Nix
 - [justinwoo/nix-shorts](https://github.com/justinwoo/nix-shorts) - A collection of short notes about Nix, down to what is immediately needed for users.
 - [nix-community/emacs-overlay](https://github.com/nix-community/emacs-overlay) - Bleeding edge emacs overlay [maintainer=@adisbladis]
-- [NixOS/mobile-nixos](https://github.com/NixOS/mobile-nixos) - 
 - [hercules-ci/gitignore.nix](https://github.com/hercules-ci/gitignore.nix) - Nix function for filtering local git sources
 - [nix-community/home-manager](https://github.com/nix-community/home-manager) - Manage a user environment using Nix  [maintainer=@rycee]
 - [LnL7/nix-darwin](https://github.com/LnL7/nix-darwin) - nix modules for darwin
