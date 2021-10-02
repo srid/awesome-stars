@@ -1430,7 +1430,7 @@
 - [alok/notational-fzf-vim](https://github.com/alok/notational-fzf-vim) - Notational velocity for vim.
 - [michal-h21/vim-zettel](https://github.com/michal-h21/vim-zettel) - VimWiki addon for managing notes according to Zettelkasten method
 - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
-- [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) - A community-driven modular vim distribution - The ultimate vim configuration
+- [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) - A community-driven modular vim/neovim distribution - The ultimate vimrc
 - [junegunn/seoul256.vim](https://github.com/junegunn/seoul256.vim) - :deciduous_tree: Low-contrast Vim color scheme based on Seoul Colors
 
 ## Vue 
