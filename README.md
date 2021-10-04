@@ -917,6 +917,7 @@
 
 ## Nix 
 
+- [ongyiren1994/mermaid-hs](https://github.com/ongyiren1994/mermaid-hs) - 
 - [numtide/nix-filter](https://github.com/numtide/nix-filter) - a small self-container source filtering lib
 - [input-output-hk/haskell.nix](https://github.com/input-output-hk/haskell.nix) - Alternative Haskell Infrastructure for Nixpkgs
 - [ursi/purs-nix](https://github.com/ursi/purs-nix) - Manage your PureScript projects with Nix!
