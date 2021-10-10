@@ -1123,7 +1123,7 @@
 - [mahmoud/boltons](https://github.com/mahmoud/boltons) - 🔩 Like builtins, but boltons. 250+ constructs, recipes, and snippets which extend (and rely on nothing but) the Python standard library.  Nothing like Michael Bolton.
 - [marionleborgne/cloudbrain](https://github.com/marionleborgne/cloudbrain) - Platform for real-time wearables data analysis -- like EEG or ECG.
 - [jaredks/rumps](https://github.com/jaredks/rumps) - Ridiculously Uncomplicated macOS Python Statusbar apps
-- [mintapi/mintapi](https://github.com/mintapi/mintapi) - a screen-scraping "API" for Mint.com
+- [mintapi/mintapi](https://github.com/mintapi/mintapi) - an unofficial screen-scraping "API" for Mint.com
 - [jdf/processing.py](https://github.com/jdf/processing.py) - Write Processing sketches in Python
 - [ActiveState/filearchive](https://github.com/ActiveState/filearchive) - Python module to work with file archives
 - [pallets/click](https://github.com/pallets/click) - Python composable command line interface toolkit
