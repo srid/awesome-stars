@@ -496,7 +496,7 @@
 - [foxhound-systems/eved](https://github.com/foxhound-systems/eved) - Eved is an API definition eDSL in the spirit of Servant
 - [well-typed/ixset-typed](https://github.com/well-typed/ixset-typed) - More strongly typed variant of the ixset Haskell package
 - [Happstack/ixset](https://github.com/Happstack/ixset) - A Set type which supports multiple indexes
-- [phadej/zinza](https://github.com/phadej/zinza) - Typed templates with jinja like syntax
+- [phadej/zinza](https://github.com/phadej/zinza) - Typed templates with jinja like syntax. Docs on Hackage.
 - [snapframework/heist](https://github.com/snapframework/heist) - An xhtml-based templating engine, allowing Haskell functions to be bound to XML tags.
 - [tdammers/ginger](https://github.com/tdammers/ginger) - A Haskell implementation of the Jinja template language.
 - [arowM/heterocephalus](https://github.com/arowM/heterocephalus) - A type safe template engine for collaborating with front end development tools
