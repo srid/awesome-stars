@@ -760,7 +760,7 @@
 - [ghcjs/ghcjs](https://github.com/ghcjs/ghcjs) - Haskell to JavaScript compiler, based on GHC
 - [josejuan/haskell-calendar](https://github.com/josejuan/haskell-calendar) - Simple calendar generator to any renderable context (as text, as html, as graphics, ...).
 - [christian-marie/git-vogue](https://github.com/christian-marie/git-vogue) - Make your Haskell git repositories fashionable.
-- [haskell-servant/servant](https://github.com/haskell-servant/servant) - Main repository for the servant libraries -- DSL for describing, serving, querying, mocking, documenting web applications and more!
+- [haskell-servant/servant](https://github.com/haskell-servant/servant) - Main repository for the servant libraries — DSL for describing, serving, querying, mocking, documenting web applications and more!
 - [hzlmn/haskell-must-watch](https://github.com/hzlmn/haskell-must-watch) - Huge list of  videos, talks, courses for Haskell programming language.
 
 ## JSONiq 
