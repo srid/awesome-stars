@@ -1271,7 +1271,7 @@
 - [terminusdb/terminusdb-store](https://github.com/terminusdb/terminusdb-store) - a tokio-enabled data store for triple data
 - [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources.
 - [lunatic-solutions/lunatic](https://github.com/lunatic-solutions/lunatic) - Lunatic is an Erlang inspired runtime for WebAssembly
-- [soywod/himalaya](https://github.com/soywod/himalaya) - 📫 CLI email client
+- [soywod/himalaya](https://github.com/soywod/himalaya) - CLI email client
 - [yewstack/yew-trunk-minimal-template](https://github.com/yewstack/yew-trunk-minimal-template) - Template for starting a Yew project using Trunk
 - [thedodd/trunk](https://github.com/thedodd/trunk) - Build, bundle & ship your Rust WASM application to the web.
 - [yewstack/yew](https://github.com/yewstack/yew) - Rust / Wasm framework for building client web apps
@@ -1280,7 +1280,7 @@
 - [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell
 - [BurntSushi/xsv](https://github.com/BurntSushi/xsv) - A fast CSV command line toolkit written in Rust.
 - [tweag/nickel](https://github.com/tweag/nickel) - Better configuration for less
-- [NerdyPepper/dijo](https://github.com/NerdyPepper/dijo) - scriptable, curses-based, digital habit tracker
+- [nerdypepper/dijo](https://github.com/nerdypepper/dijo) - scriptable, curses-based, digital habit tracker
 - [imsnif/bandwhich](https://github.com/imsnif/bandwhich) - Terminal bandwidth utilization tool
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [Canop/broot](https://github.com/Canop/broot) - A new way to see and navigate directory trees : https://dystroy.org/broot
