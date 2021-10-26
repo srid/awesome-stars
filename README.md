@@ -471,6 +471,7 @@
 
 ## Haskell 
 
+- [tomferon/eventsourcing](https://github.com/tomferon/eventsourcing) - CQRS/ES library in Haskell
 - [carp-lang/Carp](https://github.com/carp-lang/Carp) - A statically typed lisp, without a GC, for real-time applications.
 - [ongyiren1994/mermaid-hs](https://github.com/ongyiren1994/mermaid-hs) - 
 - [haskell-fswatch/hfsnotify](https://github.com/haskell-fswatch/hfsnotify) - Unified Haskell interface for basic file system notifications
