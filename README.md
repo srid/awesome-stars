@@ -444,7 +444,7 @@
 
 ## HTML 
 
-- [ThomasWang/minimal-twitter](https://github.com/ThomasWang/minimal-twitter) - Minimal Theme for the new Twitter UI 🐦
+- [ThomasWang/minimal-twitter](https://github.com/ThomasWang/minimal-twitter) - Minimal theme for the new Twitter UI
 - [xygn/Notes](https://github.com/xygn/Notes) - Best viewed as an Obsidian Vault.
 - [vitalets/github-trending-repos](https://github.com/vitalets/github-trending-repos) - Track GitHub trending repositories in your favorite programming language by native GitHub notifications!
 - [decentralized-identity/ion](https://github.com/decentralized-identity/ion) - The Identity Overlay Network (ION) is a DID Method implementation using the Sidetree protocol atop Bitcoin
@@ -780,6 +780,9 @@
 
 ## JavaScript 
 
+- [Sean10/markless](https://github.com/Sean10/markless) - temporarily sean10's custom made version from tejasvi/markless. A vscode markdown WYSIWYG extension called Markless_sean10
+- [be5invis/Iosevka](https://github.com/be5invis/Iosevka) - Versatile typeface for code, from code.
+- [tejasvi/markless](https://github.com/tejasvi/markless) - WIP right now
 - [paradoxxxzero/gnome-shell-system-monitor-applet](https://github.com/paradoxxxzero/gnome-shell-system-monitor-applet) - Display system informations in gnome shell status bar, such as memory usage, cpu usage, network rates…
 - [eungjun-yi/copy-as-markdown-quot](https://github.com/eungjun-yi/copy-as-markdown-quot) - Chrome extension to copy text as markdown quote
 - [notlmn/copy-as-markdown](https://github.com/notlmn/copy-as-markdown) - 🖱 Browser extension to copy hyperlinks, images, and selected text as Markdown with GFM support
@@ -1055,7 +1058,7 @@
 
 ## PHP 
 
-- [gharlan/alfred-github-workflow](https://github.com/gharlan/alfred-github-workflow) - GitHub Workflow for Alfred 3/4
+- [gharlan/alfred-github-workflow](https://github.com/gharlan/alfred-github-workflow) - GitHub Workflow for Alfred 4
 
 ## Perl 
 
@@ -1248,7 +1251,7 @@
 - [KSXGitHub/parallel-disk-usage](https://github.com/KSXGitHub/parallel-disk-usage) - Highly parallelized, blazing fast directory tree analyzer
 - [XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei) - Count your code, quickly.
 - [TaKO8Ki/awesome-alternatives-in-rust](https://github.com/TaKO8Ki/awesome-alternatives-in-rust) - A curated list of replacements for existing software written in Rust
-- [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git
+- [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git and diff output
 - [zellij-org/zellij](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included
 - [snoyberg/routetype-rs](https://github.com/snoyberg/routetype-rs) - Strongly typed routes for Rust
 - [getzola/zola](https://github.com/getzola/zola) - A fast static site generator in a single binary with everything built-in. https://www.getzola.org
