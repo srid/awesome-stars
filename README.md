@@ -471,6 +471,9 @@
 
 ## Haskell 
 
+- [purenix-org/purenix](https://github.com/purenix-org/purenix) - Nix backend for PureScript.  Transpile PureScript code to Nix.
+- [yi-editor/yi](https://github.com/yi-editor/yi) - The Haskell-Scriptable Editor
+- [saep/nvim-hs-ghcid](https://github.com/saep/nvim-hs-ghcid) - Ghcid integration plugin for nvim-hs
 - [tomferon/eventsourcing](https://github.com/tomferon/eventsourcing) - CQRS/ES library in Haskell
 - [carp-lang/Carp](https://github.com/carp-lang/Carp) - A statically typed lisp, without a GC, for real-time applications.
 - [ongyiren1994/mermaid-hs](https://github.com/ongyiren1994/mermaid-hs) - 
