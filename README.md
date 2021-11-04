@@ -904,6 +904,7 @@
 
 ## Kotlin 
 
+- [android-password-store/Android-Password-Store](https://github.com/android-password-store/Android-Password-Store) - Android application compatible with ZX2C4's Pass command line application
 - [iSoron/uhabits](https://github.com/iSoron/uhabits) - Loop Habit Tracker, a mobile app for creating and maintaining long-term positive habits
 
 ## Lua 
@@ -929,6 +930,7 @@
 
 ## Nix 
 
+- [hercules-ci/arion](https://github.com/hercules-ci/arion) - Run docker-compose with help from Nix/NixOS
 - [numtide/nix-filter](https://github.com/numtide/nix-filter) - a small self-container source filtering lib
 - [input-output-hk/haskell.nix](https://github.com/input-output-hk/haskell.nix) - Alternative Haskell Infrastructure for Nixpkgs
 - [ursi/purs-nix](https://github.com/ursi/purs-nix) - Manage your PureScript projects with Nix!
