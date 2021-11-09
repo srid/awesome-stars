@@ -931,6 +931,7 @@
 
 ## Nix 
 
+- [input-output-hk/plutus-starter](https://github.com/input-output-hk/plutus-starter) - A starter project for Plutus apps
 - [hercules-ci/arion](https://github.com/hercules-ci/arion) - Run docker-compose with help from Nix/NixOS
 - [numtide/nix-filter](https://github.com/numtide/nix-filter) - a small self-container source filtering lib
 - [input-output-hk/haskell.nix](https://github.com/input-output-hk/haskell.nix) - Alternative Haskell Infrastructure for Nixpkgs
@@ -988,6 +989,7 @@
 
 ## Others 
 
+- [jozefg/learn-tt](https://github.com/jozefg/learn-tt) - A collection of resources for learning type theory and type theory adjacent fields.
 - [dewey92/typed-fp-good-reads](https://github.com/dewey92/typed-fp-good-reads) - 📚 List of useful resources to learn typed FP
 - [mlabs-haskell/awesome-plutus](https://github.com/mlabs-haskell/awesome-plutus) - 
 - [HackerNews/API](https://github.com/HackerNews/API) - Documentation and Samples for the Official HN API
@@ -1100,6 +1102,7 @@
 
 ## Python 
 
+- [caffeine-ng/caffeine-ng](https://github.com/caffeine-ng/caffeine-ng) - ☕ Tray bar application able to temporarily inhibits the screensaver and sleep mode.
 - [speedyg0nz/MagInkCal](https://github.com/speedyg0nz/MagInkCal) - E-Ink Magic Calendar that automatically syncs to Google Calendar and runs off a battery powered Raspberry Pi Zero
 - [boltgolt/howdy](https://github.com/boltgolt/howdy) - 🛡️ Windows Hello™ style facial authentication for Linux
 - [WoeUSB/WoeUSB-ng](https://github.com/WoeUSB/WoeUSB-ng) - WoeUSB-ng is a simple tool that enable you to create your own usb stick windows installer from an iso image or a real DVD. This is a rewrite of original WoeUSB.
