@@ -125,6 +125,7 @@
 
 ## CSS 
 
+- [whyt-byte/Blue-Topaz_Obsidian-css](https://github.com/whyt-byte/Blue-Topaz_Obsidian-css) - A blue theme for Obsidian.
 - [sdras/productive-twitter](https://github.com/sdras/productive-twitter) - Chrome extension: Minimal and friendly theme for productive twitter use
 - [indieweb/indiewebify-me](https://github.com/indieweb/indiewebify-me) - Tools to help you get the best out of your indieweb site
 - [RickStrahl/LiveReloadServer](https://github.com/RickStrahl/LiveReloadServer) - A self-contained, local, cross-platform, static file Web Server with automatic Live Reloading, Markdown rendering and loose Razor Pages support.
@@ -244,7 +245,7 @@
 - [mmark-md/flycheck-mmark](https://github.com/mmark-md/flycheck-mmark) - Flycheck checker for the MMark markdown processor
 - [emacs-circe/circe](https://github.com/emacs-circe/circe) - Circe, a Client for IRC in Emacs
 - [Anton-Latukha/Fundamental-Haskell](https://github.com/Anton-Latukha/Fundamental-Haskell) - Fundamental Haskell book, to the point terse statements on Haskell, Category theory, and related fields. Encyclopedic pocketbook of meaning. Zen kōan-like meditations of understanding. For quick or memory curve spaced repetition learning.
-- [akirak/org-reverse-datetree](https://github.com/akirak/org-reverse-datetree) - Reversed date trees for Emacs Org mode
+- [akirak/org-reverse-datetree](https://github.com/akirak/org-reverse-datetree) - Another implementation of date trees for Emacs Org mode
 - [hlissner/doom-emacs](https://github.com/hlissner/doom-emacs) - An Emacs framework for the stubborn martian hacker
 - [greduan/emacs-theme-gruvbox](https://github.com/greduan/emacs-theme-gruvbox) - Gruvbox is a retro groove color scheme for Emacs. Port of the Vim version.
 - [travisbhartwell/nix-emacs](https://github.com/travisbhartwell/nix-emacs) - A set of useful Emacs modes and functions for users of Nix and Nix OS.
@@ -471,6 +472,7 @@
 
 ## Haskell 
 
+- [input-output-hk/plutus-apps](https://github.com/input-output-hk/plutus-apps) - The Plutus application platform
 - [sdiehl/write-you-a-haskell](https://github.com/sdiehl/write-you-a-haskell) - Building a modern functional compiler from first principles. (http://dev.stephendiehl.com/fun/)
 - [purenix-org/purenix](https://github.com/purenix-org/purenix) - Nix backend for PureScript.  Transpile PureScript code to Nix.
 - [yi-editor/yi](https://github.com/yi-editor/yi) - The Haskell-Scriptable Editor
