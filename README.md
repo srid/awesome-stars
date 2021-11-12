@@ -472,6 +472,7 @@
 
 ## Haskell 
 
+- [zmactep/hasbolt](https://github.com/zmactep/hasbolt) - Haskell driver for Neo4j 3+ (BOLT protocol)
 - [input-output-hk/plutus-apps](https://github.com/input-output-hk/plutus-apps) - The Plutus application platform
 - [sdiehl/write-you-a-haskell](https://github.com/sdiehl/write-you-a-haskell) - Building a modern functional compiler from first principles. (http://dev.stephendiehl.com/fun/)
 - [purenix-org/purenix](https://github.com/purenix-org/purenix) - Nix backend for PureScript.  Transpile PureScript code to Nix.
@@ -1289,7 +1290,7 @@
 - [terminusdb/terminusdb-store](https://github.com/terminusdb/terminusdb-store) - a tokio-enabled data store for triple data
 - [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources.
 - [lunatic-solutions/lunatic](https://github.com/lunatic-solutions/lunatic) - Lunatic is an Erlang inspired runtime for WebAssembly
-- [soywod/himalaya](https://github.com/soywod/himalaya) - CLI email client
+- [soywod/himalaya](https://github.com/soywod/himalaya) - Command-line interface for email management
 - [yewstack/yew-trunk-minimal-template](https://github.com/yewstack/yew-trunk-minimal-template) - Template for starting a Yew project using Trunk
 - [thedodd/trunk](https://github.com/thedodd/trunk) - Build, bundle & ship your Rust WASM application to the web.
 - [yewstack/yew](https://github.com/yewstack/yew) - Rust / Wasm framework for building client web apps
