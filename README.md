@@ -445,6 +445,7 @@
 
 ## HTML 
 
+- [plfa/plfa.github.io](https://github.com/plfa/plfa.github.io) - An introduction to programming language theory in Agda
 - [thomaswang/minimal-twitter](https://github.com/thomaswang/minimal-twitter) - Minimal theme for the new Twitter UI
 - [xygn/Notes](https://github.com/xygn/Notes) - Best viewed as an Obsidian Vault.
 - [vitalets/github-trending-repos](https://github.com/vitalets/github-trending-repos) - Track GitHub trending repositories in your favorite programming language by native GitHub notifications!
