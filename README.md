@@ -445,6 +445,7 @@
 
 ## HTML 
 
+- [iohkedu/haskell-2020](https://github.com/iohkedu/haskell-2020) - Videos and exercises for the Haskell and Cryptocurrencies class.
 - [plfa/plfa.github.io](https://github.com/plfa/plfa.github.io) - An introduction to programming language theory in Agda
 - [thomaswang/minimal-twitter](https://github.com/thomaswang/minimal-twitter) - Minimal theme for the new Twitter UI
 - [xygn/Notes](https://github.com/xygn/Notes) - Best viewed as an Obsidian Vault.
@@ -473,6 +474,9 @@
 
 ## Haskell 
 
+- [input-output-hk/plutus](https://github.com/input-output-hk/plutus) - The Plutus language implementation and tools
+- [windorg/app](https://github.com/windorg/app) - Social note-taking
+- [paf31/dovetail](https://github.com/paf31/dovetail) - A PureScript interpreter in Haskell
 - [zmactep/hasbolt](https://github.com/zmactep/hasbolt) - Haskell driver for Neo4j 3+ (BOLT protocol)
 - [input-output-hk/plutus-apps](https://github.com/input-output-hk/plutus-apps) - The Plutus application platform
 - [sdiehl/write-you-a-haskell](https://github.com/sdiehl/write-you-a-haskell) - Building a modern functional compiler from first principles. (http://dev.stephendiehl.com/fun/)
@@ -539,7 +543,6 @@
 - [srid/obelisk-rhyolite-template](https://github.com/srid/obelisk-rhyolite-template) - A template repository for your Obelisk+Rhyolite projects
 - [reflex-frp/reflex-gadt-api](https://github.com/reflex-frp/reflex-gadt-api) - Interact with a JSON-serialized API defined by a GADT in your reflex-dom application
 - [domenkozar/releaser](https://github.com/domenkozar/releaser) - Automation of Haskell package release process.
-- [expipiplus1/update-nix-fetchgit](https://github.com/expipiplus1/update-nix-fetchgit) - A program to automatically update fetchgit values in Nix expressions
 - [NorfairKing/autorecorder](https://github.com/NorfairKing/autorecorder) - An automatic declarative ASCIInema recorder
 - [AJChapman/co-log-polysemy-formatting](https://github.com/AJChapman/co-log-polysemy-formatting) - A Haskell library: A fancy logging effect for Polysemy using the formatting library to format log messages.
 - [TheMatten/purjs](https://github.com/TheMatten/purjs) - [WIP] wrapper for running purescript compiler in browser
@@ -926,6 +929,7 @@
 
 ## Markdown 
 
+- [input-output-hk/adrestia](https://github.com/input-output-hk/adrestia) - APIs & SDK for interacting with Cardano.
 - [srid/emanote-template](https://github.com/srid/emanote-template) - Notebook template for Emanote
 - [Kuratoro/TheMotte.zettel.page](https://github.com/Kuratoro/TheMotte.zettel.page) - Unofficial Wiki for r/TheMotte
 - [tfausak/haskell-knowledge-base](https://github.com/tfausak/haskell-knowledge-base) - :spider_web: A knowledge map about Haskell powered by Obsidian.
@@ -1290,7 +1294,7 @@
 - [oxigraph/oxigraph](https://github.com/oxigraph/oxigraph) - SPARQL graph database
 - [terminusdb/terminusdb-store](https://github.com/terminusdb/terminusdb-store) - a tokio-enabled data store for triple data
 - [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources.
-- [lunatic-solutions/lunatic](https://github.com/lunatic-solutions/lunatic) - Lunatic is an Erlang inspired runtime for WebAssembly
+- [lunatic-solutions/lunatic](https://github.com/lunatic-solutions/lunatic) - Lunatic is an Erlang-inspired runtime for WebAssembly
 - [soywod/himalaya](https://github.com/soywod/himalaya) - Command-line interface for email management
 - [yewstack/yew-trunk-minimal-template](https://github.com/yewstack/yew-trunk-minimal-template) - Template for starting a Yew project using Trunk
 - [thedodd/trunk](https://github.com/thedodd/trunk) - Build, bundle & ship your Rust WASM application to the web.
@@ -1403,6 +1407,7 @@
 
 ## TypeScript 
 
+- [osmoscraft/osmosmemo](https://github.com/osmoscraft/osmosmemo) - Turn GitHub into a bookmark manager
 - [org-roam/org-roam-ui](https://github.com/org-roam/org-roam-ui) - A graphical frontend for exploring your org-roam Zettelkasten
 - [gitpod-io/openvscode-server](https://github.com/gitpod-io/openvscode-server) - Run upstream VS Code on a remote machine with access through a modern web browser from any device, anywhere.
 - [microsoft/vscode-edge-devtools](https://github.com/microsoft/vscode-edge-devtools) - A VSCode extension that allows you to use browser devtools from within the editor. The devtools will connect to an instance of Microsoft Edge giving you the ability to alter CSS styling, perform diagnostics, and debugging. Get it now at http://aka.ms/devtools-for-code
