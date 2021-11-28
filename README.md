@@ -141,6 +141,7 @@
 
 ## Clojure 
 
+- [arrterian/nix-env-selector](https://github.com/arrterian/nix-env-selector) - Allows switch environment for Visual Studio Code using Nix Package Manager.
 - [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Desktop app download link: https://github.com/logseq/logseq/releases, roadmap: https://trello.com/b/8txSM12G/roadmap
 - [tonsky/FiraCode](https://github.com/tonsky/FiraCode) - Free monospaced font with programming ligatures
 - [omcljs/om](https://github.com/omcljs/om) - ClojureScript interface to Facebook's React
@@ -288,7 +289,7 @@
 - [ionide/Fornax](https://github.com/ionide/Fornax) - Scriptable static site generator using type safe F# DSL to define page templates.
 - [arthurrump/MarkdigExtensions](https://github.com/arthurrump/MarkdigExtensions) - Some useful extensions to the Markdig Markdown processor
 - [srid/fsharp-wasm-static-demo](https://github.com/srid/fsharp-wasm-static-demo) - A proof-of-concept demo of Bolero serverless SPA running on GitHub Pages using WebAssembly
-- [ronaldschlenker/FsHttp](https://github.com/ronaldschlenker/FsHttp) - A lightweight F# HTTP library.
+- [fsprojects/FsHttp](https://github.com/fsprojects/FsHttp) - A lightweight F# HTTP library.
 - [Nhowka/Elmish.Bridge](https://github.com/Nhowka/Elmish.Bridge) - Create client-server Fable-Elmish apps keeping a single mindset
 - [Zaid-Ajaj/Feliz](https://github.com/Zaid-Ajaj/Feliz) - A fresh retake of the React API in Fable and a collection of high-quality components to build React applications in F#, optimized for happiness
 - [Shmew/Fable.SignalR](https://github.com/Shmew/Fable.SignalR) - A functional type-safe wrapper for SignalR and Fable.
@@ -474,6 +475,8 @@
 
 ## Haskell 
 
+- [input-output-hk/cardano-wallet](https://github.com/input-output-hk/cardano-wallet) - HTTP server & command-line for managing UTxOs and HD wallets in Cardano.
+- [srid/unionmount](https://github.com/srid/unionmount) - Union mount in Haskell, with fsnotify
 - [input-output-hk/plutus](https://github.com/input-output-hk/plutus) - The Plutus language implementation and tools
 - [windorg/app](https://github.com/windorg/app) - Social note-taking
 - [paf31/dovetail](https://github.com/paf31/dovetail) - A PureScript interpreter in Haskell
@@ -792,6 +795,8 @@
 
 ## JavaScript 
 
+- [Berry-Pool/nami-wallet](https://github.com/Berry-Pool/nami-wallet) - Nami Wallet is a browser based wallet extension to interact with the Cardano blockchain.
+- [televator-apps/vimari](https://github.com/televator-apps/vimari) - Safari port of vimium
 - [Sean10/markless](https://github.com/Sean10/markless) - temporarily sean10's custom made version from tejasvi/markless. A vscode markdown WYSIWYG extension called Markless_sean10
 - [be5invis/Iosevka](https://github.com/be5invis/Iosevka) - Versatile typeface for code, from code.
 - [tejasvi/markless](https://github.com/tejasvi/markless) - WIP right now
@@ -929,6 +934,7 @@
 
 ## Markdown 
 
+- [uiuc-cs-zettelkasten/uiuc-cs-zettelkasten.github.io](https://github.com/uiuc-cs-zettelkasten/uiuc-cs-zettelkasten.github.io) - UIUC Computer Science Zettelkasten
 - [input-output-hk/adrestia](https://github.com/input-output-hk/adrestia) - APIs & SDK for interacting with Cardano.
 - [srid/emanote-template](https://github.com/srid/emanote-template) - Notebook template for Emanote
 - [Kuratoro/TheMotte.zettel.page](https://github.com/Kuratoro/TheMotte.zettel.page) - Unofficial Wiki for r/TheMotte
@@ -997,6 +1003,7 @@
 
 ## Others 
 
+- [Plutonomicon/plutonomicon](https://github.com/Plutonomicon/plutonomicon) - Advanced techniques in the plutus smart contract language
 - [jozefg/learn-tt](https://github.com/jozefg/learn-tt) - A collection of resources for learning type theory and type theory adjacent fields.
 - [dewey92/typed-fp-good-reads](https://github.com/dewey92/typed-fp-good-reads) - 📚 List of useful resources to learn typed FP
 - [mlabs-haskell/awesome-plutus](https://github.com/mlabs-haskell/awesome-plutus) - 
@@ -1387,6 +1394,7 @@
 
 ## Swift 
 
+- [adur1990/Pass-for-macOS](https://github.com/adur1990/Pass-for-macOS) - macOS wrapper for pass, the standard UNIX password manager
 - [michaelvillar/timer-app](https://github.com/michaelvillar/timer-app) - A simple Timer app for Mac
 - [josh/Aware](https://github.com/josh/Aware) - 
 - [matteocrippa/awesome-swift](https://github.com/matteocrippa/awesome-swift) - A collaborative list of awesome Swift libraries and resources. Feel free to contribute!
@@ -1407,6 +1415,7 @@
 
 ## TypeScript 
 
+- [input-output-hk/cardano-launcher](https://github.com/input-output-hk/cardano-launcher) - Shelley cardano-node and cardano-wallet launcher for NodeJS applications
 - [osmoscraft/osmosmemo](https://github.com/osmoscraft/osmosmemo) - Turn GitHub into a bookmark manager
 - [org-roam/org-roam-ui](https://github.com/org-roam/org-roam-ui) - A graphical frontend for exploring your org-roam Zettelkasten
 - [gitpod-io/openvscode-server](https://github.com/gitpod-io/openvscode-server) - Run upstream VS Code on a remote machine with access through a modern web browser from any device, anywhere.
