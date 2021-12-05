@@ -23,6 +23,7 @@
   - [HTML](#html)
   - [Handlebars](#handlebars)
   - [Haskell](#haskell)
+  - [Idris](#idris)
   - [JSONiq](#jsoniq)
   - [Java](#java)
   - [JavaScript](#javascript)
@@ -42,6 +43,7 @@
   - [PureScript](#purescript)
   - [Python](#python)
   - [Racket](#racket)
+  - [ReScript](#rescript)
   - [Rich Text Format](#rich-text-format)
   - [Roff](#roff)
   - [Ruby](#ruby)
@@ -125,6 +127,8 @@
 
 ## CSS 
 
+- [madmalik/mononoki](https://github.com/madmalik/mononoki) - a programming typeface
+- [cardano-foundation/CIPs](https://github.com/cardano-foundation/CIPs) - 
 - [whyt-byte/Blue-Topaz_Obsidian-css](https://github.com/whyt-byte/Blue-Topaz_Obsidian-css) - A blue theme for Obsidian.
 - [sdras/productive-twitter](https://github.com/sdras/productive-twitter) - Chrome extension: Minimal and friendly theme for productive twitter use
 - [indieweb/indiewebify-me](https://github.com/indieweb/indiewebify-me) - Tools to help you get the best out of your indieweb site
@@ -475,6 +479,9 @@
 
 ## Haskell 
 
+- [serokell/blog-posts](https://github.com/serokell/blog-posts) - 
+- [Plutonomicon/plutarch](https://github.com/Plutonomicon/plutarch) - 
+- [Plutonomicon/pluto](https://github.com/Plutonomicon/pluto) - An untyped Plutus Core assembler
 - [input-output-hk/cardano-wallet](https://github.com/input-output-hk/cardano-wallet) - HTTP server & command-line for managing UTxOs and HD wallets in Cardano.
 - [srid/unionmount](https://github.com/srid/unionmount) - Union mount in Haskell, with fsnotify
 - [input-output-hk/plutus](https://github.com/input-output-hk/plutus) - The Plutus language implementation and tools
@@ -779,6 +786,10 @@
 - [haskell-servant/servant](https://github.com/haskell-servant/servant) - Main repository for the servant libraries — DSL for describing, serving, querying, mocking, documenting web applications and more!
 - [hzlmn/haskell-must-watch](https://github.com/hzlmn/haskell-must-watch) - Huge list of  videos, talks, courses for Haskell programming language.
 
+## Idris 
+
+- [idris-hackers/software-foundations](https://github.com/idris-hackers/software-foundations) - Software Foundations in Idris
+
 ## JSONiq 
 
 - [b0o/neuron-extras](https://github.com/b0o/neuron-extras) - Auto-generate a Table of Contents for your Neuron Zettelkasten.
@@ -795,6 +806,7 @@
 
 ## JavaScript 
 
+- [ThomasFKJorna/emacs-docs](https://github.com/ThomasFKJorna/emacs-docs) - The documentation website Emacs deserves
 - [Berry-Pool/nami-wallet](https://github.com/Berry-Pool/nami-wallet) - Nami Wallet is a browser based wallet extension to interact with the Cardano blockchain.
 - [televator-apps/vimari](https://github.com/televator-apps/vimari) - Safari port of vimium
 - [Sean10/markless](https://github.com/Sean10/markless) - temporarily sean10's custom made version from tejasvi/markless. A vscode markdown WYSIWYG extension called Markless_sean10
@@ -937,7 +949,7 @@
 - [uiuc-cs-zettelkasten/uiuc-cs-zettelkasten.github.io](https://github.com/uiuc-cs-zettelkasten/uiuc-cs-zettelkasten.github.io) - UIUC Computer Science Zettelkasten
 - [input-output-hk/adrestia](https://github.com/input-output-hk/adrestia) - APIs & SDK for interacting with Cardano.
 - [srid/emanote-template](https://github.com/srid/emanote-template) - Notebook template for Emanote
-- [Kuratoro/TheMotte.zettel.page](https://github.com/Kuratoro/TheMotte.zettel.page) - Unofficial Wiki for r/TheMotte
+- [Kuratoro/TheMotte.zettel.page](https://github.com/Kuratoro/TheMotte.zettel.page) - [unmaintained] Unofficial Wiki for r/TheMotte
 - [tfausak/haskell-knowledge-base](https://github.com/tfausak/haskell-knowledge-base) - :spider_web: A knowledge map about Haskell powered by Obsidian.
 - [srid/alien-psychology](https://github.com/srid/alien-psychology) - 3rd Rock From The Sun episodes tagged with psychological concepts
 - [srid/neuron-template](https://github.com/srid/neuron-template) - A template to get started with neuron
@@ -1003,6 +1015,7 @@
 
 ## Others 
 
+- [bor0/gidti](https://github.com/bor0/gidti) - Book: Gentle Introduction to Dependent Types with Idris
 - [Plutonomicon/plutonomicon](https://github.com/Plutonomicon/plutonomicon) - Advanced techniques in the plutus smart contract language
 - [jozefg/learn-tt](https://github.com/jozefg/learn-tt) - A collection of resources for learning type theory and type theory adjacent fields.
 - [dewey92/typed-fp-good-reads](https://github.com/dewey92/typed-fp-good-reads) - 📚 List of useful resources to learn typed FP
@@ -1229,6 +1242,10 @@
 - [ntoronto/pict3d](https://github.com/ntoronto/pict3d) - 3-dimensional picts
 - [mbutterick/pollen](https://github.com/mbutterick/pollen) - book-publishing system in Racket
 
+## ReScript 
+
+- [banacorn/agda-mode-vscode](https://github.com/banacorn/agda-mode-vscode) - agda-mode on VS Code
+
 ## Rich Text Format 
 
 - [MacDownApp/macdown](https://github.com/MacDownApp/macdown) - Open source Markdown editor for macOS.
@@ -1278,7 +1295,7 @@
 - [KSXGitHub/parallel-disk-usage](https://github.com/KSXGitHub/parallel-disk-usage) - Highly parallelized, blazing fast directory tree analyzer
 - [XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei) - Count your code, quickly.
 - [TaKO8Ki/awesome-alternatives-in-rust](https://github.com/TaKO8Ki/awesome-alternatives-in-rust) - A curated list of replacements for existing software written in Rust
-- [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git and diff output
+- [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, and grep output
 - [zellij-org/zellij](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included
 - [snoyberg/routetype-rs](https://github.com/snoyberg/routetype-rs) - Strongly typed routes for Rust
 - [getzola/zola](https://github.com/getzola/zola) - A fast static site generator in a single binary with everything built-in. https://www.getzola.org
@@ -1415,6 +1432,7 @@
 
 ## TypeScript 
 
+- [meraymond2/idris-vscode](https://github.com/meraymond2/idris-vscode) - Idris front-end for VS Code
 - [input-output-hk/cardano-launcher](https://github.com/input-output-hk/cardano-launcher) - Shelley cardano-node and cardano-wallet launcher for NodeJS applications
 - [osmoscraft/osmosmemo](https://github.com/osmoscraft/osmosmemo) - Turn GitHub into a bookmark manager
 - [org-roam/org-roam-ui](https://github.com/org-roam/org-roam-ui) - A graphical frontend for exploring your org-roam Zettelkasten
