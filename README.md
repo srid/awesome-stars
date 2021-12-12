@@ -5,6 +5,7 @@
 
 ## Contents
 
+  - [Agda](#agda)
   - [AutoHotkey](#autohotkey)
   - [C](#c)
   - [C#](#c#)
@@ -59,6 +60,11 @@
   - [Vala](#vala)
   - [Vim script](#vim-script)
   - [Vue](#vue)
+
+## Agda 
+
+- [pigworker/CS410-17](https://github.com/pigworker/CS410-17) - being the lecture materials and exercises for the 2017/18 session of CS410 Advanced Functional Programming at the University of Strathclyde
+- [conal/denotational-hardware](https://github.com/conal/denotational-hardware) - Denotational hardware design in Agda
 
 ## AutoHotkey 
 
@@ -479,8 +485,13 @@
 
 ## Haskell 
 
-- [serokell/blog-posts](https://github.com/serokell/blog-posts) - 
+- [RyanGlScott/ghc-software-foundations](https://github.com/RyanGlScott/ghc-software-foundations) - The Software Foundations book, in GHC
 - [Plutonomicon/plutarch](https://github.com/Plutonomicon/plutarch) - 
+- [hedgehogqa/haskell-hedgehog](https://github.com/hedgehogqa/haskell-hedgehog) - Release with confidence, state-of-the-art property testing for Haskell.
+- [srid/emanote](https://github.com/srid/emanote) - Spiritual successor to neuron, based on Ema.
+- [jonascarpay/apecs](https://github.com/jonascarpay/apecs) - a fast, extensible, type driven Haskell ECS framework for games
+- [LeapYear/aeson-schemas](https://github.com/LeapYear/aeson-schemas) - Easily consume JSON data on-demand with type-safety
+- [serokell/blog-posts](https://github.com/serokell/blog-posts) - 
 - [Plutonomicon/pluto](https://github.com/Plutonomicon/pluto) - An untyped Plutus Core assembler
 - [input-output-hk/cardano-wallet](https://github.com/input-output-hk/cardano-wallet) - HTTP server & command-line for managing UTxOs and HD wallets in Cardano.
 - [srid/unionmount](https://github.com/srid/unionmount) - Union mount in Haskell, with fsnotify
@@ -957,6 +968,7 @@
 
 ## Nix 
 
+- [srid/haskell-template](https://github.com/srid/haskell-template) - Haskell project template using Nix + Flakes + VSCode (HLS)
 - [input-output-hk/plutus-starter](https://github.com/input-output-hk/plutus-starter) - A starter project for Plutus apps
 - [hercules-ci/arion](https://github.com/hercules-ci/arion) - Run docker-compose with help from Nix/NixOS
 - [numtide/nix-filter](https://github.com/numtide/nix-filter) - a small self-container source filtering lib
