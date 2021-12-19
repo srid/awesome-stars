@@ -63,6 +63,8 @@
 
 ## Agda 
 
+- [agda/agda2hs](https://github.com/agda/agda2hs) - Compiling Agda code to readable Haskell
+- [alhassy/AgdaCheatSheet](https://github.com/alhassy/AgdaCheatSheet) - Basics of the dependently-typed functional language Agda ^_^
 - [pigworker/CS410-17](https://github.com/pigworker/CS410-17) - being the lecture materials and exercises for the 2017/18 session of CS410 Advanced Functional Programming at the University of Strathclyde
 - [conal/denotational-hardware](https://github.com/conal/denotational-hardware) - Denotational hardware design in Agda
 
@@ -299,7 +301,7 @@
 - [ionide/Fornax](https://github.com/ionide/Fornax) - Scriptable static site generator using type safe F# DSL to define page templates.
 - [arthurrump/MarkdigExtensions](https://github.com/arthurrump/MarkdigExtensions) - Some useful extensions to the Markdig Markdown processor
 - [srid/fsharp-wasm-static-demo](https://github.com/srid/fsharp-wasm-static-demo) - A proof-of-concept demo of Bolero serverless SPA running on GitHub Pages using WebAssembly
-- [fsprojects/FsHttp](https://github.com/fsprojects/FsHttp) - A lightweight F# HTTP library.
+- [fsprojects/FsHttp](https://github.com/fsprojects/FsHttp) - A lightweight F# HTTP library by @ronaldschlenker
 - [Nhowka/Elmish.Bridge](https://github.com/Nhowka/Elmish.Bridge) - Create client-server Fable-Elmish apps keeping a single mindset
 - [Zaid-Ajaj/Feliz](https://github.com/Zaid-Ajaj/Feliz) - A fresh retake of the React API in Fable and a collection of high-quality components to build React applications in F#, optimized for happiness
 - [Shmew/Fable.SignalR](https://github.com/Shmew/Fable.SignalR) - A functional type-safe wrapper for SignalR and Fable.
@@ -968,6 +970,8 @@
 
 ## Nix 
 
+- [NixOS/templates](https://github.com/NixOS/templates) - Flake templates
+- [srid/agda-template](https://github.com/srid/agda-template) - Imperfect Agda project template using Nix
 - [srid/haskell-template](https://github.com/srid/haskell-template) - Haskell project template using Nix + Flakes + VSCode (HLS)
 - [input-output-hk/plutus-starter](https://github.com/input-output-hk/plutus-starter) - A starter project for Plutus apps
 - [hercules-ci/arion](https://github.com/hercules-ci/arion) - Run docker-compose with help from Nix/NixOS
@@ -1123,7 +1127,7 @@
 
 - [purescript-gjs/purescript-gjs](https://github.com/purescript-gjs/purescript-gjs) - GNOME JavaScript bindings for PureScript
 - [lumihq/purescript-react-basic](https://github.com/lumihq/purescript-react-basic) - An opinionated set of bindings to the React library, optimizing for the most basic use cases
-- [spicydonuts/purescript-react-basic-hooks](https://github.com/spicydonuts/purescript-react-basic-hooks) - An implementation of React hooks on top of purescript-react-basic
+- [megamaddu/purescript-react-basic-hooks](https://github.com/megamaddu/purescript-react-basic-hooks) - An implementation of React hooks on top of purescript-react-basic
 - [kritzcreek/pscid](https://github.com/kritzcreek/pscid) - A lightweight, fast and unintrusive PureScript file-watcher
 - [juspay/purescript-presto](https://github.com/juspay/purescript-presto) - Write Apps like Mathematical Equations!
 - [restaumatic/purescript-specular](https://github.com/restaumatic/purescript-specular) - A Reflex-Dom inspired UI library for PureScript
