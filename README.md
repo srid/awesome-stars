@@ -132,6 +132,7 @@
 - [giuspen/cherrytree](https://github.com/giuspen/cherrytree) - cherrytree
 - [tekezo/Karabiner](https://github.com/tekezo/Karabiner) - Karabiner (KeyRemap4MacBook) is a powerful utility for keyboard customization.
 - [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
+- [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell.
 
 ## CSS 
 
@@ -487,8 +488,12 @@
 
 ## Haskell 
 
+- [bgamari/criterion-compare](https://github.com/bgamari/criterion-compare) - A simple tool for visualising differences in Criterion benchmark results
+- [Plutonomicon/pluton](https://github.com/Plutonomicon/pluton) - Plutarch eDSL, enriched
+- [srid/ema-template](https://github.com/srid/ema-template) - Template repo for Ema static site generator
+- [kosmikus/SSGEP](https://github.com/kosmikus/SSGEP) - 
 - [RyanGlScott/ghc-software-foundations](https://github.com/RyanGlScott/ghc-software-foundations) - The Software Foundations book, in GHC
-- [Plutonomicon/plutarch](https://github.com/Plutonomicon/plutarch) - 
+- [Plutonomicon/plutarch](https://github.com/Plutonomicon/plutarch) - Typed eDSL for writing UPLC
 - [hedgehogqa/haskell-hedgehog](https://github.com/hedgehogqa/haskell-hedgehog) - Release with confidence, state-of-the-art property testing for Haskell.
 - [srid/emanote](https://github.com/srid/emanote) - Spiritual successor to neuron, based on Ema.
 - [jonascarpay/apecs](https://github.com/jonascarpay/apecs) - a fast, extensible, type driven Haskell ECS framework for games
@@ -752,7 +757,6 @@
 - [Soostone/katip](https://github.com/Soostone/katip) - A structured logging framework for Haskell
 - [jaspervdj/hakyll](https://github.com/jaspervdj/hakyll) - A static website compiler library in Haskell
 - [FPtje/miso-isomorphic-example](https://github.com/FPtje/miso-isomorphic-example) - Minimalistic single page example of Miso's isomorphic feature.
-- [lk-geimfari/awesomo](https://github.com/lk-geimfari/awesomo) - Cool open source projects written in C, C++, Clojure, Lisp, Elixir, Erlang, Elm, Golang, Haskell, JavaScript, Lua, OCaml, Python, R, Ruby, Rust, Scala, etc.
 - [sebastiaanvisser/clay](https://github.com/sebastiaanvisser/clay) - A CSS preprocessor as embedded Haskell.
 - [dmjio/envy](https://github.com/dmjio/envy) - :angry: Environmentally friendly environment variables
 - [chrisdone/jl](https://github.com/chrisdone/jl) - Functional sed for JSON
@@ -801,6 +805,8 @@
 
 ## Idris 
 
+- [idris-lang/Idris2](https://github.com/idris-lang/Idris2) - A purely functional programming language with first class types
+- [andorp/order-taking](https://github.com/andorp/order-taking) - Idris version of Domain Modeling Made Functional Book.
 - [idris-hackers/software-foundations](https://github.com/idris-hackers/software-foundations) - Software Foundations in Idris
 
 ## JSONiq 
@@ -970,6 +976,8 @@
 
 ## Nix 
 
+- [claymager/idris2-pkgs](https://github.com/claymager/idris2-pkgs) - An unofficial Idris2 package repository for Nix
+- [srid/idris-js-template](https://github.com/srid/idris-js-template) - Idris template for JavaScript projects
 - [NixOS/templates](https://github.com/NixOS/templates) - Flake templates
 - [srid/agda-template](https://github.com/srid/agda-template) - Imperfect Agda project template using Nix
 - [srid/haskell-template](https://github.com/srid/haskell-template) - Haskell project template using Nix + Flakes + VSCode (HLS)
@@ -979,7 +987,7 @@
 - [input-output-hk/haskell.nix](https://github.com/input-output-hk/haskell.nix) - Alternative Haskell Infrastructure for Nixpkgs
 - [ursi/purs-nix](https://github.com/ursi/purs-nix) - Manage your PureScript projects with Nix!
 - [danielfullmer/robotnix](https://github.com/danielfullmer/robotnix) - Build Android (AOSP) using Nix
-- [nix-community/neovim-nightly-overlay](https://github.com/nix-community/neovim-nightly-overlay) - [maintainer=@mjlbach]
+- [nix-community/neovim-nightly-overlay](https://github.com/nix-community/neovim-nightly-overlay) - 
 - [serokell/templates](https://github.com/serokell/templates) - 
 - [kolloch/crate2nix](https://github.com/kolloch/crate2nix) - nix build file generator for rust crates
 - [oxalica/rust-overlay](https://github.com/oxalica/rust-overlay) - Pure and reproducible nix overlay of binary distributed rust toolchains
@@ -1171,6 +1179,7 @@
 - [wee-slack/wee-slack](https://github.com/wee-slack/wee-slack) - A WeeChat script for Slack.com. Supports threads and reactions, synchronizes read markers, provides typing notification, etc..
 - [cmanaha/python-elasticsearch-logger](https://github.com/cmanaha/python-elasticsearch-logger) - Python Elasticsearch handler for the standard python logging framework
 - [python/cpython](https://github.com/python/cpython) - The Python programming language
+- [lk-geimfari/awesomo](https://github.com/lk-geimfari/awesomo) - Cool open source projects written in C, C++, Clojure, Lisp, Elixir, Erlang, Elm, Golang, Haskell, JavaScript, Lua, OCaml, Python, R, Ruby, Rust, Scala, etc.
 - [maxking/paper-to-git](https://github.com/maxking/paper-to-git) - Sync documents from Dropbox Paper to local/remote git repository.
 - [qfpl/hpython](https://github.com/qfpl/hpython) - Haskell language tools for Python
 - [w0lfschild/Flashlight](https://github.com/w0lfschild/Flashlight) - :mag_right: Enhance Spotlight with plugins on macOS
@@ -1299,6 +1308,7 @@
 
 ## Rust 
 
+- [zcash/orchard](https://github.com/zcash/orchard) - TBD
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 - [jD91mZM2/xidlehook](https://github.com/jD91mZM2/xidlehook) - GitLab: https://gitlab.com/jD91mZM2/xidlehook
 - [rschmukler/caffeinate](https://github.com/rschmukler/caffeinate) - Keeping xidlehook woke
@@ -1410,7 +1420,6 @@
 - [jpetazzo/pipework](https://github.com/jpetazzo/pipework) - Software-Defined Networking tools for LXC (LinuX Containers)
 - [philwhln/stackato-buildpack-racket](https://github.com/philwhln/stackato-buildpack-racket) - 
 - [mrdavidlaing/stackato-buildpack-mono](https://github.com/mrdavidlaing/stackato-buildpack-mono) - A buildpack for running Mono apps on stackato
-- [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell.
 - [progrium/gitreceive](https://github.com/progrium/gitreceive) - Easily accept and handle arbitrary git pushes
 - [srid/heroku-buildpack-jekyll](https://github.com/srid/heroku-buildpack-jekyll) - 
 - [ingydotnet/pairup-stackato](https://github.com/ingydotnet/pairup-stackato) - PairUp! - The Pair Programming Station that runs as a Stackato App
