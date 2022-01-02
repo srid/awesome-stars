@@ -33,6 +33,7 @@
   - [Lua](#lua)
   - [Makefile](#makefile)
   - [Markdown](#markdown)
+  - [Nim](#nim)
   - [Nix](#nix)
   - [OCaml](#ocaml)
   - [Objective-C](#objective-c)
@@ -49,6 +50,7 @@
   - [Roff](#roff)
   - [Ruby](#ruby)
   - [Rust](#rust)
+  - [SCSS](#scss)
   - [Scala](#scala)
   - [Scheme](#scheme)
   - [Shell](#shell)
@@ -459,6 +461,7 @@
 
 ## HTML 
 
+- [boris-marinov/category-theory-illustrated](https://github.com/boris-marinov/category-theory-illustrated) - A book about category theory
 - [iohkedu/haskell-2020](https://github.com/iohkedu/haskell-2020) - Videos and exercises for the Haskell and Cryptocurrencies class.
 - [plfa/plfa.github.io](https://github.com/plfa/plfa.github.io) - An introduction to programming language theory in Agda
 - [thomaswang/minimal-twitter](https://github.com/thomaswang/minimal-twitter) - Minimal theme for the new Twitter UI
@@ -488,6 +491,7 @@
 
 ## Haskell 
 
+- [ku-fpg/blank-canvas](https://github.com/ku-fpg/blank-canvas) - A Haskell API into HTML5 Canvas
 - [bgamari/criterion-compare](https://github.com/bgamari/criterion-compare) - A simple tool for visualising differences in Criterion benchmark results
 - [Plutonomicon/pluton](https://github.com/Plutonomicon/pluton) - Plutarch eDSL, enriched
 - [srid/ema-template](https://github.com/srid/ema-template) - Template repo for Ema static site generator
@@ -805,6 +809,8 @@
 
 ## Idris 
 
+- [statebox/idris-ct](https://github.com/statebox/idris-ct) - formally verified category theory library
+- [stefan-hoeck/idris2-dom](https://github.com/stefan-hoeck/idris2-dom) - Javascript DOM bindings for Idris2
 - [idris-lang/Idris2](https://github.com/idris-lang/Idris2) - A purely functional programming language with first class types
 - [andorp/order-taking](https://github.com/andorp/order-taking) - Idris version of Domain Modeling Made Functional Book.
 - [idris-hackers/software-foundations](https://github.com/idris-hackers/software-foundations) - Software Foundations in Idris
@@ -825,12 +831,13 @@
 
 ## JavaScript 
 
+- [Emurgo/yoroi-frontend](https://github.com/Emurgo/yoroi-frontend) - Yoroi Wallet - Cardano ADA Wallet - Your gateway to the financial world (extension frontend)
 - [ThomasFKJorna/emacs-docs](https://github.com/ThomasFKJorna/emacs-docs) - The documentation website Emacs deserves
 - [Berry-Pool/nami-wallet](https://github.com/Berry-Pool/nami-wallet) - Nami Wallet is a browser based wallet extension to interact with the Cardano blockchain.
 - [televator-apps/vimari](https://github.com/televator-apps/vimari) - Safari port of vimium
 - [Sean10/markless](https://github.com/Sean10/markless) - temporarily sean10's custom made version from tejasvi/markless. A vscode markdown WYSIWYG extension called Markless_sean10
 - [be5invis/Iosevka](https://github.com/be5invis/Iosevka) - Versatile typeface for code, from code.
-- [tejasvi/markless](https://github.com/tejasvi/markless) - WIP right now
+- [tejasvi/markless](https://github.com/tejasvi/markless) - Preview markdown inline and extend the capabilities through VS Code extensions.
 - [paradoxxxzero/gnome-shell-system-monitor-applet](https://github.com/paradoxxxzero/gnome-shell-system-monitor-applet) - Display system informations in gnome shell status bar, such as memory usage, cpu usage, network rates…
 - [eungjun-yi/copy-as-markdown-quot](https://github.com/eungjun-yi/copy-as-markdown-quot) - Chrome extension to copy text as markdown quote
 - [notlmn/copy-as-markdown](https://github.com/notlmn/copy-as-markdown) - 🖱 Browser extension to copy hyperlinks, images, and selected text as Markdown with GFM support
@@ -974,8 +981,13 @@
 - [srid/neuron-template](https://github.com/srid/neuron-template) - A template to get started with neuron
 - [Kuratoro/zk.zettel.page](https://github.com/Kuratoro/zk.zettel.page) - r/Zettelkasten's Zettelkasten
 
+## Nim 
+
+- [bluenote10/NimSvg](https://github.com/bluenote10/NimSvg) - Nim-based DSL allowing to generate SVG files and GIF animations.
+
 ## Nix 
 
+- [srid/anima](https://github.com/srid/anima) - Playground for creating animations programatically
 - [claymager/idris2-pkgs](https://github.com/claymager/idris2-pkgs) - An unofficial Idris2 package repository for Nix
 - [srid/idris-js-template](https://github.com/srid/idris-js-template) - Idris template for JavaScript projects
 - [NixOS/templates](https://github.com/NixOS/templates) - Flake templates
@@ -1039,6 +1051,8 @@
 
 ## Others 
 
+- [bolt12/advent-of-haskell-dd](https://github.com/bolt12/advent-of-haskell-dd) - Day 9 of Advent of Haskell - Denotational Design
+- [fiatjaf/nostr](https://github.com/fiatjaf/nostr) - a truly censorship-resistant alternative to Twitter that has a chance of working
 - [bor0/gidti](https://github.com/bor0/gidti) - Book: Gentle Introduction to Dependent Types with Idris
 - [Plutonomicon/plutonomicon](https://github.com/Plutonomicon/plutonomicon) - Advanced techniques in the plutus smart contract language
 - [jozefg/learn-tt](https://github.com/jozefg/learn-tt) - A collection of resources for learning type theory and type theory adjacent fields.
@@ -1346,7 +1360,6 @@
 - [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources.
 - [lunatic-solutions/lunatic](https://github.com/lunatic-solutions/lunatic) - Lunatic is an Erlang-inspired runtime for WebAssembly
 - [soywod/himalaya](https://github.com/soywod/himalaya) - Command-line interface for email management
-- [yewstack/yew-trunk-minimal-template](https://github.com/yewstack/yew-trunk-minimal-template) - Template for starting a Yew project using Trunk
 - [thedodd/trunk](https://github.com/thedodd/trunk) - Build, bundle & ship your Rust WASM application to the web.
 - [yewstack/yew](https://github.com/yewstack/yew) - Rust / Wasm framework for building client web apps
 - [jameslittle230/stork](https://github.com/jameslittle230/stork) - 🔎 Impossibly fast web search, made for static sites.
@@ -1362,6 +1375,10 @@
 - [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
 - [mitsuhiko/rust-osascript](https://github.com/mitsuhiko/rust-osascript) - Rust wrapper around a bit of osascript
 - [ogham/exa](https://github.com/ogham/exa) - A modern replacement for ‘ls’.
+
+## SCSS 
+
+- [yewstack/yew-trunk-minimal-template](https://github.com/yewstack/yew-trunk-minimal-template) - Template for starting a Yew project using Trunk
 
 ## Scala 
 
@@ -1457,6 +1474,7 @@
 
 ## TypeScript 
 
+- [gcanti/fp-ts](https://github.com/gcanti/fp-ts) - Functional programming in TypeScript
 - [meraymond2/idris-vscode](https://github.com/meraymond2/idris-vscode) - Idris front-end for VS Code
 - [input-output-hk/cardano-launcher](https://github.com/input-output-hk/cardano-launcher) - Shelley cardano-node and cardano-wallet launcher for NodeJS applications
 - [osmoscraft/osmosmemo](https://github.com/osmoscraft/osmosmemo) - Turn GitHub into a bookmark manager
