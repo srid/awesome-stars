@@ -65,6 +65,7 @@
 
 ## Agda 
 
+- [isovector/agda-playground](https://github.com/isovector/agda-playground) - 
 - [agda/agda2hs](https://github.com/agda/agda2hs) - Compiling Agda code to readable Haskell
 - [alhassy/AgdaCheatSheet](https://github.com/alhassy/AgdaCheatSheet) - Basics of the dependently-typed functional language Agda ^_^
 - [pigworker/CS410-17](https://github.com/pigworker/CS410-17) - being the lecture materials and exercises for the 2017/18 session of CS410 Advanced Functional Programming at the University of Strathclyde
@@ -467,6 +468,7 @@
 - [xygn/Notes](https://github.com/xygn/Notes) - Best viewed as an Obsidian Vault.
 - [vitalets/github-trending-repos](https://github.com/vitalets/github-trending-repos) - Track GitHub trending repositories in your favorite programming language by native GitHub notifications!
 - [decentralized-identity/ion](https://github.com/decentralized-identity/ion) - The Identity Overlay Network (ION) is a DID Method implementation using the Sidetree protocol atop Bitcoin
+- [sveltejs/kit](https://github.com/sveltejs/kit) - The fastest way to build Svelte apps
 - [dotnet-foundation/website](https://github.com/dotnet-foundation/website) - The .NET Foundation's website
 - [fenwick67/mastofeed](https://github.com/fenwick67/mastofeed) - ActivityPub feed =&gt; iframe embed.  https://www.mastofeed.com
 - [aca/aca.github.io](https://github.com/aca/aca.github.io) - 
@@ -494,7 +496,7 @@
 - [srid/banyan](https://github.com/srid/banyan) - Tree of time
 - [ku-fpg/blank-canvas](https://github.com/ku-fpg/blank-canvas) - A Haskell API into HTML5 Canvas
 - [bgamari/criterion-compare](https://github.com/bgamari/criterion-compare) - A simple tool for visualising differences in Criterion benchmark results
-- [Plutonomicon/pluton](https://github.com/Plutonomicon/pluton) - Plutarch eDSL, enriched
+- [Plutonomicon/pluton](https://github.com/Plutonomicon/pluton) - Plutarch: Smart Contracts & benchmarks
 - [srid/ema-template](https://github.com/srid/ema-template) - Template repo for Ema static site generator
 - [kosmikus/SSGEP](https://github.com/kosmikus/SSGEP) - 
 - [RyanGlScott/ghc-software-foundations](https://github.com/RyanGlScott/ghc-software-foundations) - The Software Foundations book, in GHC
@@ -522,6 +524,7 @@
 - [haskell-fswatch/hfsnotify](https://github.com/haskell-fswatch/hfsnotify) - Unified Haskell interface for basic file system notifications
 - [srid/TheMotteDashboard](https://github.com/srid/TheMotteDashboard) - A dashboard for r/TheMotte, powered by Ema
 - [eskimor/purescript-bridge](https://github.com/eskimor/purescript-bridge) - Create PureScript datatypes from Haskell datatypes
+- [input-output-hk/plutus-pioneer-program](https://github.com/input-output-hk/plutus-pioneer-program) - 
 - [well-typed/cborg](https://github.com/well-typed/cborg) - Binary serialisation in the CBOR format
 - [simonmichael/hledger](https://github.com/simonmichael/hledger) - A reliable, user-friendly Plain Text Accounting tool with command line, terminal and web interfaces.
 - [fumieval/extensible](https://github.com/fumieval/extensible) - Extensible records, variants, structs, effects, tangles
@@ -809,6 +812,7 @@
 
 ## Idris 
 
+- [stefan-hoeck/idris2-tutorial](https://github.com/stefan-hoeck/idris2-tutorial) - 
 - [statebox/idris-ct](https://github.com/statebox/idris-ct) - formally verified category theory library
 - [stefan-hoeck/idris2-dom](https://github.com/stefan-hoeck/idris2-dom) - Javascript DOM bindings for Idris2
 - [idris-lang/Idris2](https://github.com/idris-lang/Idris2) - A purely functional programming language with first class types
@@ -831,6 +835,7 @@
 
 ## JavaScript 
 
+- [publiusfederalist/zooko](https://github.com/publiusfederalist/zooko) - Uncensorable, immutable microblogging platform that is completely decentralized and does not rely on any centralized systems, only the Handshake blockchain
 - [Emurgo/yoroi-frontend](https://github.com/Emurgo/yoroi-frontend) - Yoroi Wallet - Cardano ADA Wallet - Your gateway to the financial world (extension frontend)
 - [ThomasFKJorna/emacs-docs](https://github.com/ThomasFKJorna/emacs-docs) - The documentation website Emacs deserves
 - [Berry-Pool/nami-wallet](https://github.com/Berry-Pool/nami-wallet) - Nami Wallet is a browser based wallet extension to interact with the Cardano blockchain.
@@ -838,7 +843,7 @@
 - [Sean10/markless](https://github.com/Sean10/markless) - temporarily sean10's custom made version from tejasvi/markless. A vscode markdown WYSIWYG extension called Markless_sean10
 - [be5invis/Iosevka](https://github.com/be5invis/Iosevka) - Versatile typeface for code, from code.
 - [tejasvi/markless](https://github.com/tejasvi/markless) - Preview markdown inline and extend the capabilities through VS Code extensions.
-- [thomaswang/minimal-twitter](https://github.com/thomaswang/minimal-twitter) - Declutter your Twitter web experience.
+- [thomaswang/minimal-twitter](https://github.com/thomaswang/minimal-twitter) - Minimal Theme for Twitter — Declutter your Twitter web experience
 - [paradoxxxzero/gnome-shell-system-monitor-applet](https://github.com/paradoxxxzero/gnome-shell-system-monitor-applet) - Display system informations in gnome shell status bar, such as memory usage, cpu usage, network rates…
 - [eungjun-yi/copy-as-markdown-quot](https://github.com/eungjun-yi/copy-as-markdown-quot) - Chrome extension to copy text as markdown quote
 - [notlmn/copy-as-markdown](https://github.com/notlmn/copy-as-markdown) - 🖱 Browser extension to copy hyperlinks, images, and selected text as Markdown with GFM support
@@ -860,7 +865,6 @@
 - [altfinder/tubeshift-extension](https://github.com/altfinder/tubeshift-extension) - Same Video, Less YouTube
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🍰 Everything is RSSible
-- [sveltejs/kit](https://github.com/sveltejs/kit) - The fastest way to build Svelte apps
 - [bangle-io/bangle.dev](https://github.com/bangle-io/bangle.dev) - Collection of higher level rich text editing tools. It powers the local only note taking app https://bangle.io
 - [BamButz/msbuild-tailwindcss](https://github.com/BamButz/msbuild-tailwindcss) - Adds a build action to process stylesheets through postcss/tailwind
 - [satellite-earth/totality](https://github.com/satellite-earth/totality) - 
@@ -889,7 +893,7 @@
 - [iamcco/markdown-preview.nvim](https://github.com/iamcco/markdown-preview.nvim) - markdown preview plugin for (neo)vim
 - [thomaspark/flexboxfroggy](https://github.com/thomaspark/flexboxfroggy) - A game for learning CSS flexbox 🐸
 - [Gruntfuggly/vscode-journal-view](https://github.com/Gruntfuggly/vscode-journal-view) - Adds a sidebar viewlet for vscode-journal
-- [Lemmih/ClozeCards](https://github.com/Lemmih/ClozeCards) - ClozeCards Beta.
+- [lemmih/ClozeCards](https://github.com/lemmih/ClozeCards) - ClozeCards Beta.
 - [thelounge/thelounge](https://github.com/thelounge/thelounge) - 💬  ‎ Modern, responsive, cross-platform, self-hosted web IRC client
 - [google/bottery](https://github.com/google/bottery) - 
 - [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - 💯 Curated interview preparation materials for busy engineers
@@ -1053,16 +1057,17 @@
 
 ## Others 
 
+- [srid/papers](https://github.com/srid/papers) - 
 - [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
 - [isovector/papers](https://github.com/isovector/papers) - I will read and engage with one paper a week.
 - [bolt12/advent-of-haskell-dd](https://github.com/bolt12/advent-of-haskell-dd) - Day 9 of Advent of Haskell - Denotational Design
 - [fiatjaf/nostr](https://github.com/fiatjaf/nostr) - a truly censorship-resistant alternative to Twitter that has a chance of working
+- [Orb-Labs/Orbis-Project](https://github.com/Orb-Labs/Orbis-Project) - ZK rollups for Cardano
 - [bor0/gidti](https://github.com/bor0/gidti) - Book: Gentle Introduction to Dependent Types with Idris
 - [jozefg/learn-tt](https://github.com/jozefg/learn-tt) - A collection of resources for learning type theory and type theory adjacent fields.
 - [dewey92/typed-fp-good-reads](https://github.com/dewey92/typed-fp-good-reads) - 📚 List of useful resources to learn typed FP
 - [mlabs-haskell/awesome-plutus](https://github.com/mlabs-haskell/awesome-plutus) - 
 - [HackerNews/API](https://github.com/HackerNews/API) - Documentation and Samples for the Official HN API
-- [input-output-hk/plutus-pioneer-program](https://github.com/input-output-hk/plutus-pioneer-program) - 
 - [input-output-hk/essential-cardano](https://github.com/input-output-hk/essential-cardano) - Repository for the Essential Cardano list
 - [SteveMCarroll/PronouncingNamesForEnglishSpeakers](https://github.com/SteveMCarroll/PronouncingNamesForEnglishSpeakers) - A practical guide to how to pronounce non-English names for English speakers
 - [gdamdam/awesome-decentralized-web](https://github.com/gdamdam/awesome-decentralized-web) - an awesome list of decentralized services and technologies
@@ -1080,13 +1085,13 @@
 - [quozd/awesome-dotnet](https://github.com/quozd/awesome-dotnet) - A collection of awesome .NET libraries, tools, frameworks and software
 - [fsbolero/awesome-bolero](https://github.com/fsbolero/awesome-bolero) - A curated list of Bolero samples, community projects, blogs and tutorials
 - [AdrienTorris/awesome-blazor](https://github.com/AdrienTorris/awesome-blazor) - Resources for Blazor, a .NET web framework using C#/Razor and HTML that runs in the browser with WebAssembly.
-- [Kavignon/fsharp-companies](https://github.com/Kavignon/fsharp-companies) - Community curated list of companies that use F#
+- [fsprojects/fsharp-companies](https://github.com/fsprojects/fsharp-companies) - Community curated list of companies that use F#
 - [protocol/reading-group](https://github.com/protocol/reading-group) - papers to read
 - [rubymorillo/pocket-tech-writing-list](https://github.com/rubymorillo/pocket-tech-writing-list) - A small but formidable list of technical writing resources for developers
 - [fpindia/jobs](https://github.com/fpindia/jobs) - An up to date listing of all FP jobs open to folks in India
 - [prathyvsh/networked-notebooks](https://github.com/prathyvsh/networked-notebooks) - Hyperlinked notebooks
 - [pepeiborra/hls-tutorial](https://github.com/pepeiborra/hls-tutorial) - A tutorial on writing Haskell Language Server plugins
-- [iggredible/Learn-Vim](https://github.com/iggredible/Learn-Vim) - Learning Vim and Vimscript doesn't have to be hard. This is the guide that you're looking for.
+- [iggredible/Learn-Vim](https://github.com/iggredible/Learn-Vim) - Learning Vim and Vimscript doesn't have to be hard. This is the guide that you're looking for 📖
 - [sponsorware/docs](https://github.com/sponsorware/docs) - What is a Sponsorware project and how can YOU start one?
 - [kowainik/awesome-haskell-sponsorship](https://github.com/kowainik/awesome-haskell-sponsorship) - 💝 Haskell profiles to sponsor
 - [google/eng-practices](https://github.com/google/eng-practices) - Google's Engineering Practices documentation
@@ -1181,7 +1186,7 @@
 - [httpie/httpie](https://github.com/httpie/httpie) - As easy as /aitch-tee-tee-pie/ 🥧 Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more. https://twitter.com/httpie
 - [ghc-proposals/ghc-proposals](https://github.com/ghc-proposals/ghc-proposals) - Proposed compiler and language changes for GHC and GHC/Haskell
 - [skorokithakis/catt](https://github.com/skorokithakis/catt) - Cast All The Things allows you to send videos from many, many online sources to your Chromecast.
-- [Nathra21/neural_note_linking](https://github.com/Nathra21/neural_note_linking) - Categorize bits of text by how similar they are using neural language models
+- [Nathravorn/neural_note_linking](https://github.com/Nathravorn/neural_note_linking) - Categorize bits of text by how similar they are using neural language models
 - [joelgrus/data-science-from-scratch](https://github.com/joelgrus/data-science-from-scratch) - code for Data Science From Scratch book
 - [microsoft/cascadia-code](https://github.com/microsoft/cascadia-code) - This is a fun, new monospaced font that includes programming ligatures and is designed to enhance the modern look and feel of the Windows Terminal.
 - [getting-things-gnome/gtg](https://github.com/getting-things-gnome/gtg) - Getting Things GNOME! trunk
@@ -1311,7 +1316,7 @@
 - [nanoc/nanoc](https://github.com/nanoc/nanoc) - A powerful web publishing system
 - [hpcloud/em-docker-client](https://github.com/hpcloud/em-docker-client) - An EM-based non-blocking client for docker (in development)
 - [hpcloud/logyard-devguide](https://github.com/hpcloud/logyard-devguide) - Tutorial and examples on how to effectively leverage logyard drains
-- [swipely/docker-api](https://github.com/swipely/docker-api) - A lightweight Ruby client for the Docker Remote API
+- [upserve/docker-api](https://github.com/upserve/docker-api) - A lightweight Ruby client for the Docker Remote API
 - [igrigorik/gharchive.org](https://github.com/igrigorik/gharchive.org) - GH Archive is a project to record the public GitHub timeline, archive it, and make it easily accessible for further analysis.
 - [igrigorik/agent](https://github.com/igrigorik/agent) - Agent is an attempt at modelling Go-like concurrency, in Ruby
 - [discourse/discourse](https://github.com/discourse/discourse) - A platform for community discussion. Free, open, simple.
@@ -1467,7 +1472,6 @@
 
 ## TeX 
 
-- [ArdanaLabs/Orbis-Project](https://github.com/ArdanaLabs/Orbis-Project) - ZK rollups for Cardano
 - [LibertyDSNP/papers](https://github.com/LibertyDSNP/papers) - Project Liberty Papers
 - [liuxinyu95/unplugged](https://github.com/liuxinyu95/unplugged) - Open book about math and programming.
 - [jez/pandoc-starter](https://github.com/jez/pandoc-starter) - 📄 My pandoc markdown templates and makefiles
@@ -1478,6 +1482,7 @@
 
 ## TypeScript 
 
+- [bamboo/idris2-lsp-vscode](https://github.com/bamboo/idris2-lsp-vscode) - Visual Studio Code integration for the Idris 2 language server
 - [gcanti/fp-ts](https://github.com/gcanti/fp-ts) - Functional programming in TypeScript
 - [meraymond2/idris-vscode](https://github.com/meraymond2/idris-vscode) - Idris front-end for VS Code
 - [input-output-hk/cardano-launcher](https://github.com/input-output-hk/cardano-launcher) - Shelley cardano-node and cardano-wallet launcher for NodeJS applications
