@@ -65,6 +65,7 @@
 
 ## Agda 
 
+- [algebraic-graphs/agda](https://github.com/algebraic-graphs/agda) - The theory of algebraic graphs formalised in Agda
 - [isovector/agda-playground](https://github.com/isovector/agda-playground) - 
 - [agda/agda2hs](https://github.com/agda/agda2hs) - Compiling Agda code to readable Haskell
 - [alhassy/AgdaCheatSheet](https://github.com/alhassy/AgdaCheatSheet) - Basics of the dependently-typed functional language Agda ^_^
@@ -324,6 +325,7 @@
 
 ## Go 
 
+- [dpapathanasiou/simple-graph](https://github.com/dpapathanasiou/simple-graph) - This is a simple graph database in SQLite, inspired by "SQLite as a document database"
 - [hummingbard/hummingbard](https://github.com/hummingbard/hummingbard) - Hummingbard is an experimental client for building decentralized communities on top of Matrix.
 - [climech/grit](https://github.com/climech/grit) - Multitree-based personal task manager
 - [mickael-menu/zk](https://github.com/mickael-menu/zk) - A plain text note-taking assistant
@@ -468,13 +470,11 @@
 - [xygn/Notes](https://github.com/xygn/Notes) - Best viewed as an Obsidian Vault.
 - [vitalets/github-trending-repos](https://github.com/vitalets/github-trending-repos) - Track GitHub trending repositories in your favorite programming language by native GitHub notifications!
 - [decentralized-identity/ion](https://github.com/decentralized-identity/ion) - The Identity Overlay Network (ION) is a DID Method implementation using the Sidetree protocol atop Bitcoin
-- [sveltejs/kit](https://github.com/sveltejs/kit) - The fastest way to build Svelte apps
 - [dotnet-foundation/website](https://github.com/dotnet-foundation/website) - The .NET Foundation's website
 - [fenwick67/mastofeed](https://github.com/fenwick67/mastofeed) - ActivityPub feed =&gt; iframe embed.  https://www.mastofeed.com
 - [aca/aca.github.io](https://github.com/aca/aca.github.io) - 
 - [alex/nyt-2020-election-scraper](https://github.com/alex/nyt-2020-election-scraper) - 
 - [samijuvonen/pandoc_resume_template](https://github.com/samijuvonen/pandoc_resume_template) - Yet another Pandoc resume template
-- [stackblitz/core](https://github.com/stackblitz/core) - Online IDE powered by Visual Studio Code ⚡️
 - [ocharles/Francium](https://github.com/ocharles/Francium) - A small web programming library on top of reactive-banana and virtual-dom
 - [haskellweekly/haskellweekly.github.io](https://github.com/haskellweekly/haskellweekly.github.io) - A free weekly newsletter about the Haskell programming language.
 - [vacationlabs/haskell-webapps](https://github.com/vacationlabs/haskell-webapps) - Proof-of-concept code for a typical webapp implemented in various Haskell libraries/frameworks
@@ -492,6 +492,9 @@
 
 ## Haskell 
 
+- [mlabs-haskell/apropos-tx](https://github.com/mlabs-haskell/apropos-tx) - Better testing for Plutus
+- [kosmikus/cufp-tutorial-2016](https://github.com/kosmikus/cufp-tutorial-2016) - Materials for the CUFP 2016 tutorial on Generic and Type-Level Programming using generics-sop
+- [well-typed/generics-sop](https://github.com/well-typed/generics-sop) - Generic Programming using True Sums of Products
 - [Liqwid-Labs/plutus-extra](https://github.com/Liqwid-Labs/plutus-extra) - Helper libraries for Plutus.
 - [srid/banyan](https://github.com/srid/banyan) - Tree of time
 - [ku-fpg/blank-canvas](https://github.com/ku-fpg/blank-canvas) - A Haskell API into HTML5 Canvas
@@ -812,6 +815,7 @@
 
 ## Idris 
 
+- [ohad/collie](https://github.com/ohad/collie) - Command line interface library in Idris
 - [stefan-hoeck/idris2-tutorial](https://github.com/stefan-hoeck/idris2-tutorial) - 
 - [statebox/idris-ct](https://github.com/statebox/idris-ct) - formally verified category theory library
 - [stefan-hoeck/idris2-dom](https://github.com/stefan-hoeck/idris2-dom) - Javascript DOM bindings for Idris2
@@ -865,6 +869,7 @@
 - [altfinder/tubeshift-extension](https://github.com/altfinder/tubeshift-extension) - Same Video, Less YouTube
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🍰 Everything is RSSible
+- [sveltejs/kit](https://github.com/sveltejs/kit) - The fastest way to build Svelte apps
 - [bangle-io/bangle.dev](https://github.com/bangle-io/bangle.dev) - Collection of higher level rich text editing tools. It powers the local only note taking app https://bangle.io
 - [BamButz/msbuild-tailwindcss](https://github.com/BamButz/msbuild-tailwindcss) - Adds a build action to process stylesheets through postcss/tailwind
 - [satellite-earth/totality](https://github.com/satellite-earth/totality) - 
@@ -898,6 +903,7 @@
 - [google/bottery](https://github.com/google/bottery) - 
 - [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - 💯 Curated interview preparation materials for busy engineers
 - [kamranahmedse/githunt](https://github.com/kamranahmedse/githunt) - Hunt the most starred projects on any date on GitHub
+- [stackblitz/core](https://github.com/stackblitz/core) - Online IDE powered by Visual Studio Code ⚡️
 - [antonycourtney/tad](https://github.com/antonycourtney/tad) - A desktop application for viewing and analyzing tabular data
 - [katspaugh/fluentcards](https://github.com/katspaugh/fluentcards) - Flashcards from dictionary look-ups
 - [rustico/fr-conjugation](https://github.com/rustico/fr-conjugation) - French Conjugation
@@ -977,6 +983,7 @@
 
 ## Markdown 
 
+- [srid/haskell-ladder](https://github.com/srid/haskell-ladder) - WIP: Haskell Pedagogic Ladder (Run `nix run` to run the site locally)
 - [uiuc-cs-zettelkasten/uiuc-cs-zettelkasten.github.io](https://github.com/uiuc-cs-zettelkasten/uiuc-cs-zettelkasten.github.io) - UIUC Computer Science Zettelkasten
 - [input-output-hk/adrestia](https://github.com/input-output-hk/adrestia) - APIs & SDK for interacting with Cardano.
 - [srid/emanote-template](https://github.com/srid/emanote-template) - Notebook template for Emanote
@@ -992,6 +999,7 @@
 
 ## Nix 
 
+- [srid/idris-template](https://github.com/srid/idris-template) - Like https://github.com/srid/haskell-template but for Idris 2
 - [srid/anima](https://github.com/srid/anima) - Playground for creating animations programatically
 - [claymager/idris2-pkgs](https://github.com/claymager/idris2-pkgs) - An unofficial Idris2 package repository for Nix
 - [srid/idris-js-template](https://github.com/srid/idris-js-template) - Idris template for JavaScript projects
@@ -1400,6 +1408,7 @@
 
 ## Shell 
 
+- [Bugswriter/notflix](https://github.com/Bugswriter/notflix) - Notflix is a shell script to search and stream torrent.
 - [passff/passff-host](https://github.com/passff/passff-host) - Host app for the WebExtension PassFF
 - [spwhitton/git-remote-gcrypt](https://github.com/spwhitton/git-remote-gcrypt) - PGP-encrypted git remotes
 - [pystardust/ytfzf](https://github.com/pystardust/ytfzf) - A posix script to find and watch youtube videos from the terminal. (Without API)
