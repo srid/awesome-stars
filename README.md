@@ -65,6 +65,7 @@
 
 ## Agda 
 
+- [plt-amy/cubical-1lab](https://github.com/plt-amy/cubical-1lab) - A formalised, cross-linked reference resource for mathematics done in Homotopy Type Theory
 - [algebraic-graphs/agda](https://github.com/algebraic-graphs/agda) - The theory of algebraic graphs formalised in Agda
 - [isovector/agda-playground](https://github.com/isovector/agda-playground) - 
 - [agda/agda2hs](https://github.com/agda/agda2hs) - Compiling Agda code to readable Haskell
@@ -310,7 +311,7 @@
 - [Nhowka/Elmish.Bridge](https://github.com/Nhowka/Elmish.Bridge) - Create client-server Fable-Elmish apps keeping a single mindset
 - [Zaid-Ajaj/Feliz](https://github.com/Zaid-Ajaj/Feliz) - A fresh retake of the React API in Fable and a collection of high-quality components to build React applications in F#, optimized for happiness
 - [Shmew/Fable.SignalR](https://github.com/Shmew/Fable.SignalR) - A functional type-safe wrapper for SignalR and Fable.
-- [TheAngryByrd/MiniScaffold](https://github.com/TheAngryByrd/MiniScaffold) - F# Template for creating and publishing libraries targeting .NET 5.0 `net5.0` or console apps  .NET 5.0 `net5.0`.
+- [TheAngryByrd/MiniScaffold](https://github.com/TheAngryByrd/MiniScaffold) - F# Template for creating and publishing libraries targeting .NET 6.0 `net6.0` or console apps  .NET 6.0 `net6.0`.
 - [fsprojects/FSharp.UMX](https://github.com/fsprojects/FSharp.UMX) - F# units of measure for primitive non-numeric types
 - [Zaid-Ajaj/LiteDB.FSharp](https://github.com/Zaid-Ajaj/LiteDB.FSharp) - Advanced F# Support for LiteDB, an embedded NoSql database for .NET with type-safe query expression through F# quotations
 - [Zestylogic/FMark](https://github.com/Zestylogic/FMark) - Markdown parser to html with many useful extensions and a purely functional implementation.
@@ -986,7 +987,6 @@
 - [srid/haskell-ladder](https://github.com/srid/haskell-ladder) - WIP: Haskell Pedagogic Ladder (Run `nix run` to run the site locally)
 - [uiuc-cs-zettelkasten/uiuc-cs-zettelkasten.github.io](https://github.com/uiuc-cs-zettelkasten/uiuc-cs-zettelkasten.github.io) - UIUC Computer Science Zettelkasten
 - [input-output-hk/adrestia](https://github.com/input-output-hk/adrestia) - APIs & SDK for interacting with Cardano.
-- [srid/emanote-template](https://github.com/srid/emanote-template) - Notebook template for Emanote
 - [Kuratoro/TheMotte.zettel.page](https://github.com/Kuratoro/TheMotte.zettel.page) - [unmaintained] Unofficial Wiki for r/TheMotte
 - [tfausak/haskell-knowledge-base](https://github.com/tfausak/haskell-knowledge-base) - :spider_web: A knowledge map about Haskell powered by Obsidian.
 - [srid/alien-psychology](https://github.com/srid/alien-psychology) - 3rd Rock From The Sun episodes tagged with psychological concepts
@@ -999,6 +999,7 @@
 
 ## Nix 
 
+- [V0ldek/plutarch-examples](https://github.com/V0ldek/plutarch-examples) - Example contracts written with Plutarch and usual PlutusTx
 - [srid/idris-template](https://github.com/srid/idris-template) - Like https://github.com/srid/haskell-template but for Idris 2
 - [srid/anima](https://github.com/srid/anima) - Playground for creating animations programatically
 - [claymager/idris2-pkgs](https://github.com/claymager/idris2-pkgs) - An unofficial Idris2 package repository for Nix
@@ -1011,6 +1012,7 @@
 - [hercules-ci/arion](https://github.com/hercules-ci/arion) - Run docker-compose with help from Nix/NixOS
 - [numtide/nix-filter](https://github.com/numtide/nix-filter) - a small self-container source filtering lib
 - [input-output-hk/haskell.nix](https://github.com/input-output-hk/haskell.nix) - Alternative Haskell Infrastructure for Nixpkgs
+- [srid/emanote-template](https://github.com/srid/emanote-template) - Notebook template for Emanote
 - [ursi/purs-nix](https://github.com/ursi/purs-nix) - Manage your PureScript projects with Nix!
 - [danielfullmer/robotnix](https://github.com/danielfullmer/robotnix) - Build Android (AOSP) using Nix
 - [nix-community/neovim-nightly-overlay](https://github.com/nix-community/neovim-nightly-overlay) - 
