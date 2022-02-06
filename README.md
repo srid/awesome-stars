@@ -264,7 +264,7 @@
 - [mmark-md/flycheck-mmark](https://github.com/mmark-md/flycheck-mmark) - Flycheck checker for the MMark markdown processor
 - [emacs-circe/circe](https://github.com/emacs-circe/circe) - Circe, a Client for IRC in Emacs
 - [Anton-Latukha/Fundamental-Haskell](https://github.com/Anton-Latukha/Fundamental-Haskell) - Fundamental Haskell book, to the point terse statements on Haskell, Category theory, and related fields. Encyclopedic pocketbook of meaning. Zen kōan-like meditations of understanding. For quick or memory curve spaced repetition learning.
-- [akirak/org-reverse-datetree](https://github.com/akirak/org-reverse-datetree) - Another implementation of date trees for Emacs Org mode
+- [akirak/org-reverse-datetree](https://github.com/akirak/org-reverse-datetree) - An alternative date-tree implementation for Emacs Org mode
 - [hlissner/doom-emacs](https://github.com/hlissner/doom-emacs) - An Emacs framework for the stubborn martian hacker
 - [greduan/emacs-theme-gruvbox](https://github.com/greduan/emacs-theme-gruvbox) - Gruvbox is a retro groove color scheme for Emacs. Port of the Vim version.
 - [travisbhartwell/nix-emacs](https://github.com/travisbhartwell/nix-emacs) - A set of useful Emacs modes and functions for users of Nix and Nix OS.
@@ -493,6 +493,7 @@
 
 ## Haskell 
 
+- [isovector/cornelis](https://github.com/isovector/cornelis) - a decent agda mode for neovim
 - [mlabs-haskell/apropos-tx](https://github.com/mlabs-haskell/apropos-tx) - Better testing for Plutus
 - [kosmikus/cufp-tutorial-2016](https://github.com/kosmikus/cufp-tutorial-2016) - Materials for the CUFP 2016 tutorial on Generic and Type-Level Programming using generics-sop
 - [well-typed/generics-sop](https://github.com/well-typed/generics-sop) - Generic Programming using True Sums of Products
@@ -972,6 +973,7 @@
 
 ## Lua 
 
+- [ShinKage/idris2-nvim](https://github.com/ShinKage/idris2-nvim) - Simple configuration and extra tools for NVIM + LSP + Idris2
 - [oberblastmeister/neuron.nvim](https://github.com/oberblastmeister/neuron.nvim) - Make neovim the best note taking application
 - [pyrho/nerveux.nvim](https://github.com/pyrho/nerveux.nvim) - A neovim plugin written in lua to interact with the neuron Zettelkasten software.
 - [omarish/pandoc-md-to-slack](https://github.com/omarish/pandoc-md-to-slack) - Pandoc extension to convert markdown to slack formatting.
@@ -1072,7 +1074,7 @@
 - [isovector/papers](https://github.com/isovector/papers) - I will read and engage with one paper a week.
 - [bolt12/advent-of-haskell-dd](https://github.com/bolt12/advent-of-haskell-dd) - Day 9 of Advent of Haskell - Denotational Design
 - [fiatjaf/nostr](https://github.com/fiatjaf/nostr) - a truly censorship-resistant alternative to Twitter that has a chance of working
-- [Orb-Labs/Orbis-Project](https://github.com/Orb-Labs/Orbis-Project) - ZK rollups for Cardano
+- [Orbis-Tertius/Orbis](https://github.com/Orbis-Tertius/Orbis) - ZK rollups for Cardano
 - [bor0/gidti](https://github.com/bor0/gidti) - Book: Gentle Introduction to Dependent Types with Idris
 - [jozefg/learn-tt](https://github.com/jozefg/learn-tt) - A collection of resources for learning type theory and type theory adjacent fields.
 - [dewey92/typed-fp-good-reads](https://github.com/dewey92/typed-fp-good-reads) - 📚 List of useful resources to learn typed FP
@@ -1165,6 +1167,7 @@
 
 ## PureScript 
 
+- [Plutonomicon/cardano-browser-tx](https://github.com/Plutonomicon/cardano-browser-tx) - 
 - [purescript-gjs/purescript-gjs](https://github.com/purescript-gjs/purescript-gjs) - GNOME JavaScript bindings for PureScript
 - [lumihq/purescript-react-basic](https://github.com/lumihq/purescript-react-basic) - An opinionated set of bindings to the React library, optimizing for the most basic use cases
 - [megamaddu/purescript-react-basic-hooks](https://github.com/megamaddu/purescript-react-basic-hooks) - An implementation of React hooks on top of purescript-react-basic
@@ -1297,7 +1300,7 @@
 - [racket/pict](https://github.com/racket/pict) - 
 - [danprager/racket-2048](https://github.com/danprager/racket-2048) - The 2048 game implemented in Racket language
 - [ntoronto/pict3d](https://github.com/ntoronto/pict3d) - 3-dimensional picts
-- [mbutterick/pollen](https://github.com/mbutterick/pollen) - book-publishing system in Racket
+- [mbutterick/pollen](https://github.com/mbutterick/pollen) - book-publishing system
 
 ## ReScript 
 
@@ -1493,6 +1496,7 @@
 
 ## TypeScript 
 
+- [antfu/vscode-browse-lite](https://github.com/antfu/vscode-browse-lite) - 🚀 An embedded browser in VS Code
 - [bamboo/idris2-lsp-vscode](https://github.com/bamboo/idris2-lsp-vscode) - Visual Studio Code integration for the Idris 2 language server
 - [gcanti/fp-ts](https://github.com/gcanti/fp-ts) - Functional programming in TypeScript
 - [meraymond2/idris-vscode](https://github.com/meraymond2/idris-vscode) - Idris front-end for VS Code
