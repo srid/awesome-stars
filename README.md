@@ -493,7 +493,8 @@
 
 ## Haskell 
 
-- [isovector/cornelis](https://github.com/isovector/cornelis) - a decent agda mode for neovim
+- [NorfairKing/safe-coloured-text](https://github.com/NorfairKing/safe-coloured-text) - 
+- [isovector/cornelis](https://github.com/isovector/cornelis) - agda-mode for neovim
 - [mlabs-haskell/apropos-tx](https://github.com/mlabs-haskell/apropos-tx) - Better testing for Plutus
 - [kosmikus/cufp-tutorial-2016](https://github.com/kosmikus/cufp-tutorial-2016) - Materials for the CUFP 2016 tutorial on Generic and Type-Level Programming using generics-sop
 - [well-typed/generics-sop](https://github.com/well-typed/generics-sop) - Generic Programming using True Sums of Products
@@ -515,7 +516,7 @@
 - [input-output-hk/cardano-wallet](https://github.com/input-output-hk/cardano-wallet) - HTTP server & command-line for managing UTxOs and HD wallets in Cardano.
 - [srid/unionmount](https://github.com/srid/unionmount) - Union mount in Haskell, with fsnotify
 - [input-output-hk/plutus](https://github.com/input-output-hk/plutus) - The Plutus language implementation and tools
-- [windorg/app](https://github.com/windorg/app) - Social note-taking
+- [windorg/app-old](https://github.com/windorg/app-old) - Social note-taking
 - [paf31/dovetail](https://github.com/paf31/dovetail) - A PureScript interpreter in Haskell
 - [zmactep/hasbolt](https://github.com/zmactep/hasbolt) - Haskell driver for Neo4j 3+ (BOLT protocol)
 - [input-output-hk/plutus-apps](https://github.com/input-output-hk/plutus-apps) - The Plutus application platform
@@ -1022,7 +1023,7 @@
 - [kolloch/crate2nix](https://github.com/kolloch/crate2nix) - nix build file generator for rust crates
 - [oxalica/rust-overlay](https://github.com/oxalica/rust-overlay) - Pure and reproducible nix overlay of binary distributed rust toolchains
 - [barrucadu/nixfiles](https://github.com/barrucadu/nixfiles) - My NixOS configuration and assorted other crap.
-- [Trundle/NixOS-WSL](https://github.com/Trundle/NixOS-WSL) - NixOS on WSL(2)
+- [nix-community/NixOS-WSL](https://github.com/nix-community/NixOS-WSL) - NixOS on WSL(2) [maintainer=@Trundle]
 - [obsidiansystems/obelisk-systemd](https://github.com/obsidiansystems/obelisk-systemd) - Turn your obelisk app into a systemd service
 - [obsidiansystems/obelisk-tailwind-example](https://github.com/obsidiansystems/obelisk-tailwind-example) - An example project using Obelisk, PostCSS, and Tailwind CSS
 - [srid/reflex-stone](https://github.com/srid/reflex-stone) - Template repository for writing GHCJS/Reflex apps targeting static sites without a backend.
@@ -1196,7 +1197,6 @@
 - [commonmark/commonmark-spec](https://github.com/commonmark/commonmark-spec) - CommonMark spec, with reference implementations in C and JavaScript
 - [rms-support-letter/rms-support-letter.github.io](https://github.com/rms-support-letter/rms-support-letter.github.io) - An open letter in support of Richard Matthew Stallman being reinstated by the Free Software Foundation
 - [Eloston/ungoogled-chromium](https://github.com/Eloston/ungoogled-chromium) - Google Chromium, sans integration with Google
-- [httpie/httpie](https://github.com/httpie/httpie) - As easy as /aitch-tee-tee-pie/ 🥧 Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more. https://twitter.com/httpie
 - [ghc-proposals/ghc-proposals](https://github.com/ghc-proposals/ghc-proposals) - Proposed compiler and language changes for GHC and GHC/Haskell
 - [skorokithakis/catt](https://github.com/skorokithakis/catt) - Cast All The Things allows you to send videos from many, many online sources to your Chromecast.
 - [Nathravorn/neural_note_linking](https://github.com/Nathravorn/neural_note_linking) - Categorize bits of text by how similar they are using neural language models
