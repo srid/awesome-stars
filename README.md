@@ -62,6 +62,7 @@
   - [Vala](#vala)
   - [Vim script](#vim-script)
   - [Vue](#vue)
+  - [hoon](#hoon)
 
 ## Agda 
 
@@ -82,7 +83,6 @@
 - [goldendict/goldendict](https://github.com/goldendict/goldendict) - A feature-rich dictionary lookup program, supporting multiple dictionary formats (StarDict/Babylon/Lingvo/Dictd) and online dictionaries, featuring perfect article rendering with the complete markup, illustrations and other content retained, and allowing you to type in words without any accents or correct case.
 - [davatorium/rofi](https://github.com/davatorium/rofi) - Rofi: A window switcher, application launcher and dmenu replacement
 - [mpv-player/mpv](https://github.com/mpv-player/mpv) - 🎥 Command line video player
-- [urbit/urbit](https://github.com/urbit/urbit) - An operating function
 - [imbushuo/mac-precision-touchpad](https://github.com/imbushuo/mac-precision-touchpad) - Windows Precision Touchpad Driver Implementation for Apple MacBook / Magic Trackpad
 - [netdata/netdata](https://github.com/netdata/netdata) - Real-time performance monitoring, done right! https://www.netdata.cloud
 - [NixOS/mobile-nixos](https://github.com/NixOS/mobile-nixos) - 
@@ -425,7 +425,7 @@
 - [hpcloud/log](https://github.com/hpcloud/log) - Extension of Go's log package to provide log levels
 - [dustin/go-follow](https://github.com/dustin/go-follow) - Follow (tail -f) an io.Reader, blocking on EOF until more data arrive.
 - [mattn/go-redmine](https://github.com/mattn/go-redmine) - 
-- [tmc/watcher](https://github.com/tmc/watcher) - watcher is a stupid simple filesystem event watcher
+- [tmc/watcher](https://github.com/tmc/watcher) - watcher is a simple filesystem event watcher
 - [manuelkiessling/go-cleanarchitecture](https://github.com/manuelkiessling/go-cleanarchitecture) - An example Go application demonstrating The Clean Architecture.
 - [ActiveState/doozerconfig](https://github.com/ActiveState/doozerconfig) - Go package for managing json-encoded configuration in Doozer
 - [mmcgrana/gobyexample](https://github.com/mmcgrana/gobyexample) - Go by Example
@@ -493,7 +493,8 @@
 
 ## Haskell 
 
-- [lucasvreis/manguezal](https://github.com/lucasvreis/manguezal) - WIP — will be an app for visualizing and publishing math-related org-roam databases
+- [isovector/blagda](https://github.com/isovector/blagda) - agda blogging based on 1lab
+- [lucasvreis/manguezal](https://github.com/lucasvreis/manguezal) - Early WIP — will be an app for visualizing and publishing math-related org-roam databases
 - [srid/tailwind-haskell](https://github.com/srid/tailwind-haskell) - A No-JavaScript Tailwind runner in Haskell
 - [NorfairKing/safe-coloured-text](https://github.com/NorfairKing/safe-coloured-text) - 
 - [isovector/cornelis](https://github.com/isovector/cornelis) - agda-mode for neovim
@@ -820,6 +821,7 @@
 
 ## Idris 
 
+- [ECburx/Idris2GL](https://github.com/ECburx/Idris2GL) - A Graphics Library for Idris 2.
 - [ohad/collie](https://github.com/ohad/collie) - Command line interface library in Idris
 - [stefan-hoeck/idris2-tutorial](https://github.com/stefan-hoeck/idris2-tutorial) - 
 - [statebox/idris-ct](https://github.com/statebox/idris-ct) - formally verified category theory library
@@ -1072,6 +1074,7 @@
 
 ## Others 
 
+- [joshvera/generative-effects](https://github.com/joshvera/generative-effects) - Some notes on generative effects
 - [srid/papers](https://github.com/srid/papers) - 
 - [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
 - [isovector/papers](https://github.com/isovector/papers) - I will read and engage with one paper a week.
@@ -1567,6 +1570,10 @@
 ## Vue 
 
 - [tipsy/profile-summary-for-github](https://github.com/tipsy/profile-summary-for-github) - Tool for visualizing GitHub profiles
+
+## hoon 
+
+- [urbit/urbit](https://github.com/urbit/urbit) - An operating function
 
 
 ## License
