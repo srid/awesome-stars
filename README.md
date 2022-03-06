@@ -66,6 +66,7 @@
 
 ## Agda 
 
+- [isovector/blagda](https://github.com/isovector/blagda) - agda blogging based on 1lab
 - [plt-amy/cubical-1lab](https://github.com/plt-amy/cubical-1lab) - A formalised, cross-linked reference resource for mathematics done in Homotopy Type Theory
 - [algebraic-graphs/agda](https://github.com/algebraic-graphs/agda) - The theory of algebraic graphs formalised in Agda
 - [isovector/agda-playground](https://github.com/isovector/agda-playground) - 
@@ -493,7 +494,6 @@
 
 ## Haskell 
 
-- [isovector/blagda](https://github.com/isovector/blagda) - agda blogging based on 1lab
 - [lucasvreis/manguezal](https://github.com/lucasvreis/manguezal) - Early WIP — will be an app for visualizing and publishing math-related org-roam databases
 - [srid/tailwind-haskell](https://github.com/srid/tailwind-haskell) - A No-JavaScript Tailwind runner in Haskell
 - [NorfairKing/safe-coloured-text](https://github.com/NorfairKing/safe-coloured-text) - 
