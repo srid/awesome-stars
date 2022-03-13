@@ -494,6 +494,13 @@
 
 ## Haskell 
 
+- [kcsongor/generic-lens](https://github.com/kcsongor/generic-lens) - Generically derive traversals, lenses, and prisms.
+- [well-typed/optics](https://github.com/well-typed/optics) - Optics as an abstract interface
+- [sellout/compiling-anything-to-categories](https://github.com/sellout/compiling-anything-to-categories) - a talk about and sample project for the [[https://github.org/con-kitty/categorifier][Categorifier]] GHC plugin.
+- [con-kitty/categorifier](https://github.com/con-kitty/categorifier) - 
+- [srid/generics-sop-examples](https://github.com/srid/generics-sop-examples) - 
+- [mlabs-haskell/apropos](https://github.com/mlabs-haskell/apropos) - Propositional Logic Apropos Types
+- [sol/markdown-unlit](https://github.com/sol/markdown-unlit) - Literate Haskell support for Markdown
 - [lucasvreis/manguezal](https://github.com/lucasvreis/manguezal) - Early WIP — will be an app for visualizing and publishing math-related org-roam databases
 - [srid/tailwind-haskell](https://github.com/srid/tailwind-haskell) - A No-JavaScript Tailwind runner in Haskell
 - [NorfairKing/safe-coloured-text](https://github.com/NorfairKing/safe-coloured-text) - 
@@ -821,6 +828,7 @@
 
 ## Idris 
 
+- [madman-bob/idris2-table](https://github.com/madman-bob/idris2-table) - A table library for Idris 2
 - [ECburx/Idris2GL](https://github.com/ECburx/Idris2GL) - A Graphics Library for Idris 2.
 - [ohad/collie](https://github.com/ohad/collie) - Command line interface library in Idris
 - [stefan-hoeck/idris2-tutorial](https://github.com/stefan-hoeck/idris2-tutorial) - 
@@ -1006,6 +1014,7 @@
 
 ## Nix 
 
+- [ursi/nix-html](https://github.com/ursi/nix-html) - An HTML DSL for Nix
 - [V0ldek/plutarch-examples](https://github.com/V0ldek/plutarch-examples) - Example contracts written with Plutarch and usual PlutusTx
 - [srid/idris-template](https://github.com/srid/idris-template) - Like https://github.com/srid/haskell-template but for Idris 2
 - [srid/anima](https://github.com/srid/anima) - Playground for creating animations programatically
