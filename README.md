@@ -67,7 +67,7 @@
 ## Agda 
 
 - [isovector/blagda](https://github.com/isovector/blagda) - agda blogging based on 1lab
-- [plt-amy/cubical-1lab](https://github.com/plt-amy/cubical-1lab) - A formalised, cross-linked reference resource for mathematics done in Homotopy Type Theory
+- [plt-amy/1lab](https://github.com/plt-amy/1lab) - A formalised, cross-linked reference resource for mathematics done in Homotopy Type Theory
 - [algebraic-graphs/agda](https://github.com/algebraic-graphs/agda) - The theory of algebraic graphs formalised in Agda
 - [isovector/agda-playground](https://github.com/isovector/agda-playground) - 
 - [agda/agda2hs](https://github.com/agda/agda2hs) - Compiling Agda code to readable Haskell
@@ -149,7 +149,6 @@
 - [indieweb/indiewebify-me](https://github.com/indieweb/indiewebify-me) - Tools to help you get the best out of your indieweb site
 - [RickStrahl/LiveReloadServer](https://github.com/RickStrahl/LiveReloadServer) - A self-contained, local, cross-platform, static file Web Server with automatic Live Reloading, Markdown rendering and loose Razor Pages support.
 - [obsidiansystems/calculator-tutorial](https://github.com/obsidiansystems/calculator-tutorial) - Building a calculator with Reflex-FRP
-- [jonsuh/hamburgers](https://github.com/jonsuh/hamburgers) - Tasty CSS-animated Hamburgers
 - [dktn/resonance-syntax](https://github.com/dktn/resonance-syntax) - Resonance-Syntax Atom syntax theme
 - [heathermiller/dist-prog-book](https://github.com/heathermiller/dist-prog-book) - 
 - [BrianHicks/spacemacs-rocks](https://github.com/BrianHicks/spacemacs-rocks) - A tip blog!
@@ -494,9 +493,10 @@
 
 ## Haskell 
 
+- [conal/concat](https://github.com/conal/concat) - Compiling to Categories
 - [kcsongor/generic-lens](https://github.com/kcsongor/generic-lens) - Generically derive traversals, lenses, and prisms.
 - [well-typed/optics](https://github.com/well-typed/optics) - Optics as an abstract interface
-- [sellout/compiling-anything-to-categories](https://github.com/sellout/compiling-anything-to-categories) - a talk about and sample project for the [[https://github.org/con-kitty/categorifier][Categorifier]] GHC plugin.
+- [sellout/compiling-anything-to-categories](https://github.com/sellout/compiling-anything-to-categories) - a talk about and sample project for the [Categorifier](https://github.org/con-kitty/categorifier) GHC plugin.
 - [con-kitty/categorifier](https://github.com/con-kitty/categorifier) - 
 - [srid/generics-sop-examples](https://github.com/srid/generics-sop-examples) - 
 - [mlabs-haskell/apropos](https://github.com/mlabs-haskell/apropos) - Propositional Logic Apropos Types
@@ -975,7 +975,7 @@
 ## Jupyter Notebook 
 
 - [tweag/jupyterWith](https://github.com/tweag/jupyterWith) - declarative and reproducible Jupyter environments - powered by Nix
-- [gibiansky/IHaskell](https://github.com/gibiansky/IHaskell) - A Haskell kernel for IPython.
+- [IHaskell/IHaskell](https://github.com/IHaskell/IHaskell) - A Haskell kernel for the Jupyter project.
 - [vaibhavsagar/notebooks](https://github.com/vaibhavsagar/notebooks) - Jupyter notebooks
 - [gleitz/howdoi](https://github.com/gleitz/howdoi) - instant coding answers via the command line
 
@@ -1014,6 +1014,7 @@
 
 ## Nix 
 
+- [cardano-system/cardano-system](https://github.com/cardano-system/cardano-system) - 
 - [ursi/nix-html](https://github.com/ursi/nix-html) - An HTML DSL for Nix
 - [V0ldek/plutarch-examples](https://github.com/V0ldek/plutarch-examples) - Example contracts written with Plutarch and usual PlutusTx
 - [srid/idris-template](https://github.com/srid/idris-template) - Like https://github.com/srid/haskell-template but for Idris 2
@@ -1031,7 +1032,7 @@
 - [srid/emanote-template](https://github.com/srid/emanote-template) - Notebook template for Emanote
 - [ursi/purs-nix](https://github.com/ursi/purs-nix) - Manage your PureScript projects with Nix!
 - [danielfullmer/robotnix](https://github.com/danielfullmer/robotnix) - Build Android (AOSP) using Nix
-- [nix-community/neovim-nightly-overlay](https://github.com/nix-community/neovim-nightly-overlay) - 
+- [nix-community/neovim-nightly-overlay](https://github.com/nix-community/neovim-nightly-overlay) - [maintainer=@mjlbach]
 - [serokell/templates](https://github.com/serokell/templates) - 
 - [kolloch/crate2nix](https://github.com/kolloch/crate2nix) - nix build file generator for rust crates
 - [oxalica/rust-overlay](https://github.com/oxalica/rust-overlay) - Pure and reproducible nix overlay of binary distributed rust toolchains
@@ -1414,6 +1415,7 @@
 ## SCSS 
 
 - [yewstack/yew-trunk-minimal-template](https://github.com/yewstack/yew-trunk-minimal-template) - Template for starting a Yew project using Trunk
+- [jonsuh/hamburgers](https://github.com/jonsuh/hamburgers) - Tasty CSS-animated Hamburgers
 
 ## Scala 
 
