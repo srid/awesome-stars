@@ -92,7 +92,7 @@
 - [matz/streem](https://github.com/matz/streem) - prototype of stream based programming language
 - [keenerd/jshon](https://github.com/keenerd/jshon) - Jshon is a JSON parser designed for maximum convenience within the shell.
 - [ggreer/the_silver_searcher](https://github.com/ggreer/the_silver_searcher) - A code-searching tool similar to ack, but faster.
-- [srid/GNUSim8085](https://github.com/srid/GNUSim8085) - A graphical simulator, assembler and debugger for the Intel 8085 microprocessor
+- [srid/GNUSim8085](https://github.com/srid/GNUSim8085) - A graphical simulator, assembler and debugger for the Intel 8085 microprocessor (Needs maintainer)
 - [ludwigschwardt/python-gnureadline](https://github.com/ludwigschwardt/python-gnureadline) - The standard Python readline extension statically linked against the GNU readline library, providing readline support to Python on platforms without it.
 - [srid/py-extn-shared](https://github.com/srid/py-extn-shared) - An example project demonstrating linking a Python extension module with another shared library
 
@@ -326,6 +326,7 @@
 
 ## Go 
 
+- [emicklei/melrose](https://github.com/emicklei/melrose) - interactive programming of melodies, producing MIDI
 - [dpapathanasiou/simple-graph](https://github.com/dpapathanasiou/simple-graph) - This is a simple graph database in SQLite, inspired by "SQLite as a document database"
 - [hummingbard/hummingbard](https://github.com/hummingbard/hummingbard) - Hummingbard is an experimental client for building decentralized communities on top of Matrix.
 - [climech/grit](https://github.com/climech/grit) - Multitree-based personal task manager
@@ -493,6 +494,9 @@
 
 ## Haskell 
 
+- [swarm-game/swarm](https://github.com/swarm-game/swarm) - Resource gathering + programming game
+- [well-typed/large-records](https://github.com/well-typed/large-records) - Library to support efficient compilation of large records (linear in the number of record fields)
+- [telostat/haspara](https://github.com/telostat/haspara) - Haskell library to work with monetary values
 - [conal/concat](https://github.com/conal/concat) - Compiling to Categories
 - [kcsongor/generic-lens](https://github.com/kcsongor/generic-lens) - Generically derive traversals, lenses, and prisms.
 - [well-typed/optics](https://github.com/well-typed/optics) - Optics as an abstract interface
@@ -687,7 +691,7 @@
 - [hasura/monad-validate](https://github.com/hasura/monad-validate) - A Haskell monad transformer library for data validation
 - [reflex-frp/reflex-vty](https://github.com/reflex-frp/reflex-vty) - Build terminal applications using functional reactive programming (FRP) with Reflex FRP.
 - [kowainik/hit-on](https://github.com/kowainik/hit-on) - :octocat: Kowainik Git Workflow Helper Tool
-- [phadej/github](https://github.com/phadej/github) - The github API for Haskell
+- [haskell-github/github](https://github.com/haskell-github/github) - The github API for Haskell
 - [i-am-tom/haskell-exercises](https://github.com/i-am-tom/haskell-exercises) - A little course to learn about some of the more obscure GHC extensions.
 - [i-am-tom/higgledy](https://github.com/i-am-tom/higgledy) - Higher-kinded data via generics
 - [volhovm/orgstat](https://github.com/volhovm/orgstat) - Statistics visualizer for org-mode
@@ -956,7 +960,6 @@
 - [laktek/punch](https://github.com/laktek/punch) - A fun and easy way to build modern websites
 - [berbaquero/reeddit](https://github.com/berbaquero/reeddit) - Minimal, elastic Reddit reader web-app client
 - [glinden/stick-portal](https://github.com/glinden/stick-portal) - Stick Portal
-- [FortAwesome/Font-Awesome](https://github.com/FortAwesome/Font-Awesome) - The iconic SVG, font, and CSS toolkit
 - [nwjs/nw.js](https://github.com/nwjs/nw.js) - Call all Node.js modules directly from DOM/WebWorker and enable a new way of writing applications with all Web technologies.
 - [srid/horizon](https://github.com/srid/horizon) - A dashboard for Stackato/CloudFoundry based on Clojure
 - [friggeri/jump](https://github.com/friggeri/jump) - bringing autosuggest to cd
@@ -1037,7 +1040,7 @@
 - [kolloch/crate2nix](https://github.com/kolloch/crate2nix) - nix build file generator for rust crates
 - [oxalica/rust-overlay](https://github.com/oxalica/rust-overlay) - Pure and reproducible nix overlay of binary distributed rust toolchains
 - [barrucadu/nixfiles](https://github.com/barrucadu/nixfiles) - My NixOS configuration and assorted other crap.
-- [nix-community/NixOS-WSL](https://github.com/nix-community/NixOS-WSL) - NixOS on WSL(2) [maintainer=@Trundle]
+- [nix-community/NixOS-WSL](https://github.com/nix-community/NixOS-WSL) - NixOS on WSL(2) [maintainer=@nzbr]
 - [obsidiansystems/obelisk-systemd](https://github.com/obsidiansystems/obelisk-systemd) - Turn your obelisk app into a systemd service
 - [obsidiansystems/obelisk-tailwind-example](https://github.com/obsidiansystems/obelisk-tailwind-example) - An example project using Obelisk, PostCSS, and Tailwind CSS
 - [srid/reflex-stone](https://github.com/srid/reflex-stone) - Template repository for writing GHCJS/Reflex apps targeting static sites without a backend.
@@ -1502,6 +1505,7 @@
 
 ## TeX 
 
+- [andrejbauer/homotopy-type-theory-course](https://github.com/andrejbauer/homotopy-type-theory-course) - A course on homotopy theory and type theory, taught jointly with Jaka Smrekar
 - [LibertyDSNP/papers](https://github.com/LibertyDSNP/papers) - Project Liberty Papers
 - [liuxinyu95/unplugged](https://github.com/liuxinyu95/unplugged) - Open book about math and programming.
 - [jez/pandoc-starter](https://github.com/jez/pandoc-starter) - 📄 My pandoc markdown templates and makefiles
