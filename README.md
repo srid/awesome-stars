@@ -218,6 +218,7 @@
 
 ## Elm 
 
+- [am-on/work-timer](https://github.com/am-on/work-timer) - App for tracking work hours using Elm and Toggl.com
 - [ghivert/fireblog](https://github.com/ghivert/fireblog) - Blog template in elm for easy deploy on Firebase!
 - [arturopala/elm-monocle](https://github.com/arturopala/elm-monocle) - Functional abstractions to manipulate complex records in Elm - Iso, Prism, Lens, Optional, Traversal.
 - [elm-community/parser-combinators](https://github.com/elm-community/parser-combinators) - A parser combinator library for Elm.
