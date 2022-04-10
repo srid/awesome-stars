@@ -467,6 +467,7 @@
 
 ## HTML 
 
+- [tallesl/Rich-Hickey-fanclub](https://github.com/tallesl/Rich-Hickey-fanclub) - "every time I watch one of his talks I feel like someone has gone in and organized my brain"
 - [boris-marinov/category-theory-illustrated](https://github.com/boris-marinov/category-theory-illustrated) - A book about category theory
 - [iohkedu/haskell-2020](https://github.com/iohkedu/haskell-2020) - Videos and exercises for the Haskell and Cryptocurrencies class.
 - [plfa/plfa.github.io](https://github.com/plfa/plfa.github.io) - An introduction to programming language theory in Agda
@@ -495,6 +496,9 @@
 
 ## Haskell 
 
+- [quchen/prettyprinter](https://github.com/quchen/prettyprinter) - A modern, extensible and well-documented prettyprinter.
+- [maralorn/nix-output-monitor](https://github.com/maralorn/nix-output-monitor) - Pipe your nix-build output through the nix-output-monitor a.k.a nom to get additional information while building.
+- [mlabs-haskell/plutip](https://github.com/mlabs-haskell/plutip) - A Cardano tool to spin up a testnet and run contracts with an EDSL to describe the instructions. Rhymes with tulip for no particular reason.
 - [swarm-game/swarm](https://github.com/swarm-game/swarm) - Resource gathering + programming game
 - [well-typed/large-records](https://github.com/well-typed/large-records) - Library to support efficient compilation of large records (linear in the number of record fields)
 - [telostat/haspara](https://github.com/telostat/haspara) - Haskell library to work with monetary values
@@ -502,7 +506,7 @@
 - [kcsongor/generic-lens](https://github.com/kcsongor/generic-lens) - Generically derive traversals, lenses, and prisms.
 - [well-typed/optics](https://github.com/well-typed/optics) - Optics as an abstract interface
 - [sellout/compiling-anything-to-categories](https://github.com/sellout/compiling-anything-to-categories) - a talk about and sample project for the [Categorifier](https://github.org/con-kitty/categorifier) GHC plugin.
-- [con-kitty/categorifier](https://github.com/con-kitty/categorifier) - 
+- [con-kitty/categorifier](https://github.com/con-kitty/categorifier) - Interpret Haskell programs into any cartesian closed category.
 - [srid/generics-sop-examples](https://github.com/srid/generics-sop-examples) - 
 - [mlabs-haskell/apropos](https://github.com/mlabs-haskell/apropos) - Propositional Logic Apropos Types
 - [sol/markdown-unlit](https://github.com/sol/markdown-unlit) - Literate Haskell support for Markdown
@@ -990,6 +994,7 @@
 
 ## Lua 
 
+- [pandoc/lua-filters](https://github.com/pandoc/lua-filters) - A collection of lua filters for pandoc
 - [ShinKage/idris2-nvim](https://github.com/ShinKage/idris2-nvim) - Simple configuration and extra tools for NVIM + LSP + Idris2
 - [oberblastmeister/neuron.nvim](https://github.com/oberblastmeister/neuron.nvim) - Make neovim the best note taking application
 - [pyrho/nerveux.nvim](https://github.com/pyrho/nerveux.nvim) - A neovim plugin written in lua to interact with the neuron Zettelkasten software.
@@ -1018,6 +1023,8 @@
 
 ## Nix 
 
+- [nix-community/nix-doom-emacs](https://github.com/nix-community/nix-doom-emacs) - doom-emacs packaged for Nix [maintainer=@ckiee]
+- [Mic92/nixos-shell](https://github.com/Mic92/nixos-shell) - Spawns lightweight nixos vms in a shell
 - [cardano-system/cardano-system](https://github.com/cardano-system/cardano-system) - 
 - [ursi/nix-html](https://github.com/ursi/nix-html) - An HTML DSL for Nix
 - [V0ldek/plutarch-examples](https://github.com/V0ldek/plutarch-examples) - Example contracts written with Plutarch and usual PlutusTx
@@ -1088,6 +1095,7 @@
 
 ## Others 
 
+- [matthiasn/talk-transcripts](https://github.com/matthiasn/talk-transcripts) - Transcripts of Clojure-related talks
 - [joshvera/generative-effects](https://github.com/joshvera/generative-effects) - Some notes on generative effects
 - [srid/papers](https://github.com/srid/papers) - 
 - [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
@@ -1209,6 +1217,7 @@
 
 ## Python 
 
+- [nix-community/nix-direnv](https://github.com/nix-community/nix-direnv) - A fast, persistent use_nix/use_flake implementation for direnv [maintainer=@Mic92 / @bbenne10]
 - [caffeine-ng/caffeine-ng](https://github.com/caffeine-ng/caffeine-ng) - ☕ Tray bar application able to temporarily inhibits the screensaver and sleep mode.
 - [speedyg0nz/MagInkCal](https://github.com/speedyg0nz/MagInkCal) - E-Ink Magic Calendar that automatically syncs to Google Calendar and runs off a battery powered Raspberry Pi Zero
 - [boltgolt/howdy](https://github.com/boltgolt/howdy) - 🛡️ Windows Hello™ style facial authentication for Linux
@@ -1362,6 +1371,7 @@
 
 ## Rust 
 
+- [Mange/tydra](https://github.com/Mange/tydra) - Shortcut menu-based task runner, inspired by Emacs Hydra
 - [zcash/orchard](https://github.com/zcash/orchard) - TBD
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 - [jD91mZM2/xidlehook](https://github.com/jD91mZM2/xidlehook) - GitLab: https://gitlab.com/jD91mZM2/xidlehook
@@ -1433,6 +1443,7 @@
 
 ## Shell 
 
+- [3noch/nix-bundle-exe](https://github.com/3noch/nix-bundle-exe) - Simple Nix derivations to bundle executables
 - [Bugswriter/notflix](https://github.com/Bugswriter/notflix) - Notflix is a shell script to search and stream torrent.
 - [passff/passff-host](https://github.com/passff/passff-host) - Host app for the WebExtension PassFF
 - [spwhitton/git-remote-gcrypt](https://github.com/spwhitton/git-remote-gcrypt) - PGP-encrypted git remotes
