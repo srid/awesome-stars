@@ -66,6 +66,7 @@
 
 ## Agda 
 
+- [martinescardo/HoTT-UF-Agda-Lecture-Notes](https://github.com/martinescardo/HoTT-UF-Agda-Lecture-Notes) - Lecture notes on univalent foundations of mathematics with Agda
 - [isovector/blagda](https://github.com/isovector/blagda) - agda blogging based on 1lab
 - [plt-amy/1lab](https://github.com/plt-amy/1lab) - A formalised, cross-linked reference resource for mathematics done in Homotopy Type Theory
 - [algebraic-graphs/agda](https://github.com/algebraic-graphs/agda) - The theory of algebraic graphs formalised in Agda
@@ -129,7 +130,7 @@
 
 - [aristocratos/btop](https://github.com/aristocratos/btop) - A monitor of resources
 - [microsoft/wslg](https://github.com/microsoft/wslg) - Enabling the Windows Subsystem for Linux to include support for Wayland and X server related scenarios
-- [xbmc/xbmc](https://github.com/xbmc/xbmc) - Kodi is an award-winning free and open source home theater/media center software and entertainment hub for digital media. With its beautiful interface and powerful skinning engine, it's available for Android, BSD, Linux, macOS, iOS and Windows.
+- [xbmc/xbmc](https://github.com/xbmc/xbmc) - Kodi is an award-winning free and open source home theater/media center software and entertainment hub for digital media. With its beautiful interface and powerful skinning engine, it's available for Android, BSD, Linux, macOS, iOS, tvOS and Windows.
 - [aardappel/treesheets](https://github.com/aardappel/treesheets) - TreeSheets : Free Form Data Organizer (see treesheets.com)
 - [PerBothner/DomTerm](https://github.com/PerBothner/DomTerm) - DOM/JavaScript-based terminal-emulator/console
 - [microsoft/winget-cli](https://github.com/microsoft/winget-cli) - Windows Package Manager CLI (aka winget)
@@ -328,6 +329,7 @@
 
 ## Go 
 
+- [tazjin/nixery](https://github.com/tazjin/nixery) - Container registry which transparently builds images using the Nix package manager. Canonical repository is https://cs.tvl.fyi/depot/-/tree/tools/nixery
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
 - [emicklei/melrose](https://github.com/emicklei/melrose) - interactive programming of melodies, producing MIDI
 - [dpapathanasiou/simple-graph](https://github.com/dpapathanasiou/simple-graph) - This is a simple graph database in SQLite, inspired by "SQLite as a document database"
@@ -472,7 +474,6 @@
 
 - [plaintextaccounting/plaintextaccounting](https://github.com/plaintextaccounting/plaintextaccounting) - The plaintextaccounting.org website, a portal to Ledger, hledger, beancount and co. Also the PTA wiki.
 - [tallesl/Rich-Hickey-fanclub](https://github.com/tallesl/Rich-Hickey-fanclub) - "every time I watch one of his talks I feel like someone has gone in and organized my brain"
-- [mlabs-haskell/apropos](https://github.com/mlabs-haskell/apropos) - Propositional Logic Apropos Types
 - [boris-marinov/category-theory-illustrated](https://github.com/boris-marinov/category-theory-illustrated) - A book about category theory
 - [iohkedu/haskell-2020](https://github.com/iohkedu/haskell-2020) - Videos and exercises for the Haskell and Cryptocurrencies class.
 - [plfa/plfa.github.io](https://github.com/plfa/plfa.github.io) - An introduction to programming language theory in Agda
@@ -516,6 +517,7 @@
 - [sellout/compiling-anything-to-categories](https://github.com/sellout/compiling-anything-to-categories) - a talk about and sample project for the [Categorifier](https://github.org/con-kitty/categorifier) GHC plugin.
 - [con-kitty/categorifier](https://github.com/con-kitty/categorifier) - Interpret Haskell programs into any cartesian closed category.
 - [srid/generics-sop-examples](https://github.com/srid/generics-sop-examples) - 
+- [mlabs-haskell/apropos](https://github.com/mlabs-haskell/apropos) - Propositional Logic Apropos Types
 - [sol/markdown-unlit](https://github.com/sol/markdown-unlit) - Literate Haskell support for Markdown
 - [lucasvreis/abacateiro](https://github.com/lucasvreis/abacateiro) - Early WIP — will be an app for visualizing and publishing math-related org-roam databases
 - [srid/tailwind-haskell](https://github.com/srid/tailwind-haskell) - A No-JavaScript Tailwind runner in Haskell
@@ -934,7 +936,6 @@
 - [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - 💯 Curated interview preparation materials for busy engineers
 - [kamranahmedse/githunt](https://github.com/kamranahmedse/githunt) - Hunt the most starred projects on any date on GitHub
 - [stackblitz/core](https://github.com/stackblitz/core) - Online IDE powered by Visual Studio Code ⚡️
-- [antonycourtney/tad](https://github.com/antonycourtney/tad) - A desktop application for viewing and analyzing tabular data
 - [katspaugh/fluentcards](https://github.com/katspaugh/fluentcards) - Flashcards from dictionary look-ups
 - [rustico/fr-conjugation](https://github.com/rustico/fr-conjugation) - French Conjugation
 - [gorhill/uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
@@ -1015,6 +1016,7 @@
 
 ## Markdown 
 
+- [srid/make-cli-great-again](https://github.com/srid/make-cli-great-again) - 
 - [srid/haskell-ladder](https://github.com/srid/haskell-ladder) - WIP: Haskell Pedagogic Ladder (Run `nix run` to run the site locally)
 - [uiuc-cs-zettelkasten/uiuc-cs-zettelkasten.github.io](https://github.com/uiuc-cs-zettelkasten/uiuc-cs-zettelkasten.github.io) - UIUC Computer Science Zettelkasten
 - [input-output-hk/adrestia](https://github.com/input-output-hk/adrestia) - APIs & SDK for interacting with Cardano.
@@ -1030,7 +1032,8 @@
 
 ## Nix 
 
-- [aquiferma/noter](https://github.com/aquiferma/noter) - A small software environment for your plain-text notes directory
+- [astro/microvm.nix](https://github.com/astro/microvm.nix) - NixOS MicroVMs
+- [aquiferma/noter](https://github.com/aquiferma/noter) - A small software environment for your plain-text notes
 - [nix-community/nix-doom-emacs](https://github.com/nix-community/nix-doom-emacs) - doom-emacs packaged for Nix [maintainer=@ckiee]
 - [Mic92/nixos-shell](https://github.com/Mic92/nixos-shell) - Spawns lightweight nixos vms in a shell
 - [cardano-system/cardano-system](https://github.com/cardano-system/cardano-system) - 
@@ -1171,7 +1174,7 @@
 - [mmcgrana/services-engineering](https://github.com/mmcgrana/services-engineering) - A reading list for services engineering, with a focus on cloud infrastructure services
 - [sindresorhus/awesome-electron](https://github.com/sindresorhus/awesome-electron) - Useful resources for creating apps with Electron
 - [ahmetsulek/flat-terminal](https://github.com/ahmetsulek/flat-terminal) - Flat design colours applied to terminal. Terminal is now sweeter than ever!
-- [emacs-tw/awesome-emacs](https://github.com/emacs-tw/awesome-emacs) - A community driven list of useful Emacs packages, libraries and others.
+- [emacs-tw/awesome-emacs](https://github.com/emacs-tw/awesome-emacs) - A community driven list of useful Emacs packages, libraries and other items.
 - [Andrea/FunctionalProgrammingInGames](https://github.com/Andrea/FunctionalProgrammingInGames) - Functional Programming in Games Resources
 - [TylerWeinbender/DropBox-Sites](https://github.com/TylerWeinbender/DropBox-Sites) - 
 - [domgetter/NCoC](https://github.com/domgetter/NCoC) - No Code of Conduct: A Code of Conduct for Adults in Open Source Software
@@ -1480,7 +1483,7 @@
 - [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
 - [heroku/docker-go-base](https://github.com/heroku/docker-go-base) - 
 - [michaeldfallen/git-radar](https://github.com/michaeldfallen/git-radar) - A heads up display for git
-- [heroku/docker-python](https://github.com/heroku/docker-python) - Docker image for Python (and Heroku).
+- [heroku/docker-python](https://github.com/heroku/docker-python) - [DEPRECATED] Docker image for Python (and Heroku).
 - [heroku/dotnet-buildpack](https://github.com/heroku/dotnet-buildpack) - ASP.NET 5 Buildpack
 - [srid/heroku-buildpack-elm](https://github.com/srid/heroku-buildpack-elm) - Heroku buildpack for deploying Elm apps (NEEDS MAINTAINER)
 - [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Over 250 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTerminal, Microsoft's Windows Terminal, Visual Studio, Alacritty
@@ -1578,6 +1581,7 @@
 - [laobubu/HyperMD](https://github.com/laobubu/HyperMD) - A WYSIWYG Markdown Editor for browsers. Break the Wall between writing and previewing.
 - [urbit/sigil-js](https://github.com/urbit/sigil-js) - ~4.2 billion default profile pics
 - [haskell/vscode-haskell](https://github.com/haskell/vscode-haskell) - VS Code extension for Haskell, powered by haskell-language-server
+- [antonycourtney/tad](https://github.com/antonycourtney/tad) - A desktop application for viewing and analyzing tabular data
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 - [atom-haskell/ide-haskell](https://github.com/atom-haskell/ide-haskell) - Haskell IDE plugin for Atom editor
 - [microsoft/TouchDevelop](https://github.com/microsoft/TouchDevelop) - TouchDevelop is a touch-friendly app creation environment for iPad, iPhone, Android, Windows, Mac, Linux. Our mobile-friendly editor makes coding fun, even on your phone or tablet!
