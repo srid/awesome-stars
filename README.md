@@ -414,7 +414,7 @@
 - [fsouza/go-dockerclient](https://github.com/fsouza/go-dockerclient) - Go client for the Docker Engine API.
 - [hashicorp/packer](https://github.com/hashicorp/packer) - Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.
 - [mattn/gom](https://github.com/mattn/gom) - Go Manager - bundle for go
-- [google/go-github](https://github.com/google/go-github) - Go library for accessing the GitHub API
+- [google/go-github](https://github.com/google/go-github) - Go library for accessing the GitHub v3 API
 - [cloudfoundry/cli](https://github.com/cloudfoundry/cli) - The official command line client for Cloud Foundry
 - [flynn/flynn](https://github.com/flynn/flynn) - [UNMAINTAINED] A next generation open source platform as a service (PaaS)
 - [hpcloud/logyard](https://github.com/hpcloud/logyard) - Stackato's logging system (open sourced on Oct, 2014)
@@ -502,6 +502,7 @@
 
 ## Haskell 
 
+- [haskell-hint/hint](https://github.com/haskell-hint/hint) - Runtime Haskell interpreter
 - [well-typed/plutonomy](https://github.com/well-typed/plutonomy) - An optimizer for untyped plutus core
 - [recursion-schemes/recursion-schemes](https://github.com/recursion-schemes/recursion-schemes) - Generalized bananas, lenses and barbed wire
 - [NorfairKing/feedback](https://github.com/NorfairKing/feedback) - Declarative feedback loop manager
@@ -1001,6 +1002,8 @@
 
 ## Lua 
 
+- [nvim-telescope/telescope-file-browser.nvim](https://github.com/nvim-telescope/telescope-file-browser.nvim) - File Browser extension for telescope.nvim
+- [AstroNvim/AstroNvim](https://github.com/AstroNvim/AstroNvim) - AstroNvim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins
 - [folke/tokyonight.nvim](https://github.com/folke/tokyonight.nvim) - 🏙  A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish.
 - [pandoc/lua-filters](https://github.com/pandoc/lua-filters) - A collection of lua filters for pandoc
 - [ShinKage/idris2-nvim](https://github.com/ShinKage/idris2-nvim) - Simple configuration and extra tools for NVIM + LSP + Idris2
@@ -1032,6 +1035,7 @@
 
 ## Nix 
 
+- [srid/nixos-config](https://github.com/srid/nixos-config) - KISS NixOS configuration based on Flakes (supports macOS too)
 - [astro/microvm.nix](https://github.com/astro/microvm.nix) - NixOS MicroVMs
 - [aquiferma/noter](https://github.com/aquiferma/noter) - A small software environment for your plain-text notes
 - [nix-community/nix-doom-emacs](https://github.com/nix-community/nix-doom-emacs) - doom-emacs packaged for Nix [maintainer=@ckiee]
