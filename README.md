@@ -66,6 +66,7 @@
 
 ## Agda 
 
+- [Orbis-Tertius/zkp](https://github.com/Orbis-Tertius/zkp) - Denotational Zero Knowledge Proofs
 - [martinescardo/HoTT-UF-Agda-Lecture-Notes](https://github.com/martinescardo/HoTT-UF-Agda-Lecture-Notes) - Lecture notes on univalent foundations of mathematics with Agda
 - [isovector/blagda](https://github.com/isovector/blagda) - agda blogging based on 1lab
 - [plt-amy/1lab](https://github.com/plt-amy/1lab) - A formalised, cross-linked reference resource for mathematics done in Homotopy Type Theory
@@ -201,6 +202,7 @@
 
 ## Dockerfile 
 
+- [jmgilman/dev-container](https://github.com/jmgilman/dev-container) - A devcontainer built on Debian and powered by Nix.
 - [matiu2/tailwind-yew-builder](https://github.com/matiu2/tailwind-yew-builder) - Build tailwind css for yew style applications, using docker-compose, so you don't need to have npm installed
 - [zimbatm/vscode-devcontainer-nix](https://github.com/zimbatm/vscode-devcontainer-nix) - WIP: VSCode remote container for Nix-based environments
 
@@ -501,6 +503,7 @@
 
 ## Haskell 
 
+- [srid/timedot-invoice](https://github.com/srid/timedot-invoice) - 
 - [utdemir/nix-tree](https://github.com/utdemir/nix-tree) - Interactively browse dependency graphs of Nix derivations.
 - [Gabriella439/grace](https://github.com/Gabriella439/grace) - A ready-to-fork interpreted functional language with type inference
 - [haskell-hint/hint](https://github.com/haskell-hint/hint) - Runtime Haskell interpreter
@@ -513,7 +516,7 @@
 - [swarm-game/swarm](https://github.com/swarm-game/swarm) - Resource gathering + programming game
 - [well-typed/large-records](https://github.com/well-typed/large-records) - Library to support efficient compilation of large records (linear in the number of record fields)
 - [telostat/haspara](https://github.com/telostat/haspara) - Haskell library to work with monetary values
-- [conal/concat](https://github.com/conal/concat) - Compiling to Categories
+- [compiling-to-categories/concat](https://github.com/compiling-to-categories/concat) - Compiling to Categories
 - [kcsongor/generic-lens](https://github.com/kcsongor/generic-lens) - Generically derive traversals, lenses, and prisms.
 - [well-typed/optics](https://github.com/well-typed/optics) - Optics as an abstract interface
 - [sellout/compiling-anything-to-categories](https://github.com/sellout/compiling-anything-to-categories) - a talk about and sample project for the [Categorifier](https://github.org/con-kitty/categorifier) GHC plugin.
@@ -938,7 +941,6 @@
 - [google/bottery](https://github.com/google/bottery) - 
 - [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - 💯 Curated interview preparation materials for busy engineers
 - [kamranahmedse/githunt](https://github.com/kamranahmedse/githunt) - Hunt the most starred projects on any date on GitHub
-- [stackblitz/core](https://github.com/stackblitz/core) - Online IDE powered by Visual Studio Code ⚡️
 - [katspaugh/fluentcards](https://github.com/katspaugh/fluentcards) - Flashcards from dictionary look-ups
 - [rustico/fr-conjugation](https://github.com/rustico/fr-conjugation) - French Conjugation
 - [gorhill/uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
@@ -1036,6 +1038,9 @@
 
 ## Nix 
 
+- [hercules-ci/flake-modules-core](https://github.com/hercules-ci/flake-modules-core) - Core of a framework for writing flakes. Assemble your flakes with modules!
+- [gytis-ivaskevicius/high-quality-nix-content](https://github.com/gytis-ivaskevicius/high-quality-nix-content) - GitHub repository containing highest quality Nix/NixOS content
+- [srid/monorepo-nix-template](https://github.com/srid/monorepo-nix-template) - Make monorepos with Nix flakes
 - [yusdacra/nix-cargo-integration](https://github.com/yusdacra/nix-cargo-integration) - Library to easily and effortlessly integrate Cargo projects with Nix.
 - [srid/rust-nix-template](https://github.com/srid/rust-nix-template) - Rust project template with Nix (Flakes) and VSCode support
 - [srid/nixos-config](https://github.com/srid/nixos-config) - KISS NixOS configuration based on Flakes (supports macOS too)
@@ -1550,6 +1555,7 @@
 
 ## TypeScript 
 
+- [markdoc/markdoc](https://github.com/markdoc/markdoc) - A Markdown-based authoring system
 - [antfu/vscode-browse-lite](https://github.com/antfu/vscode-browse-lite) - 🚀 An embedded browser in VS Code
 - [bamboo/idris2-lsp-vscode](https://github.com/bamboo/idris2-lsp-vscode) - Visual Studio Code integration for the Idris 2 language server
 - [gcanti/fp-ts](https://github.com/gcanti/fp-ts) - Functional programming in TypeScript
@@ -1589,6 +1595,7 @@
 - [laobubu/HyperMD](https://github.com/laobubu/HyperMD) - A WYSIWYG Markdown Editor for browsers. Break the Wall between writing and previewing.
 - [urbit/sigil-js](https://github.com/urbit/sigil-js) - ~4.2 billion default profile pics
 - [haskell/vscode-haskell](https://github.com/haskell/vscode-haskell) - VS Code extension for Haskell, powered by haskell-language-server
+- [stackblitz/core](https://github.com/stackblitz/core) - Online IDE powered by Visual Studio Code ⚡️
 - [antonycourtney/tad](https://github.com/antonycourtney/tad) - A desktop application for viewing and analyzing tabular data
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 - [atom-haskell/ide-haskell](https://github.com/atom-haskell/ide-haskell) - Haskell IDE plugin for Atom editor
