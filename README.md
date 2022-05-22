@@ -202,7 +202,6 @@
 
 ## Dockerfile 
 
-- [jmgilman/dev-container](https://github.com/jmgilman/dev-container) - A devcontainer built on Debian and powered by Nix.
 - [matiu2/tailwind-yew-builder](https://github.com/matiu2/tailwind-yew-builder) - Build tailwind css for yew style applications, using docker-compose, so you don't need to have npm installed
 - [zimbatm/vscode-devcontainer-nix](https://github.com/zimbatm/vscode-devcontainer-nix) - WIP: VSCode remote container for Nix-based environments
 
@@ -503,7 +502,7 @@
 
 ## Haskell 
 
-- [srid/timedot-invoice](https://github.com/srid/timedot-invoice) - 
+- [srid/timedot-invoice](https://github.com/srid/timedot-invoice) - WIP: Swift invoice generator for Hledger timedot file
 - [utdemir/nix-tree](https://github.com/utdemir/nix-tree) - Interactively browse dependency graphs of Nix derivations.
 - [Gabriella439/grace](https://github.com/Gabriella439/grace) - A ready-to-fork interpreted functional language with type inference
 - [haskell-hint/hint](https://github.com/haskell-hint/hint) - Runtime Haskell interpreter
@@ -622,7 +621,6 @@
 - [TheMatten/purjs](https://github.com/TheMatten/purjs) - [WIP] wrapper for running purescript compiler in browser
 - [kowainik/learn4haskell](https://github.com/kowainik/learn4haskell) - 👩‍🏫 👨‍🏫 Learn Haskell basics in 4 pull requests
 - [intolerable/stitch](https://github.com/intolerable/stitch) - a lightweight CSS DSL for haskell
-- [lmu-ffp-sose-2020-secret-hitler/secret-hitler](https://github.com/lmu-ffp-sose-2020-secret-hitler/secret-hitler) - A Haskell implementation of the game Secret Hitler
 - [mpickering/ghcide-reflex](https://github.com/mpickering/ghcide-reflex) - Experimental fork of ghcide which is reimplemented using the FRP library reflex
 - [WebGHC/jsaddle-wasm](https://github.com/WebGHC/jsaddle-wasm) - jsaddle interface for WebGHC
 - [tweag/asterius](https://github.com/tweag/asterius) - A Haskell to WebAssembly compiler
@@ -772,7 +770,7 @@
 - [mightybyte/fake](https://github.com/mightybyte/fake) - Generate realistic looking fake data
 - [reflex-frp/reflex-dom](https://github.com/reflex-frp/reflex-dom) - Web applications without callbacks or side-effects. Reflex-DOM brings the power of functional reactive programming (FRP) to the web. Build HTML and other Document Object Model (DOM) data with a pure f
 - [pcapriotti/optparse-applicative](https://github.com/pcapriotti/optparse-applicative) - Applicative option parser
-- [gazay/faker](https://github.com/gazay/faker) - Faker is pure Haskell library for generating fake data.
+- [DmitryTsepelev/faker](https://github.com/DmitryTsepelev/faker) - Faker is pure Haskell library for generating fake data.
 - [qfpl/sv](https://github.com/qfpl/sv) - Comma (and other) separated values
 - [vlad-shatskyi/i3wm-config-haskell](https://github.com/vlad-shatskyi/i3wm-config-haskell) - A DSL for writing type-safe and convenient i3 configs.
 - [tomsmalley/semantic-reflex](https://github.com/tomsmalley/semantic-reflex) - 🔧 Semantic UI for Haskell and Reflex-DOM
@@ -851,6 +849,8 @@
 
 ## Idris 
 
+- [stefan-hoeck/idris2-rhone-js](https://github.com/stefan-hoeck/idris2-rhone-js) - Experimental JS bindings for idris2-rhone
+- [stefan-hoeck/idris2-rhone](https://github.com/stefan-hoeck/idris2-rhone) - 
 - [madman-bob/idris2-table](https://github.com/madman-bob/idris2-table) - A table library for Idris 2
 - [ECburx/Idris2GL](https://github.com/ECburx/Idris2GL) - A Graphics Library for Idris 2.
 - [ohad/collie](https://github.com/ohad/collie) - Command line interface library in Idris
@@ -1038,6 +1038,10 @@
 
 ## Nix 
 
+- [numtide/flake-utils](https://github.com/numtide/flake-utils) - Pure Nix flake utility functions
+- [msteen/nixos-vscode-server](https://github.com/msteen/nixos-vscode-server) - Visual Studio Code Server support in NixOS
+- [numtide/devshell](https://github.com/numtide/devshell) - Per project developer environments
+- [jmgilman/dev-container](https://github.com/jmgilman/dev-container) - A devcontainer built on Debian and powered by Nix.
 - [hercules-ci/flake-modules-core](https://github.com/hercules-ci/flake-modules-core) - Core of a framework for writing flakes. Assemble your flakes with modules!
 - [gytis-ivaskevicius/high-quality-nix-content](https://github.com/gytis-ivaskevicius/high-quality-nix-content) - GitHub repository containing highest quality Nix/NixOS content
 - [srid/monorepo-nix-template](https://github.com/srid/monorepo-nix-template) - Make monorepos with Nix flakes
@@ -1045,7 +1049,7 @@
 - [srid/rust-nix-template](https://github.com/srid/rust-nix-template) - Rust project template with Nix (Flakes) and VSCode support
 - [srid/nixos-config](https://github.com/srid/nixos-config) - KISS NixOS configuration based on Flakes (supports macOS too)
 - [astro/microvm.nix](https://github.com/astro/microvm.nix) - NixOS MicroVMs
-- [aquiferma/noter](https://github.com/aquiferma/noter) - A small software environment for your plain-text notes
+- [aquiferma/noteable](https://github.com/aquiferma/noteable) - A small software environment for your plain-text notes
 - [nix-community/nix-doom-emacs](https://github.com/nix-community/nix-doom-emacs) - doom-emacs packaged for Nix [maintainer=@ckiee]
 - [Mic92/nixos-shell](https://github.com/Mic92/nixos-shell) - Spawns lightweight nixos vms in a shell
 - [cardano-system/cardano-system](https://github.com/cardano-system/cardano-system) - 
@@ -1501,7 +1505,6 @@
 - [heroku/dotnet-buildpack](https://github.com/heroku/dotnet-buildpack) - ASP.NET 5 Buildpack
 - [srid/heroku-buildpack-elm](https://github.com/srid/heroku-buildpack-elm) - Heroku buildpack for deploying Elm apps (NEEDS MAINTAINER)
 - [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Over 250 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTermin
-- [fooforge/docker-gollum](https://github.com/fooforge/docker-gollum) - A Dockerfile to install gollum and to keep changes made to the Wiki in sync with the remote repository.
 - [ActiveState/activepython-docker](https://github.com/ActiveState/activepython-docker) - ActivePython Docker image
 - [illusori/bash-itunes](https://github.com/illusori/bash-itunes) - Shell script to control iTunes from the command-line.
 - [babun/babun](https://github.com/babun/babun) - Babun - a Windows shell you will love!
@@ -1533,6 +1536,7 @@
 
 ## Swift 
 
+- [vincode-io/Zavala](https://github.com/vincode-io/Zavala) - A good, simple outliner for macOS, iPadOS, and iOS.
 - [adur1990/Pass-for-macOS](https://github.com/adur1990/Pass-for-macOS) - macOS wrapper for pass, the standard UNIX password manager
 - [michaelvillar/timer-app](https://github.com/michaelvillar/timer-app) - A simple Timer app for Mac
 - [josh/Aware](https://github.com/josh/Aware) - 
@@ -1555,7 +1559,7 @@
 
 ## TypeScript 
 
-- [markdoc/markdoc](https://github.com/markdoc/markdoc) - A Markdown-based authoring system
+- [markdoc/markdoc](https://github.com/markdoc/markdoc) - A powerful, flexible, Markdown-based authoring framework.
 - [antfu/vscode-browse-lite](https://github.com/antfu/vscode-browse-lite) - 🚀 An embedded browser in VS Code
 - [bamboo/idris2-lsp-vscode](https://github.com/bamboo/idris2-lsp-vscode) - Visual Studio Code integration for the Idris 2 language server
 - [gcanti/fp-ts](https://github.com/gcanti/fp-ts) - Functional programming in TypeScript
