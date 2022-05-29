@@ -54,6 +54,7 @@
 - [Scala](#scala)
 - [Scheme](#scheme)
 - [Shell](#shell)
+- [Smarty](#smarty)
 - [Svelte](#svelte)
 - [Swift](#swift)
 - [Tcl](#tcl)
@@ -502,9 +503,10 @@
 
 ## Haskell 
 
+- [lucasvreis/org-parser](https://github.com/lucasvreis/org-parser) - An Org Mode parser written in Haskell with customizable HTML exporter.
+- [qfpl/reflex-backend-socket](https://github.com/qfpl/reflex-backend-socket) - Reflex support for socket-based applications
 - [srid/timedot-invoice](https://github.com/srid/timedot-invoice) - WIP: Swift invoice generator for Hledger timedot file
 - [utdemir/nix-tree](https://github.com/utdemir/nix-tree) - Interactively browse dependency graphs of Nix derivations.
-- [Gabriella439/grace](https://github.com/Gabriella439/grace) - A ready-to-fork interpreted functional language with type inference
 - [haskell-hint/hint](https://github.com/haskell-hint/hint) - Runtime Haskell interpreter
 - [well-typed/plutonomy](https://github.com/well-typed/plutonomy) - An optimizer for untyped plutus core
 - [recursion-schemes/recursion-schemes](https://github.com/recursion-schemes/recursion-schemes) - Generalized bananas, lenses and barbed wire
@@ -527,14 +529,10 @@
 - [srid/tailwind-haskell](https://github.com/srid/tailwind-haskell) - A No-JavaScript Tailwind runner in Haskell
 - [NorfairKing/safe-coloured-text](https://github.com/NorfairKing/safe-coloured-text) - 
 - [isovector/cornelis](https://github.com/isovector/cornelis) - agda-mode for neovim
-- [mlabs-haskell/apropos-tx](https://github.com/mlabs-haskell/apropos-tx) - Better testing for Plutus
 - [kosmikus/cufp-tutorial-2016](https://github.com/kosmikus/cufp-tutorial-2016) - Materials for the CUFP 2016 tutorial on Generic and Type-Level Programming using generics-sop
 - [well-typed/generics-sop](https://github.com/well-typed/generics-sop) - Generic Programming using True Sums of Products
-- [Liqwid-Labs/plutus-extra](https://github.com/Liqwid-Labs/plutus-extra) - Helper libraries for Plutus.
 - [srid/banyan](https://github.com/srid/banyan) - Tree of time
 - [ku-fpg/blank-canvas](https://github.com/ku-fpg/blank-canvas) - A Haskell API into HTML5 Canvas
-- [bgamari/criterion-compare](https://github.com/bgamari/criterion-compare) - A simple tool for visualising differences in Criterion benchmark results
-- [Plutonomicon/pluton](https://github.com/Plutonomicon/pluton) - Plutarch: Smart Contracts & benchmarks
 - [srid/ema-template](https://github.com/srid/ema-template) - Template repo for Ema static site generator
 - [kosmikus/SSGEP](https://github.com/kosmikus/SSGEP) - 
 - [RyanGlScott/ghc-software-foundations](https://github.com/RyanGlScott/ghc-software-foundations) - The Software Foundations book, in GHC
@@ -878,6 +876,7 @@
 ## JavaScript 
 
 - [resume/resume.github.com](https://github.com/resume/resume.github.com) - Resumes generated using the GitHub informations
+- [Gabriella439/grace](https://github.com/Gabriella439/grace) - A ready-to-fork interpreted functional language with type inference
 - [publiusfederalist/zooko](https://github.com/publiusfederalist/zooko) - Uncensorable, immutable microblogging platform that is completely decentralized and does not rely on any centralized systems, only the Handshake blockchain
 - [Emurgo/yoroi-frontend](https://github.com/Emurgo/yoroi-frontend) - Yoroi Wallet - Cardano ADA Wallet - Your gateway to the financial world (extension frontend)
 - [ThomasFKJorna/emacs-docs](https://github.com/ThomasFKJorna/emacs-docs) - The documentation website Emacs deserves
@@ -1042,7 +1041,7 @@
 - [msteen/nixos-vscode-server](https://github.com/msteen/nixos-vscode-server) - Visual Studio Code Server support in NixOS
 - [numtide/devshell](https://github.com/numtide/devshell) - Per project developer environments
 - [jmgilman/dev-container](https://github.com/jmgilman/dev-container) - A devcontainer built on Debian and powered by Nix.
-- [hercules-ci/flake-modules-core](https://github.com/hercules-ci/flake-modules-core) - Core of a framework for writing flakes. Assemble your flakes with modules!
+- [hercules-ci/flake-parts](https://github.com/hercules-ci/flake-parts) - Core of a framework for writing flakes. Assemble your flakes with modules!
 - [gytis-ivaskevicius/high-quality-nix-content](https://github.com/gytis-ivaskevicius/high-quality-nix-content) - GitHub repository containing highest quality Nix/NixOS content
 - [srid/monorepo-nix-template](https://github.com/srid/monorepo-nix-template) - Make monorepos with Nix flakes
 - [yusdacra/nix-cargo-integration](https://github.com/yusdacra/nix-cargo-integration) - Library to easily and effortlessly integrate Cargo projects with Nix.
@@ -1223,7 +1222,6 @@
 
 ## PureScript 
 
-- [Plutonomicon/cardano-transaction-lib](https://github.com/Plutonomicon/cardano-transaction-lib) - 
 - [purescript-gjs/purescript-gjs](https://github.com/purescript-gjs/purescript-gjs) - GNOME JavaScript bindings for PureScript
 - [lumihq/purescript-react-basic](https://github.com/lumihq/purescript-react-basic) - An opinionated set of bindings to the React library, optimizing for the most basic use cases
 - [megamaddu/purescript-react-basic-hooks](https://github.com/megamaddu/purescript-react-basic-hooks) - An implementation of React hooks on top of purescript-react-basic
@@ -1403,7 +1401,6 @@
 - [numtide/treefmt](https://github.com/numtide/treefmt) - One CLI to format the code tree
 - [bennofs/nix-index](https://github.com/bennofs/nix-index) - Quickly locate nix packages with specific files
 - [Mange/tydra](https://github.com/Mange/tydra) - Shortcut menu-based task runner, inspired by Emacs Hydra
-- [zcash/orchard](https://github.com/zcash/orchard) - TBD
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 - [jD91mZM2/xidlehook](https://github.com/jD91mZM2/xidlehook) - GitLab: https://gitlab.com/jD91mZM2/xidlehook
 - [rschmukler/caffeinate](https://github.com/rschmukler/caffeinate) - Keeping xidlehook woke
@@ -1529,6 +1526,10 @@
 - [sjl/z-fish](https://github.com/sjl/z-fish) - A fork of http://github.com/rupa/z to port it to the Fish shell.
 - [rupa/z](https://github.com/rupa/z) - z - jump around
 
+## Smarty 
+
+- [ners/ners.ch](https://github.com/ners/ners.ch) - Personal website
+
 ## Svelte 
 
 - [GrygrFlzr/kit-docs](https://github.com/GrygrFlzr/kit-docs) - Unofficial documentation for SvelteKit
@@ -1548,6 +1549,8 @@
 
 ## TeX 
 
+- [BartoszMilewski/Publications](https://github.com/BartoszMilewski/Publications) - Misc. publications, conference slides, etc. For more, go to http://BartoszMilewski.com
+- [BartoszMilewski/DaoFP](https://github.com/BartoszMilewski/DaoFP) - The Dao of Functional Programming
 - [andrejbauer/homotopy-type-theory-course](https://github.com/andrejbauer/homotopy-type-theory-course) - A course on homotopy theory and type theory, taught jointly with Jaka Smrekar
 - [LibertyDSNP/papers](https://github.com/LibertyDSNP/papers) - Project Liberty Papers
 - [liuxinyu95/unplugged](https://github.com/liuxinyu95/unplugged) - Open book about math and programming.
