@@ -84,7 +84,6 @@
 
 ## C 
 
-- [goldendict/goldendict](https://github.com/goldendict/goldendict) - A feature-rich dictionary lookup program, supporting multiple dictionary formats (StarDict/Babylon/Lingvo/Dictd) and online dictionaries, featuring perfect article rendering with the complete markup, 
 - [davatorium/rofi](https://github.com/davatorium/rofi) - Rofi: A window switcher, application launcher and dmenu replacement
 - [mpv-player/mpv](https://github.com/mpv-player/mpv) - 🎥 Command line video player
 - [imbushuo/mac-precision-touchpad](https://github.com/imbushuo/mac-precision-touchpad) - Windows Precision Touchpad Driver Implementation for Apple MacBook / Magic Trackpad
@@ -134,6 +133,7 @@
 - [microsoft/wslg](https://github.com/microsoft/wslg) - Enabling the Windows Subsystem for Linux to include support for Wayland and X server related scenarios
 - [xbmc/xbmc](https://github.com/xbmc/xbmc) - Kodi is an award-winning free and open source home theater/media center software and entertainment hub for digital media. With its beautiful interface and powerful skinning engine, it's available for 
 - [aardappel/treesheets](https://github.com/aardappel/treesheets) - TreeSheets : Free Form Data Organizer (see treesheets.com)
+- [goldendict/goldendict](https://github.com/goldendict/goldendict) - A feature-rich dictionary lookup program, supporting multiple dictionary formats (StarDict/Babylon/Lingvo/Dictd) and online dictionaries, featuring perfect article rendering with the complete markup, 
 - [PerBothner/DomTerm](https://github.com/PerBothner/DomTerm) - DOM/JavaScript-based terminal-emulator/console
 - [microsoft/winget-cli](https://github.com/microsoft/winget-cli) - Windows Package Manager CLI (aka winget)
 - [albertlauncher/albert](https://github.com/albertlauncher/albert) - A fast and flexible keyboard launcher
@@ -258,6 +258,7 @@
 
 ## Emacs Lisp 
 
+- [minad/org-modern](https://github.com/minad/org-modern) - :unicorn: Modern Org Style
 - [vedang/ox-neuron](https://github.com/vedang/ox-neuron) - A Neuron Zettel Markdown back-end for Org Export Engine
 - [jrblevin/markdown-mode](https://github.com/jrblevin/markdown-mode) - Emacs Markdown Mode
 - [emacs-lsp/lsp-ui](https://github.com/emacs-lsp/lsp-ui) - UI integrations for lsp-mode
@@ -503,6 +504,7 @@
 
 ## Haskell 
 
+- [L-as/plutarch-core-wip-draft](https://github.com/L-as/plutarch-core-wip-draft) - Plutarch 2.0 draft WIP
 - [lucasvreis/org-parser](https://github.com/lucasvreis/org-parser) - An Org Mode parser written in Haskell with customizable HTML exporter.
 - [qfpl/reflex-backend-socket](https://github.com/qfpl/reflex-backend-socket) - Reflex support for socket-based applications
 - [srid/timedot-invoice](https://github.com/srid/timedot-invoice) - WIP: Swift invoice generator for Hledger timedot file
@@ -619,6 +621,7 @@
 - [TheMatten/purjs](https://github.com/TheMatten/purjs) - [WIP] wrapper for running purescript compiler in browser
 - [kowainik/learn4haskell](https://github.com/kowainik/learn4haskell) - 👩‍🏫 👨‍🏫 Learn Haskell basics in 4 pull requests
 - [intolerable/stitch](https://github.com/intolerable/stitch) - a lightweight CSS DSL for haskell
+- [lmu-ffp-sose-2020-secret-hitler/secret-hitler](https://github.com/lmu-ffp-sose-2020-secret-hitler/secret-hitler) - A Haskell implementation of the game Secret Hitler
 - [mpickering/ghcide-reflex](https://github.com/mpickering/ghcide-reflex) - Experimental fork of ghcide which is reimplemented using the FRP library reflex
 - [WebGHC/jsaddle-wasm](https://github.com/WebGHC/jsaddle-wasm) - jsaddle interface for WebGHC
 - [tweag/asterius](https://github.com/tweag/asterius) - A Haskell to WebAssembly compiler
@@ -918,7 +921,7 @@
 - [do-sch/gnome-shell-touchpad-window-move](https://github.com/do-sch/gnome-shell-touchpad-window-move) - GNOME Extension that allows moving windows with three finger trackpad gestures
 - [hslbck/gnome-shell-extension-radio](https://github.com/hslbck/gnome-shell-extension-radio) - Gnome shell extension for listening to internet radio streams
 - [paperwm/PaperWM](https://github.com/paperwm/PaperWM) - Tiled scrollable window management for Gnome Shell
-- [fomantic/Fomantic-UI](https://github.com/fomantic/Fomantic-UI) - Fomantic-UI is a community fork of Semantic-UI
+- [fomantic/Fomantic-UI](https://github.com/fomantic/Fomantic-UI) - Fomantic-UI is the official community fork of Semantic-UI
 - [codemirror/codemirror.next](https://github.com/codemirror/codemirror.next) - The next generation of the CodeMirror in-browser editor
 - [MaggieAppleton/digital-gardeners](https://github.com/MaggieAppleton/digital-gardeners) - Resources, links, projects, and ideas for gardeners tending their digital notes on the public interwebs
 - [GoogleChromeLabs/text-editor](https://github.com/GoogleChromeLabs/text-editor) - A text editor build on the Native File System APIs
@@ -1025,6 +1028,7 @@
 - [srid/haskell-ladder](https://github.com/srid/haskell-ladder) - WIP: Haskell Pedagogic Ladder (Run `nix run` to run the site locally)
 - [uiuc-cs-zettelkasten/uiuc-cs-zettelkasten.github.io](https://github.com/uiuc-cs-zettelkasten/uiuc-cs-zettelkasten.github.io) - UIUC Computer Science Zettelkasten
 - [input-output-hk/adrestia](https://github.com/input-output-hk/adrestia) - APIs & SDK for interacting with Cardano.
+- [srid/emanote-template](https://github.com/srid/emanote-template) - Notebook template for Emanote
 - [Kuratoro/TheMotte.zettel.page](https://github.com/Kuratoro/TheMotte.zettel.page) - [unmaintained] Unofficial Wiki for r/TheMotte
 - [tfausak/haskell-knowledge-base](https://github.com/tfausak/haskell-knowledge-base) - :spider_web: A knowledge map about Haskell powered by Obsidian.
 - [srid/alien-psychology](https://github.com/srid/alien-psychology) - 3rd Rock From The Sun episodes tagged with psychological concepts
@@ -1037,6 +1041,7 @@
 
 ## Nix 
 
+- [srid/haskell-flake](https://github.com/srid/haskell-flake) - A `flake-parts` Nix module for Haskell development
 - [numtide/flake-utils](https://github.com/numtide/flake-utils) - Pure Nix flake utility functions
 - [msteen/nixos-vscode-server](https://github.com/msteen/nixos-vscode-server) - Visual Studio Code Server support in NixOS
 - [numtide/devshell](https://github.com/numtide/devshell) - Per project developer environments
@@ -1066,7 +1071,6 @@
 - [hercules-ci/arion](https://github.com/hercules-ci/arion) - Run docker-compose with help from Nix/NixOS
 - [numtide/nix-filter](https://github.com/numtide/nix-filter) - a small self-container source filtering lib
 - [input-output-hk/haskell.nix](https://github.com/input-output-hk/haskell.nix) - Alternative Haskell Infrastructure for Nixpkgs
-- [srid/emanote-template](https://github.com/srid/emanote-template) - Notebook template for Emanote
 - [ursi/purs-nix](https://github.com/ursi/purs-nix) - Manage your PureScript projects with Nix!
 - [danielfullmer/robotnix](https://github.com/danielfullmer/robotnix) - Build Android (AOSP) using Nix
 - [nix-community/neovim-nightly-overlay](https://github.com/nix-community/neovim-nightly-overlay) - [maintainer=@mjlbach]
@@ -1252,7 +1256,7 @@
 - [WoeUSB/WoeUSB-ng](https://github.com/WoeUSB/WoeUSB-ng) - WoeUSB-ng is a simple tool that enable you to create your own usb stick windows installer from an iso image or a real DVD. This is a rewrite of original WoeUSB.
 - [commonmark/commonmark-spec](https://github.com/commonmark/commonmark-spec) - CommonMark spec, with reference implementations in C and JavaScript
 - [rms-support-letter/rms-support-letter.github.io](https://github.com/rms-support-letter/rms-support-letter.github.io) - An open letter in support of Richard Matthew Stallman being reinstated by the Free Software Foundation
-- [Eloston/ungoogled-chromium](https://github.com/Eloston/ungoogled-chromium) - Google Chromium, sans integration with Google
+- [ungoogled-software/ungoogled-chromium](https://github.com/ungoogled-software/ungoogled-chromium) - Google Chromium, sans integration with Google
 - [ghc-proposals/ghc-proposals](https://github.com/ghc-proposals/ghc-proposals) - Proposed compiler and language changes for GHC and GHC/Haskell
 - [skorokithakis/catt](https://github.com/skorokithakis/catt) - Cast All The Things allows you to send videos from many, many online sources to your Chromecast.
 - [Nathravorn/neural_note_linking](https://github.com/Nathravorn/neural_note_linking) - Categorize bits of text by how similar they are using neural language models
