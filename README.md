@@ -77,6 +77,7 @@
 - [alhassy/AgdaCheatSheet](https://github.com/alhassy/AgdaCheatSheet) - Basics of the dependently-typed functional language Agda ^_^
 - [pigworker/CS410-17](https://github.com/pigworker/CS410-17) - being the lecture materials and exercises for the 2017/18 session of CS410 Advanced Functional Programming at the University of Strathclyde
 - [conal/denotational-hardware](https://github.com/conal/denotational-hardware) - Denotational hardware design in Agda
+- [plfa/plfa.github.io](https://github.com/plfa/plfa.github.io) - An introduction to programming language theory in Agda
 
 ## AutoHotkey 
 
@@ -146,6 +147,7 @@
 
 ## CSS 
 
+- [rougier/emacs-gtd](https://github.com/rougier/emacs-gtd) - Get Things Done with Emacs
 - [madmalik/mononoki](https://github.com/madmalik/mononoki) - a programming typeface
 - [cardano-foundation/CIPs](https://github.com/cardano-foundation/CIPs) - 
 - [whyt-byte/Blue-Topaz_Obsidian-css](https://github.com/whyt-byte/Blue-Topaz_Obsidian-css) - A blue theme for Obsidian.
@@ -478,7 +480,6 @@
 - [tallesl/Rich-Hickey-fanclub](https://github.com/tallesl/Rich-Hickey-fanclub) - "every time I watch one of his talks I feel like someone has gone in and organized my brain"
 - [boris-marinov/category-theory-illustrated](https://github.com/boris-marinov/category-theory-illustrated) - A book about category theory
 - [iohkedu/haskell-2020](https://github.com/iohkedu/haskell-2020) - Videos and exercises for the Haskell and Cryptocurrencies class.
-- [plfa/plfa.github.io](https://github.com/plfa/plfa.github.io) - An introduction to programming language theory in Agda
 - [xygn/Notes](https://github.com/xygn/Notes) - Best viewed as an Obsidian Vault.
 - [vitalets/github-trending-repos](https://github.com/vitalets/github-trending-repos) - Track GitHub trending repositories in your favorite programming language by native GitHub notifications!
 - [decentralized-identity/ion](https://github.com/decentralized-identity/ion) - The Identity Overlay Network (ION) is a DID Method implementation using the Sidetree protocol atop Bitcoin
@@ -564,7 +565,7 @@
 - [eskimor/purescript-bridge](https://github.com/eskimor/purescript-bridge) - Create PureScript datatypes from Haskell datatypes
 - [input-output-hk/plutus-pioneer-program](https://github.com/input-output-hk/plutus-pioneer-program) - 
 - [well-typed/cborg](https://github.com/well-typed/cborg) - Binary serialisation in the CBOR format
-- [simonmichael/hledger](https://github.com/simonmichael/hledger) - A reliable, user-friendly Plain Text Accounting tool with command line, terminal and web interfaces.
+- [simonmichael/hledger](https://github.com/simonmichael/hledger) - Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces.
 - [fumieval/extensible](https://github.com/fumieval/extensible) - Extensible records, variants, structs, effects, tangles
 - [willbasky/Awesome-list-of-Haskell-mentors](https://github.com/willbasky/Awesome-list-of-Haskell-mentors) - An amazing list of Haskell developers who would like to mentor beginner-contributors in open source projects.
 - [livmackintosh/matrix-sdk](https://github.com/livmackintosh/matrix-sdk) - Haskell SDK for [matrix]
@@ -588,7 +589,7 @@
 - [snapframework/heist](https://github.com/snapframework/heist) - An xhtml-based templating engine, allowing Haskell functions to be bound to XML tags.
 - [tdammers/ginger](https://github.com/tdammers/ginger) - A Haskell implementation of the Jinja template language.
 - [arowM/heterocephalus](https://github.com/arowM/heterocephalus) - A type safe template engine for collaborating with front end development tools
-- [srid/ema](https://github.com/srid/ema) - Haskell static site generator that is change-aware
+- [srid/ema](https://github.com/srid/ema) - Haskell static site generator that is change-aware; For current development, see https://github.com/srid/ema/pull/81
 - [obsidiansystems/monad-logger-extras](https://github.com/obsidiansystems/monad-logger-extras) - Build composable logging backends for monad-logger
 - [jaspervdj/blaze-html](https://github.com/jaspervdj/blaze-html) - A blazingly fast HTML combinator library for Haskell.
 - [LightAndLight/indexed-paths](https://github.com/LightAndLight/indexed-paths) - A library for working with free categories
@@ -922,7 +923,7 @@
 - [hslbck/gnome-shell-extension-radio](https://github.com/hslbck/gnome-shell-extension-radio) - Gnome shell extension for listening to internet radio streams
 - [paperwm/PaperWM](https://github.com/paperwm/PaperWM) - Tiled scrollable window management for Gnome Shell
 - [fomantic/Fomantic-UI](https://github.com/fomantic/Fomantic-UI) - Fomantic-UI is the official community fork of Semantic-UI
-- [codemirror/codemirror.next](https://github.com/codemirror/codemirror.next) - The next generation of the CodeMirror in-browser editor
+- [codemirror/dev](https://github.com/codemirror/dev) - Develpment repository for the CodeMirror editor project
 - [MaggieAppleton/digital-gardeners](https://github.com/MaggieAppleton/digital-gardeners) - Resources, links, projects, and ideas for gardeners tending their digital notes on the public interwebs
 - [GoogleChromeLabs/text-editor](https://github.com/GoogleChromeLabs/text-editor) - A text editor build on the Native File System APIs
 - [LLK/scratch-blocks](https://github.com/LLK/scratch-blocks) - Scratch Blocks is a library for building creative computing interfaces.
@@ -1131,7 +1132,7 @@
 - [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
 - [isovector/papers](https://github.com/isovector/papers) - I will read and engage with one paper a week.
 - [bolt12/advent-of-haskell-dd](https://github.com/bolt12/advent-of-haskell-dd) - Day 9 of Advent of Haskell - Denotational Design
-- [fiatjaf/nostr](https://github.com/fiatjaf/nostr) - a truly censorship-resistant alternative to Twitter that has a chance of working
+- [nostr-protocol/nostr](https://github.com/nostr-protocol/nostr) - a truly censorship-resistant alternative to Twitter that has a chance of working
 - [Orbis-Tertius/Orbis](https://github.com/Orbis-Tertius/Orbis) - ZK rollups for Cardano
 - [bor0/gidti](https://github.com/bor0/gidti) - Book: Gentle Introduction to Dependent Types with Idris
 - [jozefg/learn-tt](https://github.com/jozefg/learn-tt) - A collection of resources for learning type theory and type theory adjacent fields.
@@ -1279,7 +1280,6 @@
 - [qfpl/hpython](https://github.com/qfpl/hpython) - Haskell language tools for Python
 - [w0lfschild/Flashlight](https://github.com/w0lfschild/Flashlight) - :mag_right: Enhance Spotlight with plugins on macOS
 - [niklasb/dryscrape](https://github.com/niklasb/dryscrape) - [not actively maintained] A lightweight Python library that uses Webkit to enable easy scraping of dynamic, Javascript-heavy web pages
-- [ankitects/anki](https://github.com/ankitects/anki) - Anki for desktop computers
 - [joeyespo/grip](https://github.com/joeyespo/grip) - Preview GitHub README.md files locally before committing them.
 - [lorien/grab](https://github.com/lorien/grab) - Web Scraping Framework
 - [ranger/ranger](https://github.com/ranger/ranger) - A VIM-inspired filemanager for the console
@@ -1381,7 +1381,7 @@
 - [heroku/log2viz](https://github.com/heroku/log2viz) - DEFUNCT: Realtime analysis of your Heroku app logs.
 - [freeCodeCamp/devdocs](https://github.com/freeCodeCamp/devdocs) - API Documentation Browser
 - [zhaocai/alfred-workflow](https://github.com/zhaocai/alfred-workflow) - Ruby Gem helper for building Alfred workflow.
-- [heroku/heroku-buildpack-static](https://github.com/heroku/heroku-buildpack-static) - Heroku buildpack for handling static sites and single page web apps
+- [heroku/heroku-buildpack-static](https://github.com/heroku/heroku-buildpack-static) - [DEPRECATED] Heroku buildpack for handling static sites and single page web apps
 - [mdespuits/minty](https://github.com/mdespuits/minty) - (Unofficial) Ruby API for Mint.com
 - [gollum/gollum](https://github.com/gollum/gollum) - A simple, Git-powered wiki with a sweet API and local frontend.
 - [newrelic/centurion](https://github.com/newrelic/centurion) - A mass deployment tool for Docker fleets
@@ -1402,6 +1402,7 @@
 
 ## Rust 
 
+- [nix-community/comma](https://github.com/nix-community/comma) - Comma runs software without installing it. [maintainers=@Artturin,@burke,@DavHau]
 - [numtide/treefmt](https://github.com/numtide/treefmt) - One CLI to format the code tree
 - [bennofs/nix-index](https://github.com/bennofs/nix-index) - Quickly locate nix packages with specific files
 - [Mange/tydra](https://github.com/Mange/tydra) - Shortcut menu-based task runner, inspired by Emacs Hydra
@@ -1457,6 +1458,7 @@
 - [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
 - [mitsuhiko/rust-osascript](https://github.com/mitsuhiko/rust-osascript) - Rust wrapper around a bit of osascript
 - [ogham/exa](https://github.com/ogham/exa) - A modern replacement for ‘ls’.
+- [ankitects/anki](https://github.com/ankitects/anki) - Anki for desktop computers
 
 ## SCSS 
 
