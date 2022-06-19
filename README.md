@@ -476,7 +476,6 @@
 
 ## HTML 
 
-- [plaintextaccounting/plaintextaccounting](https://github.com/plaintextaccounting/plaintextaccounting) - The plaintextaccounting.org website, a portal to Ledger, hledger, beancount and co. Also the PTA wiki.
 - [tallesl/Rich-Hickey-fanclub](https://github.com/tallesl/Rich-Hickey-fanclub) - "every time I watch one of his talks I feel like someone has gone in and organized my brain"
 - [boris-marinov/category-theory-illustrated](https://github.com/boris-marinov/category-theory-illustrated) - A book about category theory
 - [iohkedu/haskell-2020](https://github.com/iohkedu/haskell-2020) - Videos and exercises for the Haskell and Cryptocurrencies class.
@@ -505,6 +504,8 @@
 
 ## Haskell 
 
+- [serokell/tztime](https://github.com/serokell/tztime) - Safe timezone-aware handling of time
+- [parenthetical/webflex](https://github.com/parenthetical/webflex) - Purely functional web and distributed programming with Reflex FRP
 - [L-as/plutarch-core-wip-draft](https://github.com/L-as/plutarch-core-wip-draft) - Plutarch 2.0 draft WIP
 - [lucasvreis/org-parser](https://github.com/lucasvreis/org-parser) - An Org Mode parser written in Haskell with customizable HTML exporter.
 - [qfpl/reflex-backend-socket](https://github.com/qfpl/reflex-backend-socket) - Reflex support for socket-based applications
@@ -1017,10 +1018,12 @@
 - [oberblastmeister/neuron.nvim](https://github.com/oberblastmeister/neuron.nvim) - Make neovim the best note taking application
 - [pyrho/nerveux.nvim](https://github.com/pyrho/nerveux.nvim) - A neovim plugin written in lua to interact with the neuron Zettelkasten software.
 - [omarish/pandoc-md-to-slack](https://github.com/omarish/pandoc-md-to-slack) - Pandoc extension to convert markdown to slack formatting.
+- [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) - A community-driven modular vim/neovim distribution - The ultimate vimrc
 - [nathancahill/Anycomplete](https://github.com/nathancahill/Anycomplete) - The magic of Google Autocomplete while you're typing. Anywhere.
 
 ## Makefile 
 
+- [plaintextaccounting/plaintextaccounting](https://github.com/plaintextaccounting/plaintextaccounting) - The plaintextaccounting.org website, a portal to Ledger, hledger, beancount and co. Also the PTA wiki.
 - [ehamberg/typeclassopedia-md](https://github.com/ehamberg/typeclassopedia-md) - Markdown version of the Haskell Typeclassopedia
 - [rabbitmq/rabbitmq-recent-history-exchange](https://github.com/rabbitmq/rabbitmq-recent-history-exchange) - RabbitMQ Recent History Exchange
 
@@ -1147,7 +1150,6 @@
 - [Aspie96/Code-of-Merit](https://github.com/Aspie96/Code-of-Merit) - A meritocratic approach to project management and discussions.
 - [Functional-Programming-Slack/community](https://github.com/Functional-Programming-Slack/community) - Jobs as posted on #jobs at https://functionalprogramming.slack.com/
 - [graninas/The-Voids-Of-Haskell](https://github.com/graninas/The-Voids-Of-Haskell) - 
-- [mjlbach/neorants](https://github.com/mjlbach/neorants) - 
 - [AboutRSS/ALL-about-RSS](https://github.com/AboutRSS/ALL-about-RSS) - A list of RSS related stuff: tools, services, communities and tutorials, etc.
 - [croqaz/awesome-decentralized](https://github.com/croqaz/awesome-decentralized) - 🕶 Awesome list of distributed, decentralized, p2p apps and tools 👍
 - [nix-community/awesome-nix](https://github.com/nix-community/awesome-nix) - 😎 A curated list of the best resources in the Nix community [maintainer=@houstdav000]
@@ -1382,6 +1384,7 @@
 - [freeCodeCamp/devdocs](https://github.com/freeCodeCamp/devdocs) - API Documentation Browser
 - [zhaocai/alfred-workflow](https://github.com/zhaocai/alfred-workflow) - Ruby Gem helper for building Alfred workflow.
 - [heroku/heroku-buildpack-static](https://github.com/heroku/heroku-buildpack-static) - [DEPRECATED] Heroku buildpack for handling static sites and single page web apps
+- [matteocrippa/awesome-swift](https://github.com/matteocrippa/awesome-swift) - A collaborative list of awesome Swift libraries and resources. Feel free to contribute!
 - [mdespuits/minty](https://github.com/mdespuits/minty) - (Unofficial) Ruby API for Mint.com
 - [gollum/gollum](https://github.com/gollum/gollum) - A simple, Git-powered wiki with a sweet API and local frontend.
 - [newrelic/centurion](https://github.com/newrelic/centurion) - A mass deployment tool for Docker fleets
@@ -1547,7 +1550,6 @@
 - [adur1990/Pass-for-macOS](https://github.com/adur1990/Pass-for-macOS) - macOS wrapper for pass, the standard UNIX password manager
 - [michaelvillar/timer-app](https://github.com/michaelvillar/timer-app) - A simple Timer app for Mac
 - [josh/Aware](https://github.com/josh/Aware) - 
-- [matteocrippa/awesome-swift](https://github.com/matteocrippa/awesome-swift) - A collaborative list of awesome Swift libraries and resources. Feel free to contribute!
 
 ## Tcl 
 
@@ -1634,7 +1636,6 @@
 - [alok/notational-fzf-vim](https://github.com/alok/notational-fzf-vim) - Notational velocity for vim.
 - [michal-h21/vim-zettel](https://github.com/michal-h21/vim-zettel) - VimWiki addon for managing notes according to Zettelkasten method
 - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
-- [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) - A community-driven modular vim/neovim distribution - The ultimate vimrc
 - [junegunn/seoul256.vim](https://github.com/junegunn/seoul256.vim) - :deciduous_tree: Low-contrast Vim color scheme based on Seoul Colors
 
 ## Vue 
