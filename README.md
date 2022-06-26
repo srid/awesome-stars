@@ -506,7 +506,7 @@
 
 - [serokell/tztime](https://github.com/serokell/tztime) - Safe timezone-aware handling of time
 - [parenthetical/webflex](https://github.com/parenthetical/webflex) - Purely functional web and distributed programming with Reflex FRP
-- [L-as/plutarch-core-wip-draft](https://github.com/L-as/plutarch-core-wip-draft) - Plutarch 2.0 draft WIP
+- [Plutonomicon/plutarch-core](https://github.com/Plutonomicon/plutarch-core) - Plutarch 2.0
 - [lucasvreis/org-parser](https://github.com/lucasvreis/org-parser) - An Org Mode parser written in Haskell with customizable HTML exporter.
 - [qfpl/reflex-backend-socket](https://github.com/qfpl/reflex-backend-socket) - Reflex support for socket-based applications
 - [srid/timedot-invoice](https://github.com/srid/timedot-invoice) - WIP: Swift invoice generator for Hledger timedot file
@@ -540,7 +540,7 @@
 - [srid/ema-template](https://github.com/srid/ema-template) - Template repo for Ema static site generator
 - [kosmikus/SSGEP](https://github.com/kosmikus/SSGEP) - 
 - [RyanGlScott/ghc-software-foundations](https://github.com/RyanGlScott/ghc-software-foundations) - The Software Foundations book, in GHC
-- [Plutonomicon/plutarch](https://github.com/Plutonomicon/plutarch) - Typed eDSL for writing UPLC  /ˈpluː.tɑːk/
+- [Plutonomicon/plutarch-plutus](https://github.com/Plutonomicon/plutarch-plutus) - Typed eDSL for writing UPLC  /ˈpluː.tɑːk/
 - [hedgehogqa/haskell-hedgehog](https://github.com/hedgehogqa/haskell-hedgehog) - Release with confidence, state-of-the-art property testing for Haskell.
 - [srid/emanote](https://github.com/srid/emanote) - Spiritual successor to neuron, based on Ema.
 - [jonascarpay/apecs](https://github.com/jonascarpay/apecs) - a fast, extensible, type driven Haskell ECS framework for games
@@ -669,7 +669,7 @@
 - [obsidiansystems/dependent-map](https://github.com/obsidiansystems/dependent-map) - Dependently-typed finite maps (partial dependent products)
 - [NorfairKing/smos](https://github.com/NorfairKing/smos) - A comprehensive self-management System
 - [srid/rib-sample](https://github.com/srid/rib-sample) - Sample site for the Rib static site generator
-- [srid/rib](https://github.com/srid/rib) - Haskell static site generator based on Shake (superseded by Ema)
+- [srid/rib](https://github.com/srid/rib) - Haskell static site generator based on Shake (superseded by https://github.com/srid/ema)
 - [srid/zulip-archive](https://github.com/srid/zulip-archive) - Zulip Archive viewer (statically generated HTML)
 - [haskell/haskell-language-server](https://github.com/haskell/haskell-language-server) - Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.
 - [obsidiansystems/constraints-extras](https://github.com/obsidiansystems/constraints-extras) - Convenience functions and template haskell for working with constraints
@@ -913,7 +913,6 @@
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🍰 Everything is RSSible
 - [sveltejs/kit](https://github.com/sveltejs/kit) - The fastest way to build Svelte apps
-- [bangle-io/bangle.dev](https://github.com/bangle-io/bangle.dev) - Collection of higher level rich text editing tools. It powers the local only note taking app https://bangle.io
 - [BamButz/msbuild-tailwindcss](https://github.com/BamButz/msbuild-tailwindcss) - Adds a build action to process stylesheets through postcss/tailwind
 - [satellite-earth/totality](https://github.com/satellite-earth/totality) - 
 - [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
@@ -941,7 +940,6 @@
 - [thomaspark/flexboxfroggy](https://github.com/thomaspark/flexboxfroggy) - A game for learning CSS flexbox 🐸
 - [Gruntfuggly/vscode-journal-view](https://github.com/Gruntfuggly/vscode-journal-view) - Adds a sidebar viewlet for vscode-journal
 - [lemmih/ClozeCards](https://github.com/lemmih/ClozeCards) - ClozeCards Beta.
-- [thelounge/thelounge](https://github.com/thelounge/thelounge) - 💬  ‎ Modern, responsive, cross-platform, self-hosted web IRC client
 - [google/bottery](https://github.com/google/bottery) - 
 - [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - 💯 Curated interview preparation materials for busy engineers
 - [kamranahmedse/githunt](https://github.com/kamranahmedse/githunt) - Hunt the most starred projects on any date on GitHub
@@ -1129,6 +1127,9 @@
 
 ## Others 
 
+- [allsides-news/brave-goggles](https://github.com/allsides-news/brave-goggles) - 
+- [brave/goggles-quickstart](https://github.com/brave/goggles-quickstart) - Educational material to learn about Goggles and how to create your own.
+- [tweag/awesome-learning-haskell](https://github.com/tweag/awesome-learning-haskell) - A collection of resources which were useful to Tweagers for learning Haskell and its various aspects
 - [matthiasn/talk-transcripts](https://github.com/matthiasn/talk-transcripts) - Transcripts of Clojure-related talks
 - [joshvera/generative-effects](https://github.com/joshvera/generative-effects) - Some notes on generative effects
 - [srid/papers](https://github.com/srid/papers) - 
@@ -1600,6 +1601,7 @@
 - [tw-in-js/twind](https://github.com/tw-in-js/twind) - The smallest, fastest, most feature complete Tailwind-in-JS solution in existence.
 - [windicss/windicss](https://github.com/windicss/windicss) - Next generation utility-first CSS framework.
 - [tw-in-js/twind-cli](https://github.com/tw-in-js/twind-cli) - 
+- [bangle-io/bangle.dev](https://github.com/bangle-io/bangle.dev) - Collection of higher level rich text editing tools. It powers the local only note taking app https://bangle.io
 - [microsoft/codetour](https://github.com/microsoft/codetour) - VS Code extension that allows you to record and play back guided tours of codebases, directly within the editor.
 - [gera2ld/markmap-vscode](https://github.com/gera2ld/markmap-vscode) - Integrate markmap into VSCode
 - [svsool/vscode-markdown-kit](https://github.com/svsool/vscode-markdown-kit) - Collection of commands and utilities for managing Markdown notes
@@ -1609,6 +1611,7 @@
 - [peaceiris/actions-gh-pages](https://github.com/peaceiris/actions-gh-pages) - GitHub Actions for GitHub Pages 🚀 Deploy static files and publish your site easily. Static-Site-Generators-friendly.
 - [laobubu/HyperMD](https://github.com/laobubu/HyperMD) - A WYSIWYG Markdown Editor for browsers. Break the Wall between writing and previewing.
 - [urbit/sigil-js](https://github.com/urbit/sigil-js) - ~4.2 billion default profile pics
+- [thelounge/thelounge](https://github.com/thelounge/thelounge) - 💬  ‎ Modern, responsive, cross-platform, self-hosted web IRC client
 - [haskell/vscode-haskell](https://github.com/haskell/vscode-haskell) - VS Code extension for Haskell, powered by haskell-language-server
 - [stackblitz/core](https://github.com/stackblitz/core) - Online IDE powered by Visual Studio Code ⚡️
 - [antonycourtney/tad](https://github.com/antonycourtney/tad) - A desktop application for viewing and analyzing tabular data
