@@ -564,7 +564,7 @@
 - [carp-lang/Carp](https://github.com/carp-lang/Carp) - A statically typed lisp, without a GC, for real-time applications.
 - [ongyiren1994/mermaid-hs](https://github.com/ongyiren1994/mermaid-hs) - 
 - [haskell-fswatch/hfsnotify](https://github.com/haskell-fswatch/hfsnotify) - Unified Haskell interface for basic file system notifications
-- [EmaApps/TheMotteDashboard](https://github.com/EmaApps/TheMotteDashboard) - A dashboard for r/TheMotte, powered by Ema. Previous snapshot demo: https://themotte.srid.ca/
+- [EmaApps/TheMotteDashboard](https://github.com/EmaApps/TheMotteDashboard) - A dashboard for r/TheMotte, powered by Ema.
 - [eskimor/purescript-bridge](https://github.com/eskimor/purescript-bridge) - Create PureScript datatypes from Haskell datatypes
 - [input-output-hk/plutus-pioneer-program](https://github.com/input-output-hk/plutus-pioneer-program) - 
 - [well-typed/cborg](https://github.com/well-typed/cborg) - Binary serialisation in the CBOR format
@@ -664,7 +664,7 @@
 - [haskellari/some](https://github.com/haskellari/some) - Existential type.
 - [dmwit/universe](https://github.com/dmwit/universe) - Classes for types where we know all the values
 - [neovimhaskell/nvim-hs](https://github.com/neovimhaskell/nvim-hs) - Neovim API for Haskell plugins as well as the plugin provider
-- [srid/neuron](https://github.com/srid/neuron) - Future-proof note-taking and publishing based on Zettelkasten
+- [srid/neuron](https://github.com/srid/neuron) - Future-proof note-taking and publishing based on Zettelkasten (superseded by Emanote: https://github.com/srid/emanote)
 - [guibou/PyF](https://github.com/guibou/PyF) - Haskell QuasiQuoter for String Formatting
 - [fumieval/witherable](https://github.com/fumieval/witherable) - Filter with effects
 - [fumieval/deriving-aeson](https://github.com/fumieval/deriving-aeson) - Scrap your hand-rolled aeson instances
@@ -882,6 +882,7 @@
 
 ## JavaScript 
 
+- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
 - [resume/resume.github.com](https://github.com/resume/resume.github.com) - Resumes generated using the GitHub informations
 - [Gabriella439/grace](https://github.com/Gabriella439/grace) - A ready-to-fork interpreted functional language with type inference
 - [publiusfederalist/zooko](https://github.com/publiusfederalist/zooko) - Uncensorable, immutable microblogging platform that is completely decentralized and does not rely on any centralized systems, only the Handshake blockchain
@@ -1129,6 +1130,7 @@
 
 ## Others 
 
+- [EmaApps/ideas](https://github.com/EmaApps/ideas) - Project ideas
 - [allsides-news/brave-goggles](https://github.com/allsides-news/brave-goggles) - 
 - [brave/goggles-quickstart](https://github.com/brave/goggles-quickstart) - Educational material to learn about Goggles and how to create your own.
 - [tweag/awesome-learning-haskell](https://github.com/tweag/awesome-learning-haskell) - A collection of resources which were useful to Tweagers for learning Haskell and its various aspects
@@ -1442,7 +1444,7 @@
 - [extrawurst/gitui](https://github.com/extrawurst/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
 - [djc/askama](https://github.com/djc/askama) - Type-safe, compiled Jinja-like templates for Rust
 - [nix-community/nixpkgs-fmt](https://github.com/nix-community/nixpkgs-fmt) - Nix code formatter for nixpkgs [maintainer=@zimbatm]
-- [nix-community/rnix-lsp](https://github.com/nix-community/rnix-lsp) - WIP Language Server for Nix! [maintainer=@aaronjanse]
+- [nix-community/rnix-lsp](https://github.com/nix-community/rnix-lsp) - WIP Language Server for Nix! [maintainers=@aaronjanse,@Ma27]
 - [pchampin/sophia_rs](https://github.com/pchampin/sophia_rs) - Sophia: a Rust toolkit for RDF and Linked Data
 - [oxigraph/oxigraph](https://github.com/oxigraph/oxigraph) - SPARQL graph database
 - [terminusdb/terminusdb-store](https://github.com/terminusdb/terminusdb-store) - a tokio-enabled data store for triple data
