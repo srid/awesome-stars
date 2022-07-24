@@ -261,6 +261,7 @@
 
 ## Emacs Lisp 
 
+- [abo-abo/org-download](https://github.com/abo-abo/org-download) - Drag and drop images to Emacs org-mode
 - [minad/org-modern](https://github.com/minad/org-modern) - :unicorn: Modern Org Style
 - [vedang/ox-neuron](https://github.com/vedang/ox-neuron) - A Neuron Zettel Markdown back-end for Org Export Engine
 - [jrblevin/markdown-mode](https://github.com/jrblevin/markdown-mode) - Emacs Markdown Mode
@@ -505,6 +506,8 @@
 
 ## Haskell 
 
+- [kowainik/type-errors-pretty](https://github.com/kowainik/type-errors-pretty) - 💄🐞 Combinators for writing pretty type errors easily
+- [CRogers/should-not-typecheck](https://github.com/CRogers/should-not-typecheck) - A HUnit/hspec assertion to verify that an expression does not typecheck
 - [fpindia/fpindia-site](https://github.com/fpindia/fpindia-site) - The new FP india static site built using Ema.
 - [kcsongor/symbols](https://github.com/kcsongor/symbols) - Symbol manipulation
 - [serokell/tztime](https://github.com/serokell/tztime) - Safe timezone-aware handling of time
@@ -1030,6 +1033,7 @@
 
 ## Markdown 
 
+- [srid/srid](https://github.com/srid/srid) - Source for https://srid.ca
 - [srid/haskell-ladder](https://github.com/srid/haskell-ladder) - WIP: Haskell Pedagogic Ladder (Run `nix run` to run the site locally)
 - [uiuc-cs-zettelkasten/uiuc-cs-zettelkasten.github.io](https://github.com/uiuc-cs-zettelkasten/uiuc-cs-zettelkasten.github.io) - UIUC Computer Science Zettelkasten
 - [input-output-hk/adrestia](https://github.com/input-output-hk/adrestia) - APIs & SDK for interacting with Cardano.
@@ -1046,6 +1050,7 @@
 
 ## Nix 
 
+- [DeterminateSystems/update-flake-lock](https://github.com/DeterminateSystems/update-flake-lock) - Automatically refresh your Nix Flakes.
 - [srid/haskell-flake](https://github.com/srid/haskell-flake) - A `flake-parts` Nix module for Haskell development
 - [numtide/flake-utils](https://github.com/numtide/flake-utils) - Pure Nix flake utility functions
 - [msteen/nixos-vscode-server](https://github.com/msteen/nixos-vscode-server) - Visual Studio Code Server support in NixOS
@@ -1130,7 +1135,7 @@
 
 ## Others 
 
-- [EmaApps/ideas](https://github.com/EmaApps/ideas) - Project ideas
+- [EmaApps/ideas](https://github.com/EmaApps/ideas) - Ema project ideas
 - [allsides-news/brave-goggles](https://github.com/allsides-news/brave-goggles) - 
 - [brave/goggles-quickstart](https://github.com/brave/goggles-quickstart) - Educational material to learn about Goggles and how to create your own.
 - [tweag/awesome-learning-haskell](https://github.com/tweag/awesome-learning-haskell) - A collection of resources which were useful to Tweagers for learning Haskell and its various aspects
@@ -1366,7 +1371,7 @@
 - [racket/pict](https://github.com/racket/pict) - 
 - [danprager/racket-2048](https://github.com/danprager/racket-2048) - The 2048 game implemented in Racket language
 - [ntoronto/pict3d](https://github.com/ntoronto/pict3d) - 3-dimensional picts
-- [mbutterick/pollen](https://github.com/mbutterick/pollen) - book-publishing system
+- [mbutterick/pollen](https://github.com/mbutterick/pollen) - book-publishing system [mirror of main repo at https://git.matthewbutterick.com/mbutterick/pollen]
 
 ## ReScript 
 
@@ -1484,6 +1489,7 @@
 
 ## Shell 
 
+- [chrisgrieser/shimmering-focus](https://github.com/chrisgrieser/shimmering-focus) - A minimalistic Obsidian theme focused on readability and condensed information display
 - [3noch/nix-bundle-exe](https://github.com/3noch/nix-bundle-exe) - Simple Nix derivations to bundle executables
 - [Bugswriter/notflix](https://github.com/Bugswriter/notflix) - Notflix is a shell script to search and stream torrent.
 - [passff/passff-host](https://github.com/passff/passff-host) - Host app for the WebExtension PassFF
