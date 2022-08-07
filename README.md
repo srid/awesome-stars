@@ -73,7 +73,6 @@
 - [plt-amy/1lab](https://github.com/plt-amy/1lab) - A formalised, cross-linked reference resource for mathematics done in Homotopy Type Theory
 - [algebraic-graphs/agda](https://github.com/algebraic-graphs/agda) - The theory of algebraic graphs formalised in Agda
 - [isovector/agda-playground](https://github.com/isovector/agda-playground) - 
-- [agda/agda2hs](https://github.com/agda/agda2hs) - Compiling Agda code to readable Haskell
 - [alhassy/AgdaCheatSheet](https://github.com/alhassy/AgdaCheatSheet) - Basics of the dependently-typed functional language Agda ^_^
 - [pigworker/CS410-17](https://github.com/pigworker/CS410-17) - being the lecture materials and exercises for the 2017/18 session of CS410 Advanced Functional Programming at the University of Strathclyde
 - [conal/denotational-hardware](https://github.com/conal/denotational-hardware) - Denotational hardware design in Agda
@@ -548,6 +547,7 @@
 - [ku-fpg/blank-canvas](https://github.com/ku-fpg/blank-canvas) - A Haskell API into HTML5 Canvas
 - [EmaApps/ema-template](https://github.com/EmaApps/ema-template) - Template repo for Ema static site generator (Development happens in `multisite` branch)
 - [kosmikus/SSGEP](https://github.com/kosmikus/SSGEP) - 
+- [agda/agda2hs](https://github.com/agda/agda2hs) - Compiling Agda code to readable Haskell
 - [RyanGlScott/ghc-software-foundations](https://github.com/RyanGlScott/ghc-software-foundations) - The Software Foundations book, in GHC
 - [Plutonomicon/plutarch-plutus](https://github.com/Plutonomicon/plutarch-plutus) - Typed eDSL for writing UPLC  /ˈpluː.tɑːk/
 - [hedgehogqa/haskell-hedgehog](https://github.com/hedgehogqa/haskell-hedgehog) - Release with confidence, state-of-the-art property testing for Haskell.
@@ -623,7 +623,7 @@
 - [srid/pandoc-link-context](https://github.com/srid/pandoc-link-context) - Extract context around links in Pandoc
 - [leshow/i3ipc](https://github.com/leshow/i3ipc) - Types and bindings for communicating with i3 in Haskell
 - [obsidiansystems/beam-automigrate](https://github.com/obsidiansystems/beam-automigrate) - Generated migrations for beam databases
-- [obsidiansystems/nix-thunk](https://github.com/obsidiansystems/nix-thunk) - 
+- [obsidiansystems/nix-thunk](https://github.com/obsidiansystems/nix-thunk) - seamless management of source dependencies with nix
 - [srid/obelisk-rhyolite-template](https://github.com/srid/obelisk-rhyolite-template) - A template repository for your Obelisk+Rhyolite projects
 - [reflex-frp/reflex-gadt-api](https://github.com/reflex-frp/reflex-gadt-api) - Interact with a JSON-serialized API defined by a GADT in your reflex-dom application
 - [domenkozar/releaser](https://github.com/domenkozar/releaser) - Automation of Haskell package release process.
@@ -1052,6 +1052,7 @@
 
 ## Nix 
 
+- [viperML/home-manager-wsl](https://github.com/viperML/home-manager-wsl) - WSL distribution, including Nix + Home-manager + FHS Distro
 - [DeterminateSystems/update-flake-lock](https://github.com/DeterminateSystems/update-flake-lock) - Automatically refresh your Nix Flakes.
 - [srid/haskell-flake](https://github.com/srid/haskell-flake) - A `flake-parts` Nix module for Haskell development
 - [numtide/flake-utils](https://github.com/numtide/flake-utils) - Pure Nix flake utility functions
@@ -1450,7 +1451,7 @@
 - [extrawurst/gitui](https://github.com/extrawurst/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
 - [djc/askama](https://github.com/djc/askama) - Type-safe, compiled Jinja-like templates for Rust
 - [nix-community/nixpkgs-fmt](https://github.com/nix-community/nixpkgs-fmt) - Nix code formatter for nixpkgs [maintainer=@zimbatm]
-- [nix-community/rnix-lsp](https://github.com/nix-community/rnix-lsp) - WIP Language Server for Nix! [maintainers=@aaronjanse,@Ma27]
+- [nix-community/rnix-lsp](https://github.com/nix-community/rnix-lsp) - WIP Language Server for Nix! [maintainers=@aaronjanse]
 - [pchampin/sophia_rs](https://github.com/pchampin/sophia_rs) - Sophia: a Rust toolkit for RDF and Linked Data
 - [oxigraph/oxigraph](https://github.com/oxigraph/oxigraph) - SPARQL graph database
 - [terminusdb/terminusdb-store](https://github.com/terminusdb/terminusdb-store) - a tokio-enabled data store for triple data
