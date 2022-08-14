@@ -67,7 +67,6 @@
 
 ## Agda 
 
-- [Orbis-Tertius/zkp](https://github.com/Orbis-Tertius/zkp) - Denotational Zero Knowledge Proofs
 - [martinescardo/HoTT-UF-Agda-Lecture-Notes](https://github.com/martinescardo/HoTT-UF-Agda-Lecture-Notes) - Lecture notes on univalent foundations of mathematics with Agda
 - [isovector/blagda](https://github.com/isovector/blagda) - agda blogging based on 1lab
 - [plt-amy/1lab](https://github.com/plt-amy/1lab) - A formalised, cross-linked reference resource for mathematics done in Homotopy Type Theory
@@ -187,7 +186,7 @@
 - [deltam/clj-epub](https://github.com/deltam/clj-epub) - Library for generating EPUB on Clojure. (see also text2epub-clj)
 - [clj-commons/aleph](https://github.com/clj-commons/aleph) - Asynchronous communication for Clojure
 - [gcv/appengine-magic](https://github.com/gcv/appengine-magic) - A library designed to make it easy to use Google App Engine from Clojure
-- [technomancy/leiningen](https://github.com/technomancy/leiningen) - Automate Clojure projects without setting your hair on fire.
+- [technomancy/leiningen](https://github.com/technomancy/leiningen) - Moved to Codeberg; this is a convenience mirror
 - [LauJensen/clojureql](https://github.com/LauJensen/clojureql) - ClojureQL is superior SQL integration for Clojure
 
 ## CoffeeScript 
@@ -537,7 +536,7 @@
 - [srid/generics-sop-examples](https://github.com/srid/generics-sop-examples) - 
 - [mlabs-haskell/apropos](https://github.com/mlabs-haskell/apropos) - Propositional Logic Apropos Types
 - [sol/markdown-unlit](https://github.com/sol/markdown-unlit) - Literate Haskell support for Markdown
-- [lucasvreis/abacateiro](https://github.com/lucasvreis/abacateiro) - Early WIP — will be an app for visualizing and publishing math-related org-roam databases. Not usable for now.
+- [lucasvreis/abacateiro](https://github.com/lucasvreis/abacateiro) - WIP — will be an app for visualizing and publishing math-related org-roam databases. Not usable for now.
 - [srid/tailwind-haskell](https://github.com/srid/tailwind-haskell) - A No-JavaScript Tailwind runner in Haskell
 - [NorfairKing/safe-coloured-text](https://github.com/NorfairKing/safe-coloured-text) - 
 - [isovector/cornelis](https://github.com/isovector/cornelis) - agda-mode for neovim
@@ -545,7 +544,7 @@
 - [well-typed/generics-sop](https://github.com/well-typed/generics-sop) - Generic Programming using True Sums of Products
 - [EmaApps/banyan](https://github.com/EmaApps/banyan) - Tree of time
 - [ku-fpg/blank-canvas](https://github.com/ku-fpg/blank-canvas) - A Haskell API into HTML5 Canvas
-- [EmaApps/ema-template](https://github.com/EmaApps/ema-template) - Template repo for Ema static site generator (Development happens in `multisite` branch)
+- [EmaApps/ema-template](https://github.com/EmaApps/ema-template) - Template repo for Ema static site generator
 - [kosmikus/SSGEP](https://github.com/kosmikus/SSGEP) - 
 - [agda/agda2hs](https://github.com/agda/agda2hs) - Compiling Agda code to readable Haskell
 - [RyanGlScott/ghc-software-foundations](https://github.com/RyanGlScott/ghc-software-foundations) - The Software Foundations book, in GHC
@@ -599,7 +598,7 @@
 - [snapframework/heist](https://github.com/snapframework/heist) - An xhtml-based templating engine, allowing Haskell functions to be bound to XML tags.
 - [tdammers/ginger](https://github.com/tdammers/ginger) - A Haskell implementation of the Jinja template language.
 - [arowM/heterocephalus](https://github.com/arowM/heterocephalus) - A type safe template engine for collaborating with front end development tools
-- [EmaApps/ema](https://github.com/EmaApps/ema) - Haskell static site generator that is change-aware; For current development, see https://github.com/srid/ema/pull/81
+- [EmaApps/ema](https://github.com/EmaApps/ema) - Haskell static site generator that is change-aware
 - [obsidiansystems/monad-logger-extras](https://github.com/obsidiansystems/monad-logger-extras) - Build composable logging backends for monad-logger
 - [jaspervdj/blaze-html](https://github.com/jaspervdj/blaze-html) - A blazingly fast HTML combinator library for Haskell.
 - [LightAndLight/indexed-paths](https://github.com/LightAndLight/indexed-paths) - A library for working with free categories
