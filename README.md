@@ -61,7 +61,7 @@
 - [TeX](#tex)
 - [TypeScript](#typescript)
 - [Vala](#vala)
-- [Vim script](#vim-script)
+- [Vim Script](#vim-script)
 - [Vue](#vue)
 - [hoon](#hoon)
 
@@ -83,6 +83,7 @@
 
 ## C 
 
+- [tsl0922/ttyd](https://github.com/tsl0922/ttyd) - Share your terminal over the web
 - [davatorium/rofi](https://github.com/davatorium/rofi) - Rofi: A window switcher, application launcher and dmenu replacement
 - [mpv-player/mpv](https://github.com/mpv-player/mpv) - 🎥 Command line video player
 - [imbushuo/mac-precision-touchpad](https://github.com/imbushuo/mac-precision-touchpad) - Windows Precision Touchpad Driver Implementation for Apple MacBook / Magic Trackpad
@@ -506,6 +507,7 @@
 
 ## Haskell 
 
+- [haskell-effectful/effectful](https://github.com/haskell-effectful/effectful) - An easy to use, fast extensible effects library with seamless integration with the existing Haskell ecosystem.
 - [NorfairKing/cabal2json](https://github.com/NorfairKing/cabal2json) - zurihack experiment
 - [lucasvreis/ondim](https://github.com/lucasvreis/ondim) - Multitype expansions for easy templating
 - [kowainik/type-errors-pretty](https://github.com/kowainik/type-errors-pretty) - 💄🐞 Combinators for writing pretty type errors easily
@@ -515,7 +517,7 @@
 - [serokell/tztime](https://github.com/serokell/tztime) - Safe timezone-aware handling of time
 - [parenthetical/webflex](https://github.com/parenthetical/webflex) - Purely functional web and distributed programming with Reflex FRP
 - [Plutonomicon/plutarch-core](https://github.com/Plutonomicon/plutarch-core) - Plutarch 2.0
-- [lucasvreis/orge](https://github.com/lucasvreis/orge) - Library and tool for parsing Org Mode documents with customizable exporters.
+- [lucasvreis/org-hs](https://github.com/lucasvreis/org-hs) - Libraries and tool for parsing Org Mode documents with customizable exporters.
 - [qfpl/reflex-backend-socket](https://github.com/qfpl/reflex-backend-socket) - Reflex support for socket-based applications
 - [EmaApps/timedot-invoice](https://github.com/EmaApps/timedot-invoice) - WIP: Swift invoice generator for Hledger timedot file
 - [utdemir/nix-tree](https://github.com/utdemir/nix-tree) - Interactively browse dependency graphs of Nix derivations.
@@ -537,7 +539,7 @@
 - [srid/generics-sop-examples](https://github.com/srid/generics-sop-examples) - 
 - [mlabs-haskell/apropos](https://github.com/mlabs-haskell/apropos) - Propositional Logic Apropos Types
 - [sol/markdown-unlit](https://github.com/sol/markdown-unlit) - Literate Haskell support for Markdown
-- [lucasvreis/abacateiro](https://github.com/lucasvreis/abacateiro) - WIP — will be an app for visualizing and publishing math-related org-roam databases. Not usable for now.
+- [lucasvreis/organon](https://github.com/lucasvreis/organon) - WIP — will be an app for visualizing and publishing math-related org-roam databases. Not that easy to use for now.
 - [srid/tailwind-haskell](https://github.com/srid/tailwind-haskell) - A No-JavaScript Tailwind runner in Haskell
 - [NorfairKing/safe-coloured-text](https://github.com/NorfairKing/safe-coloured-text) - 
 - [isovector/cornelis](https://github.com/isovector/cornelis) - agda-mode for neovim
@@ -1051,6 +1053,8 @@
 
 ## Nix 
 
+- [AmeerTaweel/nix-vscode-marketplace](https://github.com/AmeerTaweel/nix-vscode-marketplace) - VSCode and OpenVSX extensions for Nix
+- [fort-nix/nix-bitcoin](https://github.com/fort-nix/nix-bitcoin) - A collection of Nix packages and NixOS modules for easily installing full-featured Bitcoin nodes with an emphasis on security.
 - [srid/treefmt-flake](https://github.com/srid/treefmt-flake) - A `flake-parts` module to work with treefmt
 - [viperML/home-manager-wsl](https://github.com/viperML/home-manager-wsl) - WSL distribution, including Nix + Home-manager + FHS Distro
 - [DeterminateSystems/update-flake-lock](https://github.com/DeterminateSystems/update-flake-lock) - Automatically refresh your Nix Flakes.
@@ -1086,7 +1090,7 @@
 - [input-output-hk/haskell.nix](https://github.com/input-output-hk/haskell.nix) - Alternative Haskell Infrastructure for Nixpkgs
 - [purs-nix/purs-nix](https://github.com/purs-nix/purs-nix) - Manage your PureScript projects with Nix!
 - [danielfullmer/robotnix](https://github.com/danielfullmer/robotnix) - Build Android (AOSP) using Nix
-- [nix-community/neovim-nightly-overlay](https://github.com/nix-community/neovim-nightly-overlay) - [maintainer=@mjlbach]
+- [nix-community/neovim-nightly-overlay](https://github.com/nix-community/neovim-nightly-overlay) - Unmaintained
 - [serokell/templates](https://github.com/serokell/templates) - Nix Flake templates for various languages
 - [kolloch/crate2nix](https://github.com/kolloch/crate2nix) - nix build file generator for rust crates
 - [oxalica/rust-overlay](https://github.com/oxalica/rust-overlay) - Pure and reproducible nix overlay of binary distributed rust toolchains
@@ -1138,6 +1142,7 @@
 
 ## Others 
 
+- [githubocto/flat-demo-google-sheets](https://github.com/githubocto/flat-demo-google-sheets) - A Flat Data GitHub Action demo repo
 - [haskell-actions/hackage-publish](https://github.com/haskell-actions/hackage-publish) - A GitHub action for publishing packages on Hackage
 - [EmaApps/ideas](https://github.com/EmaApps/ideas) - Ema project ideas
 - [allsides-news/brave-goggles](https://github.com/allsides-news/brave-goggles) - 
@@ -1584,6 +1589,8 @@
 
 ## TypeScript 
 
+- [Phu1237/vscode-vs-browser](https://github.com/Phu1237/vscode-vs-browser) - Built-in browser for Visual Studio Code
+- [matrix-org/matrix-widget-api](https://github.com/matrix-org/matrix-widget-api) - JavaScript/TypeScript API for widgets & web clients to communicate
 - [Richardsl/heatmap-calendar-obsidian](https://github.com/Richardsl/heatmap-calendar-obsidian) - An Obsidian plugin for displaying data in a calendar similar to the github activity calendar
 - [markdoc/markdoc](https://github.com/markdoc/markdoc) - A powerful, flexible, Markdown-based authoring framework.
 - [antfu/vscode-browse-lite](https://github.com/antfu/vscode-browse-lite) - 🚀 An embedded browser in VS Code
@@ -1597,7 +1604,7 @@
 - [microsoft/vscode-edge-devtools](https://github.com/microsoft/vscode-edge-devtools) - A VSCode extension that allows you to use browser devtools from within the editor. The devtools will connect to an instance of Microsoft Edge giving you the ability to alter CSS styling, perform diagn
 - [pop-os/shell](https://github.com/pop-os/shell) - Pop!_OS Shell
 - [balena-io/etcher](https://github.com/balena-io/etcher) - Flash OS images to SD cards & USB drives, safely and easily.
-- [gera2ld/markmap](https://github.com/gera2ld/markmap) - Visualize your Markdown as mindmaps with Markmap.
+- [markmap/markmap](https://github.com/markmap/markmap) - Visualize your Markdown as mindmaps with Markmap.
 - [glacambre/firenvim](https://github.com/glacambre/firenvim) - Embed Neovim in Chrome, Firefox, Thunderbird & others.
 - [blacksmithgu/obsidian-dataview](https://github.com/blacksmithgu/obsidian-dataview) - A high-performance data index and query language over Markdown files, for https://obsidian.md/.
 - [mushanshitiancai/vscode-paste-image](https://github.com/mushanshitiancai/vscode-paste-image) - paste image from clipboard to markdown/asciidoc directly!
@@ -1618,7 +1625,7 @@
 - [tw-in-js/twind-cli](https://github.com/tw-in-js/twind-cli) - 
 - [bangle-io/bangle.dev](https://github.com/bangle-io/bangle.dev) - Collection of higher level rich text editing tools. It powers the local only note taking app https://bangle.io
 - [microsoft/codetour](https://github.com/microsoft/codetour) - VS Code extension that allows you to record and play back guided tours of codebases, directly within the editor.
-- [gera2ld/markmap-vscode](https://github.com/gera2ld/markmap-vscode) - Integrate markmap into VSCode
+- [markmap/markmap-vscode](https://github.com/markmap/markmap-vscode) - Integrate markmap into VSCode
 - [svsool/vscode-markdown-kit](https://github.com/svsool/vscode-markdown-kit) - Collection of commands and utilities for managing Markdown notes
 - [material-shell/material-shell](https://github.com/material-shell/material-shell) - A modern desktop interface for Linux. Improve your user experience and get rid of the anarchy of traditional desktop workflows. Designed to simplify navigation and reduce the need to manipulate window
 - [houkanshan/vscode-markdown-footnote](https://github.com/houkanshan/vscode-markdown-footnote) - [^1] footnote syntax support to VS Code's Markdown editor and preview.
@@ -1645,7 +1652,7 @@
 - [alainm23/planner](https://github.com/alainm23/planner) - Task manager with Todoist support designed for GNU/Linux 🚀
 - [phw/peek](https://github.com/phw/peek) - Simple animated GIF screen recorder with an easy to use interface
 
-## Vim script 
+## Vim Script 
 
 - [NLKNguyen/papercolor-theme](https://github.com/NLKNguyen/papercolor-theme) - :art: Light & Dark Vim color schemes inspired by Google's Material Design
 - [chiefnoah/neuron-v2.vim](https://github.com/chiefnoah/neuron-v2.vim) - 📝 Manage your Zettelkasten in {n}vim.
