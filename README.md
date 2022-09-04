@@ -121,7 +121,7 @@
 - [DevrexLabs/memstate](https://github.com/DevrexLabs/memstate) - In-memory event-sourced ACID-transactional distributed object graph engine for .NET Standard
 - [VsVim/VsVim](https://github.com/VsVim/VsVim) - Vim Emulator Plugin for Visual Studio 2015+
 - [mbdavid/LiteDB](https://github.com/mbdavid/LiteDB) - LiteDB - A .NET NoSQL Document Store in a single data file - https://www.litedb.org
-- [dotnet/interactive](https://github.com/dotnet/interactive) - .NET Interactive takes the power of .NET and embeds it into your interactive experiences. Share code, explore data, write, and learn across your apps in ways you couldn't before.
+- [dotnet/interactive](https://github.com/dotnet/interactive) - .NET Interactive combines the power of .NET with many other languages to create notebooks, REPLs, and embedded coding experiences. Share code, explore data, write, and learn across your apps in ways y
 - [PowerShell/GraphicalTools](https://github.com/PowerShell/GraphicalTools) - Modules that mix PowerShell and GUIs/CUIs! - built on Avalonia and gui.cs
 - [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) - PowerShell for every system!
 - [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
@@ -507,6 +507,8 @@
 
 ## Haskell 
 
+- [aristanetworks/nix-serve-ng](https://github.com/aristanetworks/nix-serve-ng) - A drop-in replacement for nix-serve that is faster and more reliable
+- [hercules-ci/hercules-ci-agent](https://github.com/hercules-ci/hercules-ci-agent) - https://hercules-ci.com build and deployment agent
 - [haskell-effectful/effectful](https://github.com/haskell-effectful/effectful) - An easy to use, fast extensible effects library with seamless integration with the existing Haskell ecosystem.
 - [NorfairKing/cabal2json](https://github.com/NorfairKing/cabal2json) - zurihack experiment
 - [lucasvreis/ondim](https://github.com/lucasvreis/ondim) - Multitype expansions for easy templating
@@ -539,7 +541,7 @@
 - [srid/generics-sop-examples](https://github.com/srid/generics-sop-examples) - 
 - [mlabs-haskell/apropos](https://github.com/mlabs-haskell/apropos) - Propositional Logic Apropos Types
 - [sol/markdown-unlit](https://github.com/sol/markdown-unlit) - Literate Haskell support for Markdown
-- [lucasvreis/organon](https://github.com/lucasvreis/organon) - WIP — will be an app for visualizing and publishing math-related org-roam databases. Not that easy to use for now.
+- [lucasvreis/organon](https://github.com/lucasvreis/organon) - WIP — an app for visualizing and publishing math-related org-roam databases. Not that easy to use for now.
 - [srid/tailwind-haskell](https://github.com/srid/tailwind-haskell) - A No-JavaScript Tailwind runner in Haskell
 - [NorfairKing/safe-coloured-text](https://github.com/NorfairKing/safe-coloured-text) - 
 - [isovector/cornelis](https://github.com/isovector/cornelis) - agda-mode for neovim
@@ -1498,7 +1500,7 @@
 
 ## Shell 
 
-- [chrisgrieser/shimmering-focus](https://github.com/chrisgrieser/shimmering-focus) - A minimalistic Obsidian theme focused on readability and condensed information display
+- [chrisgrieser/shimmering-focus](https://github.com/chrisgrieser/shimmering-focus) - Minimalistic Obsidian Theme for keyboard-centric users.
 - [3noch/nix-bundle-exe](https://github.com/3noch/nix-bundle-exe) - Simple Nix derivations to bundle executables
 - [Bugswriter/notflix](https://github.com/Bugswriter/notflix) - Notflix is a shell script to search and stream torrent.
 - [passff/passff-host](https://github.com/passff/passff-host) - Host app for the WebExtension PassFF
