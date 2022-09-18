@@ -540,7 +540,7 @@
 - [srid/generics-sop-examples](https://github.com/srid/generics-sop-examples) - 
 - [mlabs-haskell/apropos](https://github.com/mlabs-haskell/apropos) - Propositional Logic Apropos Types
 - [sol/markdown-unlit](https://github.com/sol/markdown-unlit) - Literate Haskell support for Markdown
-- [lucasvreis/organon](https://github.com/lucasvreis/organon) - WIP — an app for visualizing and publishing math-related org-roam databases. Not that easy to use for now.
+- [lucasvreis/organon](https://github.com/lucasvreis/organon) - 🕮 WIP — view and generate static websites from your Org files. Built with focus on being customizable, robust and compatible with org-roam. For an overview of current development, see the link below.
 - [srid/tailwind-haskell](https://github.com/srid/tailwind-haskell) - A No-JavaScript Tailwind runner in Haskell
 - [NorfairKing/safe-coloured-text](https://github.com/NorfairKing/safe-coloured-text) - 
 - [isovector/cornelis](https://github.com/isovector/cornelis) - agda-mode for neovim
@@ -1018,6 +1018,7 @@
 
 ## Lua 
 
+- [C0nw0nk/Nginx-Lua-Anti-DDoS](https://github.com/C0nw0nk/Nginx-Lua-Anti-DDoS) - A Anti-DDoS script to protect Nginx web servers using Lua with a HTML Javascript based authentication puzzle inspired by Cloudflare I am under attack mode an Anti-DDoS authentication page protect your
 - [nvim-telescope/telescope-file-browser.nvim](https://github.com/nvim-telescope/telescope-file-browser.nvim) - File Browser extension for telescope.nvim
 - [AstroNvim/AstroNvim](https://github.com/AstroNvim/AstroNvim) - AstroNvim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins
 - [folke/tokyonight.nvim](https://github.com/folke/tokyonight.nvim) - 🏙  A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish.
@@ -1237,6 +1238,7 @@
 
 ## PHP 
 
+- [nadrad/h-m-m](https://github.com/nadrad/h-m-m) - Hackers Mind Map
 - [gharlan/alfred-github-workflow](https://github.com/gharlan/alfred-github-workflow) - GitHub Workflow for Alfred 4
 
 ## Perl 
@@ -1501,6 +1503,7 @@
 
 ## Shell 
 
+- [Kranzes/nix-darwin-template](https://github.com/Kranzes/nix-darwin-template) - A bare-bones template for setting up Nix on macOS for using nix-darwin with flakes
 - [chrisgrieser/shimmering-focus](https://github.com/chrisgrieser/shimmering-focus) - Minimalistic Obsidian Theme for keyboard-centric users.
 - [3noch/nix-bundle-exe](https://github.com/3noch/nix-bundle-exe) - Simple Nix derivations to bundle executables
 - [Bugswriter/notflix](https://github.com/Bugswriter/notflix) - Notflix is a shell script to search and stream torrent.
