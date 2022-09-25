@@ -94,7 +94,7 @@
 - [matz/streem](https://github.com/matz/streem) - prototype of stream based programming language
 - [keenerd/jshon](https://github.com/keenerd/jshon) - Jshon is a JSON parser designed for maximum convenience within the shell.
 - [ggreer/the_silver_searcher](https://github.com/ggreer/the_silver_searcher) - A code-searching tool similar to ack, but faster.
-- [srid/GNUSim8085](https://github.com/srid/GNUSim8085) - A graphical simulator, assembler and debugger for the Intel 8085 microprocessor (Needs maintainer)
+- [GNUSim8085/GNUSim8085](https://github.com/GNUSim8085/GNUSim8085) - A graphical simulator, assembler and debugger for the Intel 8085 microprocessor (Needs maintainer)
 - [ludwigschwardt/python-gnureadline](https://github.com/ludwigschwardt/python-gnureadline) - The standard Python readline extension statically linked against the GNU readline library, providing readline support to Python on platforms without it.
 - [srid/py-extn-shared](https://github.com/srid/py-extn-shared) - An example project demonstrating linking a Python extension module with another shared library
 
@@ -132,7 +132,7 @@
 - [aristocratos/btop](https://github.com/aristocratos/btop) - A monitor of resources
 - [microsoft/wslg](https://github.com/microsoft/wslg) - Enabling the Windows Subsystem for Linux to include support for Wayland and X server related scenarios
 - [xbmc/xbmc](https://github.com/xbmc/xbmc) - Kodi is an award-winning free and open source home theater/media center software and entertainment hub for digital media. With its beautiful interface and powerful skinning engine, it's available for 
-- [aardappel/treesheets](https://github.com/aardappel/treesheets) - TreeSheets : Free Form Data Organizer (see treesheets.com)
+- [aardappel/treesheets](https://github.com/aardappel/treesheets) - TreeSheets : Free Form Data Organizer (see strlen.com/treesheets)
 - [goldendict/goldendict](https://github.com/goldendict/goldendict) - A feature-rich dictionary lookup program, supporting multiple dictionary formats (StarDict/Babylon/Lingvo/Dictd) and online dictionaries, featuring perfect article rendering with the complete markup, 
 - [PerBothner/DomTerm](https://github.com/PerBothner/DomTerm) - DOM/JavaScript-based terminal-emulator/console
 - [microsoft/winget-cli](https://github.com/microsoft/winget-cli) - Windows Package Manager CLI (aka winget)
@@ -146,6 +146,7 @@
 
 ## CSS 
 
+- [OhMyGuus/I-Dont-Care-About-Cookies](https://github.com/OhMyGuus/I-Dont-Care-About-Cookies) - Debloated fork of the extension "I don't care about cookies" (WIP)
 - [wolverian/agda-template](https://github.com/wolverian/agda-template) - A template for an Agda project with automatic GitHub Pages support
 - [rougier/emacs-gtd](https://github.com/rougier/emacs-gtd) - Get Things Done with Emacs
 - [cardano-foundation/CIPs](https://github.com/cardano-foundation/CIPs) - 
@@ -506,6 +507,8 @@
 
 ## Haskell 
 
+- [srid/heist-extra](https://github.com/srid/heist-extra) - Extra utilities for working with Heist
+- [morpheusgraphql/morpheus-graphql](https://github.com/morpheusgraphql/morpheus-graphql) - Haskell GraphQL Api, Client and Tools
 - [aristanetworks/nix-serve-ng](https://github.com/aristanetworks/nix-serve-ng) - A drop-in replacement for nix-serve that is faster and more reliable
 - [hercules-ci/hercules-ci-agent](https://github.com/hercules-ci/hercules-ci-agent) - https://hercules-ci.com build and deployment agent
 - [haskell-effectful/effectful](https://github.com/haskell-effectful/effectful) - An easy to use, fast extensible effects library with seamless integration with the existing Haskell ecosystem.
@@ -540,7 +543,6 @@
 - [srid/generics-sop-examples](https://github.com/srid/generics-sop-examples) - 
 - [mlabs-haskell/apropos](https://github.com/mlabs-haskell/apropos) - Propositional Logic Apropos Types
 - [sol/markdown-unlit](https://github.com/sol/markdown-unlit) - Literate Haskell support for Markdown
-- [lucasvreis/organon](https://github.com/lucasvreis/organon) - 🕮 WIP — view and generate static websites from your Org files. Built with focus on being customizable, robust and compatible with org-roam. For an overview of current development, see the link below.
 - [srid/tailwind-haskell](https://github.com/srid/tailwind-haskell) - A No-JavaScript Tailwind runner in Haskell
 - [NorfairKing/safe-coloured-text](https://github.com/NorfairKing/safe-coloured-text) - 
 - [isovector/cornelis](https://github.com/isovector/cornelis) - agda-mode for neovim
@@ -784,7 +786,7 @@
 - [mightybyte/fake](https://github.com/mightybyte/fake) - Generate realistic looking fake data
 - [reflex-frp/reflex-dom](https://github.com/reflex-frp/reflex-dom) - Web applications without callbacks or side-effects. Reflex-DOM brings the power of functional reactive programming (FRP) to the web. Build HTML and other Document Object Model (DOM) data with a pure f
 - [pcapriotti/optparse-applicative](https://github.com/pcapriotti/optparse-applicative) - Applicative option parser
-- [DmitryTsepelev/faker](https://github.com/DmitryTsepelev/faker) - Faker is pure Haskell library for generating fake data.
+- [Lambda-Logan/faker](https://github.com/Lambda-Logan/faker) - Faker is pure Haskell library for generating fake data.
 - [qfpl/sv](https://github.com/qfpl/sv) - Comma (and other) separated values
 - [vlad-shatskyi/i3wm-config-haskell](https://github.com/vlad-shatskyi/i3wm-config-haskell) - A DSL for writing type-safe and convenient i3 configs.
 - [tomsmalley/semantic-reflex](https://github.com/tomsmalley/semantic-reflex) - 🔧 Semantic UI for Haskell and Reflex-DOM
@@ -1055,6 +1057,9 @@
 
 ## Nix 
 
+- [numtide/treefmt-nix](https://github.com/numtide/treefmt-nix) - treefmt nix configuration
+- [jonascarpay/declarative-cachix](https://github.com/jonascarpay/declarative-cachix) - Add cachix caches declaratively
+- [srid/check-flake](https://github.com/srid/check-flake) - Add a `.#check` package for building all checks for the current system
 - [YorikSar/nixos-vm-on-macos](https://github.com/YorikSar/nixos-vm-on-macos) - Run NixOS VMs on macOS! https://github.com/NixOS/nixpkgs/issues/108984
 - [AmeerTaweel/nix-vscode-marketplace](https://github.com/AmeerTaweel/nix-vscode-marketplace) - VSCode and OpenVSX extensions for Nix
 - [fort-nix/nix-bitcoin](https://github.com/fort-nix/nix-bitcoin) - A collection of Nix packages and NixOS modules for easily installing full-featured Bitcoin nodes with an emphasis on security.
@@ -1066,7 +1071,7 @@
 - [msteen/nixos-vscode-server](https://github.com/msteen/nixos-vscode-server) - Visual Studio Code Server support in NixOS
 - [numtide/devshell](https://github.com/numtide/devshell) - Per project developer environments
 - [jmgilman/dev-container](https://github.com/jmgilman/dev-container) - A devcontainer built on Debian and powered by Nix.
-- [hercules-ci/flake-parts](https://github.com/hercules-ci/flake-parts) - Core of a framework for writing flakes. Assemble your flakes with modules!
+- [hercules-ci/flake-parts](https://github.com/hercules-ci/flake-parts) - Minimal Nix modules for Flakes: split your flakes into modules and get things done with community modules.
 - [gytis-ivaskevicius/high-quality-nix-content](https://github.com/gytis-ivaskevicius/high-quality-nix-content) - GitHub repository containing highest quality Nix/NixOS content
 - [srid/monorepo-nix-template](https://github.com/srid/monorepo-nix-template) - Make monorepos with Nix flakes
 - [yusdacra/nix-cargo-integration](https://github.com/yusdacra/nix-cargo-integration) - Library to easily and effortlessly integrate Cargo projects with Nix.
@@ -1093,7 +1098,7 @@
 - [input-output-hk/haskell.nix](https://github.com/input-output-hk/haskell.nix) - Alternative Haskell Infrastructure for Nixpkgs
 - [purs-nix/purs-nix](https://github.com/purs-nix/purs-nix) - Manage your PureScript projects with Nix!
 - [danielfullmer/robotnix](https://github.com/danielfullmer/robotnix) - Build Android (AOSP) using Nix
-- [nix-community/neovim-nightly-overlay](https://github.com/nix-community/neovim-nightly-overlay) - Unmaintained
+- [nix-community/neovim-nightly-overlay](https://github.com/nix-community/neovim-nightly-overlay) - [maintainer=@Kranzes]
 - [serokell/templates](https://github.com/serokell/templates) - Nix Flake templates for various languages
 - [kolloch/crate2nix](https://github.com/kolloch/crate2nix) - nix build file generator for rust crates
 - [oxalica/rust-overlay](https://github.com/oxalica/rust-overlay) - Pure and reproducible nix overlay of binary distributed rust toolchains
@@ -1145,6 +1150,7 @@
 
 ## Others 
 
+- [aljazceru/awesome-nostr](https://github.com/aljazceru/awesome-nostr) - A cureated list of nostr projects and resources
 - [githubocto/flat-demo-google-sheets](https://github.com/githubocto/flat-demo-google-sheets) - A Flat Data GitHub Action demo repo
 - [haskell-actions/hackage-publish](https://github.com/haskell-actions/hackage-publish) - A GitHub action for publishing packages on Hackage
 - [EmaApps/ideas](https://github.com/EmaApps/ideas) - Ema project ideas
@@ -1428,6 +1434,7 @@
 
 ## Rust 
 
+- [oxalica/nil](https://github.com/oxalica/nil) - Yet another language server for Nix
 - [nix-community/comma](https://github.com/nix-community/comma) - Comma runs software without installing it. [maintainers=@Artturin,@burke,@DavHau]
 - [numtide/treefmt](https://github.com/numtide/treefmt) - One CLI to format the code tree
 - [bennofs/nix-index](https://github.com/bennofs/nix-index) - Quickly locate nix packages with specific files
