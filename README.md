@@ -260,6 +260,7 @@
 
 ## Emacs Lisp 
 
+- [rougier/nano-emacs](https://github.com/rougier/nano-emacs) - GNU Emacs / N Λ N O - Emacs made simple
 - [abo-abo/org-download](https://github.com/abo-abo/org-download) - Drag and drop images to Emacs org-mode
 - [minad/org-modern](https://github.com/minad/org-modern) - :unicorn: Modern Org Style
 - [vedang/ox-neuron](https://github.com/vedang/ox-neuron) - A Neuron Zettel Markdown back-end for Org Export Engine
@@ -506,6 +507,7 @@
 
 ## Haskell 
 
+- [haskell-servant/servant-blaze](https://github.com/haskell-servant/servant-blaze) - 
 - [srid/heist-extra](https://github.com/srid/heist-extra) - Extra utilities for working with Heist
 - [morpheusgraphql/morpheus-graphql](https://github.com/morpheusgraphql/morpheus-graphql) - Haskell GraphQL Api, Client and Tools
 - [aristanetworks/nix-serve-ng](https://github.com/aristanetworks/nix-serve-ng) - A drop-in replacement for nix-serve that is faster and more reliable
@@ -953,7 +955,6 @@
 - [Gruntfuggly/vscode-journal-view](https://github.com/Gruntfuggly/vscode-journal-view) - Adds a sidebar viewlet for vscode-journal
 - [lemmih/ClozeCards](https://github.com/lemmih/ClozeCards) - ClozeCards Beta.
 - [google/bottery](https://github.com/google/bottery) - 
-- [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - 💯 Curated coding interview preparation materials for busy software engineers
 - [kamranahmedse/githunt](https://github.com/kamranahmedse/githunt) - Hunt the most starred projects on any date on GitHub
 - [katspaugh/fluentcards](https://github.com/katspaugh/fluentcards) - Flashcards from dictionary look-ups
 - [rustico/fr-conjugation](https://github.com/rustico/fr-conjugation) - French Conjugation
@@ -1057,6 +1058,7 @@
 
 ## Nix 
 
+- [srid/haskell-multi-nix](https://github.com/srid/haskell-multi-nix) - A simple demo of Nixifying a multi-package Haskell project
 - [mlabs-haskell/mlabs-tooling.nix](https://github.com/mlabs-haskell/mlabs-tooling.nix) - A flake that provides everything necessary to set up a project within our sopes. This includes the necessary maintenance as well as CI.
 - [numtide/treefmt-nix](https://github.com/numtide/treefmt-nix) - treefmt nix configuration
 - [jonascarpay/declarative-cachix](https://github.com/jonascarpay/declarative-cachix) - Add cachix caches declaratively
@@ -1350,7 +1352,7 @@
 - [srid/irccloud-tools](https://github.com/srid/irccloud-tools) - Tools, hacks and docs for irccloud.com
 - [srid/go-tool](https://github.com/srid/go-tool) - Fork of http://code.google.com/p/go-tool
 - [Pylons/pyramid_cookbook](https://github.com/Pylons/pyramid_cookbook) - Pyramid cookbook recipes (documentation)
-- [Supervisor/supervisor](https://github.com/Supervisor/supervisor) - Supervisor process control system for UNIX
+- [Supervisor/supervisor](https://github.com/Supervisor/supervisor) - Supervisor process control system for Unix (supervisord)
 - [srid/hydra](https://github.com/srid/hydra) - Personal WSGI play ground
 - [joabsa/calibrekindlecollections](https://github.com/joabsa/calibrekindlecollections) - create kindle collections using the calibre metada
 - [srid/sources](https://github.com/srid/sources) - A fork to try and integrate sources with go-tool (running 'sources -g' should update the go-tool settings data)
@@ -1579,6 +1581,7 @@
 
 ## Swift 
 
+- [Ranchero-Software/NetNewsWire](https://github.com/Ranchero-Software/NetNewsWire) - RSS reader for macOS and iOS.
 - [vincode-io/Zavala](https://github.com/vincode-io/Zavala) - A good, simple outliner for macOS, iPadOS, and iOS.
 - [adur1990/Pass-for-macOS](https://github.com/adur1990/Pass-for-macOS) - macOS wrapper for pass, the standard UNIX password manager
 - [michaelvillar/timer-app](https://github.com/michaelvillar/timer-app) - A simple Timer app for Mac
@@ -1650,6 +1653,7 @@
 - [hasura/graphql-engine](https://github.com/hasura/graphql-engine) - Blazing fast, instant realtime GraphQL APIs on your DB with fine grained access control, also trigger webhooks on database events.
 - [thelounge/thelounge](https://github.com/thelounge/thelounge) - 💬  ‎ Modern, responsive, cross-platform, self-hosted web IRC client
 - [haskell/vscode-haskell](https://github.com/haskell/vscode-haskell) - VS Code extension for Haskell, powered by haskell-language-server
+- [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - 💯 Curated coding interview preparation materials for busy software engineers
 - [stackblitz/core](https://github.com/stackblitz/core) - Online IDE powered by Visual Studio Code ⚡️
 - [antonycourtney/tad](https://github.com/antonycourtney/tad) - A desktop application for viewing and analyzing tabular data
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
