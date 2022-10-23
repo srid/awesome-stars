@@ -67,6 +67,7 @@
 
 ## Agda 
 
+- [isovector/math-for-programmers](https://github.com/isovector/math-for-programmers) - 
 - [martinescardo/HoTT-UF-Agda-Lecture-Notes](https://github.com/martinescardo/HoTT-UF-Agda-Lecture-Notes) - Lecture notes on univalent foundations of mathematics with Agda
 - [isovector/blagda](https://github.com/isovector/blagda) - agda blogging based on 1lab
 - [plt-amy/1lab](https://github.com/plt-amy/1lab) - A formalised, cross-linked reference resource for mathematics done in Homotopy Type Theory
@@ -83,6 +84,7 @@
 
 ## C 
 
+- [rvaiya/warpd](https://github.com/rvaiya/warpd) - A modal keyboard-driven virtual pointer
 - [tsl0922/ttyd](https://github.com/tsl0922/ttyd) - Share your terminal over the web
 - [davatorium/rofi](https://github.com/davatorium/rofi) - Rofi: A window switcher, application launcher and dmenu replacement
 - [mpv-player/mpv](https://github.com/mpv-player/mpv) - 🎥 Command line video player
@@ -506,6 +508,8 @@
 
 ## Haskell 
 
+- [lucasvreis/organon](https://github.com/lucasvreis/organon) - 🕮 WIP — view and generate static websites from your Org files. Built with focus on being customizable, robust and compatible with org-roam. For an overview of current development, see the link below.
+- [NorfairKing/bevel](https://github.com/NorfairKing/bevel) - 
 - [haskell-servant/servant-blaze](https://github.com/haskell-servant/servant-blaze) - 
 - [srid/heist-extra](https://github.com/srid/heist-extra) - Extra utilities for working with Heist
 - [morpheusgraphql/morpheus-graphql](https://github.com/morpheusgraphql/morpheus-graphql) - Haskell GraphQL Api, Client and Tools
@@ -1152,7 +1156,6 @@
 
 ## Others 
 
-- [isovector/math-for-programmers](https://github.com/isovector/math-for-programmers) - 
 - [aljazceru/awesome-nostr](https://github.com/aljazceru/awesome-nostr) - A cureated list of nostr projects and resources
 - [githubocto/flat-demo-google-sheets](https://github.com/githubocto/flat-demo-google-sheets) - A Flat Data GitHub Action demo repo
 - [haskell-actions/hackage-publish](https://github.com/haskell-actions/hackage-publish) - A GitHub action for publishing packages on Hackage
@@ -1262,6 +1265,7 @@
 
 ## PureScript 
 
+- [ArdanaLabs/hello-cardano-template](https://github.com/ArdanaLabs/hello-cardano-template) - 
 - [purescript-gjs/purescript-gjs](https://github.com/purescript-gjs/purescript-gjs) - GNOME JavaScript bindings for PureScript
 - [lumihq/purescript-react-basic](https://github.com/lumihq/purescript-react-basic) - An opinionated set of bindings to the React library, optimizing for the most basic use cases
 - [megamaddu/purescript-react-basic-hooks](https://github.com/megamaddu/purescript-react-basic-hooks) - An implementation of React hooks on top of purescript-react-basic
