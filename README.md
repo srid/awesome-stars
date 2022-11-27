@@ -646,7 +646,7 @@
 - [lmu-ffp-sose-2020-secret-hitler/secret-hitler](https://github.com/lmu-ffp-sose-2020-secret-hitler/secret-hitler) - A Haskell implementation of the game Secret Hitler
 - [mpickering/ghcide-reflex](https://github.com/mpickering/ghcide-reflex) - Experimental fork of ghcide which is reimplemented using the FRP library reflex
 - [WebGHC/jsaddle-wasm](https://github.com/WebGHC/jsaddle-wasm) - jsaddle interface for WebGHC
-- [tweag/asterius](https://github.com/tweag/asterius) - A Haskell to WebAssembly compiler
+- [tweag/asterius](https://github.com/tweag/asterius) - DEPRECATED in favor of ghc wasm backend, see https://www.tweag.io/blog/2022-11-22-wasm-backend-merged-in-ghc
 - [haskell-gi/haskell-gi](https://github.com/haskell-gi/haskell-gi) - Generate Haskell bindings for GObject-Introspection capable libraries
 - [vshabanov/fast-tagsoup](https://github.com/vshabanov/fast-tagsoup) - Fast Haskell tagsoup parser
 - [nmattia/niv](https://github.com/nmattia/niv) - Easy dependency management for Nix projects
@@ -1592,6 +1592,7 @@
 
 ## Swift 
 
+- [devMEremenko/XcodeBenchmark](https://github.com/devMEremenko/XcodeBenchmark) - XcodeBenchmark measures the compilation time of a large codebase on iMac, MacBook, and Mac Pro
 - [Ranchero-Software/NetNewsWire](https://github.com/Ranchero-Software/NetNewsWire) - RSS reader for macOS and iOS.
 - [vincode-io/Zavala](https://github.com/vincode-io/Zavala) - A good, simple outliner for macOS, iPadOS, and iOS.
 - [adur1990/Pass-for-macOS](https://github.com/adur1990/Pass-for-macOS) - macOS wrapper for pass, the standard UNIX password manager
