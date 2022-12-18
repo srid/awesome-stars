@@ -306,6 +306,7 @@
 
 ## F# # 
 
+- [artempyanykh/marksman](https://github.com/artempyanykh/marksman) - Write Markdown with code assist and intelligence in the comfort of your favourite editor.
 - [humhei/FCSWatch](https://github.com/humhei/FCSWatch) - Run standard fsharp codes in watch mode
 - [deviousasti/fsharp-worksheet](https://github.com/deviousasti/fsharp-worksheet) - A spreadsheet-like interactive evaluator for F#
 - [fsharp/fslang-design](https://github.com/fsharp/fslang-design) - RFCs and docs related to the F# language design process, see https://github.com/fsharp/fslang-suggestions to submit ideas
@@ -914,7 +915,7 @@
 - [Sean10/markless](https://github.com/Sean10/markless) - temporarily sean10's custom made version from tejasvi/markless. A vscode markdown WYSIWYG extension called Markless_sean10
 - [be5invis/Iosevka](https://github.com/be5invis/Iosevka) - Versatile typeface for code, from code.
 - [tejasvi/markless](https://github.com/tejasvi/markless) - Preview markdown inline and extend the capabilities through VS Code extensions.
-- [typefully/minimal-twitter](https://github.com/typefully/minimal-twitter) - Minimal Theme for Twitter - Declutter Your Twitter Web Experience
+- [typefully/minimal-twitter](https://github.com/typefully/minimal-twitter) - Minimal Theme for Twitter - Refine Your Twitter Web Experience
 - [paradoxxxzero/gnome-shell-system-monitor-applet](https://github.com/paradoxxxzero/gnome-shell-system-monitor-applet) - Display system informations in gnome shell status bar, such as memory usage, cpu usage, network rates…
 - [eungjun-yi/copy-as-markdown-quot](https://github.com/eungjun-yi/copy-as-markdown-quot) - Chrome extension to copy text as markdown quote
 - [notlmn/copy-as-markdown](https://github.com/notlmn/copy-as-markdown) - 🖱 Browser extension to copy hyperlinks, images, and selected text as Markdown with GFM support
@@ -1067,7 +1068,10 @@
 
 ## Nix 
 
+- [srid/flake-root](https://github.com/srid/flake-root) - A `flake-parts` module for finding your way to the project root directory
+- [Platonic-Systems/mission-control](https://github.com/Platonic-Systems/mission-control) - A `flake-parts` module for your Nix devshell scripts
 - [srid/proc-flake](https://github.com/srid/proc-flake) - A `flake-parts` module for running multiple processes in a dev shell
+- [Platonic-Systems/process-compose-flake](https://github.com/Platonic-Systems/process-compose-flake) - A `flake-parts` module to spin up processes for development by leveraging `process-compose`
 - [DavHau/drv-parts](https://github.com/DavHau/drv-parts) - Configure packages like NixOS sytems
 - [Platonic-Systems/purescript-multi-nix](https://github.com/Platonic-Systems/purescript-multi-nix) - WIP demo of nixifying a PureScript monorepo using purs-nix
 - [cachix/devenv](https://github.com/cachix/devenv) - Fast, Declarative, Reproducible, and Composable Developer Environments
@@ -1167,8 +1171,6 @@
 
 ## Others 
 
-- [Platonic-Systems/process-compose-flake](https://github.com/Platonic-Systems/process-compose-flake) - A `flake-parts` module to spin up processes for development by leveraging `process-compose`
-- [aljazceru/awesome-nostr](https://github.com/aljazceru/awesome-nostr) - A cureated list of nostr projects and resources
 - [githubocto/flat-demo-google-sheets](https://github.com/githubocto/flat-demo-google-sheets) - A Flat Data GitHub Action demo repo
 - [haskell-actions/hackage-publish](https://github.com/haskell-actions/hackage-publish) - A GitHub action for publishing packages on Hackage
 - [EmaApps/ideas](https://github.com/EmaApps/ideas) - Ema project ideas
@@ -1427,6 +1429,7 @@
 
 ## Ruby 
 
+- [aljazceru/awesome-nostr](https://github.com/aljazceru/awesome-nostr) - A curated list of nostr projects and resources
 - [sferik/t](https://github.com/sferik/t) - A command-line power tool for Twitter.
 - [samueldr/nix-top](https://github.com/samueldr/nix-top) - 
 - [heroku/log2viz](https://github.com/heroku/log2viz) - DEFUNCT: Realtime analysis of your Heroku app logs.
