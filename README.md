@@ -1102,7 +1102,7 @@
 - [srid/rust-nix-template](https://github.com/srid/rust-nix-template) - Rust project template with Nix (Flakes) and VSCode support
 - [srid/nixos-config](https://github.com/srid/nixos-config) - KISS NixOS configuration based on Flakes & flake-parts (supports macOS too)
 - [astro/microvm.nix](https://github.com/astro/microvm.nix) - NixOS MicroVMs
-- [aquiferma/noteable](https://github.com/aquiferma/noteable) - A small software environment for your plain-text notes
+- [edrex/notes.env](https://github.com/edrex/notes.env) - A small software environment for your plain-text notes
 - [nix-community/nix-doom-emacs](https://github.com/nix-community/nix-doom-emacs) - doom-emacs packaged for Nix [maintainers=@ckiee,@thiagokokada]
 - [Mic92/nixos-shell](https://github.com/Mic92/nixos-shell) - Spawns lightweight nixos vms in a shell
 - [cardano-system/cardano-system](https://github.com/cardano-system/cardano-system) - 
