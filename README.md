@@ -67,6 +67,7 @@
 
 ## Agda 
 
+- [isovector/math-for-programmers](https://github.com/isovector/math-for-programmers) - 
 - [martinescardo/HoTT-UF-Agda-Lecture-Notes](https://github.com/martinescardo/HoTT-UF-Agda-Lecture-Notes) - Lecture notes on univalent foundations of mathematics with Agda
 - [isovector/blagda](https://github.com/isovector/blagda) - agda blogging based on 1lab
 - [plt-amy/1lab](https://github.com/plt-amy/1lab) - A formalised, cross-linked reference resource for mathematics done in Homotopy Type Theory
@@ -148,6 +149,7 @@
 ## CSS 
 
 - [wolverian/agda-template](https://github.com/wolverian/agda-template) - A template for an Agda project with automatic GitHub Pages support
+- [chrisgrieser/shimmering-focus](https://github.com/chrisgrieser/shimmering-focus) - Minimalistic Obsidian Theme for keyboard-centric users.
 - [rougier/emacs-gtd](https://github.com/rougier/emacs-gtd) - Get Things Done with Emacs
 - [whyt-byte/Blue-Topaz_Obsidian-css](https://github.com/whyt-byte/Blue-Topaz_Obsidian-css) - A blue theme for Obsidian.
 - [sdras/productive-twitter](https://github.com/sdras/productive-twitter) - Chrome extension: Minimal and friendly theme for productive twitter use
@@ -1540,7 +1542,6 @@
 ## Shell 
 
 - [Kranzes/nix-darwin-template](https://github.com/Kranzes/nix-darwin-template) - A bare-bones template for setting up Nix on macOS for using nix-darwin with flakes
-- [chrisgrieser/shimmering-focus](https://github.com/chrisgrieser/shimmering-focus) - Minimalistic Obsidian Theme for keyboard-centric users.
 - [3noch/nix-bundle-exe](https://github.com/3noch/nix-bundle-exe) - Simple Nix derivations to bundle executables
 - [Bugswriter/notflix](https://github.com/Bugswriter/notflix) - Notflix is a shell script to search and stream torrent.
 - [passff/passff-host](https://github.com/passff/passff-host) - Host app for the WebExtension PassFF
@@ -1621,7 +1622,6 @@
 ## TeX 
 
 - [jespercockx/agda-lecture-notes](https://github.com/jespercockx/agda-lecture-notes) - Agda lecture notes for the Functional Programming course at TU Delft
-- [isovector/math-for-programmers](https://github.com/isovector/math-for-programmers) - 
 - [BartoszMilewski/Publications](https://github.com/BartoszMilewski/Publications) - Misc. publications, conference slides, etc. For more, go to http://BartoszMilewski.com
 - [BartoszMilewski/DaoFP](https://github.com/BartoszMilewski/DaoFP) - The Dao of Functional Programming
 - [andrejbauer/homotopy-type-theory-course](https://github.com/andrejbauer/homotopy-type-theory-course) - A course on homotopy theory and type theory, taught jointly with Jaka Smrekar
