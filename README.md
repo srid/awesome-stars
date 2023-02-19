@@ -465,7 +465,6 @@
 - [howeyc/fsnotify](https://github.com/howeyc/fsnotify) - File system notification for Go
 - [ungerik/go-start](https://github.com/ungerik/go-start) - A high level web-framework for Go
 - [tsuru/tsuru](https://github.com/tsuru/tsuru) - Open source and extensible Platform as a Service (PaaS).
-- [mkaz/hastie](https://github.com/mkaz/hastie) - A static site generator written in Go
 - [nickoneill/go-publisher](https://github.com/nickoneill/go-publisher) - publish your blog from anywhere
 - [nickoneill/go-dropbox](https://github.com/nickoneill/go-dropbox) - go library for the dropbox API
 - [nu7hatch/gouuid](https://github.com/nu7hatch/gouuid) - Go binding for libuuid
@@ -590,7 +589,7 @@
 - [haskell-fswatch/hfsnotify](https://github.com/haskell-fswatch/hfsnotify) - Unified Haskell interface for basic file system notifications
 - [EmaApps/TheMotteDashboard](https://github.com/EmaApps/TheMotteDashboard) - A dashboard for r/TheMotte subreddit, powered by Ema.
 - [eskimor/purescript-bridge](https://github.com/eskimor/purescript-bridge) - Create PureScript datatypes from Haskell datatypes
-- [input-output-hk/plutus-pioneer-program](https://github.com/input-output-hk/plutus-pioneer-program) - 
+- [input-output-hk/plutus-pioneer-program](https://github.com/input-output-hk/plutus-pioneer-program) - This repository hosts the lectures of the Plutus Pioneers Program. This program is a training course that the IOG Education Team provides to recruit and train software developers in Plutus, the native
 - [well-typed/cborg](https://github.com/well-typed/cborg) - Binary serialisation in the CBOR format
 - [simonmichael/hledger](https://github.com/simonmichael/hledger) - Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces.
 - [fumieval/extensible](https://github.com/fumieval/extensible) - Extensible records, variants, structs, effects, tangles
@@ -1058,6 +1057,7 @@
 - [srid/haskell-ladder](https://github.com/srid/haskell-ladder) - WIP: Haskell Pedagogic Ladder (Run `nix run` to run the site locally)
 - [uiuc-cs-zettelkasten/uiuc-cs-zettelkasten.github.io](https://github.com/uiuc-cs-zettelkasten/uiuc-cs-zettelkasten.github.io) - UIUC Computer Science Zettelkasten
 - [input-output-hk/adrestia](https://github.com/input-output-hk/adrestia) - APIs & SDK for interacting with Cardano.
+- [srid/emanote-template](https://github.com/srid/emanote-template) - Notebook template for Emanote
 - [Kuratoro/TheMotte.zettel.page](https://github.com/Kuratoro/TheMotte.zettel.page) - [unmaintained] Unofficial Wiki for r/TheMotte
 - [tfausak/haskell-knowledge-base](https://github.com/tfausak/haskell-knowledge-base) - :spider_web: A knowledge map about Haskell powered by Obsidian.
 - [srid/alien-psychology](https://github.com/srid/alien-psychology) - 3rd Rock From The Sun episodes tagged with psychological concepts
@@ -1121,7 +1121,6 @@
 - [hercules-ci/arion](https://github.com/hercules-ci/arion) - Run docker-compose with help from Nix/NixOS
 - [numtide/nix-filter](https://github.com/numtide/nix-filter) - a small self-container source filtering lib
 - [input-output-hk/haskell.nix](https://github.com/input-output-hk/haskell.nix) - Alternative Haskell Infrastructure for Nixpkgs
-- [srid/emanote-template](https://github.com/srid/emanote-template) - Notebook template for Emanote
 - [purs-nix/purs-nix](https://github.com/purs-nix/purs-nix) - Manage your PureScript projects with Nix!
 - [danielfullmer/robotnix](https://github.com/danielfullmer/robotnix) - Build Android (AOSP) using Nix
 - [nix-community/neovim-nightly-overlay](https://github.com/nix-community/neovim-nightly-overlay) - [maintainer=@Kranzes]
@@ -1374,6 +1373,7 @@
 - [jtauber/pykanren](https://github.com/jtauber/pykanren) - an attempt to implement miniKanren and microKanren in Python
 - [noderabbit-team/PyStackato](https://github.com/noderabbit-team/PyStackato) - Client for CloudFoundry and Stackato API endpoints
 - [docopt/docopt](https://github.com/docopt/docopt) - Pythonic command line arguments parser, that will make you smile
+- [mkaz/hastie](https://github.com/mkaz/hastie) - A static site generator in Python
 - [0rpc/zerorpc-python](https://github.com/0rpc/zerorpc-python) - zerorpc for python
 - [revolunet/sublimetext-markdown-preview](https://github.com/revolunet/sublimetext-markdown-preview) - markdown preview and build plugin for sublime text 2/3
 - [srid/irccloud-tools](https://github.com/srid/irccloud-tools) - Tools, hacks and docs for irccloud.com
@@ -1464,6 +1464,7 @@
 
 ## Rust 
 
+- [zhaofengli/attic](https://github.com/zhaofengli/attic) - Multi-tenant Nix Binary Cache
 - [fathyb/carbonyl](https://github.com/fathyb/carbonyl) - Chromium running inside your terminal
 - [oxalica/nil](https://github.com/oxalica/nil) - NIx Language server, an incremental analysis assistent for writing in Nix.
 - [nix-community/comma](https://github.com/nix-community/comma) - Comma runs software without installing it. [maintainers=@Artturin,@burke,@DavHau]
