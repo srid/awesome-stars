@@ -333,7 +333,7 @@
 - [Zaid-Ajaj/desktop-feliz-with-photino](https://github.com/Zaid-Ajaj/desktop-feliz-with-photino) - 
 - [fsbolero/Bolero](https://github.com/fsbolero/Bolero) - Bolero brings Blazor to F# developers with an easy to use Model-View-Update architecture, HTML combinators, hot reloaded templates, type-safe endpoints, advanced routing and remoting capabilities, and
 - [yatli/fvim](https://github.com/yatli/fvim) - Cross platform Neovim front-end UI, built with F# + Avalonia
-- [fsprojects/Avalonia.FuncUI](https://github.com/fsprojects/Avalonia.FuncUI) - Develop cross-plattform MVU GUI Applications using F# and Avalonia!
+- [fsprojects/Avalonia.FuncUI](https://github.com/fsprojects/Avalonia.FuncUI) - Develop cross-plattform GUI Applications using F# and Avalonia!
 - [SuaveIO/suave](https://github.com/SuaveIO/suave) - Suave is a simple web development F# library providing a lightweight web server and a set of combinators to manipulate route flow and task composition.
 - [websharper-samples/ui](https://github.com/websharper-samples/ui) - An experiment in next-generation front-end combinator library for WebSharper
 - [dotnet/fsharp](https://github.com/dotnet/fsharp) - The F# compiler, F# core library, F# language service, and F# tooling integration for Visual Studio
@@ -510,12 +510,15 @@
 
 ## Haskell 
 
+- [nammayatri/shared-kernel](https://github.com/nammayatri/shared-kernel) - 
+- [nammayatri/beckn-gateway](https://github.com/nammayatri/beckn-gateway) - 
+- [nammayatri/nammayatri](https://github.com/nammayatri/nammayatri) - 
 - [srid/gro](https://github.com/srid/gro) - WIP: Exploring single file org-mode visualization
 - [lucasvreis/multiwalk](https://github.com/lucasvreis/multiwalk) - Create traversals and queries of multiple types at once
 - [srid/NixHaskellIndex](https://github.com/srid/NixHaskellIndex) - A site to view the Haskell packages and their versions on nixpkgs
 - [srid/commonmark-wikilink](https://github.com/srid/commonmark-wikilink) - Commonmark Wikilink parser for Pandoc
 - [lsmor/snake-fury](https://github.com/lsmor/snake-fury) - a challenge for Haskell beginners
-- [lucasvreis/organon](https://github.com/lucasvreis/organon) - 🕮 WIP — view and generate static websites from your Org files.
+- [lucasvreis/organon](https://github.com/lucasvreis/organon) - 📖 view and generate static websites from your Org files.
 - [NorfairKing/bevel](https://github.com/NorfairKing/bevel) - 
 - [haskell-servant/servant-blaze](https://github.com/haskell-servant/servant-blaze) - 
 - [srid/heist-extra](https://github.com/srid/heist-extra) - Extra utilities for working with Heist
@@ -1070,6 +1073,8 @@
 
 ## Nix 
 
+- [srid/nixid](https://github.com/srid/nixid) - Like `ghcid -T` but for Nix
+- [cdepillabout/stacklock2nix](https://github.com/cdepillabout/stacklock2nix) - Easily build a Haskell project from a stack.yaml.lock file with Nix
 - [obsidiansystems/seven-guis-vty](https://github.com/obsidiansystems/seven-guis-vty) - 7GUIs implemented in reflex-vty
 - [divnix/std](https://github.com/divnix/std) - A DevOps framework for the SDLC with the power of Nix and Flakes. Good for keeping deadlines!
 - [nix-community/nixpkgs.lib](https://github.com/nix-community/nixpkgs.lib) - nixpkgs lib for cheap instantiation [maintainer=@github-action] (with initial help from @blaggacao)
@@ -1236,7 +1241,7 @@
 - [Gabriella439/post-rfc](https://github.com/Gabriella439/post-rfc) - Blog post previews in need of peer review
 - [garbas/nix-virtualenv](https://github.com/garbas/nix-virtualenv) - Might just be your next virtualenv
 - [jwbuurlage/category-theory-programmers](https://github.com/jwbuurlage/category-theory-programmers) - Category theory in the context of (functional) programming
-- [nikitavoloboev/my-mac-os](https://github.com/nikitavoloboev/my-mac-os) - List of applications and tools that make my macOS experience even more amazing
+- [nikitavoloboev/my-mac](https://github.com/nikitavoloboev/my-mac) - List of applications and tools that make my macOS experience even more amazing
 - [rainbyte/haskell-ide-chart](https://github.com/rainbyte/haskell-ide-chart) - Haskell state of editor/IDE support
 - [ziishaned/learn-regex](https://github.com/ziishaned/learn-regex) - Learn regex the easy way
 - [davatron5000/can-i-subsystem-it](https://github.com/davatron5000/can-i-subsystem-it) - 
@@ -1464,6 +1469,7 @@
 
 ## Rust 
 
+- [watchexec/watchexec](https://github.com/watchexec/watchexec) - Executes commands in response to file modifications
 - [zhaofengli/attic](https://github.com/zhaofengli/attic) - Multi-tenant Nix Binary Cache
 - [fathyb/carbonyl](https://github.com/fathyb/carbonyl) - Chromium running inside your terminal
 - [oxalica/nil](https://github.com/oxalica/nil) - NIx Language server, an incremental analysis assistent for writing in Nix.
@@ -1637,6 +1643,7 @@
 
 ## TypeScript 
 
+- [motion-canvas/motion-canvas](https://github.com/motion-canvas/motion-canvas) - Visualize Complex Ideas Programmatically
 - [vilm3r/sendstr-web](https://github.com/vilm3r/sendstr-web) - Sendstr is an open source end-to-end encrypted shared clipboard app built on top of Nostr.
 - [direnv/direnv-vscode](https://github.com/direnv/direnv-vscode) - unclutter your .profile
 - [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) - Documentation that simply works
