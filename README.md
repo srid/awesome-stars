@@ -510,6 +510,7 @@
 
 ## Haskell 
 
+- [gil0mendes/emanote-sitemap-generator](https://github.com/gil0mendes/emanote-sitemap-generator) - Sitemap generator for Emanote
 - [nammayatri/shared-kernel](https://github.com/nammayatri/shared-kernel) - 
 - [nammayatri/beckn-gateway](https://github.com/nammayatri/beckn-gateway) - 
 - [nammayatri/nammayatri](https://github.com/nammayatri/nammayatri) - 
@@ -924,7 +925,7 @@
 - [paradoxxxzero/gnome-shell-system-monitor-applet](https://github.com/paradoxxxzero/gnome-shell-system-monitor-applet) - Display system informations in gnome shell status bar, such as memory usage, cpu usage, network rates…
 - [eungjun-yi/copy-as-markdown-quot](https://github.com/eungjun-yi/copy-as-markdown-quot) - Chrome extension to copy text as markdown quote
 - [notlmn/copy-as-markdown](https://github.com/notlmn/copy-as-markdown) - 🖱 Browser extension to copy hyperlinks, images, and selected text as Markdown with GFM support
-- [Leleat/Tiling-Assistant](https://github.com/Leleat/Tiling-Assistant) - A GNOME extension which adds a Windows-like snap assist to the GNOME desktop environment. It also expands the 2x2 grid design.
+- [Leleat/Tiling-Assistant](https://github.com/Leleat/Tiling-Assistant) - An extension which adds a Windows-like snap assist to GNOME. It also expands GNOME's 2 column tiling layout.
 - [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 - [christianvoigt/argdown](https://github.com/christianvoigt/argdown) - a simple syntax for complex argumentation
 - [input-output-hk/cardano-documentation](https://github.com/input-output-hk/cardano-documentation) - 
@@ -1073,6 +1074,7 @@
 
 ## Nix 
 
+- [juspay/cachix-push](https://github.com/juspay/cachix-push) - A flake app that can push packages and devshells to cachix
 - [srid/nixid](https://github.com/srid/nixid) - Like `ghcid -T` but for Nix
 - [cdepillabout/stacklock2nix](https://github.com/cdepillabout/stacklock2nix) - Easily build a Haskell project from a stack.yaml.lock file with Nix
 - [obsidiansystems/seven-guis-vty](https://github.com/obsidiansystems/seven-guis-vty) - 7GUIs implemented in reflex-vty
@@ -1180,6 +1182,8 @@
 
 ## Others 
 
+- [ryantm/nix-installer-action-benchmark](https://github.com/ryantm/nix-installer-action-benchmark) - Benchmarks nix install actions
+- [DeterminateSystems/nix-installer-action](https://github.com/DeterminateSystems/nix-installer-action) - A Github Action for the Determinate Nix Installer
 - [8go/matrix-nostr-bridge](https://github.com/8go/matrix-nostr-bridge) - Bridge between Matrix and Nostr communication protocols
 - [aljazceru/awesome-nostr](https://github.com/aljazceru/awesome-nostr) - A curated list of nostr projects and resources
 - [githubocto/flat-demo-google-sheets](https://github.com/githubocto/flat-demo-google-sheets) - A Flat Data GitHub Action demo repo
@@ -1469,6 +1473,7 @@
 
 ## Rust 
 
+- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) - The Determinate Nix Installer.
 - [watchexec/watchexec](https://github.com/watchexec/watchexec) - Executes commands in response to file modifications
 - [zhaofengli/attic](https://github.com/zhaofengli/attic) - Multi-tenant Nix Binary Cache
 - [fathyb/carbonyl](https://github.com/fathyb/carbonyl) - Chromium running inside your terminal
@@ -1724,6 +1729,7 @@
 
 ## Vue 
 
+- [DeterminateSystems/zero-to-nix](https://github.com/DeterminateSystems/zero-to-nix) - An unofficial, opinionated, gentle introduction to Nix (@nixos) from Determinate Systems
 - [tipsy/profile-summary-for-github](https://github.com/tipsy/profile-summary-for-github) - Tool for visualizing GitHub profiles
 
 ## hoon 
