@@ -149,7 +149,6 @@
 ## CSS 
 
 - [wolverian/agda-template](https://github.com/wolverian/agda-template) - A template for an Agda project with automatic GitHub Pages support
-- [chrisgrieser/shimmering-focus](https://github.com/chrisgrieser/shimmering-focus) - Minimalistic Obsidian Theme for keyboard-centric users.
 - [rougier/emacs-gtd](https://github.com/rougier/emacs-gtd) - Get Things Done with Emacs
 - [whyt-byte/Blue-Topaz_Obsidian-css](https://github.com/whyt-byte/Blue-Topaz_Obsidian-css) - A blue theme for Obsidian.
 - [sdras/productive-twitter](https://github.com/sdras/productive-twitter) - Chrome extension: Minimal and friendly theme for productive twitter use
@@ -1025,7 +1024,6 @@
 ## Jupyter Notebook 
 
 - [input-output-hk/haskell-course](https://github.com/input-output-hk/haskell-course) - This course is designed to teach students Haskell from zero to everything needed to work with Marlowe and Plutus. The course itself doesn't contain content specific to Marlowe or Plutus. So, if you wa
-- [tweag/jupyenv](https://github.com/tweag/jupyenv) - Declarative and reproducible Jupyter environments - powered by Nix
 - [IHaskell/IHaskell](https://github.com/IHaskell/IHaskell) - A Haskell kernel for the Jupyter project.
 - [vaibhavsagar/notebooks](https://github.com/vaibhavsagar/notebooks) - Jupyter notebooks
 
@@ -1074,6 +1072,7 @@
 
 ## Nix 
 
+- [kanwren/nix-parsec](https://github.com/kanwren/nix-parsec) - 
 - [juspay/cachix-push](https://github.com/juspay/cachix-push) - A flake app that can push packages and devshells to cachix
 - [srid/nixid](https://github.com/srid/nixid) - Like `ghcid -T` but for Nix
 - [cdepillabout/stacklock2nix](https://github.com/cdepillabout/stacklock2nix) - Easily build a Haskell project from a stack.yaml.lock file with Nix
@@ -1132,6 +1131,7 @@
 - [danielfullmer/robotnix](https://github.com/danielfullmer/robotnix) - Build Android (AOSP) using Nix
 - [nix-community/neovim-nightly-overlay](https://github.com/nix-community/neovim-nightly-overlay) - [maintainer=@Kranzes]
 - [serokell/templates](https://github.com/serokell/templates) - Nix Flake templates for various languages
+- [tweag/jupyenv](https://github.com/tweag/jupyenv) - Declarative and reproducible Jupyter environments - powered by Nix
 - [kolloch/crate2nix](https://github.com/kolloch/crate2nix) - nix build file generator for rust crates
 - [oxalica/rust-overlay](https://github.com/oxalica/rust-overlay) - Pure and reproducible nix overlay of binary distributed rust toolchains
 - [barrucadu/nixfiles](https://github.com/barrucadu/nixfiles) - My NixOS configuration and assorted other crap.
@@ -1538,6 +1538,7 @@
 
 ## SCSS 
 
+- [chrisgrieser/shimmering-focus](https://github.com/chrisgrieser/shimmering-focus) - Minimalistic Obsidian Theme for keyboard-centric users.
 - [yewstack/yew-trunk-minimal-template](https://github.com/yewstack/yew-trunk-minimal-template) - Template for starting a Yew project using Trunk
 - [jonsuh/hamburgers](https://github.com/jonsuh/hamburgers) - Tasty CSS-animated Hamburgers
 
