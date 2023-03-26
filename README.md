@@ -510,6 +510,7 @@
 
 ## Haskell 
 
+- [juspay/todo-app](https://github.com/juspay/todo-app) - WIP: A demo Haskell app showing the use of `flake-parts` to enable various dev workflows
 - [gil0mendes/emanote-sitemap-generator](https://github.com/gil0mendes/emanote-sitemap-generator) - Sitemap generator for Emanote
 - [nammayatri/shared-kernel](https://github.com/nammayatri/shared-kernel) - 
 - [nammayatri/beckn-gateway](https://github.com/nammayatri/beckn-gateway) - 
@@ -907,7 +908,6 @@
 
 ## JavaScript 
 
-- [obsidian-tasks-group/obsidian-tasks](https://github.com/obsidian-tasks-group/obsidian-tasks) - Task management for the Obsidian knowledge base.
 - [OhMyGuus/I-Still-Dont-Care-About-Cookies](https://github.com/OhMyGuus/I-Still-Dont-Care-About-Cookies) - Debloated fork of the extension "I don't care about cookies"
 - [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
 - [resume/resume.github.com](https://github.com/resume/resume.github.com) - Resumes generated using the GitHub informations
@@ -1073,7 +1073,8 @@
 
 ## Nix 
 
-- [srid/nixos-flake](https://github.com/srid/nixos-flake) - WIP: A flake-parts module to manage NixOS and macOS machines, along with home-manager support, in a unified fashion.
+- [purifix/purifix](https://github.com/purifix/purifix) - The PureScript Package Manager in Nix
+- [srid/nixos-flake](https://github.com/srid/nixos-flake) - A flake-parts module to manage NixOS and macOS machines, along with home-manager support, in a unified fashion.
 - [tazjin/nix-1p](https://github.com/tazjin/nix-1p) - A (more or less) one page introduction to Nix, the language.
 - [kanwren/nix-parsec](https://github.com/kanwren/nix-parsec) - 
 - [juspay/cachix-push](https://github.com/juspay/cachix-push) - A flake app that can push packages and devshells to cachix
@@ -1302,6 +1303,7 @@
 
 ## PureScript 
 
+- [cdepillabout/cabal2nixWithoutIFD](https://github.com/cdepillabout/cabal2nixWithoutIFD) - 
 - [ArdanaLabs/hello-cardano-template](https://github.com/ArdanaLabs/hello-cardano-template) - 
 - [purescript-gjs/purescript-gjs](https://github.com/purescript-gjs/purescript-gjs) - GNOME JavaScript bindings for PureScript
 - [lumihq/purescript-react-basic](https://github.com/lumihq/purescript-react-basic) - An opinionated set of bindings to the React library, optimizing for the most basic use cases
@@ -1480,6 +1482,7 @@
 
 ## Rust 
 
+- [typst/typst](https://github.com/typst/typst) - A new markup-based typesetting system that is powerful and easy to learn.
 - [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) - The Determinate Nix Installer.
 - [watchexec/watchexec](https://github.com/watchexec/watchexec) - Executes commands in response to file modifications
 - [zhaofengli/attic](https://github.com/zhaofengli/attic) - Multi-tenant Nix Binary Cache
@@ -1660,6 +1663,7 @@
 - [vilm3r/sendstr-web](https://github.com/vilm3r/sendstr-web) - Sendstr is an open source end-to-end encrypted shared clipboard app built on top of Nostr.
 - [direnv/direnv-vscode](https://github.com/direnv/direnv-vscode) - unclutter your .profile
 - [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) - Documentation that simply works
+- [obsidian-tasks-group/obsidian-tasks](https://github.com/obsidian-tasks-group/obsidian-tasks) - Task management for the Obsidian knowledge base.
 - [Phu1237/vscode-vs-browser](https://github.com/Phu1237/vscode-vs-browser) - Built-in browser for Visual Studio Code
 - [matrix-org/matrix-widget-api](https://github.com/matrix-org/matrix-widget-api) - JavaScript/TypeScript API for widgets & web clients to communicate
 - [Richardsl/heatmap-calendar-obsidian](https://github.com/Richardsl/heatmap-calendar-obsidian) - An Obsidian plugin for displaying data in a calendar similar to the github activity calendar
