@@ -68,7 +68,6 @@
 
 ## Agda 
 
-- [isovector/math-for-programmers](https://github.com/isovector/math-for-programmers) - 
 - [martinescardo/HoTT-UF-Agda-Lecture-Notes](https://github.com/martinescardo/HoTT-UF-Agda-Lecture-Notes) - Lecture notes on univalent foundations of mathematics with Agda
 - [isovector/blagda](https://github.com/isovector/blagda) - agda blogging based on 1lab
 - [plt-amy/1lab](https://github.com/plt-amy/1lab) - A formalised, cross-linked reference resource for mathematics done in Homotopy Type Theory
@@ -264,6 +263,7 @@
 
 ## Emacs Lisp 
 
+- [zerolfx/copilot.el](https://github.com/zerolfx/copilot.el) - An unofficial Copilot plugin for Emacs.
 - [mclear-tools/tabspaces](https://github.com/mclear-tools/tabspaces) - 
 - [rougier/nano-emacs](https://github.com/rougier/nano-emacs) - GNU Emacs / N Λ N O - Emacs made simple
 - [abo-abo/org-download](https://github.com/abo-abo/org-download) - Drag and drop images to Emacs org-mode
@@ -293,7 +293,7 @@
 - [syl20bnr/spacemacs](https://github.com/syl20bnr/spacemacs) - A community-driven Emacs distribution - The best editor is neither Emacs nor Vim,  it's Emacs *and* Vim!
 - [julienXX/helm-lobste.rs](https://github.com/julienXX/helm-lobste.rs) - An Helm front-end for Lobste.rs
 - [marcinkoziej/org-pomodoro](https://github.com/marcinkoziej/org-pomodoro) - pomodoro technique for org-mode
-- [fniessen/emacs-leuven-theme](https://github.com/fniessen/emacs-leuven-theme) - Awesome Emacs color theme for white backgrounds --- Added in Emacs 24.4+
+- [fniessen/emacs-leuven-theme](https://github.com/fniessen/emacs-leuven-theme) - This Emacs theme reduces eye strain with a light, high-contrast color scheme, syntax highlighting, and support for multiple modes. Enhance your coding experience!  #Emacs #theme #coding
 - [jordonbiondo/osx-org-clock-menubar](https://github.com/jordonbiondo/osx-org-clock-menubar) - Simple OSX Menu Bar Visibility for org-clock.
 - [abo-abo/hydra](https://github.com/abo-abo/hydra) - make Emacs bindings that stick around
 - [sachac/.emacs.d](https://github.com/sachac/.emacs.d) - Emacs configuration
@@ -341,6 +341,7 @@
 
 ## Go 
 
+- [maaslalani/slides](https://github.com/maaslalani/slides) - Terminal based presentation tool
 - [Mic92/sops-nix](https://github.com/Mic92/sops-nix) - Atomic secret provisioning for NixOS based on sops
 - [F1bonacc1/process-compose](https://github.com/F1bonacc1/process-compose) - Process Compose is a simple and flexible scheduler and orchestrator to manage non-containerized applications.
 - [tazjin/nixery](https://github.com/tazjin/nixery) - Container registry which transparently builds images using the Nix package manager. Canonical repository is https://cs.tvl.fyi/depot/-/tree/tools/nixery
@@ -956,7 +957,7 @@
 - [codemirror/dev](https://github.com/codemirror/dev) - Development repository for the CodeMirror editor project
 - [MaggieAppleton/digital-gardeners](https://github.com/MaggieAppleton/digital-gardeners) - Resources, links, projects, and ideas for gardeners tending their digital notes on the public interwebs
 - [GoogleChromeLabs/text-editor](https://github.com/GoogleChromeLabs/text-editor) - A text editor build on the Native File System APIs
-- [LLK/scratch-blocks](https://github.com/LLK/scratch-blocks) - Scratch Blocks is a library for building creative computing interfaces.
+- [scratchfoundation/scratch-blocks](https://github.com/scratchfoundation/scratch-blocks) - Scratch Blocks is a library for building creative computing interfaces.
 - [jsonresume/resume-schema](https://github.com/jsonresume/resume-schema) - JSON-Schema is used here to define and validate our proposed resume json
 - [MikeRogers0/LivePage](https://github.com/MikeRogers0/LivePage) - LivePage for Google Chrome reloads website resources (such as CSS, HTML and JavaScript) as they change on the server.
 - [ajnsit/concur](https://github.com/ajnsit/concur) - An unusual Web UI Framework for Haskell
@@ -1075,6 +1076,7 @@
 
 ## Nix 
 
+- [nix-systems/flake-outputs](https://github.com/nix-systems/flake-outputs) - Get buildable outputs of a flake
 - [nix-systems/aarch64-darwin](https://github.com/nix-systems/aarch64-darwin) - 
 - [sajban/clojix](https://github.com/sajban/clojix) - Flake-parts nix module for Clojure
 - [juspay/nix-dev-home](https://github.com/juspay/nix-dev-home) - A `home-manager` template providing useful tools & settings for Nix-based development
@@ -1491,6 +1493,8 @@
 
 ## Rust 
 
+- [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
+- [Skallwar/suckit](https://github.com/Skallwar/suckit) - Suck the InTernet
 - [numtide/system-manager](https://github.com/numtide/system-manager) - Manage system config using nix on any distro
 - [zurawiki/gptcommit](https://github.com/zurawiki/gptcommit) - A git prepare-commit-msg hook for authoring commit messages with GPT-3.
 - [typst/typst](https://github.com/typst/typst) - A new markup-based typesetting system that is powerful and easy to learn.
@@ -1658,6 +1662,7 @@
 
 - [mathialo/simpleinvoice](https://github.com/mathialo/simpleinvoice) - LaTeX package for easily creating pretty invoices
 - [jespercockx/agda-lecture-notes](https://github.com/jespercockx/agda-lecture-notes) - Agda lecture notes for the Functional Programming course at TU Delft
+- [isovector/math-for-programmers](https://github.com/isovector/math-for-programmers) - 
 - [BartoszMilewski/Publications](https://github.com/BartoszMilewski/Publications) - Misc. publications, conference slides, etc. For more, go to http://BartoszMilewski.com
 - [BartoszMilewski/DaoFP](https://github.com/BartoszMilewski/DaoFP) - The Dao of Functional Programming
 - [andrejbauer/homotopy-type-theory-course](https://github.com/andrejbauer/homotopy-type-theory-course) - A course on homotopy theory and type theory, taught jointly with Jaka Smrekar
