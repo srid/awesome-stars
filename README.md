@@ -294,7 +294,7 @@
 - [syl20bnr/spacemacs](https://github.com/syl20bnr/spacemacs) - A community-driven Emacs distribution - The best editor is neither Emacs nor Vim,  it's Emacs *and* Vim!
 - [julienXX/helm-lobste.rs](https://github.com/julienXX/helm-lobste.rs) - An Helm front-end for Lobste.rs
 - [marcinkoziej/org-pomodoro](https://github.com/marcinkoziej/org-pomodoro) - pomodoro technique for org-mode
-- [fniessen/emacs-leuven-theme](https://github.com/fniessen/emacs-leuven-theme) - This Emacs theme reduces eye strain with a light, high-contrast color scheme, syntax highlighting, and support for multiple modes. Enhance your coding experience!  #Emacs #theme #coding
+- [fniessen/emacs-leuven-theme](https://github.com/fniessen/emacs-leuven-theme) - This Emacs theme reduces eye strain with a light, high-contrast color scheme, syntax highlighting, and support for multiple modes. Enhance your coding experience!  #emacs #theme #coding #orgmode
 - [jordonbiondo/osx-org-clock-menubar](https://github.com/jordonbiondo/osx-org-clock-menubar) - Simple OSX Menu Bar Visibility for org-clock.
 - [abo-abo/hydra](https://github.com/abo-abo/hydra) - make Emacs bindings that stick around
 - [sachac/.emacs.d](https://github.com/sachac/.emacs.d) - Emacs configuration
@@ -485,6 +485,7 @@
 
 ## HTML 
 
+- [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) - Documentation that simply works
 - [tallesl/Rich-Hickey-fanclub](https://github.com/tallesl/Rich-Hickey-fanclub) - "every time I watch one of his talks I feel like someone has gone in and organized my brain"
 - [abuseofnotation/category-theory-illustrated](https://github.com/abuseofnotation/category-theory-illustrated) - A book about category theory
 - [iohkedu/haskell-2020](https://github.com/iohkedu/haskell-2020) - Videos and exercises for the Haskell and Cryptocurrencies class.
@@ -1077,6 +1078,11 @@
 
 ## Nix 
 
+- [Gabriella439/nixos-in-production](https://github.com/Gabriella439/nixos-in-production) - Source files for the book "NixOS in Production"
+- [tfc/nixos-anywhere-example](https://github.com/tfc/nixos-anywhere-example) - 
+- [srid/devour-flake](https://github.com/srid/devour-flake) - Devour all outputs in a Nix flake.
+- [nix-systems/current-system](https://github.com/nix-systems/current-system) - Like `builtins.currentSystem` but for the CLI
+- [nix-community/ethereum.nix](https://github.com/nix-community/ethereum.nix) - Nix packages and NixOS modules for the Ethereum ecosystem. [maintainers=@aldoborrero,@brianmcgee,@selfuryon]
 - [nix-systems/flake-outputs](https://github.com/nix-systems/flake-outputs) - Get buildable outputs of a flake
 - [nix-systems/aarch64-darwin](https://github.com/nix-systems/aarch64-darwin) - 
 - [sajban/clojix](https://github.com/sajban/clojix) - Flake-parts nix module for Clojure
@@ -1113,7 +1119,7 @@
 - [DeterminateSystems/update-flake-lock](https://github.com/DeterminateSystems/update-flake-lock) - Automatically refresh your Nix Flakes.
 - [srid/haskell-flake](https://github.com/srid/haskell-flake) - A `flake-parts` Nix module for Haskell development
 - [numtide/flake-utils](https://github.com/numtide/flake-utils) - Pure Nix flake utility functions
-- [msteen/nixos-vscode-server](https://github.com/msteen/nixos-vscode-server) - Visual Studio Code Server support in NixOS
+- [nix-community/nixos-vscode-server](https://github.com/nix-community/nixos-vscode-server) - Visual Studio Code Server support in NixOS
 - [numtide/devshell](https://github.com/numtide/devshell) - Per project developer environments
 - [jmgilman/dev-container](https://github.com/jmgilman/dev-container) - A devcontainer built on Debian and powered by Nix.
 - [hercules-ci/flake-parts](https://github.com/hercules-ci/flake-parts) - ❄️ Simplify Nix Flakes with the module system
@@ -1495,6 +1501,8 @@
 
 ## Rust 
 
+- [rustafarian-dev/pavlok-cli-rs](https://github.com/rustafarian-dev/pavlok-cli-rs) - 
+- [nix-community/nix-melt](https://github.com/nix-community/nix-melt) - A ranger-like flake.lock viewer [maintainer=@figsoda]
 - [nerdypepper/statix](https://github.com/nerdypepper/statix) - lints and suggestions for the nix programming language
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
 - [Skallwar/suckit](https://github.com/Skallwar/suckit) - Suck the InTernet
@@ -1546,7 +1554,7 @@
 - [terminusdb/terminusdb-store](https://github.com/terminusdb/terminusdb-store) - a tokio-enabled data store for triple data
 - [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources.
 - [lunatic-solutions/lunatic](https://github.com/lunatic-solutions/lunatic) - Lunatic is an Erlang-inspired runtime for WebAssembly
-- [soywod/himalaya](https://github.com/soywod/himalaya) - Command-line interface for email management
+- [soywod/himalaya](https://github.com/soywod/himalaya) - CLI to manage your emails.
 - [thedodd/trunk](https://github.com/thedodd/trunk) - Build, bundle & ship your Rust WASM application to the web.
 - [yewstack/yew](https://github.com/yewstack/yew) - Rust / Wasm framework for building client web apps
 - [jameslittle230/stork](https://github.com/jameslittle230/stork) - 🔎 Impossibly fast web search, made for static sites.
@@ -1583,6 +1591,7 @@
 
 ## Shell 
 
+- [numtide/nixos-anywhere](https://github.com/numtide/nixos-anywhere) - install nixos everywhere via ssh
 - [Kranzes/nix-darwin-template](https://github.com/Kranzes/nix-darwin-template) - A bare-bones template for setting up Nix on macOS for using nix-darwin with flakes
 - [3noch/nix-bundle-exe](https://github.com/3noch/nix-bundle-exe) - Simple Nix derivations to bundle executables
 - [Bugswriter/notflix](https://github.com/Bugswriter/notflix) - Notflix is a shell script to search and stream torrent.
@@ -1681,7 +1690,6 @@
 - [motion-canvas/motion-canvas](https://github.com/motion-canvas/motion-canvas) - Visualize Complex Ideas Programmatically
 - [vilm3r/sendstr-web](https://github.com/vilm3r/sendstr-web) - Sendstr is an open source end-to-end encrypted shared clipboard app built on top of Nostr.
 - [direnv/direnv-vscode](https://github.com/direnv/direnv-vscode) - unclutter your .profile
-- [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) - Documentation that simply works
 - [obsidian-tasks-group/obsidian-tasks](https://github.com/obsidian-tasks-group/obsidian-tasks) - Task management for the Obsidian knowledge base.
 - [Phu1237/vscode-vs-browser](https://github.com/Phu1237/vscode-vs-browser) - Built-in browser for Visual Studio Code
 - [matrix-org/matrix-widget-api](https://github.com/matrix-org/matrix-widget-api) - JavaScript/TypeScript API for widgets & web clients to communicate
