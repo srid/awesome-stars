@@ -68,7 +68,7 @@
 
 ## Agda 
 
-- [isovector/math-for-programmers](https://github.com/isovector/math-for-programmers) - 
+- [isovector/certainty-by-construction](https://github.com/isovector/certainty-by-construction) - 
 - [martinescardo/HoTT-UF-Agda-Lecture-Notes](https://github.com/martinescardo/HoTT-UF-Agda-Lecture-Notes) - Lecture notes on univalent foundations of mathematics with Agda
 - [isovector/blagda](https://github.com/isovector/blagda) - agda blogging based on 1lab
 - [plt-amy/1lab](https://github.com/plt-amy/1lab) - A formalised, cross-linked reference resource for mathematics done in Homotopy Type Theory
@@ -517,7 +517,7 @@
 
 - [juspay/todo-app](https://github.com/juspay/todo-app) - WIP: A demo Haskell app showing the use of `flake-parts` to enable various dev workflows
 - [gil0mendes/emanote-sitemap-generator](https://github.com/gil0mendes/emanote-sitemap-generator) - Sitemap generator for Emanote
-- [nammayatri/shared-kernel](https://github.com/nammayatri/shared-kernel) - 
+- [nammayatri/shared-kernel](https://github.com/nammayatri/shared-kernel) - See https://github.com/nammayatri/nammayatri
 - [nammayatri/beckn-gateway](https://github.com/nammayatri/beckn-gateway) - 
 - [nammayatri/nammayatri](https://github.com/nammayatri/nammayatri) - A Direct-to-Driver open mobility platform powering the next-generation of mobility applications in India.
 - [srid/gro](https://github.com/srid/gro) - WIP: Exploring single file org-mode visualization
@@ -578,7 +578,7 @@
 - [hedgehogqa/haskell-hedgehog](https://github.com/hedgehogqa/haskell-hedgehog) - Release with confidence, state-of-the-art property testing for Haskell.
 - [srid/emanote](https://github.com/srid/emanote) - Emanate a structured view of your plain-text notes
 - [jonascarpay/apecs](https://github.com/jonascarpay/apecs) - a fast, extensible, type driven Haskell ECS framework for games
-- [LeapYear/aeson-schemas](https://github.com/LeapYear/aeson-schemas) - Easily consume JSON data on-demand with type-safety
+- [brandonchinn178/aeson-schemas](https://github.com/brandonchinn178/aeson-schemas) - Easily consume JSON data on-demand with type-safety
 - [serokell/blog-posts](https://github.com/serokell/blog-posts) - The place for submitting new articles to the Serokell blog.
 - [Plutonomicon/pluto](https://github.com/Plutonomicon/pluto) - An untyped Plutus Core assembler
 - [input-output-hk/cardano-wallet](https://github.com/input-output-hk/cardano-wallet) - HTTP server & command-line for managing UTxOs and HD wallets in Cardano.
@@ -731,7 +731,7 @@
 - [mstksg/typelits-witnesses](https://github.com/mstksg/typelits-witnesses) - Existential witnesses, singletons, and classes for operations on GHC TypeLits
 - [epicallan/hreq](https://github.com/epicallan/hreq) - A type dependent highlevel HTTP client library inspired by servant-client.
 - [graninas/Functional-Design-and-Architecture](https://github.com/graninas/Functional-Design-and-Architecture) - Code and materials for my book "Functional Design and Architecture"
-- [jamesdbrock/replace-megaparsec](https://github.com/jamesdbrock/replace-megaparsec) - Stream editing with Haskell Megaparsec parsers
+- [haskell-github-trust/replace-megaparsec](https://github.com/haskell-github-trust/replace-megaparsec) - Stream editing with Haskell Megaparsec parsers
 - [monadfix/ormolu-live](https://github.com/monadfix/ormolu-live) - 
 - [srid/reflex-dom-pandoc](https://github.com/srid/reflex-dom-pandoc) - Render Pandoc documents in reflex-dom
 - [kowainik/cake-slayer](https://github.com/kowainik/cake-slayer) - 🍰🔪 Architecture of Haskell backend applications
@@ -948,7 +948,6 @@
 - [tw-in-js/twind](https://github.com/tw-in-js/twind) - The smallest, fastest, most feature complete Tailwind-in-JS solution in existence.
 - [sveltejs/kit](https://github.com/sveltejs/kit) - web development, streamlined
 - [BamButz/msbuild-tailwindcss](https://github.com/BamButz/msbuild-tailwindcss) - Adds a build action to process stylesheets through postcss/tailwind
-- [satellite-earth/totality](https://github.com/satellite-earth/totality) - 
 - [osnr/TabFS](https://github.com/osnr/TabFS) - 🗄 Mount your browser tabs as a filesystem.
 - [matrix-org/cerulean](https://github.com/matrix-org/cerulean) - An experimental Matrix client for playing with freestyle public threaded conversations
 - [kritikaseen/defund-wikipedia](https://github.com/kritikaseen/defund-wikipedia) - Chrome Extension to delete notices on Wikipedia for donations for their biasedness and lack of desire to make amends.
@@ -1078,6 +1077,7 @@
 
 ## Nix 
 
+- [sbh69840/nix-workshop](https://github.com/sbh69840/nix-workshop) - Workshop materials
 - [Gabriella439/nixos-in-production](https://github.com/Gabriella439/nixos-in-production) - Source files for the book "NixOS in Production"
 - [tfc/nixos-anywhere-example](https://github.com/tfc/nixos-anywhere-example) - 
 - [srid/devour-flake](https://github.com/srid/devour-flake) - Devour all outputs in a Nix flake.
