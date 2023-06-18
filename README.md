@@ -69,7 +69,6 @@
 
 ## Agda 
 
-- [isovector/certainty-by-construction](https://github.com/isovector/certainty-by-construction) - 
 - [martinescardo/HoTT-UF-Agda-Lecture-Notes](https://github.com/martinescardo/HoTT-UF-Agda-Lecture-Notes) - Lecture notes on univalent foundations of mathematics with Agda
 - [isovector/blagda](https://github.com/isovector/blagda) - agda blogging based on 1lab
 - [plt-amy/1lab](https://github.com/plt-amy/1lab) - A formalised, cross-linked reference resource for mathematics done in Homotopy Type Theory
@@ -136,13 +135,14 @@
 
 ## C++ 
 
+- [nix-community/nixd](https://github.com/nix-community/nixd) - Nix language server, based on nix libraries [maintainer=@inclyc]
 - [aristocratos/btop](https://github.com/aristocratos/btop) - A monitor of resources
 - [microsoft/wslg](https://github.com/microsoft/wslg) - Enabling the Windows Subsystem for Linux to include support for Wayland and X server related scenarios
 - [xbmc/xbmc](https://github.com/xbmc/xbmc) - Kodi is an award-winning free and open source home theater/media center software and entertainment hub for digital media. With its beautiful interface and powerful skinning engine, it's available for 
 - [aardappel/treesheets](https://github.com/aardappel/treesheets) - TreeSheets : Free Form Data Organizer (see strlen.com/treesheets)
 - [goldendict/goldendict](https://github.com/goldendict/goldendict) - A feature-rich dictionary lookup program, supporting multiple dictionary formats (StarDict/Babylon/Lingvo/Dictd) and online dictionaries, featuring perfect article rendering with the complete markup, 
 - [PerBothner/DomTerm](https://github.com/PerBothner/DomTerm) - DOM/JavaScript-based terminal-emulator/console
-- [microsoft/winget-cli](https://github.com/microsoft/winget-cli) - Windows Package Manager CLI (aka winget)
+- [microsoft/winget-cli](https://github.com/microsoft/winget-cli) - WinGet is the Windows Package Manager. This project includes a CLI (Command Line Interface), PowerShell modules, and a COM (Component Object Model) API (Application Programming Interface).
 - [albertlauncher/albert](https://github.com/albertlauncher/albert) - A fast and flexible keyboard launcher
 - [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
 - [NixOS/nix](https://github.com/NixOS/nix) - Nix, the purely functional package manager
@@ -522,6 +522,7 @@
 
 ## Haskell 
 
+- [ners/dosh](https://github.com/ners/dosh) - The power of Haskell in your terminal!
 - [well-typed/unfolder](https://github.com/well-typed/unfolder) - Repository with code snippets that accompany episodes of The Haskell Unfolder
 - [juspay/todo-app](https://github.com/juspay/todo-app) - WIP: A demo Haskell app showing the use of `flake-parts` to enable various dev workflows
 - [gil0mendes/emanote-sitemap-generator](https://github.com/gil0mendes/emanote-sitemap-generator) - Sitemap generator for Emanote
@@ -1036,7 +1037,7 @@
 
 ## Jupyter Notebook 
 
-- [input-output-hk/haskell-course](https://github.com/input-output-hk/haskell-course) - This course is designed to teach students Haskell from zero to everything needed to work with Marlowe and Plutus. The course itself doesn't contain content specific to Marlowe or Plutus. So, if you wa
+- [input-output-hk/haskell-course](https://github.com/input-output-hk/haskell-course) - This course is designed to teach non-engineers (e.g., self-taught/bootcamp coders) Haskell from zero to productive in an interactive, easy-to-follow way.
 - [IHaskell/IHaskell](https://github.com/IHaskell/IHaskell) - A Haskell kernel for the Jupyter project.
 - [vaibhavsagar/notebooks](https://github.com/vaibhavsagar/notebooks) - Jupyter notebooks
 
@@ -1527,7 +1528,7 @@
 - [oxalica/nil](https://github.com/oxalica/nil) - NIx Language server, an incremental analysis assistent for writing in Nix.
 - [nix-community/comma](https://github.com/nix-community/comma) - Comma runs software without installing it. [maintainers=@Artturin,@burke,@DavHau]
 - [numtide/treefmt](https://github.com/numtide/treefmt) - one CLI to format your repo
-- [nix-community/nix-index](https://github.com/nix-community/nix-index) - Quickly locate nix packages with specific files
+- [nix-community/nix-index](https://github.com/nix-community/nix-index) - Quickly locate nix packages with specific files [maintainers=@bennofs @figsoda @raitobezarius]
 - [Mange/tydra](https://github.com/Mange/tydra) - Shortcut menu-based task runner, inspired by Emacs Hydra
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 - [jD91mZM2/xidlehook](https://github.com/jD91mZM2/xidlehook) - GitLab: https://gitlab.com/jD91mZM2/xidlehook
@@ -1685,6 +1686,7 @@
 
 - [mathialo/simpleinvoice](https://github.com/mathialo/simpleinvoice) - LaTeX package for easily creating pretty invoices
 - [jespercockx/agda-lecture-notes](https://github.com/jespercockx/agda-lecture-notes) - Agda lecture notes for the Functional Programming course at TU Delft
+- [isovector/certainty-by-construction](https://github.com/isovector/certainty-by-construction) - 
 - [BartoszMilewski/Publications](https://github.com/BartoszMilewski/Publications) - Misc. publications, conference slides, etc. For more, go to http://BartoszMilewski.com
 - [BartoszMilewski/DaoFP](https://github.com/BartoszMilewski/DaoFP) - The Dao of Functional Programming
 - [andrejbauer/homotopy-type-theory-course](https://github.com/andrejbauer/homotopy-type-theory-course) - A course on homotopy theory and type theory, taught jointly with Jaka Smrekar
