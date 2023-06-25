@@ -32,6 +32,7 @@
 - [Jupyter Notebook](#jupyter-notebook)
 - [Kotlin](#kotlin)
 - [Lua](#lua)
+- [MDX](#mdx)
 - [Makefile](#makefile)
 - [Markdown](#markdown)
 - [Nim](#nim)
@@ -156,7 +157,7 @@
 - [wolverian/agda-template](https://github.com/wolverian/agda-template) - A template for an Agda project with automatic GitHub Pages support
 - [chrisgrieser/shimmering-focus](https://github.com/chrisgrieser/shimmering-focus) - Minimalistic Obsidian Theme for keyboard-centric users.
 - [rougier/emacs-gtd](https://github.com/rougier/emacs-gtd) - Get Things Done with Emacs
-- [whyt-byte/Blue-Topaz_Obsidian-css](https://github.com/whyt-byte/Blue-Topaz_Obsidian-css) - A blue theme for Obsidian.
+- [PKM-er/Blue-Topaz_Obsidian-css](https://github.com/PKM-er/Blue-Topaz_Obsidian-css) - A blue theme for Obsidian.
 - [sdras/productive-twitter](https://github.com/sdras/productive-twitter) - Chrome extension: Minimal and friendly theme for productive twitter use
 - [indieweb/indiewebify-me](https://github.com/indieweb/indiewebify-me) - Tools to help you get the best out of your indieweb site
 - [RickStrahl/LiveReloadServer](https://github.com/RickStrahl/LiveReloadServer) - A self-contained, local, cross-platform, static file Web Server with automatic Live Reloading, Markdown rendering and loose Razor Pages support.
@@ -590,7 +591,7 @@
 - [brandonchinn178/aeson-schemas](https://github.com/brandonchinn178/aeson-schemas) - Easily consume JSON data on-demand with type-safety
 - [serokell/blog-posts](https://github.com/serokell/blog-posts) - The place for submitting new articles to the Serokell blog.
 - [Plutonomicon/pluto](https://github.com/Plutonomicon/pluto) - An untyped Plutus Core assembler
-- [input-output-hk/cardano-wallet](https://github.com/input-output-hk/cardano-wallet) - HTTP server & command-line for managing UTxOs and HD wallets in Cardano.
+- [cardano-foundation/cardano-wallet](https://github.com/cardano-foundation/cardano-wallet) - HTTP server & command-line for managing UTxOs and HD wallets in Cardano.
 - [srid/unionmount](https://github.com/srid/unionmount) - Union mount in Haskell, with fsnotify
 - [input-output-hk/plutus](https://github.com/input-output-hk/plutus) - The Plutus language implementation and tools
 - [windorg/app-old](https://github.com/windorg/app-old) - Social note-taking
@@ -941,7 +942,6 @@
 - [Leleat/Tiling-Assistant](https://github.com/Leleat/Tiling-Assistant) - An extension which adds a Windows-like snap assist to GNOME. It also expands GNOME's 2 column tiling layout.
 - [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 - [christianvoigt/argdown](https://github.com/christianvoigt/argdown) - a simple syntax for complex argumentation
-- [input-output-hk/cardano-documentation](https://github.com/input-output-hk/cardano-documentation) - 
 - [dessant/web-archives](https://github.com/dessant/web-archives) - Browser extension for viewing archived and cached versions of web pages, available for Chrome, Edge and Safari
 - [brave/brave-browser](https://github.com/brave/brave-browser) - Next generation Brave browser for Android, Linux, macOS, Windows.
 - [headllines/github-monthly](https://github.com/headllines/github-monthly) - GitHub monthly top 10 repos
@@ -1060,6 +1060,11 @@
 - [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) - A community-driven modular vim/neovim distribution - The ultimate vimrc
 - [nathancahill/Anycomplete](https://github.com/nathancahill/Anycomplete) - The magic of Google Autocomplete while you're typing. Anywhere.
 
+## MDX 
+
+- [input-output-hk/cardano-documentation](https://github.com/input-output-hk/cardano-documentation) - 
+- [yewstack/yew](https://github.com/yewstack/yew) - Rust / Wasm framework for building client web apps
+
 ## Makefile 
 
 - [plaintextaccounting/plaintextaccounting](https://github.com/plaintextaccounting/plaintextaccounting) - The plaintextaccounting.org website, a portal to Ledger, hledger, beancount and co. Also the PTA wiki.
@@ -1086,6 +1091,7 @@
 
 ## Nix 
 
+- [juspay/services-flake](https://github.com/juspay/services-flake) - WIP: NixOS-like services for Nix flakes
 - [mrkkrp/emacs-package-flake](https://github.com/mrkkrp/emacs-package-flake) - A Nix library that facilitates definition of flakes for Emacs packages
 - [nickel-lang/nickel-nix](https://github.com/nickel-lang/nickel-nix) - An experimental Nix toolkit to use nickel as a language for writing nix packages, shells and more.
 - [jetpack-io/nixtest](https://github.com/jetpack-io/nixtest) - A tiny unit testing framework written in pure Nix
@@ -1568,7 +1574,6 @@
 - [lunatic-solutions/lunatic](https://github.com/lunatic-solutions/lunatic) - Lunatic is an Erlang-inspired runtime for WebAssembly
 - [soywod/himalaya](https://github.com/soywod/himalaya) - CLI to manage your emails.
 - [thedodd/trunk](https://github.com/thedodd/trunk) - Build, bundle & ship your Rust WASM application to the web.
-- [yewstack/yew](https://github.com/yewstack/yew) - Rust / Wasm framework for building client web apps
 - [jameslittle230/stork](https://github.com/jameslittle230/stork) - 🔎 Impossibly fast web search, made for static sites.
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell
