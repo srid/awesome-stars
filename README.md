@@ -37,7 +37,7 @@
 - [Markdown](#markdown)
 - [Nim](#nim)
 - [Nix](#nix)
-- [Nu](#nu)
+- [Nushell](#nushell)
 - [OCaml](#ocaml)
 - [Objective-C](#objective-c)
 - [Objective-C++](#objective-c++)
@@ -922,6 +922,7 @@
 
 ## JavaScript 
 
+- [lovvtide/satellite-web](https://github.com/lovvtide/satellite-web) - Satellite nostr client
 - [OhMyGuus/I-Still-Dont-Care-About-Cookies](https://github.com/OhMyGuus/I-Still-Dont-Care-About-Cookies) - Debloated fork of the extension "I don't care about cookies"
 - [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
 - [resume/resume.github.com](https://github.com/resume/resume.github.com) - Resumes generated using the GitHub informations
@@ -1062,6 +1063,7 @@
 
 ## MDX 
 
+- [DeterminateSystems/zero-to-nix](https://github.com/DeterminateSystems/zero-to-nix) - An unofficial, opinionated, gentle introduction to Nix (@NixOS) from Determinate Systems
 - [input-output-hk/cardano-documentation](https://github.com/input-output-hk/cardano-documentation) - 
 - [yewstack/yew](https://github.com/yewstack/yew) - Rust / Wasm framework for building client web apps
 
@@ -1091,6 +1093,8 @@
 
 ## Nix 
 
+- [tweag/opam-nix](https://github.com/tweag/opam-nix) - Turn opam-based OCaml projects into Nix derivations
+- [brendanzab/ocaml-flake-example](https://github.com/brendanzab/ocaml-flake-example) - An overly elaborate example of building a ‘Hello World’ package with Nix flakes, OCaml, and Dune
 - [juspay/services-flake](https://github.com/juspay/services-flake) - WIP: NixOS-like services for Nix flakes
 - [mrkkrp/emacs-package-flake](https://github.com/mrkkrp/emacs-package-flake) - A Nix library that facilitates definition of flakes for Emacs packages
 - [nickel-lang/nickel-nix](https://github.com/nickel-lang/nickel-nix) - An experimental Nix toolkit to use nickel as a language for writing nix packages, shells and more.
@@ -1197,7 +1201,7 @@
 - [reflex-frp/reflex-platform](https://github.com/reflex-frp/reflex-platform) - A curated package set and set of tools that let you build Haskell packages so they can run on a variety of platforms. reflex-platform is built on top of the nix package manager.
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection & NixOS
 
-## Nu 
+## Nushell 
 
 - [DeterminateSystems/nuenv](https://github.com/DeterminateSystems/nuenv) - A Nushell environment for Nix
 
@@ -1518,6 +1522,11 @@
 
 ## Rust 
 
+- [emilk/egui](https://github.com/emilk/egui) - egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native
+- [sebcrozet/kiss3d](https://github.com/sebcrozet/kiss3d) - Keep it simple, stupid 3d graphics engine for Rust.
+- [RazrFalcon/resvg](https://github.com/RazrFalcon/resvg) - An SVG rendering library.
+- [DeterminateSystems/magic-nix-cache](https://github.com/DeterminateSystems/magic-nix-cache) - Save 30-50%+ of CI time without any effort or cost. Use Magic Nix Cache, a totally free and zero-configuration binary cache for Nix on GitHub Actions.
+- [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - React-like GUI library for desktop, web, mobile, TUI, and more.
 - [flox/runix](https://github.com/flox/runix) - A type-safe Rust interface to the Nix CLI
 - [rustafarian-dev/pavlok-cli-rs](https://github.com/rustafarian-dev/pavlok-cli-rs) - 
 - [nix-community/nix-melt](https://github.com/nix-community/nix-melt) - A ranger-like flake.lock viewer [maintainer=@figsoda]
@@ -1786,7 +1795,6 @@
 
 ## Vue 
 
-- [DeterminateSystems/zero-to-nix](https://github.com/DeterminateSystems/zero-to-nix) - An unofficial, opinionated, gentle introduction to Nix (@nixos) from Determinate Systems
 - [tipsy/profile-summary-for-github](https://github.com/tipsy/profile-summary-for-github) - Tool for visualizing GitHub profiles
 
 ## hoon 
