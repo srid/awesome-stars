@@ -94,7 +94,7 @@
 - [davatorium/rofi](https://github.com/davatorium/rofi) - Rofi: A window switcher, application launcher and dmenu replacement
 - [mpv-player/mpv](https://github.com/mpv-player/mpv) - 🎥 Command line video player
 - [imbushuo/mac-precision-touchpad](https://github.com/imbushuo/mac-precision-touchpad) - Windows Precision Touchpad Driver Implementation for Apple MacBook / Magic Trackpad
-- [netdata/netdata](https://github.com/netdata/netdata) - Real-time performance monitoring, done right! https://www.netdata.cloud
+- [netdata/netdata](https://github.com/netdata/netdata) - Monitor your servers, containers, and applications, in high-resolution and in real-time! https://www.netdata.cloud
 - [NixOS/mobile-nixos](https://github.com/NixOS/mobile-nixos) - 
 - [jarun/nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager
 - [mwyborski/Linux-Magic-Trackpad-2-Driver](https://github.com/mwyborski/Linux-Magic-Trackpad-2-Driver) - 
@@ -418,7 +418,7 @@
 - [go-tomb/tomb](https://github.com/go-tomb/tomb) - The tomb package helps with clean goroutine termination in the Go language.
 - [docker/libchan](https://github.com/docker/libchan) - Like Go channels over the network
 - [docker-archive/classicswarm](https://github.com/docker-archive/classicswarm) - Swarm Classic: a container clustering system. Not to be confused with Docker Swarm which is at https://github.com/docker/swarmkit
-- [gorilla/websocket](https://github.com/gorilla/websocket) - A fast, well-tested and widely used WebSocket implementation for Go.
+- [gorilla/websocket](https://github.com/gorilla/websocket) - Package gorilla/websocket is a fast, well-tested and widely used WebSocket implementation for Go.
 - [kelseyhightower/confd](https://github.com/kelseyhightower/confd) - Manage local application configuration files using templates and data from etcd or consul
 - [hpcloud/logyard-apps](https://github.com/hpcloud/logyard-apps) - Applications and components using logyard API and streams
 - [Clever/leakybucket](https://github.com/Clever/leakybucket) - Leaky bucket implementation in Go with support for different backends (redis, in-memory)
@@ -1059,7 +1059,6 @@
 - [oberblastmeister/neuron.nvim](https://github.com/oberblastmeister/neuron.nvim) - Make neovim the best note taking application
 - [pyrho/nerveux.nvim](https://github.com/pyrho/nerveux.nvim) - A neovim plugin written in lua to interact with the neuron Zettelkasten software.
 - [omarish/pandoc-md-to-slack](https://github.com/omarish/pandoc-md-to-slack) - Pandoc extension to convert markdown to slack formatting.
-- [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) - A community-driven modular vim/neovim distribution - The ultimate vimrc
 - [nathancahill/Anycomplete](https://github.com/nathancahill/Anycomplete) - The magic of Google Autocomplete while you're typing. Anywhere.
 
 ## MDX 
@@ -1525,6 +1524,8 @@
 
 ## Rust 
 
+- [srid/nixci](https://github.com/srid/nixci) - Define and build CI for Nix projects anywhere
+- [console-rs/indicatif](https://github.com/console-rs/indicatif) - A command line progress reporting library for Rust
 - [asciinema/agg](https://github.com/asciinema/agg) - asciinema gif generator
 - [jpopesculian/twitter-v2-rs](https://github.com/jpopesculian/twitter-v2-rs) - Rust bindings for Twitter API v2
 - [raphamorim/rio](https://github.com/raphamorim/rio) - A hardware-accelerated GPU terminal emulator powered by WebGPU, focusing to run in desktops and browsers.
@@ -1797,6 +1798,7 @@
 - [alok/notational-fzf-vim](https://github.com/alok/notational-fzf-vim) - Notational velocity for vim.
 - [michal-h21/vim-zettel](https://github.com/michal-h21/vim-zettel) - VimWiki addon for managing notes according to Zettelkasten method
 - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
+- [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) - A community-driven modular vim/neovim distribution - The ultimate vimrc
 - [junegunn/seoul256.vim](https://github.com/junegunn/seoul256.vim) - :deciduous_tree: Low-contrast Vim color scheme based on Seoul Colors
 
 ## Vue 
