@@ -1142,7 +1142,7 @@
 - [viperML/home-manager-wsl](https://github.com/viperML/home-manager-wsl) - WSL distribution, including Nix + Home-manager + FHS Distro
 - [DeterminateSystems/update-flake-lock](https://github.com/DeterminateSystems/update-flake-lock) - Automatically refresh your Nix Flakes.
 - [srid/haskell-flake](https://github.com/srid/haskell-flake) - A `flake-parts` Nix module for Haskell development
-- [numtide/flake-utils](https://github.com/numtide/flake-utils) - Pure Nix flake utility functions
+- [numtide/flake-utils](https://github.com/numtide/flake-utils) - Pure Nix flake utility functions [maintainer=@zimbatm]
 - [nix-community/nixos-vscode-server](https://github.com/nix-community/nixos-vscode-server) - Visual Studio Code Server support in NixOS
 - [numtide/devshell](https://github.com/numtide/devshell) - Per project developer environments
 - [jmgilman/dev-container](https://github.com/jmgilman/dev-container) - A devcontainer built on Debian and powered by Nix.
@@ -1526,6 +1526,9 @@
 
 ## Rust 
 
+- [dtolnay/typetag](https://github.com/dtolnay/typetag) - Serde serializable and deserializable trait objects
+- [Synphonyte/leptos-struct-table](https://github.com/Synphonyte/leptos-struct-table) - Easily create Leptos table components from structs
+- [ankarhem/blog](https://github.com/ankarhem/blog) - 
 - [DioxusLabs/include_mdbook](https://github.com/DioxusLabs/include_mdbook) - Include mdbooks at compile time in your Rust project
 - [DioxusLabs/docsite](https://github.com/DioxusLabs/docsite) - Dioxuslabs.com documentation site
 - [juspay/nix-browser](https://github.com/juspay/nix-browser) - 
@@ -1536,7 +1539,7 @@
 - [jquesada2016/leptos-tui](https://github.com/jquesada2016/leptos-tui) - Declarative and reactive terminal UI library for Rust
 - [evcxr/evcxr](https://github.com/evcxr/evcxr) - 
 - [srid/leptos-fullstack](https://github.com/srid/leptos-fullstack) - A Nix template for full-stack web apps in Rust using Leptos
-- [khuedoan/blog](https://github.com/khuedoan/blog) - My personal website
+- [khuedoan/blog](https://github.com/khuedoan/blog) - My personal website (written in Rust, blazingly fast, deploy on Kubernetes, &lt;insert a bunch of random buzzwords here&gt;, just lack content)
 - [petgraph/petgraph](https://github.com/petgraph/petgraph) - Graph data structure library for Rust.
 - [leptos-rs/leptos](https://github.com/leptos-rs/leptos) - Build fast web applications with Rust.
 - [framesurge/perseus](https://github.com/framesurge/perseus) - A state-driven web development framework for Rust with full support for server-side rendering and static generation.
@@ -1642,6 +1645,7 @@
 
 ## Shell 
 
+- [numtide/prj-spec](https://github.com/numtide/prj-spec) - Project Base Directory Specification
 - [numtide/nixos-anywhere](https://github.com/numtide/nixos-anywhere) - install nixos everywhere via ssh
 - [Kranzes/nix-darwin-template](https://github.com/Kranzes/nix-darwin-template) - A bare-bones template for setting up Nix on macOS for using nix-darwin with flakes
 - [3noch/nix-bundle-exe](https://github.com/3noch/nix-bundle-exe) - Simple Nix derivations to bundle executables
