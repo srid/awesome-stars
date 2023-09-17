@@ -366,7 +366,7 @@
 - [barnybug/go-cast](https://github.com/barnybug/go-cast) - A command line tool to control Google Chromecast devices.
 - [aca/neuron-language-server](https://github.com/aca/neuron-language-server) - Language server implementation for neuron
 - [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data
-- [antonmedv/fx](https://github.com/antonmedv/fx) - Terminal JSON viewer
+- [antonmedv/fx](https://github.com/antonmedv/fx) - Terminal JSON viewer & processor
 - [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files
 - [rfjakob/gocryptfs](https://github.com/rfjakob/gocryptfs) - Encrypted overlay filesystem written in Go
 - [ksimka/go-is-not-good](https://github.com/ksimka/go-is-not-good) - A curated list of articles complaining that go (golang) isn't good enough
@@ -1179,7 +1179,7 @@
 - [numtide/nix-filter](https://github.com/numtide/nix-filter) - a small self-container source filtering lib
 - [input-output-hk/haskell.nix](https://github.com/input-output-hk/haskell.nix) - Alternative Haskell Infrastructure for Nixpkgs
 - [purs-nix/purs-nix](https://github.com/purs-nix/purs-nix) - Manage your PureScript projects with Nix!
-- [danielfullmer/robotnix](https://github.com/danielfullmer/robotnix) - Build Android (AOSP) using Nix
+- [nix-community/robotnix](https://github.com/nix-community/robotnix) - Build Android (AOSP) using Nix [maintainer=@danielfullmer]
 - [nix-community/neovim-nightly-overlay](https://github.com/nix-community/neovim-nightly-overlay) - [maintainer=@Kranzes]
 - [serokell/nix-templates](https://github.com/serokell/nix-templates) - Nix Flake templates for various languages
 - [tweag/jupyenv](https://github.com/tweag/jupyenv) - Declarative and reproducible Jupyter environments - powered by Nix
@@ -1535,6 +1535,7 @@
 
 ## Rust 
 
+- [decomoraes/rust_struct_iterable](https://github.com/decomoraes/rust_struct_iterable) - 
 - [Pitasi/leptos-mdx](https://github.com/Pitasi/leptos-mdx) - Supercharge your markdown including Leptos components.
 - [JaniM/emergence](https://github.com/JaniM/emergence) - 
 - [dallasrust/website-dioxus](https://github.com/dallasrust/website-dioxus) - Dallas Rust User Meetup website using Dioxus
@@ -1548,7 +1549,7 @@
 - [ankarhem/blog](https://github.com/ankarhem/blog) - 
 - [DioxusLabs/include_mdbook](https://github.com/DioxusLabs/include_mdbook) - Include mdbooks at compile time in your Rust project
 - [DioxusLabs/docsite](https://github.com/DioxusLabs/docsite) - Dioxuslabs.com documentation site
-- [juspay/nix-browser](https://github.com/juspay/nix-browser) - 🚧
+- [juspay/nix-browser](https://github.com/juspay/nix-browser) - 🚧 Delightful interface to Nix flakes
 - [stevepryde/thirtyfour](https://github.com/stevepryde/thirtyfour) - Selenium WebDriver client for Rust, for automated testing of websites
 - [rambip/leptos-markdown](https://github.com/rambip/leptos-markdown) - A zero-config leptos component to display markdown
 - [richardanaya/leptos_three](https://github.com/richardanaya/leptos_three) - A prototype of creating a React Three Fiber like experience with Leptos and ThreeJS
@@ -1641,7 +1642,7 @@
 - [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
 - [mitsuhiko/rust-osascript](https://github.com/mitsuhiko/rust-osascript) - Rust wrapper around a bit of osascript
 - [ogham/exa](https://github.com/ogham/exa) - A modern replacement for ‘ls’.
-- [ankitects/anki](https://github.com/ankitects/anki) - Anki for desktop computers
+- [ankitects/anki](https://github.com/ankitects/anki) - Anki's shared backend and web components, and the Qt frontend
 
 ## SCSS 
 
