@@ -1099,6 +1099,7 @@
 
 ## Nix 
 
+- [nixified-ai/flake](https://github.com/nixified-ai/flake) - A Nix flake for many AI projects
 - [DeterminateSystems/flake-schemas](https://github.com/DeterminateSystems/flake-schemas) - Schemas for common flake output types
 - [nix-community/nixvim](https://github.com/nix-community/nixvim) - Configure Neovim with Nix! [maintainer=@pta2002, @traxys, @GaetanLepage]
 - [oxalica/nocargo](https://github.com/oxalica/nocargo) - [alpha] Build Rust crates with Nix Build System.
@@ -1116,7 +1117,7 @@
 - [nix-community/ethereum.nix](https://github.com/nix-community/ethereum.nix) - Nix packages and NixOS modules for the Ethereum ecosystem. [maintainers=@aldoborrero,@brianmcgee,@selfuryon]
 - [nix-systems/flake-outputs](https://github.com/nix-systems/flake-outputs) - Get buildable outputs of a flake
 - [nix-systems/aarch64-darwin](https://github.com/nix-systems/aarch64-darwin) - 
-- [sajban/clojix](https://github.com/sajban/clojix) - Flake-parts nix module for Clojure
+- [sajban/lojix](https://github.com/sajban/lojix) - Flake-parts nix module for Clojure
 - [juspay/nix-dev-home](https://github.com/juspay/nix-dev-home) - A `home-manager` template providing useful tools & settings for Nix-based development
 - [cachix/pre-commit-hooks.nix](https://github.com/cachix/pre-commit-hooks.nix) - Seamless integration of https://pre-commit.com git hooks with Nix.
 - [juspay/jenkins-nix-ci](https://github.com/juspay/jenkins-nix-ci) - A NixOS module for Jenkins, optimized specifically for running projects using Nix.
@@ -1179,7 +1180,7 @@
 - [numtide/nix-filter](https://github.com/numtide/nix-filter) - a small self-container source filtering lib
 - [input-output-hk/haskell.nix](https://github.com/input-output-hk/haskell.nix) - Alternative Haskell Infrastructure for Nixpkgs
 - [purs-nix/purs-nix](https://github.com/purs-nix/purs-nix) - Manage your PureScript projects with Nix!
-- [nix-community/robotnix](https://github.com/nix-community/robotnix) - Build Android (AOSP) using Nix [maintainer=@danielfullmer]
+- [nix-community/robotnix](https://github.com/nix-community/robotnix) - Build Android (AOSP) using Nix [maintainer=@danielfullmer,@Atemu]
 - [nix-community/neovim-nightly-overlay](https://github.com/nix-community/neovim-nightly-overlay) - [maintainer=@Kranzes]
 - [serokell/nix-templates](https://github.com/serokell/nix-templates) - Nix Flake templates for various languages
 - [tweag/jupyenv](https://github.com/tweag/jupyenv) - Declarative and reproducible Jupyter environments - powered by Nix
@@ -1293,6 +1294,7 @@
 - [kowainik/awesome-haskell-sponsorship](https://github.com/kowainik/awesome-haskell-sponsorship) - 💝 Haskell profiles to sponsor
 - [google/eng-practices](https://github.com/google/eng-practices) - Google's Engineering Practices documentation
 - [MaximilianKohler/HumanMicrobiome](https://github.com/MaximilianKohler/HumanMicrobiome) - Human Microbiome wiki
+- [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) - A community-driven modular vim/neovim distribution - The ultimate vimrc
 - [jonitrythall/svgpocketguide](https://github.com/jonitrythall/svgpocketguide) - All original content of A Pocket Guide to Writing SVG by Joni Trythall
 - [reflex-frp/reflex-frp](https://github.com/reflex-frp/reflex-frp) - Subscribe to this repo to be notified of announcements and changes in Reflex FRP
 - [Wizek/haskell-pair-programming](https://github.com/Wizek/haskell-pair-programming) - 
@@ -1378,6 +1380,7 @@
 
 ## Python 
 
+- [d2l-ai/d2l-en](https://github.com/d2l-ai/d2l-en) - Interactive deep learning book with multi-framework code, math, and discussions. Adopted at 500 universities from 70 countries including Stanford, MIT, Harvard, and Cambridge.
 - [executablebooks/jupyter-book](https://github.com/executablebooks/jupyter-book) - Create beautiful, publication-quality books and documents from computational content.
 - [maubot/maubot](https://github.com/maubot/maubot) - A plugin-based Matrix bot system.
 - [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - Cross-platform, fast, feature-rich, GPU based terminal
@@ -1508,7 +1511,7 @@
 
 ## Ruby 
 
-- [sferik/t](https://github.com/sferik/t) - A command-line power tool for Twitter.
+- [sferik/t-ruby](https://github.com/sferik/t-ruby) - A command-line power tool for Twitter.
 - [samueldr/nix-top](https://github.com/samueldr/nix-top) - 
 - [heroku/log2viz](https://github.com/heroku/log2viz) - DEFUNCT: Realtime analysis of your Heroku app logs.
 - [freeCodeCamp/devdocs](https://github.com/freeCodeCamp/devdocs) - API Documentation Browser
@@ -1664,7 +1667,7 @@
 ## Shell 
 
 - [numtide/prj-spec](https://github.com/numtide/prj-spec) - Project Base Directory Specification
-- [numtide/nixos-anywhere](https://github.com/numtide/nixos-anywhere) - install nixos everywhere via ssh
+- [nix-community/nixos-anywhere](https://github.com/nix-community/nixos-anywhere) - install nixos everywhere via ssh
 - [Kranzes/nix-darwin-template](https://github.com/Kranzes/nix-darwin-template) - A bare-bones template for setting up Nix on macOS for using nix-darwin with flakes
 - [3noch/nix-bundle-exe](https://github.com/3noch/nix-bundle-exe) - Simple Nix derivations to bundle executables
 - [Bugswriter/notflix](https://github.com/Bugswriter/notflix) - Notflix is a shell script to search and stream torrent.
@@ -1843,7 +1846,6 @@
 - [alok/notational-fzf-vim](https://github.com/alok/notational-fzf-vim) - Notational velocity for vim.
 - [michal-h21/vim-zettel](https://github.com/michal-h21/vim-zettel) - VimWiki addon for managing notes according to Zettelkasten method
 - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
-- [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) - A community-driven modular vim/neovim distribution - The ultimate vimrc
 - [junegunn/seoul256.vim](https://github.com/junegunn/seoul256.vim) - :deciduous_tree: Low-contrast Vim color scheme based on Seoul Colors
 
 ## Vue 
