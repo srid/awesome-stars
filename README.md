@@ -35,7 +35,6 @@
 - [MDX](#mdx)
 - [Makefile](#makefile)
 - [Markdown](#markdown)
-- [NCL](#ncl)
 - [Nim](#nim)
 - [Nix](#nix)
 - [Nushell](#nushell)
@@ -395,7 +394,6 @@
 - [kelseyhightower/envconfig](https://github.com/kelseyhightower/envconfig) - Golang library for managing configuration data from environment variables
 - [constabulary/gb](https://github.com/constabulary/gb) - gb, the project based build tool for Go
 - [sirupsen/logrus](https://github.com/sirupsen/logrus) - Structured, pluggable logging for Go.
-- [influxdata/influxdb](https://github.com/influxdata/influxdb) - Scalable datastore for metrics, events, and real-time analytics
 - [boltdb/bolt](https://github.com/boltdb/bolt) - An embedded key/value database for Go.
 - [dustin/go-humanize](https://github.com/dustin/go-humanize) - Go Humans! (formatters for units to human friendly sizes)
 - [rethinkdb/rethinkdb-go](https://github.com/rethinkdb/rethinkdb-go) - Go language driver for RethinkDB
@@ -496,6 +494,7 @@
 
 ## HTML 
 
+- [bitstein/justmeat.co](https://github.com/bitstein/justmeat.co) - Carnivorous eating, paleolithic ketogenic diet and medicine, and zero carb lifestyle. Don’t bother with vegetables. Just eat meat.
 - [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) - Documentation that simply works
 - [tallesl/Rich-Hickey-fanclub](https://github.com/tallesl/Rich-Hickey-fanclub) - "every time I watch one of his talks I feel like someone has gone in and organized my brain"
 - [abuseofnotation/category-theory-illustrated](https://github.com/abuseofnotation/category-theory-illustrated) - A book about category theory
@@ -1036,7 +1035,7 @@
 - [srid/wheatplay](https://github.com/srid/wheatplay) - playing with node.js/wheat based blog
 - [StanAngeloff/komodo-fuzzy-open](https://github.com/StanAngeloff/komodo-fuzzy-open) - [ABANDONED] Quickly locate and open files using fuzzy matching
 - [nko/flockfeed](https://github.com/nko/flockfeed) - 
-- [harthur/brain](https://github.com/harthur/brain) - [UNMAINTAINED] Simple feed-forward neural network in JavaScript
+- [harthur/brain](https://github.com/harthur/brain) - Simple feed-forward neural network in JavaScript
 - [mnutt/hummingbird](https://github.com/mnutt/hummingbird) - Real time web analytics using node.js and web sockets
 - [creationix/wheat](https://github.com/creationix/wheat) - Wheat is a blog engine for coders written in node.JS
 
@@ -1089,16 +1088,13 @@
 - [srid/neuron-template](https://github.com/srid/neuron-template) - A template to get started with neuron
 - [Kuratoro/zk.zettel.page](https://github.com/Kuratoro/zk.zettel.page) - r/Zettelkasten's Zettelkasten
 
-## NCL 
-
-- [nickel-lang/organist](https://github.com/nickel-lang/organist) - An experimental Nix toolkit to use nickel as a language for writing nix packages, shells and more.
-
 ## Nim 
 
 - [bluenote10/NimSvg](https://github.com/bluenote10/NimSvg) - Nim-based DSL allowing to generate SVG files and GIF animations.
 
 ## Nix 
 
+- [ryan4yin/nixos-and-flakes-book](https://github.com/ryan4yin/nixos-and-flakes-book) - :hammer_and_wrench: :heart: Want to know NixOS & Flakes in detail? Looking for a beginner-friendly tutorial? Then you've come to the right place!  想要学习使用 NixOS 与 Flakes 吗？在寻找一份新手友好的教程？那你可来对地方了！
 - [nixified-ai/flake](https://github.com/nixified-ai/flake) - A Nix flake for many AI projects
 - [DeterminateSystems/flake-schemas](https://github.com/DeterminateSystems/flake-schemas) - Schemas for common flake output types
 - [nix-community/nixvim](https://github.com/nix-community/nixvim) - Configure Neovim with Nix! [maintainer=@pta2002, @traxys, @GaetanLepage]
@@ -1109,6 +1105,7 @@
 - [brendanzab/ocaml-flake-example](https://github.com/brendanzab/ocaml-flake-example) - An overly elaborate example of building a ‘Hello World’ package with Nix flakes, OCaml, and Dune
 - [juspay/services-flake](https://github.com/juspay/services-flake) - WIP: NixOS-like services for Nix flakes
 - [mrkkrp/emacs-package-flake](https://github.com/mrkkrp/emacs-package-flake) - A Nix library that facilitates definition of flakes for Emacs packages
+- [nickel-lang/organist](https://github.com/nickel-lang/organist) - An experimental Nix toolkit to use nickel as a language for writing nix packages, shells and more.
 - [jetpack-io/nixtest](https://github.com/jetpack-io/nixtest) - A tiny unit testing framework written in pure Nix
 - [shivaraj-bh/nix-workshop](https://github.com/shivaraj-bh/nix-workshop) - Workshop materials
 - [tfc/nixos-anywhere-example](https://github.com/tfc/nixos-anywhere-example) - 
@@ -1117,7 +1114,6 @@
 - [nix-community/ethereum.nix](https://github.com/nix-community/ethereum.nix) - Nix packages and NixOS modules for the Ethereum ecosystem. [maintainers=@aldoborrero,@brianmcgee,@selfuryon]
 - [nix-systems/flake-outputs](https://github.com/nix-systems/flake-outputs) - Get buildable outputs of a flake
 - [nix-systems/aarch64-darwin](https://github.com/nix-systems/aarch64-darwin) - 
-- [sajban/lojix](https://github.com/sajban/lojix) - Flake-parts nix module for Clojure
 - [juspay/nix-dev-home](https://github.com/juspay/nix-dev-home) - A `home-manager` template providing useful tools & settings for Nix-based development
 - [cachix/pre-commit-hooks.nix](https://github.com/cachix/pre-commit-hooks.nix) - Seamless integration of https://pre-commit.com git hooks with Nix.
 - [juspay/jenkins-nix-ci](https://github.com/juspay/jenkins-nix-ci) - A NixOS module for Jenkins, optimized specifically for running projects using Nix.
@@ -1241,6 +1237,7 @@
 
 - [leptos-rs/awesome-leptos](https://github.com/leptos-rs/awesome-leptos) - A collection of awesome libraries in the Leptos ecosystem.
 - [nix-systems/nix-systems](https://github.com/nix-systems/nix-systems) - Externally extensible flake systems
+- [sajban/lojix](https://github.com/sajban/lojix) - Nix from Clojure
 - [gayanvoice/top-github-users](https://github.com/gayanvoice/top-github-users) - Check your ranking in GitHub! Don't forget to star ⭐ this repository.
 - [ryantm/nix-installer-action-benchmark](https://github.com/ryantm/nix-installer-action-benchmark) - Benchmarks nix install actions
 - [8go/matrix-nostr-bridge](https://github.com/8go/matrix-nostr-bridge) - Bridge between Matrix and Nostr communication protocols
@@ -1380,6 +1377,7 @@
 
 ## Python 
 
+- [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - An AI copilot for your second brain. Search and chat with your personal knowledge base, online or offline
 - [d2l-ai/d2l-en](https://github.com/d2l-ai/d2l-en) - Interactive deep learning book with multi-framework code, math, and discussions. Adopted at 500 universities from 70 countries including Stanford, MIT, Harvard, and Cambridge.
 - [executablebooks/jupyter-book](https://github.com/executablebooks/jupyter-book) - Create beautiful, publication-quality books and documents from computational content.
 - [maubot/maubot](https://github.com/maubot/maubot) - A plugin-based Matrix bot system.
@@ -1538,6 +1536,8 @@
 
 ## Rust 
 
+- [josecelano/cargo-pretty-test](https://github.com/josecelano/cargo-pretty-test) - A Rust command that prettifies the ugly `cargo test` output into a beautiful one.
+- [Pitasi/rscx-mdx](https://github.com/Pitasi/rscx-mdx) - Supercharge your markdown including RSCx components.
 - [decomoraes/rust_struct_iterable](https://github.com/decomoraes/rust_struct_iterable) - 
 - [Pitasi/leptos-mdx](https://github.com/Pitasi/leptos-mdx) - Supercharge your markdown including Leptos components.
 - [JaniM/emergence](https://github.com/JaniM/emergence) - 
@@ -1646,6 +1646,7 @@
 - [mitsuhiko/rust-osascript](https://github.com/mitsuhiko/rust-osascript) - Rust wrapper around a bit of osascript
 - [ogham/exa](https://github.com/ogham/exa) - A modern replacement for ‘ls’.
 - [ankitects/anki](https://github.com/ankitects/anki) - Anki's shared backend and web components, and the Qt frontend
+- [influxdata/influxdb](https://github.com/influxdata/influxdb) - Scalable datastore for metrics, events, and real-time analytics
 
 ## SCSS 
 
@@ -1729,7 +1730,7 @@
 
 ## Svelte 
 
-- [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - ⭐️ ⭐️ ⭐️ ⭐️ ⭐️  The most popular, free and open-source Tailwind CSS component library
+- [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library
 - [GrygrFlzr/kit-docs](https://github.com/GrygrFlzr/kit-docs) - Unofficial documentation for SvelteKit
 - [mattlehrer/sveltekit-vite-tailwind](https://github.com/mattlehrer/sveltekit-vite-tailwind) - 
 
@@ -1765,6 +1766,7 @@
 
 ## TypeScript 
 
+- [pionxzh/chatgpt-exporter](https://github.com/pionxzh/chatgpt-exporter) - Export and Share your ChatGPT conversation history
 - [phindle/error-lens](https://github.com/phindle/error-lens) - Visual Studio Code extension which enhances the display of errors and warnings.
 - [mark-when/mw](https://github.com/mark-when/mw) - Markwhen CLI
 - [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
