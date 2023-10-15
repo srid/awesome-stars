@@ -366,6 +366,7 @@
 - [barnybug/go-cast](https://github.com/barnybug/go-cast) - A command line tool to control Google Chromecast devices.
 - [aca/neuron-language-server](https://github.com/aca/neuron-language-server) - Language server implementation for neuron
 - [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data
+- [antonmedv/fx](https://github.com/antonmedv/fx) - Terminal JSON viewer & processor
 - [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files
 - [rfjakob/gocryptfs](https://github.com/rfjakob/gocryptfs) - Encrypted overlay filesystem written in Go
 - [ksimka/go-is-not-good](https://github.com/ksimka/go-is-not-good) - A curated list of articles complaining that go (golang) isn't good enough
@@ -442,7 +443,7 @@
 - [tumblr/gocircuit](https://github.com/tumblr/gocircuit) - 
 - [fluffle/goirc](https://github.com/fluffle/goirc) - Event-based stateful IRC client framework for Go.
 - [rckclmbr/gologstash](https://github.com/rckclmbr/gologstash) - Logstash rewritten in Go
-- [moby/moby](https://github.com/moby/moby) - Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
+- [moby/moby](https://github.com/moby/moby) - The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
 - [kisielk/errcheck](https://github.com/kisielk/errcheck) - errcheck checks that you checked errors.
 - [hgfischer/nginx2stathat](https://github.com/hgfischer/nginx2stathat) - Program to watch a nginx combined access.log and send every line to syslog
 - [hpcloud/tail](https://github.com/hpcloud/tail) - Go package for reading from continously updated files (tail -f)
@@ -987,7 +988,6 @@
 - [lemmih/ClozeCards](https://github.com/lemmih/ClozeCards) - ClozeCards Beta.
 - [google/bottery](https://github.com/google/bottery) - 
 - [kamranahmedse/githunt](https://github.com/kamranahmedse/githunt) - Hunt the most starred projects on any date on GitHub
-- [stackblitz/core](https://github.com/stackblitz/core) - Online IDE powered by Visual Studio Code ⚡️
 - [katspaugh/fluentcards](https://github.com/katspaugh/fluentcards) - Flashcards from dictionary look-ups
 - [rustico/fr-conjugation](https://github.com/rustico/fr-conjugation) - French Conjugation
 - [gorhill/uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
@@ -1016,7 +1016,7 @@
 - [adobe-webplatform/Snap.svg](https://github.com/adobe-webplatform/Snap.svg) - The JavaScript library for modern SVG graphics.
 - [atom/atom](https://github.com/atom/atom) - :atom: The hackable text editor
 - [GitbookIO/gitbook](https://github.com/GitbookIO/gitbook) - 📝 Modern documentation format and toolchain using Git and Markdown
-- [jgallen23/toc](https://github.com/jgallen23/toc) - jQuery Table of Contents Plugin
+- [jgallen23/toc](https://github.com/jgallen23/toc) - Table of Contents Plugin
 - [hpcloud/cloud-foundry-client-js](https://github.com/hpcloud/cloud-foundry-client-js) - A JavaScript client for Cloud Foundry. Supports running in the browser and Node.js.
 - [emberjs/ember.js](https://github.com/emberjs/ember.js) - Ember.js - A JavaScript framework for creating ambitious web applications
 - [hpcloud/confdis](https://github.com/hpcloud/confdis) - JSON-based configuration in redis
@@ -1197,7 +1197,7 @@
 - [matthewbauer/nix-bundle](https://github.com/matthewbauer/nix-bundle) - Bundle Nix derivations to run anywhere!
 - [cleverca22/nix-tests](https://github.com/cleverca22/nix-tests) - A scratchpad for small experimental things I am doing with Nix.
 - [composewell/streamly-examples](https://github.com/composewell/streamly-examples) - Examples for Streamly
-- [justinwoo/spago2nix](https://github.com/justinwoo/spago2nix) - Generate a derivation of Spago dependencies, and use them to install them into the directory structure used by Spago.
+- [justinwoo/spago2nix](https://github.com/justinwoo/spago2nix) - Generate a derivation of (old) Spago dependencies, and use them to install them into the directory structure used by Spago.
 - [tbenst/purescript-nix-example](https://github.com/tbenst/purescript-nix-example) - Build a simple Halogen app using Nix
 - [justinwoo/nix-shorts](https://github.com/justinwoo/nix-shorts) - A collection of short notes about Nix, down to what is immediately needed for users.
 - [nix-community/emacs-overlay](https://github.com/nix-community/emacs-overlay) - Bleeding edge emacs overlay [maintainer=@adisbladis]
@@ -1310,6 +1310,7 @@
 - [nikitavoloboev/my-mac](https://github.com/nikitavoloboev/my-mac) - Apps/tools I use on macOS
 - [rainbyte/haskell-ide-chart](https://github.com/rainbyte/haskell-ide-chart) - Haskell state of editor/IDE support
 - [ziishaned/learn-regex](https://github.com/ziishaned/learn-regex) - Learn regex the easy way
+- [stackblitz/core](https://github.com/stackblitz/core) - Online IDE powered by Visual Studio Code ⚡️
 - [davatron5000/can-i-subsystem-it](https://github.com/davatron5000/can-i-subsystem-it) - 
 - [sindresorhus/quick-look-plugins](https://github.com/sindresorhus/quick-look-plugins) - List of useful Quick Look plugins for developers
 - [paf31/24-days-of-purescript-2016](https://github.com/paf31/24-days-of-purescript-2016) - 24 Days of PureScript, 2016
@@ -1541,6 +1542,8 @@
 
 ## Rust 
 
+- [dioxus-community/dioxus-redux](https://github.com/dioxus-community/dioxus-redux) - State management for Dioxus 🧬
+- [mjovanc/awesome-tokio](https://github.com/mjovanc/awesome-tokio) - Awesome books, tutorials, courses, and resources for the Tokio asynchronous runtime ecosystem. ⚡
 - [launchbadge/sqlx](https://github.com/launchbadge/sqlx) - 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, SQLite, and MSSQL.
 - [DioxusLabs/dioxus-std](https://github.com/DioxusLabs/dioxus-std) - A library to provide abstractions to access common utilities when developing Dioxus applications.
 - [marc2332/dioxus-query](https://github.com/marc2332/dioxus-query) - Fully-typed, async, reusable state management and synchronization for Dioxus 🧬
