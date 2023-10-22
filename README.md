@@ -714,7 +714,6 @@
 - [fumieval/witherable](https://github.com/fumieval/witherable) - Filter with effects
 - [fumieval/deriving-aeson](https://github.com/fumieval/deriving-aeson) - Scrap your hand-rolled aeson instances
 - [obsidiansystems/dependent-map](https://github.com/obsidiansystems/dependent-map) - Dependently-typed finite maps (partial dependent products)
-- [NorfairKing/smos](https://github.com/NorfairKing/smos) - A comprehensive self-management System
 - [srid/rib-sample](https://github.com/srid/rib-sample) - Sample site for the Rib static site generator
 - [srid/rib](https://github.com/srid/rib) - Haskell static site generator based on Shake (superseded by https://github.com/srid/ema)
 - [srid/zulip-archive](https://github.com/srid/zulip-archive) - Zulip Archive viewer (statically generated HTML)
@@ -1049,6 +1048,7 @@
 
 - [android-password-store/Android-Password-Store](https://github.com/android-password-store/Android-Password-Store) - Android application compatible with ZX2C4's Pass command line application
 - [iSoron/uhabits](https://github.com/iSoron/uhabits) - Loop Habit Tracker, a mobile app for creating and maintaining long-term positive habits
+- [lk-geimfari/awesomo](https://github.com/lk-geimfari/awesomo) - Cool open source projects. Choose your project and get involved in Open Source development now.
 
 ## Lua 
 
@@ -1542,6 +1542,8 @@
 
 ## Rust 
 
+- [srid/felicity](https://github.com/srid/felicity) - A dumb mood tracker app
+- [lsd-rs/lsd](https://github.com/lsd-rs/lsd) - The next gen ls command
 - [dioxus-community/dioxus-redux](https://github.com/dioxus-community/dioxus-redux) - State management for Dioxus 🧬
 - [mjovanc/awesome-tokio](https://github.com/mjovanc/awesome-tokio) - Awesome books, tutorials, courses, and resources for the Tokio asynchronous runtime ecosystem. ⚡
 - [launchbadge/sqlx](https://github.com/launchbadge/sqlx) - 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, SQLite, and MSSQL.
@@ -1564,7 +1566,7 @@
 - [ankarhem/blog](https://github.com/ankarhem/blog) - 
 - [DioxusLabs/include_mdbook](https://github.com/DioxusLabs/include_mdbook) - Include mdbooks at compile time in your Rust project
 - [DioxusLabs/docsite](https://github.com/DioxusLabs/docsite) - Dioxuslabs.com documentation site
-- [juspay/nix-browser](https://github.com/juspay/nix-browser) - 🚧 Delightful interface to Nix flakes
+- [juspay/nix-browser](https://github.com/juspay/nix-browser) - 🚧 A graphical interface to working with Nix & Flakes
 - [stevepryde/thirtyfour](https://github.com/stevepryde/thirtyfour) - Selenium WebDriver client for Rust, for automated testing of websites
 - [rambip/leptos-markdown](https://github.com/rambip/leptos-markdown) - A zero-config leptos component to display markdown
 - [richardanaya/leptos_three](https://github.com/richardanaya/leptos_three) - A prototype of creating a React Three Fiber like experience with Leptos and ThreeJS
@@ -1669,7 +1671,6 @@
 
 - [twitter/the-algorithm](https://github.com/twitter/the-algorithm) - Source code for Twitter's Recommendation Algorithm
 - [zio/zio](https://github.com/zio/zio) - ZIO — A type-safe, composable library for async and concurrent programming in Scala
-- [lk-geimfari/awesomo](https://github.com/lk-geimfari/awesomo) - Cool open source projects. Choose your project and get involved in Open Source development now.
 - [decaffeinated-android/core](https://github.com/decaffeinated-android/core) - Decaffeinated Android: core examples
 
 ## Scheme 
