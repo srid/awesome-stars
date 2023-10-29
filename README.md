@@ -35,7 +35,6 @@
 - [MDX](#mdx)
 - [Makefile](#makefile)
 - [Markdown](#markdown)
-- [NCL](#ncl)
 - [Nim](#nim)
 - [Nix](#nix)
 - [Nushell](#nushell)
@@ -1067,7 +1066,7 @@
 
 - [DeterminateSystems/zero-to-nix](https://github.com/DeterminateSystems/zero-to-nix) - Zero to Nix is your guide to learning Nix and flakes. Created by Determinate Systems.
 - [input-output-hk/cardano-documentation](https://github.com/input-output-hk/cardano-documentation) - 
-- [yewstack/yew](https://github.com/yewstack/yew) - Rust / Wasm framework for building client web apps
+- [yewstack/yew](https://github.com/yewstack/yew) - Rust / Wasm framework for creating reliable and efficient web applications
 
 ## Makefile 
 
@@ -1088,10 +1087,6 @@
 - [srid/neuron-template](https://github.com/srid/neuron-template) - A template to get started with neuron
 - [Kuratoro/zk.zettel.page](https://github.com/Kuratoro/zk.zettel.page) - r/Zettelkasten's Zettelkasten
 
-## NCL 
-
-- [nickel-lang/organist](https://github.com/nickel-lang/organist) - Control all your tooling from a single console
-
 ## Nim 
 
 - [bluenote10/NimSvg](https://github.com/bluenote10/NimSvg) - Nim-based DSL allowing to generate SVG files and GIF animations.
@@ -1108,8 +1103,9 @@
 - [numtide/numtide-github-runner](https://github.com/numtide/numtide-github-runner) - the best self-hosted github runners on the market
 - [tweag/opam-nix](https://github.com/tweag/opam-nix) - Turn opam-based OCaml projects into Nix derivations
 - [brendanzab/ocaml-flake-example](https://github.com/brendanzab/ocaml-flake-example) - An overly elaborate example of building a ‘Hello World’ package with Nix flakes, OCaml, and Dune
-- [juspay/services-flake](https://github.com/juspay/services-flake) - WIP: NixOS-like services for Nix flakes
+- [juspay/services-flake](https://github.com/juspay/services-flake) - NixOS-like services for Nix flakes
 - [mrkkrp/emacs-package-flake](https://github.com/mrkkrp/emacs-package-flake) - A Nix library that facilitates definition of flakes for Emacs packages
+- [nickel-lang/organist](https://github.com/nickel-lang/organist) - Control all your tooling from a single console
 - [jetpack-io/nixtest](https://github.com/jetpack-io/nixtest) - A tiny unit testing framework written in pure Nix
 - [shivaraj-bh/nix-workshop](https://github.com/shivaraj-bh/nix-workshop) - Workshop materials
 - [tfc/nixos-anywhere-example](https://github.com/tfc/nixos-anywhere-example) - 
@@ -1245,7 +1241,7 @@
 - [gayanvoice/top-github-users](https://github.com/gayanvoice/top-github-users) - Check your ranking in GitHub! Don't forget to star ⭐ this repository.
 - [ryantm/nix-installer-action-benchmark](https://github.com/ryantm/nix-installer-action-benchmark) - Benchmarks nix install actions
 - [8go/matrix-nostr-bridge](https://github.com/8go/matrix-nostr-bridge) - Bridge between Matrix and Nostr communication protocols
-- [aljazceru/awesome-nostr](https://github.com/aljazceru/awesome-nostr) - A curated list of nostr projects and resources
+- [aljazceru/awesome-nostr](https://github.com/aljazceru/awesome-nostr) - nostr.net - awesome-nostr is a collection of projects and resources built on nostr to help developers and users find new things
 - [githubocto/flat-demo-google-sheets](https://github.com/githubocto/flat-demo-google-sheets) - A Flat Data GitHub Action demo repo
 - [haskell-actions/hackage-publish](https://github.com/haskell-actions/hackage-publish) - A GitHub action for publishing packages on Hackage
 - [EmaApps/ideas](https://github.com/EmaApps/ideas) - Ema project ideas
