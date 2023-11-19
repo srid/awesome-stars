@@ -95,7 +95,6 @@
 - [mpv-player/mpv](https://github.com/mpv-player/mpv) - 🎥 Command line video player
 - [imbushuo/mac-precision-touchpad](https://github.com/imbushuo/mac-precision-touchpad) - Windows Precision Touchpad Driver Implementation for Apple MacBook / Magic Trackpad
 - [netdata/netdata](https://github.com/netdata/netdata) - Monitor your servers, containers, and applications, in high-resolution and in real-time!
-- [NixOS/mobile-nixos](https://github.com/NixOS/mobile-nixos) - 
 - [jarun/nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager
 - [mwyborski/Linux-Magic-Trackpad-2-Driver](https://github.com/mwyborski/Linux-Magic-Trackpad-2-Driver) - 
 - [matz/streem](https://github.com/matz/streem) - prototype of stream based programming language
@@ -146,11 +145,9 @@
 - [microsoft/winget-cli](https://github.com/microsoft/winget-cli) - WinGet is the Windows Package Manager. This project includes a CLI (Command Line Interface), PowerShell modules, and a COM (Component Object Model) API (Application Programming Interface).
 - [albertlauncher/albert](https://github.com/albertlauncher/albert) - A fast and flexible keyboard launcher
 - [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
-- [NixOS/nix](https://github.com/NixOS/nix) - Nix, the purely functional package manager
 - [giuspen/cherrytree](https://github.com/giuspen/cherrytree) - cherrytree
 - [tekezo/Karabiner](https://github.com/tekezo/Karabiner) - Karabiner (KeyRemap4MacBook) is a powerful utility for keyboard customization.
 - [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
-- [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell.
 
 ## CSS 
 
@@ -372,6 +369,7 @@
 - [fiatjaf/rel](https://github.com/fiatjaf/rel) - command line tool for managing personal graphs of anything and writing them to dot
 - [gokcehan/lf](https://github.com/gokcehan/lf) - Terminal file manager
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
+- [lk-geimfari/awesomo](https://github.com/lk-geimfari/awesomo) - Cool open source projects. Choose your project and get involved in Open Source development now.
 - [bitly/oauth2_proxy](https://github.com/bitly/oauth2_proxy) - A reverse proxy that provides authentication with Google, Github or other provider
 - [elves/elvish](https://github.com/elves/elvish) - Elvish = Expressive Programming Language + Versatile Interactive Shell
 - [jtolio/lecat](https://github.com/jtolio/lecat) - socat-lite with letsencrypt support
@@ -1045,7 +1043,6 @@
 
 - [android-password-store/Android-Password-Store](https://github.com/android-password-store/Android-Password-Store) - Android application compatible with ZX2C4's Pass command line application
 - [iSoron/uhabits](https://github.com/iSoron/uhabits) - Loop Habit Tracker, a mobile app for creating and maintaining long-term positive habits
-- [lk-geimfari/awesomo](https://github.com/lk-geimfari/awesomo) - Cool open source projects. Choose your project and get involved in Open Source development now.
 
 ## Lua 
 
@@ -1062,6 +1059,7 @@
 
 ## MDX 
 
+- [juspay/flakular.in](https://github.com/juspay/flakular.in) - WIP: A guide to writing modular Nix flakes for developing software and systems
 - [DeterminateSystems/zero-to-nix](https://github.com/DeterminateSystems/zero-to-nix) - Zero to Nix is your guide to learning Nix and flakes. Created by Determinate Systems.
 - [input-output-hk/cardano-documentation](https://github.com/input-output-hk/cardano-documentation) - 
 - [yewstack/yew](https://github.com/yewstack/yew) - Rust / Wasm framework for creating reliable and efficient web applications
@@ -1091,6 +1089,7 @@
 
 ## Nix 
 
+- [juspay/remote-development](https://github.com/juspay/remote-development) - NixOS configuration for shared remote development via SSH
 - [nix-community/srvos](https://github.com/nix-community/srvos) - NixOS profiles for servers
 - [srid/dioxus-desktop-template](https://github.com/srid/dioxus-desktop-template) - A starter template for Dioxus Desktop apps w/ Tailwind & Nix
 - [ryan4yin/nixos-and-flakes-book](https://github.com/ryan4yin/nixos-and-flakes-book) - :hammer_and_wrench: :heart: Want to know NixOS & Flakes in detail? Looking for a beginner-friendly tutorial? Then you've come to the right place!  想要学习使用 NixOS 与 Flakes 吗？在寻找一份新手友好的教程？那你可来对地方了！
@@ -1166,7 +1165,6 @@
 - [srid/anima](https://github.com/srid/anima) - Playground for creating animations programatically
 - [claymager/idris2-pkgs](https://github.com/claymager/idris2-pkgs) - An unofficial Idris2 package repository for Nix
 - [srid/idris-js-template](https://github.com/srid/idris-js-template) - Idris template for JavaScript projects
-- [NixOS/templates](https://github.com/NixOS/templates) - Flake templates
 - [srid/agda-template](https://github.com/srid/agda-template) - Imperfect Agda project template using Nix
 - [srid/haskell-template](https://github.com/srid/haskell-template) - Haskell project template using Nix + Flakes + VSCode (HLS)
 - [Plutonomicon/plutonomicon](https://github.com/Plutonomicon/plutonomicon) - Advanced techniques in the plutus smart contract language
@@ -1201,11 +1199,9 @@
 - [LnL7/nix-darwin](https://github.com/LnL7/nix-darwin) - nix modules for darwin
 - [srid/nix-config](https://github.com/srid/nix-config) - My NixOS configuration (DEPRECATED)
 - [haskell-nix/hnix](https://github.com/haskell-nix/hnix) - A Haskell re-implementation of the Nix expression language
-- [NixOS/nixos-hardware](https://github.com/NixOS/nixos-hardware) - A collection of NixOS modules covering hardware quirks.
 - [ElvishJerricco/reflex-project-skeleton](https://github.com/ElvishJerricco/reflex-project-skeleton) - 
 - [Gabriella439/haskell-nix](https://github.com/Gabriella439/haskell-nix) - Nix and Haskell in production
 - [reflex-frp/reflex-platform](https://github.com/reflex-frp/reflex-platform) - A curated package set and set of tools that let you build Haskell packages so they can run on a variety of platforms. reflex-platform is built on top of the nix package manager.
-- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection & NixOS
 
 ## Nushell 
 
@@ -1397,7 +1393,6 @@
 - [joelgrus/data-science-from-scratch](https://github.com/joelgrus/data-science-from-scratch) - code for Data Science From Scratch book
 - [microsoft/cascadia-code](https://github.com/microsoft/cascadia-code) - This is a fun, new monospaced font that includes programming ligatures and is designed to enhance the modern look and feel of the Windows Terminal.
 - [getting-things-gnome/gtg](https://github.com/getting-things-gnome/gtg) - Getting Things GNOME! trunk
-- [NixOS/nix.dev](https://github.com/NixOS/nix.dev) - Official documentation for getting things done with Nix.
 - [belluzj/fantasque-sans](https://github.com/belluzj/fantasque-sans) - A font family with a great monospaced variant for programmers.
 - [b13bs/Hydro-Quebec-power-outages](https://github.com/b13bs/Hydro-Quebec-power-outages) - Retrives power outages data using discovered Hydro-Québec API
 - [buckket/twtxt](https://github.com/buckket/twtxt) - Decentralised, minimalist microblogging service for hackers.
@@ -1537,6 +1532,7 @@
 
 ## Rust 
 
+- [Anush008/fastembed-rs](https://github.com/Anush008/fastembed-rs) - Rust implementation of @Qdrant/fastembed.
 - [ex0dus-0x/microkv](https://github.com/ex0dus-0x/microkv) - Minimal and persistent key-value store designed with security in mind
 - [bincode-org/bincode](https://github.com/bincode-org/bincode) - A binary encoder / decoder implementation in Rust.
 - [ctsrc/persistence](https://github.com/ctsrc/persistence) - Rust library providing mutable resizable arrays built on top of mmap
@@ -1660,6 +1656,7 @@
 - [ogham/exa](https://github.com/ogham/exa) - A modern replacement for ‘ls’.
 - [ankitects/anki](https://github.com/ankitects/anki) - Anki's shared backend and web components, and the Qt frontend
 - [influxdata/influxdb](https://github.com/influxdata/influxdb) - Scalable datastore for metrics, events, and real-time analytics
+- [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell.
 
 ## SCSS 
 
