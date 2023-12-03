@@ -193,7 +193,7 @@
 - [clojure/clojurescript](https://github.com/clojure/clojurescript) - Clojure to JS compiler
 - [4clojure/4clojure](https://github.com/4clojure/4clojure) - An interactive problem website for learning Clojure
 - [deltam/clj-epub](https://github.com/deltam/clj-epub) - Library for generating EPUB on Clojure. (see also text2epub-clj)
-- [clj-commons/aleph](https://github.com/clj-commons/aleph) - Asynchronous communication for Clojure
+- [clj-commons/aleph](https://github.com/clj-commons/aleph) - Asynchronous streaming communication for Clojure - web server, web client, and raw TCP/UDP
 - [gcv/appengine-magic](https://github.com/gcv/appengine-magic) - A library designed to make it easy to use Google App Engine from Clojure
 - [technomancy/leiningen](https://github.com/technomancy/leiningen) - Moved to Codeberg; this is a convenience mirror
 - [LauJensen/clojureql](https://github.com/LauJensen/clojureql) - ClojureQL is superior SQL integration for Clojure
@@ -528,7 +528,6 @@
 - [gil0mendes/emanote-sitemap-generator](https://github.com/gil0mendes/emanote-sitemap-generator) - Sitemap generator for Emanote
 - [nammayatri/shared-kernel](https://github.com/nammayatri/shared-kernel) - See https://github.com/nammayatri/nammayatri
 - [nammayatri/beckn-gateway](https://github.com/nammayatri/beckn-gateway) - 
-- [nammayatri/nammayatri](https://github.com/nammayatri/nammayatri) - A Direct-to-Driver open mobility platform powering the next-generation of mobility applications in India.
 - [srid/gro](https://github.com/srid/gro) - WIP: Exploring single file org-mode visualization
 - [lucasvreis/multiwalk](https://github.com/lucasvreis/multiwalk) - Create traversals and queries of multiple types at once
 - [srid/NixHaskellIndex](https://github.com/srid/NixHaskellIndex) - A site to view the Haskell packages and their versions on nixpkgs
@@ -634,7 +633,7 @@
 - [snapframework/heist](https://github.com/snapframework/heist) - An xhtml-based templating engine, allowing Haskell functions to be bound to XML tags.
 - [tdammers/ginger](https://github.com/tdammers/ginger) - A Haskell implementation of the Jinja template language.
 - [arowM/heterocephalus](https://github.com/arowM/heterocephalus) - A type safe template engine for collaborating with front end development tools
-- [srid/ema](https://github.com/srid/ema) - Haskell static site generator that is change-aware
+- [srid/ema](https://github.com/srid/ema) - Change-aware static site generator for Haskell programmers
 - [obsidiansystems/monad-logger-extras](https://github.com/obsidiansystems/monad-logger-extras) - Build composable logging backends for monad-logger
 - [jaspervdj/blaze-html](https://github.com/jaspervdj/blaze-html) - A blazingly fast HTML combinator library for Haskell.
 - [LightAndLight/indexed-paths](https://github.com/LightAndLight/indexed-paths) - A library for working with free categories
@@ -655,7 +654,6 @@
 - [JeffreyBenjaminBrown/hode](https://github.com/JeffreyBenjaminBrown/hode) - rslt, take five-ish
 - [obsidiansystems/dombuilder-pandoc](https://github.com/obsidiansystems/dombuilder-pandoc) - 
 - [obsidiansystems/cli-extras](https://github.com/obsidiansystems/cli-extras) - 
-- [srid/pandoc-link-context](https://github.com/srid/pandoc-link-context) - Extract context around links in Pandoc
 - [leshow/i3ipc](https://github.com/leshow/i3ipc) - Types and bindings for communicating with i3 in Haskell
 - [obsidiansystems/beam-automigrate](https://github.com/obsidiansystems/beam-automigrate) - Generated migrations for beam databases
 - [obsidiansystems/nix-thunk](https://github.com/obsidiansystems/nix-thunk) - seamless management of source dependencies with nix
@@ -803,7 +801,7 @@
 - [krispo/awesome-haskell](https://github.com/krispo/awesome-haskell) - A collection of awesome Haskell links, frameworks, libraries and software. Inspired by awesome projects line.
 - [jyp/styx](https://github.com/jyp/styx) - A nix-based Haskell project manager
 - [obsidiansystems/rhyolite](https://github.com/obsidiansystems/rhyolite) - 
-- [osener/pandoc](https://github.com/osener/pandoc) - Universal markup converter (ghcjs compatible fork)
+- [ozanmakes/pandoc](https://github.com/ozanmakes/pandoc) - Universal markup converter (ghcjs compatible fork)
 - [obsidiansystems/obelisk](https://github.com/obsidiansystems/obelisk) - Functional reactive web and mobile applications, with batteries included.
 - [fpco/unliftio](https://github.com/fpco/unliftio) - The MonadUnliftIO typeclass for unlifting monads to IO
 - [mrkkrp/modern-uri](https://github.com/mrkkrp/modern-uri) - Modern library for working with URIs
@@ -862,7 +860,7 @@
 - [tensorflow/haskell](https://github.com/tensorflow/haskell) - Haskell bindings for TensorFlow
 - [fokot/howerpoint](https://github.com/fokot/howerpoint) - 
 - [hlian/linklater](https://github.com/hlian/linklater) - A Haskell library for the Slack API (including real-time messaging!)
-- [osener/markup.rocks](https://github.com/osener/markup.rocks) - Pandoc based document editor and converter in your browser.
+- [ozanmakes/markup.rocks](https://github.com/ozanmakes/markup.rocks) - Pandoc based document editor and converter in your browser.
 - [purescript/purescript](https://github.com/purescript/purescript) - A strongly-typed language that compiles to JavaScript
 - [leksah/leksah](https://github.com/leksah/leksah) - Haskell IDE
 - [jaspervdj/patat](https://github.com/jaspervdj/patat) - Terminal-based presentations using Pandoc
@@ -930,7 +928,7 @@
 - [Emurgo/yoroi-frontend](https://github.com/Emurgo/yoroi-frontend) - Yoroi Wallet - Cardano ADA Wallet - Your gateway to the financial world (extension frontend)
 - [tefkah/emacs-docs](https://github.com/tefkah/emacs-docs) - The documentation website Emacs deserves
 - [cardano-foundation/CIPs](https://github.com/cardano-foundation/CIPs) - 
-- [berry-pool/nami](https://github.com/berry-pool/nami) - Nami Wallet is a browser based wallet extension to interact with the Cardano blockchain.
+- [input-output-hk/nami](https://github.com/input-output-hk/nami) - Nami Wallet is a browser based wallet extension to interact with the Cardano blockchain.
 - [televator-apps/vimari](https://github.com/televator-apps/vimari) - Safari port of vimium
 - [Sean10/markless](https://github.com/Sean10/markless) - temporarily sean10's custom made version from tejasvi/markless. A vscode markdown WYSIWYG extension called Markless_sean10
 - [be5invis/Iosevka](https://github.com/be5invis/Iosevka) - Versatile typeface for code, from code.
@@ -1089,8 +1087,10 @@
 
 ## Nix 
 
+- [fpindia/fpindia-chat](https://github.com/fpindia/fpindia-chat) - Matrix server (NixOS) for FPIndia
+- [OceanSprint/pydev](https://github.com/OceanSprint/pydev) - An opinionated environment for developing Python packages.
 - [juspay/remote-development](https://github.com/juspay/remote-development) - NixOS configuration for shared remote development via SSH
-- [nix-community/srvos](https://github.com/nix-community/srvos) - NixOS profiles for servers
+- [nix-community/srvos](https://github.com/nix-community/srvos) - NixOS profiles for servers [maintainer=@numtide]
 - [srid/dioxus-desktop-template](https://github.com/srid/dioxus-desktop-template) - A starter template for Dioxus Desktop apps w/ Tailwind & Nix
 - [ryan4yin/nixos-and-flakes-book](https://github.com/ryan4yin/nixos-and-flakes-book) - :hammer_and_wrench: :heart: Want to know NixOS & Flakes in detail? Looking for a beginner-friendly tutorial? Then you've come to the right place!  想要学习使用 NixOS 与 Flakes 吗？在寻找一份新手友好的教程？那你可来对地方了！
 - [nixified-ai/flake](https://github.com/nixified-ai/flake) - A Nix flake for many AI projects
@@ -1103,6 +1103,7 @@
 - [brendanzab/ocaml-flake-example](https://github.com/brendanzab/ocaml-flake-example) - An overly elaborate example of building a ‘Hello World’ package with Nix flakes, OCaml, and Dune
 - [juspay/services-flake](https://github.com/juspay/services-flake) - NixOS-like services for Nix flakes
 - [mrkkrp/emacs-package-flake](https://github.com/mrkkrp/emacs-package-flake) - A Nix library that facilitates definition of flakes for Emacs packages
+- [nix-community/noogle](https://github.com/nix-community/noogle) - https://noogle.dev - nix function exploring. [maintainer=@hsjobeki]
 - [nickel-lang/organist](https://github.com/nickel-lang/organist) - Control all your tooling from a single console
 - [jetpack-io/nixtest](https://github.com/jetpack-io/nixtest) - A tiny unit testing framework written in pure Nix
 - [shivaraj-bh/nix-workshop](https://github.com/shivaraj-bh/nix-workshop) - Workshop materials
@@ -1112,7 +1113,7 @@
 - [nix-community/ethereum.nix](https://github.com/nix-community/ethereum.nix) - Nix packages and NixOS modules for the Ethereum ecosystem. [maintainers=@aldoborrero,@brianmcgee,@selfuryon]
 - [nix-systems/flake-outputs](https://github.com/nix-systems/flake-outputs) - Get buildable outputs of a flake
 - [nix-systems/aarch64-darwin](https://github.com/nix-systems/aarch64-darwin) - 
-- [juspay/nix-dev-home](https://github.com/juspay/nix-dev-home) - A `home-manager` template providing useful tools & settings for Nix-based development
+- [juspay/nix-dev-home](https://github.com/juspay/nix-dev-home) - A `home-manager` template providing useful tools & settings for Nix-based development (macOS & Linux supported)
 - [cachix/pre-commit-hooks.nix](https://github.com/cachix/pre-commit-hooks.nix) - Seamless integration of https://pre-commit.com git hooks with Nix.
 - [juspay/jenkins-nix-ci](https://github.com/juspay/jenkins-nix-ci) - A NixOS module for Jenkins, optimized specifically for running projects using Nix.
 - [purifix/purifix](https://github.com/purifix/purifix) - The PureScript Package Manager in Nix
@@ -1183,6 +1184,7 @@
 - [nix-community/NixOS-WSL](https://github.com/nix-community/NixOS-WSL) - NixOS on WSL(2) [maintainer=@nzbr]
 - [obsidiansystems/obelisk-systemd](https://github.com/obsidiansystems/obelisk-systemd) - Turn your obelisk app into a systemd service
 - [obsidiansystems/obelisk-tailwind-example](https://github.com/obsidiansystems/obelisk-tailwind-example) - An example project using Obelisk, PostCSS, and Tailwind CSS
+- [srid/pandoc-link-context](https://github.com/srid/pandoc-link-context) - Extract context around links in Pandoc
 - [srid/reflex-stone](https://github.com/srid/reflex-stone) - Template repository for writing GHCJS/Reflex apps targeting static sites without a backend.
 - [vlaci/nix-doom-emacs](https://github.com/vlaci/nix-doom-emacs) - doom-emacs packaged for Nix
 - [juspay/hoogleverse](https://github.com/juspay/hoogleverse) - Host Hoogle via Nix / NixOS, with handpicked list of packages
@@ -1351,6 +1353,7 @@
 ## PureScript 
 
 - [cdepillabout/cabal2nixWithoutIFD](https://github.com/cdepillabout/cabal2nixWithoutIFD) - 
+- [nammayatri/nammayatri](https://github.com/nammayatri/nammayatri) - A Direct-to-Driver open mobility platform powering the next-generation of mobility applications in India.
 - [ArdanaLabs/hello-cardano-template](https://github.com/ArdanaLabs/hello-cardano-template) - 
 - [purescript-gjs/purescript-gjs](https://github.com/purescript-gjs/purescript-gjs) - GNOME JavaScript bindings for PureScript
 - [purescript-react/purescript-react-basic](https://github.com/purescript-react/purescript-react-basic) - An opinionated set of bindings to the React library, optimizing for the most basic use cases
@@ -1364,7 +1367,7 @@
 - [alexmingoia/pux-starter-app](https://github.com/alexmingoia/pux-starter-app) - Starter Pux app w/ hot-reloading and isomorphic routing and rendering
 - [srid/Pallanguzhi](https://github.com/srid/Pallanguzhi) - A Tamil mancala game written in PureScript
 - [kritzcreek/purescript-matrices](https://github.com/kritzcreek/purescript-matrices) - Simple two-dimensional matrices backed by a flat array
-- [osener/wring](https://github.com/osener/wring) - Extract content from webpages using CSS Selectors, XPath, and JS expressions
+- [ozanmakes/wring](https://github.com/ozanmakes/wring) - Extract content from webpages using CSS Selectors, XPath, and JS expressions
 - [alexmingoia/purescript-pux](https://github.com/alexmingoia/purescript-pux) - Build type-safe web apps with PureScript.
 - [purescript-contrib/purescript-ace](https://github.com/purescript-contrib/purescript-ace) - Purescript bindings for the Ace editor
 - [paf31/purescript-book](https://github.com/paf31/purescript-book) - Sources for the PureScript book
@@ -1532,6 +1535,9 @@
 
 ## Rust 
 
+- [zhaofengli/colmena](https://github.com/zhaofengli/colmena) - A simple, stateless NixOS deployment tool
+- [leontoeides/indicium](https://github.com/leontoeides/indicium) - 🔎 A simple in-memory search for collections and key-value stores.
+- [greyblake/nutype](https://github.com/greyblake/nutype) - Rust newtype with guarantees  🇺🇦 🦀
 - [Anush008/fastembed-rs](https://github.com/Anush008/fastembed-rs) - Rust implementation of @Qdrant/fastembed.
 - [ex0dus-0x/microkv](https://github.com/ex0dus-0x/microkv) - Minimal and persistent key-value store designed with security in mind
 - [bincode-org/bincode](https://github.com/bincode-org/bincode) - A binary encoder / decoder implementation in Rust.
@@ -1579,7 +1585,7 @@
 - [console-rs/indicatif](https://github.com/console-rs/indicatif) - A command line progress reporting library for Rust
 - [asciinema/agg](https://github.com/asciinema/agg) - asciinema gif generator
 - [jpopesculian/twitter-v2-rs](https://github.com/jpopesculian/twitter-v2-rs) - Rust bindings for Twitter API v2
-- [raphamorim/rio](https://github.com/raphamorim/rio) - A hardware-accelerated GPU terminal emulator powered by WebGPU, focusing to run in desktops and browsers.
+- [raphamorim/rio](https://github.com/raphamorim/rio) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
 - [emilk/egui](https://github.com/emilk/egui) - egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native
 - [sebcrozet/kiss3d](https://github.com/sebcrozet/kiss3d) - Keep it simple, stupid 3d graphics engine for Rust.
 - [RazrFalcon/resvg](https://github.com/RazrFalcon/resvg) - An SVG rendering library.
@@ -1677,7 +1683,7 @@
 ## Shell 
 
 - [numtide/prj-spec](https://github.com/numtide/prj-spec) - Project Base Directory Specification
-- [nix-community/nixos-anywhere](https://github.com/nix-community/nixos-anywhere) - install nixos everywhere via ssh
+- [nix-community/nixos-anywhere](https://github.com/nix-community/nixos-anywhere) - install nixos everywhere via ssh [maintainer=@numtide]
 - [Kranzes/nix-darwin-template](https://github.com/Kranzes/nix-darwin-template) - A bare-bones template for setting up Nix on macOS for using nix-darwin with flakes
 - [3noch/nix-bundle-exe](https://github.com/3noch/nix-bundle-exe) - Simple Nix derivations to bundle executables
 - [Bugswriter/notflix](https://github.com/Bugswriter/notflix) - Notflix is a shell script to search and stream torrent.
@@ -1774,12 +1780,12 @@
 
 ## TypeScript 
 
+- [garnix-io/garn](https://github.com/garnix-io/garn) - garn is a build tool and environment manager that replaces justfiles/makefiles, docker, and the annoying parts of READMEs. The builders lingua franca.
 - [pionxzh/chatgpt-exporter](https://github.com/pionxzh/chatgpt-exporter) - Export and Share your ChatGPT conversation history
 - [phindle/error-lens](https://github.com/phindle/error-lens) - Visual Studio Code extension which enhances the display of errors and warnings.
 - [htmlstreamofficial/preline](https://github.com/htmlstreamofficial/preline) - Preline UI is an open-source set of prebuilt UI components based on the utility-first Tailwind CSS framework.
 - [mark-when/mw](https://github.com/mark-when/mw) - Markwhen CLI
 - [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
-- [nix-community/noogle](https://github.com/nix-community/noogle) - https://noogle.dev - nix function exploring. [maintainer=@hsjobeki]
 - [DeterminateSystems/nix-installer-action](https://github.com/DeterminateSystems/nix-installer-action) - The Github Action for the Determinate Nix Installer
 - [motion-canvas/motion-canvas](https://github.com/motion-canvas/motion-canvas) - Visualize Your Ideas With Code
 - [vilm3r/sendstr-web](https://github.com/vilm3r/sendstr-web) - Sendstr is an open source end-to-end encrypted shared clipboard app built on top of Nostr.
