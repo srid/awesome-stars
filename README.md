@@ -66,6 +66,7 @@
 - [Vala](#vala)
 - [Vim Script](#vim-script)
 - [Vue](#vue)
+- [Zig](#zig)
 - [hoon](#hoon)
 
 ## Agda 
@@ -345,6 +346,7 @@
 
 ## Go 
 
+- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - The mighty, self-hostable Git server for the command line🍦
 - [maaslalani/slides](https://github.com/maaslalani/slides) - Terminal based presentation tool
 - [Mic92/sops-nix](https://github.com/Mic92/sops-nix) - Atomic secret provisioning for NixOS based on sops
 - [F1bonacc1/process-compose](https://github.com/F1bonacc1/process-compose) - Process Compose is a simple and flexible scheduler and orchestrator to manage non-containerized applications.
@@ -522,6 +524,7 @@
 
 ## Haskell 
 
+- [jgm/skylighting](https://github.com/jgm/skylighting) - A Haskell syntax highlighting library with tokenizers derived from KDE syntax highlighting descriptions
 - [ners/dosh](https://github.com/ners/dosh) - The power of Haskell in your terminal!
 - [well-typed/unfolder](https://github.com/well-typed/unfolder) - Repository with code snippets that accompany episodes of The Haskell Unfolder
 - [juspay/todo-app](https://github.com/juspay/todo-app) - WIP: A demo Haskell app showing the use of `flake-parts` to enable various dev workflows
@@ -1057,7 +1060,7 @@
 
 ## MDX 
 
-- [juspay/flakular.in](https://github.com/juspay/flakular.in) - WIP: A guide to writing modular Nix flakes for developing software and systems
+- [juspay/flakular.in](https://github.com/juspay/flakular.in) - MOVED TO https://github.com/nixos-asia/website and https://github.com/flake-parts/community.flake.parts
 - [DeterminateSystems/zero-to-nix](https://github.com/DeterminateSystems/zero-to-nix) - Zero to Nix is your guide to learning Nix and flakes. Created by Determinate Systems.
 - [input-output-hk/cardano-documentation](https://github.com/input-output-hk/cardano-documentation) - 
 - [yewstack/yew](https://github.com/yewstack/yew) - Rust / Wasm framework for creating reliable and efficient web applications
@@ -1070,6 +1073,7 @@
 
 ## Markdown 
 
+- [nixos-asia/website](https://github.com/nixos-asia/website) - The NixOS Asia website
 - [srid/srid](https://github.com/srid/srid) - Source for https://srid.ca (do you know that you can git clone and `nix run` this website locally?)
 - [srid/haskell-ladder](https://github.com/srid/haskell-ladder) - WIP: Haskell Pedagogic Ladder (Run `nix run` to run the site locally)
 - [uiuc-cs-zettelkasten/uiuc-cs-zettelkasten.github.io](https://github.com/uiuc-cs-zettelkasten/uiuc-cs-zettelkasten.github.io) - UIUC Computer Science Zettelkasten
@@ -1535,6 +1539,9 @@
 
 ## Rust 
 
+- [zbirenbaum/copilot-rs](https://github.com/zbirenbaum/copilot-rs) - Copilot LSP implementation in Rust
+- [ekzhang/sshx](https://github.com/ekzhang/sshx) - Fast, collaborative live terminal sharing over the web
+- [tvlfyi/tvix](https://github.com/tvlfyi/tvix) - Tvix - A Rust implementation of Nix. Read-only mirror of https://cs.tvl.fyi/depot/-/tree/tvix
 - [zhaofengli/colmena](https://github.com/zhaofengli/colmena) - A simple, stateless NixOS deployment tool
 - [leontoeides/indicium](https://github.com/leontoeides/indicium) - 🔎 A simple in-memory search for collections and key-value stores.
 - [greyblake/nutype](https://github.com/greyblake/nutype) - Rust newtype with guarantees  🇺🇦 🦀
@@ -1546,7 +1553,7 @@
 - [srid/felicity](https://github.com/srid/felicity) - A dumb mood tracker app
 - [lsd-rs/lsd](https://github.com/lsd-rs/lsd) - The next gen ls command
 - [dioxus-community/dioxus-redux](https://github.com/dioxus-community/dioxus-redux) - State management for Dioxus 🧬
-- [mjovanc/awesome-tokio](https://github.com/mjovanc/awesome-tokio) - Awesome books, tutorials, courses, and resources for the Tokio asynchronous runtime ecosystem. ⚡
+- [mjovanc/awesome-tokio](https://github.com/mjovanc/awesome-tokio) - Awesome books, tutorials, courses, and resources for Tokio. ⚡
 - [launchbadge/sqlx](https://github.com/launchbadge/sqlx) - 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, SQLite, and MSSQL.
 - [DioxusLabs/dioxus-std](https://github.com/DioxusLabs/dioxus-std) - A library to provide abstractions to access common utilities when developing Dioxus applications.
 - [marc2332/dioxus-query](https://github.com/marc2332/dioxus-query) - Fully-typed, async, reusable state management and synchronization for Dioxus 🧬
@@ -1682,6 +1689,7 @@
 
 ## Shell 
 
+- [MatthewCroughan/NixThePlanet](https://github.com/MatthewCroughan/NixThePlanet) - Run macOS, Windows and more via a single Nix command, or simple nixosModules
 - [numtide/prj-spec](https://github.com/numtide/prj-spec) - Project Base Directory Specification
 - [nix-community/nixos-anywhere](https://github.com/nix-community/nixos-anywhere) - install nixos everywhere via ssh [maintainer=@numtide]
 - [Kranzes/nix-darwin-template](https://github.com/Kranzes/nix-darwin-template) - A bare-bones template for setting up Nix on macOS for using nix-darwin with flakes
@@ -1780,6 +1788,7 @@
 
 ## TypeScript 
 
+- [bbycroft/llm-viz](https://github.com/bbycroft/llm-viz) - 3D Visualization of an GPT-style LLM
 - [garnix-io/garn](https://github.com/garnix-io/garn) - garn is a build tool and environment manager that replaces justfiles/makefiles, docker, and the annoying parts of READMEs. The builders lingua franca.
 - [pionxzh/chatgpt-exporter](https://github.com/pionxzh/chatgpt-exporter) - Export and Share your ChatGPT conversation history
 - [phindle/error-lens](https://github.com/phindle/error-lens) - Visual Studio Code extension which enhances the display of errors and warnings.
@@ -1868,6 +1877,10 @@
 ## Vue 
 
 - [tipsy/profile-summary-for-github](https://github.com/tipsy/profile-summary-for-github) - Tool for visualizing GitHub profiles
+
+## Zig 
+
+- [water-sucks/nixos](https://github.com/water-sucks/nixos) - A unified NixOS tooling replacement for nixos-* utilities
 
 ## hoon 
 
