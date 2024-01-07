@@ -267,7 +267,7 @@
 
 ## Emacs Lisp 
 
-- [zerolfx/copilot.el](https://github.com/zerolfx/copilot.el) - An unofficial Copilot plugin for Emacs.
+- [copilot-emacs/copilot.el](https://github.com/copilot-emacs/copilot.el) - An unofficial Copilot plugin for Emacs.
 - [mclear-tools/tabspaces](https://github.com/mclear-tools/tabspaces) - 
 - [rougier/nano-emacs](https://github.com/rougier/nano-emacs) - GNU Emacs / N Λ N O - Emacs made simple
 - [abo-abo/org-download](https://github.com/abo-abo/org-download) - Drag and drop images to Emacs org-mode
@@ -356,7 +356,7 @@
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
 - [emicklei/melrose](https://github.com/emicklei/melrose) - interactive programming of melodies, producing MIDI
 - [climech/grit](https://github.com/climech/grit) - Multitree-based personal task manager
-- [mickael-menu/zk](https://github.com/mickael-menu/zk) - A plain text note-taking assistant
+- [zk-org/zk](https://github.com/zk-org/zk) - A plain text note-taking assistant
 - [multiverse-vcs/go-multiverse](https://github.com/multiverse-vcs/go-multiverse) - Decentralized Version Control System
 - [karan/fleets](https://github.com/karan/fleets) - Automatically delete tweets, retweets, and favorites.
 - [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better 'df' alternative
@@ -499,6 +499,7 @@
 - [fiatjaf/nostrexplained.com](https://github.com/fiatjaf/nostrexplained.com) - 
 - [bitstein/justmeat.co](https://github.com/bitstein/justmeat.co) - Carnivorous eating, paleolithic ketogenic diet and medicine, and zero carb lifestyle. Don’t bother with vegetables. Just eat meat.
 - [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) - Documentation that simply works
+- [srid/srid](https://github.com/srid/srid) - Source for https://srid.ca (do you know that you can git clone and `nix run` this website locally?)
 - [tallesl/Rich-Hickey-fanclub](https://github.com/tallesl/Rich-Hickey-fanclub) - "every time I watch one of his talks I feel like someone has gone in and organized my brain"
 - [abuseofnotation/category-theory-illustrated](https://github.com/abuseofnotation/category-theory-illustrated) - A book about category theory
 - [xygn/Notes](https://github.com/xygn/Notes) - Best viewed as an Obsidian Vault.
@@ -1073,7 +1074,6 @@
 ## Markdown 
 
 - [nixos-asia/website](https://github.com/nixos-asia/website) - The NixOS Asia website
-- [srid/srid](https://github.com/srid/srid) - Source for https://srid.ca (do you know that you can git clone and `nix run` this website locally?)
 - [srid/haskell-ladder](https://github.com/srid/haskell-ladder) - WIP: Haskell Pedagogic Ladder (Run `nix run` to run the site locally)
 - [uiuc-cs-zettelkasten/uiuc-cs-zettelkasten.github.io](https://github.com/uiuc-cs-zettelkasten/uiuc-cs-zettelkasten.github.io) - UIUC Computer Science Zettelkasten
 - [input-output-hk/adrestia](https://github.com/input-output-hk/adrestia) - APIs & SDK for interacting with Cardano.
@@ -1090,6 +1090,7 @@
 
 ## Nix 
 
+- [NorfairKing/typst.nix](https://github.com/NorfairKing/typst.nix) - Making typst documents with Nix
 - [MatthewCroughan/NixThePlanet](https://github.com/MatthewCroughan/NixThePlanet) - Run macOS, Windows and more via a single Nix command, or simple nixosModules
 - [fpindia/fpindia-chat](https://github.com/fpindia/fpindia-chat) - Matrix server (NixOS) for FPIndia
 - [OceanSprint/pydev](https://github.com/OceanSprint/pydev) - An opinionated environment for developing Python packages.
@@ -1494,6 +1495,7 @@
 - [lexi-lambda/hackett](https://github.com/lexi-lambda/hackett) - WIP implementation of a Haskell-like Lisp in Racket
 - [lexi-lambda/lexi-lambda.github.io](https://github.com/lexi-lambda/lexi-lambda.github.io) - 
 - [racket/pict](https://github.com/racket/pict) - 
+- [racket/racket](https://github.com/racket/racket) - The Racket repository
 - [danprager/racket-2048](https://github.com/danprager/racket-2048) - The 2048 game implemented in Racket language
 - [ntoronto/pict3d](https://github.com/ntoronto/pict3d) - 3-dimensional picts
 - [mbutterick/pollen](https://github.com/mbutterick/pollen) - book-publishing system [mirror of main repo at https://git.matthewbutterick.com/mbutterick/pollen]
@@ -1684,7 +1686,6 @@
 
 ## Scheme 
 
-- [racket/racket](https://github.com/racket/racket) - The Racket repository
 - [srid/boalisp](https://github.com/srid/boalisp) - Lisp to Python bytecode compiler (2007 hack)
 
 ## Shell 
@@ -1814,7 +1815,7 @@
 - [microsoft/vscode-edge-devtools](https://github.com/microsoft/vscode-edge-devtools) - A VSCode extension that allows you to use browser devtools from within the editor. The devtools will connect to an instance of Microsoft Edge giving you the ability to alter CSS styling, perform diagn
 - [pop-os/shell](https://github.com/pop-os/shell) - Pop!_OS Shell
 - [balena-io/etcher](https://github.com/balena-io/etcher) - Flash OS images to SD cards & USB drives, safely and easily.
-- [markmap/markmap](https://github.com/markmap/markmap) - Visualize your Markdown as mindmaps with Markmap.
+- [markmap/markmap](https://github.com/markmap/markmap) - Build mindmaps with plain text
 - [glacambre/firenvim](https://github.com/glacambre/firenvim) - Embed Neovim in Chrome, Firefox & others.
 - [blacksmithgu/obsidian-dataview](https://github.com/blacksmithgu/obsidian-dataview) - A high-performance data index and query language over Markdown files, for https://obsidian.md/.
 - [mushanshitiancai/vscode-paste-image](https://github.com/mushanshitiancai/vscode-paste-image) - paste image from clipboard to markdown/asciidoc directly!
@@ -1829,7 +1830,7 @@
 - [banga/git-split-diffs](https://github.com/banga/git-split-diffs) - Syntax highlighted side-by-side diffs in your terminal
 - [osmoscraft/osmosfeed](https://github.com/osmoscraft/osmosfeed) - Turn GitHub into an RSS reader
 - [nix-community/vscode-nix-ide](https://github.com/nix-community/vscode-nix-ide) - Nix language support for VSCode editor [maintainer: @jnoortheen]
-- [mickael-menu/zk-vscode](https://github.com/mickael-menu/zk-vscode) - Visual Studio Code extension for zk
+- [zk-org/zk-vscode](https://github.com/zk-org/zk-vscode) - Visual Studio Code extension for zk
 - [windicss/windicss](https://github.com/windicss/windicss) - Next generation utility-first CSS framework.
 - [tw-in-js/twind-cli](https://github.com/tw-in-js/twind-cli) - 
 - [bangle-io/bangle-editor](https://github.com/bangle-io/bangle-editor) - Collection of higher level rich text editing tools. It powers the local only note taking app https://bangle.io
