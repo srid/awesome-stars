@@ -500,6 +500,7 @@
 - [bitstein/justmeat.co](https://github.com/bitstein/justmeat.co) - Carnivorous eating, paleolithic ketogenic diet and medicine, and zero carb lifestyle. Don’t bother with vegetables. Just eat meat.
 - [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) - Documentation that simply works
 - [srid/srid](https://github.com/srid/srid) - Source for https://srid.ca (do you know that you can git clone and `nix run` this website locally?)
+- [plaintextaccounting/plaintextaccounting](https://github.com/plaintextaccounting/plaintextaccounting) - The plaintextaccounting.org website, a portal to Ledger, hledger, beancount and co. Also the PTA wiki.
 - [tallesl/Rich-Hickey-fanclub](https://github.com/tallesl/Rich-Hickey-fanclub) - "every time I watch one of his talks I feel like someone has gone in and organized my brain"
 - [abuseofnotation/category-theory-illustrated](https://github.com/abuseofnotation/category-theory-illustrated) - A book about category theory
 - [xygn/Notes](https://github.com/xygn/Notes) - Best viewed as an Obsidian Vault.
@@ -922,6 +923,7 @@
 
 ## JavaScript 
 
+- [flake-parts/community.flake.parts](https://github.com/flake-parts/community.flake.parts) - WIP: Upcoming flake-parts community website containing docs for various community modules
 - [lovvtide/satellite-web](https://github.com/lovvtide/satellite-web) - Satellite nostr client
 - [OhMyGuus/I-Still-Dont-Care-About-Cookies](https://github.com/OhMyGuus/I-Still-Dont-Care-About-Cookies) - Debloated fork of the extension "I don't care about cookies"
 - [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
@@ -1067,7 +1069,6 @@
 
 ## Makefile 
 
-- [plaintextaccounting/plaintextaccounting](https://github.com/plaintextaccounting/plaintextaccounting) - The plaintextaccounting.org website, a portal to Ledger, hledger, beancount and co. Also the PTA wiki.
 - [ehamberg/typeclassopedia-md](https://github.com/ehamberg/typeclassopedia-md) - Markdown version of the Haskell Typeclassopedia
 - [rabbitmq/rabbitmq-recent-history-exchange](https://github.com/rabbitmq/rabbitmq-recent-history-exchange) - RabbitMQ Recent History Exchange
 
@@ -1185,7 +1186,7 @@
 - [nix-community/neovim-nightly-overlay](https://github.com/nix-community/neovim-nightly-overlay) - [maintainer=@Kranzes]
 - [serokell/nix-templates](https://github.com/serokell/nix-templates) - Nix Flake templates for various languages
 - [tweag/jupyenv](https://github.com/tweag/jupyenv) - Declarative and reproducible Jupyter environments - powered by Nix
-- [nix-community/crate2nix](https://github.com/nix-community/crate2nix) - nix build file generator for rust crates
+- [nix-community/crate2nix](https://github.com/nix-community/crate2nix) - rebuild only changed crates in CI with crate2nix and nix
 - [oxalica/rust-overlay](https://github.com/oxalica/rust-overlay) - Pure and reproducible nix overlay of binary distributed rust toolchains
 - [barrucadu/nixfiles](https://github.com/barrucadu/nixfiles) - My NixOS configuration and assorted other crap.
 - [nix-community/NixOS-WSL](https://github.com/nix-community/NixOS-WSL) - NixOS on WSL(2) [maintainer=@nzbr]
@@ -1556,7 +1557,7 @@
 - [lsd-rs/lsd](https://github.com/lsd-rs/lsd) - The next gen ls command
 - [dioxus-community/dioxus-redux](https://github.com/dioxus-community/dioxus-redux) - State management for Dioxus 🧬
 - [mjovanc/awesome-tokio](https://github.com/mjovanc/awesome-tokio) - Awesome books, tutorials, courses, and resources for Tokio. ⚡
-- [launchbadge/sqlx](https://github.com/launchbadge/sqlx) - 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, SQLite, and MSSQL.
+- [launchbadge/sqlx](https://github.com/launchbadge/sqlx) - 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.
 - [DioxusLabs/dioxus-std](https://github.com/DioxusLabs/dioxus-std) - A library to provide abstractions to access common utilities when developing Dioxus applications.
 - [marc2332/dioxus-query](https://github.com/marc2332/dioxus-query) - Fully-typed, async, reusable state management and synchronization for Dioxus 🧬
 - [michalvavra/tauri-leptos-example](https://github.com/michalvavra/tauri-leptos-example) - Tauri and Leptos example.
@@ -1613,7 +1614,7 @@
 - [watchexec/watchexec](https://github.com/watchexec/watchexec) - Executes commands in response to file modifications
 - [zhaofengli/attic](https://github.com/zhaofengli/attic) - Multi-tenant Nix Binary Cache
 - [fathyb/carbonyl](https://github.com/fathyb/carbonyl) - Chromium running inside your terminal
-- [oxalica/nil](https://github.com/oxalica/nil) - NIx Language server, an incremental analysis assistent for writing in Nix.
+- [oxalica/nil](https://github.com/oxalica/nil) - NIx Language server, an incremental analysis assistant for writing in Nix.
 - [nix-community/comma](https://github.com/nix-community/comma) - Comma runs software without installing it. [maintainers=@Artturin,@burke,@DavHau]
 - [numtide/treefmt](https://github.com/numtide/treefmt) - one CLI to format your repo
 - [nix-community/nix-index](https://github.com/nix-community/nix-index) - Quickly locate nix packages with specific files [maintainers=@bennofs @figsoda @raitobezarius]
@@ -1692,7 +1693,6 @@
 
 - [numtide/prj-spec](https://github.com/numtide/prj-spec) - Project Base Directory Specification
 - [nix-community/nixos-anywhere](https://github.com/nix-community/nixos-anywhere) - install nixos everywhere via ssh [maintainer=@numtide]
-- [Kranzes/nix-darwin-template](https://github.com/Kranzes/nix-darwin-template) - A bare-bones template for setting up Nix on macOS for using nix-darwin with flakes
 - [3noch/nix-bundle-exe](https://github.com/3noch/nix-bundle-exe) - Simple Nix derivations to bundle executables
 - [Bugswriter/notflix](https://github.com/Bugswriter/notflix) - Notflix is a shell script to search and stream torrent.
 - [passff/passff-host](https://github.com/passff/passff-host) - Host app for the WebExtension PassFF
