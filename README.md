@@ -496,6 +496,7 @@
 
 ## HTML 
 
+- [evildmp/diataxis-documentation-framework](https://github.com/evildmp/diataxis-documentation-framework) - A systematic approach to creating better documentation.
 - [fiatjaf/nostrexplained.com](https://github.com/fiatjaf/nostrexplained.com) - 
 - [bitstein/justmeat.co](https://github.com/bitstein/justmeat.co) - Carnivorous eating, paleolithic ketogenic diet and medicine, and zero carb lifestyle. Don’t bother with vegetables. Just eat meat.
 - [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) - Documentation that simply works
@@ -567,7 +568,6 @@
 - [recursion-schemes/recursion-schemes](https://github.com/recursion-schemes/recursion-schemes) - Generalized bananas, lenses and barbed wire
 - [NorfairKing/feedback](https://github.com/NorfairKing/feedback) - Declarative feedback loop manager
 - [quchen/prettyprinter](https://github.com/quchen/prettyprinter) - A modern, extensible and well-documented prettyprinter.
-- [maralorn/nix-output-monitor](https://github.com/maralorn/nix-output-monitor) - Pipe your nix-build output through the nix-output-monitor a.k.a nom to get additional information while building.
 - [mlabs-haskell/plutip](https://github.com/mlabs-haskell/plutip) - A Cardano tool to spin up a testnet and run contracts with an EDSL to describe the instructions. Rhymes with tulip for no particular reason.
 - [swarm-game/swarm](https://github.com/swarm-game/swarm) - Resource gathering + programming game
 - [well-typed/large-records](https://github.com/well-typed/large-records) - Library to support efficient compilation of large records (linear in the number of record fields)
@@ -695,7 +695,6 @@
 - [vmchale/shake-dhall](https://github.com/vmchale/shake-dhall) - Facilities for using Shake + dhall
 - [hasura/eff](https://github.com/hasura/eff) - 🚧 a work in progress effect system for Haskell 🚧
 - [jgm/pandoc-types](https://github.com/jgm/pandoc-types) - types for representing structured documents
-- [maralorn/kassandra](https://github.com/maralorn/kassandra) - A not yet recommended for public use taskwarrior frontend build with Haskell and reflex-frp
 - [k0001/di](https://github.com/k0001/di) - Easy and powerful typeful logging without monad towers, in Haskell.
 - [Ericson2314/matrix-client](https://github.com/Ericson2314/matrix-client) - 
 - [Holmusk/three-layer](https://github.com/Holmusk/three-layer) - :three: :cake: Architecture of the Haskell web applications
@@ -707,7 +706,6 @@
 - [jgm/commonmark-hs](https://github.com/jgm/commonmark-hs) - Pure Haskell commonmark parsing library, designed to be flexible and extensible
 - [int-index/union](https://github.com/int-index/union) - Extensible type-safe unions for Haskell
 - [int-index/ether](https://github.com/int-index/ether) - Monad Transformers and Classes
-- [maralorn/haskell-taskwarrior](https://github.com/maralorn/haskell-taskwarrior) - Types and aeson instances for the taskwarrior json import/export specification
 - [pkamenarsky/concur-replica](https://github.com/pkamenarsky/concur-replica) - Server-side VDOM UI framework for Concur
 - [haskellari/some](https://github.com/haskellari/some) - Existential type.
 - [dmwit/universe](https://github.com/dmwit/universe) - Classes for types where we know all the values
@@ -1215,6 +1213,7 @@
 
 ## Nushell 
 
+- [shivaraj-bh/search-flake-inputs](https://github.com/shivaraj-bh/search-flake-inputs) - Recursively search for a flake input
 - [srid/nix-health](https://github.com/srid/nix-health) - 🩺 Check the health of your Nix install
 - [DeterminateSystems/nuenv](https://github.com/DeterminateSystems/nuenv) - A Nushell environment for Nix
 
@@ -1384,7 +1383,7 @@
 ## Python 
 
 - [embedchain/embedchain](https://github.com/embedchain/embedchain) - The Open Source RAG framework
-- [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - An AI copilot for your second brain. Search and chat with your personal knowledge base, online or offline
+- [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. A copilot to search and chat (using RAG) with your knowledge base (pdf, markdown, org). Use powerful, online (e.g gpt4) or private, offline (e.g mistral) LLMs. Self-host locally 
 - [d2l-ai/d2l-en](https://github.com/d2l-ai/d2l-en) - Interactive deep learning book with multi-framework code, math, and discussions. Adopted at 500 universities from 70 countries including Stanford, MIT, Harvard, and Cambridge.
 - [executablebooks/jupyter-book](https://github.com/executablebooks/jupyter-book) - Create beautiful, publication-quality books and documents from computational content.
 - [maubot/maubot](https://github.com/maubot/maubot) - A plugin-based Matrix bot system.
@@ -1638,7 +1637,7 @@
 - [render-rs/render.rs](https://github.com/render-rs/render.rs) - 🔏 A safe and simple template engine with the ergonomics of JSX
 - [utkarshkukreti/markup.rs](https://github.com/utkarshkukreti/markup.rs) - A blazing fast, type-safe template engine for Rust.
 - [kaj/ructe](https://github.com/kaj/ructe) - Rust Compiled Templates with static-file handling
-- [kivikakk/comrak](https://github.com/kivikakk/comrak) - CommonMark + GFM compatible Markdown parser and renderer
+- [kivikakk/comrak](https://github.com/kivikakk/comrak) - [mirror] CommonMark + GFM compatible Markdown parser and renderer
 - [mkroman/rss-watch](https://github.com/mkroman/rss-watch) - rss-watch is a command-line utillity for watching RSS/Atom feeds and executing scripts when there's new entries.
 - [jugglerchris/rust-html2text](https://github.com/jugglerchris/rust-html2text) - Rust library to render HTML as text.
 - [jfbilodeau/yew_form](https://github.com/jfbilodeau/yew_form) - Components to simplify handling forms with Yew
