@@ -34,6 +34,7 @@
 - [MDX](#mdx)
 - [Makefile](#makefile)
 - [Markdown](#markdown)
+- [NCL](#ncl)
 - [Nim](#nim)
 - [Nix](#nix)
 - [Nushell](#nushell)
@@ -345,6 +346,7 @@
 
 ## Go 
 
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 2, Mistral, and other large language models locally.
 - [MichaelMure/git-bug](https://github.com/MichaelMure/git-bug) - Distributed, offline-first bug tracker embedded in git, with bridges
 - [matrix-org/pinecone](https://github.com/matrix-org/pinecone) - Peer-to-peer overlay routing for the Matrix ecosystem
 - [john-dev/private-ghp](https://github.com/john-dev/private-ghp) - publish github pages privately secured by github sso (oauth2)
@@ -921,7 +923,6 @@
 
 ## JavaScript 
 
-- [flake-parts/community.flake.parts](https://github.com/flake-parts/community.flake.parts) - WIP: Upcoming flake-parts community website containing docs for various community modules
 - [lovvtide/satellite-web](https://github.com/lovvtide/satellite-web) - Satellite nostr client
 - [OhMyGuus/I-Still-Dont-Care-About-Cookies](https://github.com/OhMyGuus/I-Still-Dont-Care-About-Cookies) - Debloated fork of the extension "I don't care about cookies"
 - [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
@@ -1083,14 +1084,20 @@
 - [srid/neuron-template](https://github.com/srid/neuron-template) - A template to get started with neuron
 - [Kuratoro/zk.zettel.page](https://github.com/Kuratoro/zk.zettel.page) - r/Zettelkasten's Zettelkasten
 
+## NCL 
+
+- [nickel-lang/organist](https://github.com/nickel-lang/organist) - Control all your tooling from a single console
+
 ## Nim 
 
 - [bluenote10/NimSvg](https://github.com/bluenote10/NimSvg) - Nim-based DSL allowing to generate SVG files and GIF animations.
 
 ## Nix 
 
+- [flake-parts/community.flake.parts](https://github.com/flake-parts/community.flake.parts) - A `flake-parts` community website containing docs for various community modules
 - [NorfairKing/typst.nix](https://github.com/NorfairKing/typst.nix) - Making typst documents with Nix
 - [MatthewCroughan/NixThePlanet](https://github.com/MatthewCroughan/NixThePlanet) - Run macOS, Windows and more via a single Nix command, or simple nixosModules
+- [tvlfyi/tvix](https://github.com/tvlfyi/tvix) - Tvix - A Rust implementation of Nix. Read-only mirror of https://cs.tvl.fyi/depot/-/tree/tvix
 - [fpindia/fpindia-chat](https://github.com/fpindia/fpindia-chat) - Matrix server (NixOS) for FPIndia
 - [OceanSprint/pydev](https://github.com/OceanSprint/pydev) - An opinionated environment for developing Python packages.
 - [juspay/remote-development](https://github.com/juspay/remote-development) - NixOS configuration for shared remote development via SSH
@@ -1108,7 +1115,6 @@
 - [juspay/services-flake](https://github.com/juspay/services-flake) - NixOS-like services for Nix flakes
 - [mrkkrp/emacs-package-flake](https://github.com/mrkkrp/emacs-package-flake) - A Nix library that facilitates definition of flakes for Emacs packages
 - [nix-community/noogle](https://github.com/nix-community/noogle) - https://noogle.dev - nix function exploring. [maintainer=@hsjobeki]
-- [nickel-lang/organist](https://github.com/nickel-lang/organist) - Control all your tooling from a single console
 - [jetpack-io/nixtest](https://github.com/jetpack-io/nixtest) - A tiny unit testing framework written in pure Nix
 - [shivaraj-bh/nix-workshop](https://github.com/shivaraj-bh/nix-workshop) - Workshop materials
 - [tfc/nixos-anywhere-example](https://github.com/tfc/nixos-anywhere-example) - 
@@ -1306,7 +1312,6 @@
 - [Gabriella439/post-rfc](https://github.com/Gabriella439/post-rfc) - Blog post previews in need of peer review
 - [garbas/nix-virtualenv](https://github.com/garbas/nix-virtualenv) - Might just be your next virtualenv
 - [jwbuurlage/category-theory-programmers](https://github.com/jwbuurlage/category-theory-programmers) - Category theory in the context of (functional) programming
-- [nikitavoloboev/my-mac](https://github.com/nikitavoloboev/my-mac) - Apps/tools I use on macOS
 - [rainbyte/haskell-ide-chart](https://github.com/rainbyte/haskell-ide-chart) - Haskell state of editor/IDE support
 - [ziishaned/learn-regex](https://github.com/ziishaned/learn-regex) - Learn regex the easy way
 - [stackblitz/core](https://github.com/stackblitz/core) - Online IDE powered by Visual Studio Code ⚡️
@@ -1422,6 +1427,7 @@
 - [srid/email2dropbox](https://github.com/srid/email2dropbox) - Send emails; receive them as JSON in your Dropbox (work in progress)
 - [jpadilla/postmark-inbound-python](https://github.com/jpadilla/postmark-inbound-python) - Python Wrapper for Postmark Inbound
 - [dropbox/mdwebhook](https://github.com/dropbox/mdwebhook) - A sample app that uses webhooks to convert Markdown files to HTML.
+- [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Over 250 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTermin
 - [Pylons/pyramid](https://github.com/Pylons/pyramid) - Pyramid - A Python web framework
 - [i-tu/Hasklig](https://github.com/i-tu/Hasklig) - Hasklig - a code font with monospaced ligatures
 - [mahmoud/boltons](https://github.com/mahmoud/boltons) - 🔩 Like builtins, but boltons. 250+ constructs, recipes, and snippets which extend (and rely on nothing but) the Python standard library.  Nothing like Michael Bolton.
@@ -1541,9 +1547,9 @@
 
 ## Rust 
 
+- [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 - [zbirenbaum/copilot-rs](https://github.com/zbirenbaum/copilot-rs) - Copilot LSP implementation in Rust
 - [ekzhang/sshx](https://github.com/ekzhang/sshx) - Fast, collaborative live terminal sharing over the web
-- [tvlfyi/tvix](https://github.com/tvlfyi/tvix) - Tvix - A Rust implementation of Nix. Read-only mirror of https://cs.tvl.fyi/depot/-/tree/tvix
 - [zhaofengli/colmena](https://github.com/zhaofengli/colmena) - A simple, stateless NixOS deployment tool
 - [leontoeides/indicium](https://github.com/leontoeides/indicium) - 🔎 A simple in-memory search for collections and key-value stores.
 - [greyblake/nutype](https://github.com/greyblake/nutype) - Rust newtype with guarantees  🇺🇦 🦀
@@ -1705,6 +1711,7 @@
 - [oh-my-fish/oh-my-fish](https://github.com/oh-my-fish/oh-my-fish) - The Fish Shell Framework
 - [c00kiemon5ter/iii](https://github.com/c00kiemon5ter/iii) - POSIX sh frontend to iim or ii
 - [Dunedan/mbp-2016-linux](https://github.com/Dunedan/mbp-2016-linux) - State of Linux on the MacBook Pro 2016 & 2017
+- [nikitavoloboev/config](https://github.com/nikitavoloboev/config) - Apps/CLIs/configs I use on macOS/iOS. Fish, Karabiner, Cursor..
 - [negativetwelve/heroku-buildpack-subdir](https://github.com/negativetwelve/heroku-buildpack-subdir) - Deploy apps from subdirectories to Heroku
 - [jeaye/nixos-in-place](https://github.com/jeaye/nixos-in-place) - Install NixOS on top of any existing Linux distribution without rebooting
 - [katspaugh/youtube-flashcards](https://github.com/katspaugh/youtube-flashcards) - Extract screenshots & audio clips from YouTube videos into Anki cards
@@ -1721,7 +1728,6 @@
 - [heroku/docker-python](https://github.com/heroku/docker-python) - [DEPRECATED] Docker image for Python (and Heroku).
 - [heroku/dotnet-buildpack](https://github.com/heroku/dotnet-buildpack) - ASP.NET 5 Buildpack
 - [srid/heroku-buildpack-elm](https://github.com/srid/heroku-buildpack-elm) - Heroku buildpack for deploying Elm apps (NEEDS MAINTAINER)
-- [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Over 250 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTermin
 - [ActiveState/activepython-docker](https://github.com/ActiveState/activepython-docker) - ActivePython Docker image
 - [illusori/bash-itunes](https://github.com/illusori/bash-itunes) - Shell script to control iTunes from the command-line.
 - [babun/babun](https://github.com/babun/babun) - Babun - a Windows shell you will love!
