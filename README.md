@@ -95,7 +95,7 @@
 - [davatorium/rofi](https://github.com/davatorium/rofi) - Rofi: A window switcher, application launcher and dmenu replacement
 - [mpv-player/mpv](https://github.com/mpv-player/mpv) - 🎥 Command line video player
 - [imbushuo/mac-precision-touchpad](https://github.com/imbushuo/mac-precision-touchpad) - Windows Precision Touchpad Driver Implementation for Apple MacBook / Magic Trackpad
-- [netdata/netdata](https://github.com/netdata/netdata) - Monitor your servers, containers, and applications, in high-resolution and in real-time!
+- [netdata/netdata](https://github.com/netdata/netdata) - The open-source observability platform everyone needs!
 - [jarun/nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager
 - [mwyborski/Linux-Magic-Trackpad-2-Driver](https://github.com/mwyborski/Linux-Magic-Trackpad-2-Driver) - 
 - [matz/streem](https://github.com/matz/streem) - prototype of stream based programming language
@@ -107,6 +107,7 @@
 
 ## C# # 
 
+- [vitoplantamura/HackerNewsRemovals](https://github.com/vitoplantamura/HackerNewsRemovals) - List of stories removed from the Hacker News Front Page, updated in real time.
 - [themotte/vault](https://github.com/themotte/vault) - Quality Contribution Vault website.
 - [toddams/RazorLight](https://github.com/toddams/RazorLight) - Template engine based on Microsoft's Razor parsing engine for .NET Core
 - [Tewr/BlazorWorker](https://github.com/Tewr/BlazorWorker) - Library for creating DotNet Web Worker threads/multithreading in Client side Blazor
@@ -932,7 +933,7 @@
 - [Emurgo/yoroi-frontend](https://github.com/Emurgo/yoroi-frontend) - Yoroi Wallet - Cardano ADA Wallet - Your gateway to the financial world (extension frontend)
 - [tefkah/emacs-docs](https://github.com/tefkah/emacs-docs) - The documentation website Emacs deserves
 - [cardano-foundation/CIPs](https://github.com/cardano-foundation/CIPs) - 
-- [input-output-hk/nami](https://github.com/input-output-hk/nami) - Nami Wallet is a browser based wallet extension to interact with the Cardano blockchain.
+- [input-output-hk/nami](https://github.com/input-output-hk/nami) - Nami Wallet is a browser based wallet extension to interact with the Cardano blockchain. Support requests: https://iohk.zendesk.com/hc/en-us/requests/new
 - [televator-apps/vimari](https://github.com/televator-apps/vimari) - Safari port of vimium
 - [Sean10/markless](https://github.com/Sean10/markless) - temporarily sean10's custom made version from tejasvi/markless. A vscode markdown WYSIWYG extension called Markless_sean10
 - [be5invis/Iosevka](https://github.com/be5invis/Iosevka) - Versatile typeface for code, from code.
@@ -1094,6 +1095,7 @@
 
 ## Nix 
 
+- [jedimahdi/fourmolu-nix](https://github.com/jedimahdi/fourmolu-nix) - fourmolu nix configuration
 - [flake-parts/community.flake.parts](https://github.com/flake-parts/community.flake.parts) - A `flake-parts` community website containing docs for various community modules
 - [NorfairKing/typst.nix](https://github.com/NorfairKing/typst.nix) - Making typst documents with Nix
 - [MatthewCroughan/NixThePlanet](https://github.com/MatthewCroughan/NixThePlanet) - Run macOS, Windows and more via a single Nix command, or simple nixosModules
@@ -1348,7 +1350,7 @@
 ## PHP 
 
 - [nadrad/h-m-m](https://github.com/nadrad/h-m-m) - Hackers Mind Map
-- [gharlan/alfred-github-workflow](https://github.com/gharlan/alfred-github-workflow) - GitHub Workflow for Alfred 4
+- [gharlan/alfred-github-workflow](https://github.com/gharlan/alfred-github-workflow) - GitHub Workflow for Alfred
 
 ## Perl 
 
@@ -1547,6 +1549,7 @@
 
 ## Rust 
 
+- [nicoburniske/leptos_query](https://github.com/nicoburniske/leptos_query) - Asynchronous state management library for Leptos, providing simplified data fetching, integrated reactivity, server-side rendering support, and intelligent cache management.
 - [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 - [zbirenbaum/copilot-rs](https://github.com/zbirenbaum/copilot-rs) - Copilot LSP implementation in Rust
 - [ekzhang/sshx](https://github.com/ekzhang/sshx) - Fast, collaborative live terminal sharing over the web
@@ -1586,7 +1589,6 @@
 - [stevepryde/thirtyfour](https://github.com/stevepryde/thirtyfour) - Selenium WebDriver client for Rust, for automated testing of websites
 - [rambip/leptos-markdown](https://github.com/rambip/leptos-markdown) - A zero-config leptos component to display markdown
 - [richardanaya/leptos_three](https://github.com/richardanaya/leptos_three) - A prototype of creating a React Three Fiber like experience with Leptos and ThreeJS
-- [nicoburniske/leptos_query](https://github.com/nicoburniske/leptos_query) - Asynchronous state management library for Leptos, providing simplified data fetching, integrated reactivity, server-side rendering support, and intelligent cache management.
 - [jquesada2016/leptos-tui](https://github.com/jquesada2016/leptos-tui) - Declarative and reactive terminal UI library for Rust
 - [evcxr/evcxr](https://github.com/evcxr/evcxr) - 
 - [srid/leptos-fullstack](https://github.com/srid/leptos-fullstack) - A Nix template for full-stack web apps in Rust using Leptos
