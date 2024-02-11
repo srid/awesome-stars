@@ -290,7 +290,6 @@
 - [travisbhartwell/nix-emacs](https://github.com/travisbhartwell/nix-emacs) - A set of useful Emacs modes and functions for users of Nix and Nix OS.
 - [jyp/dante](https://github.com/jyp/dante) - 
 - [projectional-haskell/structured-haskell-mode](https://github.com/projectional-haskell/structured-haskell-mode) - Structured editing minor mode for Haskell in Emacs
-- [ch11ng/exwm](https://github.com/ch11ng/exwm) - Emacs X Window Manager
 - [abo-abo/pamparam](https://github.com/abo-abo/pamparam) - Simple and fast flashcards for Emacs
 - [abo-abo/avy](https://github.com/abo-abo/avy) - Jump to things in Emacs tree-style
 - [syl20bnr/evil-escape](https://github.com/syl20bnr/evil-escape) - Customizable key sequence to escape from insert state and everything else in Emacs.
@@ -1095,6 +1094,7 @@
 
 ## Nix 
 
+- [shivaraj-bh/haskell-rust-ffi-template](https://github.com/shivaraj-bh/haskell-rust-ffi-template) - A template repository demonstrating how to use a rust library as a dependency in haskell
 - [jedimahdi/fourmolu-nix](https://github.com/jedimahdi/fourmolu-nix) - fourmolu nix configuration
 - [flake-parts/community.flake.parts](https://github.com/flake-parts/community.flake.parts) - A `flake-parts` community website containing docs for various community modules
 - [NorfairKing/typst.nix](https://github.com/NorfairKing/typst.nix) - Making typst documents with Nix
@@ -1282,7 +1282,6 @@
 - [Aspie96/Code-of-Merit](https://github.com/Aspie96/Code-of-Merit) - A meritocratic approach to project management and discussions.
 - [Functional-Programming-Slack/community](https://github.com/Functional-Programming-Slack/community) - Jobs as posted on #jobs at https://functionalprogramming.slack.com/
 - [graninas/The-Voids-Of-Haskell](https://github.com/graninas/The-Voids-Of-Haskell) - 
-- [AboutRSS/ALL-about-RSS](https://github.com/AboutRSS/ALL-about-RSS) - A list of RSS related stuff: tools, services, communities and tutorials, etc.
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [croqaz/awesome-decentralized](https://github.com/croqaz/awesome-decentralized) - 🕶 Awesome list of distributed, decentralized, p2p apps and tools 👍
 - [nix-community/awesome-nix](https://github.com/nix-community/awesome-nix) - 😎 A curated list of the best resources in the Nix community [maintainer=@cyntheticfox]
@@ -1305,6 +1304,7 @@
 - [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) - A community-driven modular vim/neovim distribution - The ultimate vimrc
 - [jonitrythall/svgpocketguide](https://github.com/jonitrythall/svgpocketguide) - All original content of A Pocket Guide to Writing SVG by Joni Trythall
 - [reflex-frp/reflex-frp](https://github.com/reflex-frp/reflex-frp) - Subscribe to this repo to be notified of announcements and changes in Reflex FRP
+- [microsoft/live-share](https://github.com/microsoft/live-share) - Real-time collaborative development from the comfort of your favorite tools
 - [Wizek/haskell-pair-programming](https://github.com/Wizek/haskell-pair-programming) - 
 - [beerendlauwers/haskell-papers-ereader](https://github.com/beerendlauwers/haskell-papers-ereader) - Haskell papers optimized for my e-reader.
 - [erkmos/haskell-companies](https://github.com/erkmos/haskell-companies) - A gently curated list of companies using Haskell in industry
@@ -1315,6 +1315,7 @@
 - [garbas/nix-virtualenv](https://github.com/garbas/nix-virtualenv) - Might just be your next virtualenv
 - [jwbuurlage/category-theory-programmers](https://github.com/jwbuurlage/category-theory-programmers) - Category theory in the context of (functional) programming
 - [rainbyte/haskell-ide-chart](https://github.com/rainbyte/haskell-ide-chart) - Haskell state of editor/IDE support
+- [ch11ng/exwm](https://github.com/ch11ng/exwm) - Emacs X Window Manager
 - [ziishaned/learn-regex](https://github.com/ziishaned/learn-regex) - Learn regex the easy way
 - [stackblitz/core](https://github.com/stackblitz/core) - Online IDE powered by Visual Studio Code ⚡️
 - [davatron5000/can-i-subsystem-it](https://github.com/davatron5000/can-i-subsystem-it) - 
@@ -1361,7 +1362,6 @@
 ## PowerShell 
 
 - [janikvonrotz/awesome-powershell](https://github.com/janikvonrotz/awesome-powershell) - A curated list of delightful PowerShell modules and resources
-- [MicrosoftDocs/live-share](https://github.com/MicrosoftDocs/live-share) - Real-time collaborative development from the comfort of your favorite tools
 
 ## PureScript 
 
@@ -1549,6 +1549,7 @@
 
 ## Rust 
 
+- [MatthiasGrandl/loungy](https://github.com/MatthiasGrandl/loungy) - Loungy is a WIP launcher in the vein of Spotlight, Alfred, Raycast.
 - [nicoburniske/leptos_query](https://github.com/nicoburniske/leptos_query) - Asynchronous state management library for Leptos, providing simplified data fetching, integrated reactivity, server-side rendering support, and intelligent cache management.
 - [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 - [zbirenbaum/copilot-rs](https://github.com/zbirenbaum/copilot-rs) - Copilot LSP implementation in Rust
@@ -1683,6 +1684,7 @@
 
 ## SCSS 
 
+- [AboutRSS/ALL-about-RSS](https://github.com/AboutRSS/ALL-about-RSS) - A list of RSS related stuff: tools, services, communities and tutorials, etc.
 - [yewstack/yew-trunk-minimal-template](https://github.com/yewstack/yew-trunk-minimal-template) - Template for starting a Yew project using Trunk
 - [jonsuh/hamburgers](https://github.com/jonsuh/hamburgers) - Tasty CSS-animated Hamburgers
 
