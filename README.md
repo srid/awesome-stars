@@ -346,7 +346,7 @@
 
 ## Go 
 
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 2, Mistral, and other large language models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 2, Mistral, Gemma, and other large language models.
 - [MichaelMure/git-bug](https://github.com/MichaelMure/git-bug) - Distributed, offline-first bug tracker embedded in git, with bridges
 - [matrix-org/pinecone](https://github.com/matrix-org/pinecone) - Peer-to-peer overlay routing for the Matrix ecosystem
 - [john-dev/private-ghp](https://github.com/john-dev/private-ghp) - publish github pages privately secured by github sso (oauth2)
@@ -922,6 +922,7 @@
 
 ## JavaScript 
 
+- [dylibso/reactables](https://github.com/dylibso/reactables) - Reactables enable you to bring the power of React and JSX outside of the JavaScript ecosystem.
 - [lovvtide/satellite-web](https://github.com/lovvtide/satellite-web) - Satellite nostr client
 - [OhMyGuus/I-Still-Dont-Care-About-Cookies](https://github.com/OhMyGuus/I-Still-Dont-Care-About-Cookies) - Debloated fork of the extension "I don't care about cookies"
 - [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
@@ -1548,15 +1549,18 @@
 
 ## Rust 
 
+- [brack-lang/brack](https://github.com/brack-lang/brack) - A bracket-based lightweight markup language that extends commands with WebAssembly
+- [ggez/ggez](https://github.com/ggez/ggez) - Rust library to create a Good Game Easily
+- [extism/extism](https://github.com/extism/extism) - The framework for building with WebAssembly (wasm). Easily load wasm modules, move data, call functions, and build extensible apps.
 - [MatthiasGrandl/Loungy](https://github.com/MatthiasGrandl/Loungy) - Loungy is a WIP launcher in the vein of Spotlight, Alfred, Raycast.
-- [nicoburniske/leptos_query](https://github.com/nicoburniske/leptos_query) - Asynchronous state management library for Leptos, providing simplified data fetching, integrated reactivity, server-side rendering support, and intelligent cache management.
+- [nicoburniske/leptos_query](https://github.com/nicoburniske/leptos_query) - Async state management for Leptos, providing simplified data fetching, integrated reactivity, SSR support, and smart cache management.
 - [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 - [zbirenbaum/copilot-rs](https://github.com/zbirenbaum/copilot-rs) - Copilot LSP implementation in Rust
 - [ekzhang/sshx](https://github.com/ekzhang/sshx) - Fast, collaborative live terminal sharing over the web
 - [zhaofengli/colmena](https://github.com/zhaofengli/colmena) - A simple, stateless NixOS deployment tool
-- [leontoeides/indicium](https://github.com/leontoeides/indicium) - 🔎 A simple in-memory search for collections and key-value stores.
+- [leontoeides/indicium](https://github.com/leontoeides/indicium) - A simple in-memory search for collections and key-value stores.
 - [greyblake/nutype](https://github.com/greyblake/nutype) - Rust newtype with guarantees  🇺🇦 🦀
-- [Anush008/fastembed-rs](https://github.com/Anush008/fastembed-rs) - Rust implementation of @Qdrant/fastembed.
+- [Anush008/fastembed-rs](https://github.com/Anush008/fastembed-rs) - Library to generate text embeddings in Rust
 - [ex0dus-0x/microkv](https://github.com/ex0dus-0x/microkv) - Minimal and persistent key-value store designed with security in mind
 - [bincode-org/bincode](https://github.com/bincode-org/bincode) - A binary encoder / decoder implementation in Rust.
 - [ctsrc/persistence](https://github.com/ctsrc/persistence) - Rust library providing mutable resizable arrays built on top of mmap
@@ -1797,6 +1801,7 @@
 
 ## TypeScript 
 
+- [ananthakumaran/paisa](https://github.com/ananthakumaran/paisa) - Paisa – Personal Finance Manager. https://paisa.fyi demo: https://demo.paisa.fyi
 - [bbycroft/llm-viz](https://github.com/bbycroft/llm-viz) - 3D Visualization of an GPT-style LLM
 - [garnix-io/garn](https://github.com/garnix-io/garn) - garn is a build tool and environment manager that replaces justfiles/makefiles, docker, and the annoying parts of READMEs. The builders lingua franca.
 - [pionxzh/chatgpt-exporter](https://github.com/pionxzh/chatgpt-exporter) - Export and Share your ChatGPT conversation history
@@ -1868,7 +1873,7 @@
 
 - [alexkdeveloper/somafm](https://github.com/alexkdeveloper/somafm) - A simple radio with built-in stations from the website somafm.com
 - [IBBoard/cawbird](https://github.com/IBBoard/cawbird) - A fork of the Corebird GTK Twitter client that continues to work with Twitter
-- [alainm23/planify](https://github.com/alainm23/planify) - Task manager with Todoist support designed for GNU/Linux 🚀
+- [alainm23/planify](https://github.com/alainm23/planify) - Task manager with Todoist and Nextcloud support designed for GNU/Linux 🚀
 - [phw/peek](https://github.com/phw/peek) - Simple animated GIF screen recorder with an easy to use interface
 
 ## Vim Script 
