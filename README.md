@@ -945,7 +945,7 @@
 - [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 - [christianvoigt/argdown](https://github.com/christianvoigt/argdown) - a simple syntax for complex argumentation
 - [dessant/web-archives](https://github.com/dessant/web-archives) - Browser extension for viewing archived and cached versions of web pages, available for Chrome, Edge and Safari
-- [brave/brave-browser](https://github.com/brave/brave-browser) - Next generation Brave browser for Android, Linux, macOS, Windows.
+- [brave/brave-browser](https://github.com/brave/brave-browser) - Brave browser for Android, iOS, Linux, macOS, Windows.
 - [headllines/github-monthly](https://github.com/headllines/github-monthly) - GitHub monthly top 10 repos
 - [headllines/hackernews-monthly](https://github.com/headllines/hackernews-monthly) - HackerNews monthly top 10 posts
 - [headllines/hackernews-weekly](https://github.com/headllines/hackernews-weekly) - Hacker News weekly top 10 posts
@@ -1010,7 +1010,6 @@
 - [meteor/meteor](https://github.com/meteor/meteor) - Meteor, the JavaScript App Platform
 - [adobe-webplatform/Snap.svg](https://github.com/adobe-webplatform/Snap.svg) - The JavaScript library for modern SVG graphics.
 - [atom/atom](https://github.com/atom/atom) - :atom: The hackable text editor
-- [GitbookIO/gitbook](https://github.com/GitbookIO/gitbook) - 📝 Modern documentation format and toolchain using Git and Markdown
 - [jgallen23/toc](https://github.com/jgallen23/toc) - Table of Contents Plugin
 - [hpcloud/cloud-foundry-client-js](https://github.com/hpcloud/cloud-foundry-client-js) - A JavaScript client for Cloud Foundry. Supports running in the browser and Node.js.
 - [emberjs/ember.js](https://github.com/emberjs/ember.js) - Ember.js - A JavaScript framework for creating ambitious web applications
@@ -1092,6 +1091,7 @@
 
 ## Nix 
 
+- [juspay/colmena-flake](https://github.com/juspay/colmena-flake) - A `flake-parts` module for colmena deployment tool
 - [shivaraj-bh/haskell-rust-ffi-template](https://github.com/shivaraj-bh/haskell-rust-ffi-template) - A template repository demonstrating how to use a rust library as a dependency in haskell
 - [jedimahdi/fourmolu-nix](https://github.com/jedimahdi/fourmolu-nix) - fourmolu nix configuration
 - [flake-parts/community.flake.parts](https://github.com/flake-parts/community.flake.parts) - A `flake-parts` community website containing docs for various community modules
@@ -1125,7 +1125,7 @@
 - [nix-systems/aarch64-darwin](https://github.com/nix-systems/aarch64-darwin) - 
 - [sajban/lojix](https://github.com/sajban/lojix) - Nix from Clojure
 - [juspay/nix-dev-home](https://github.com/juspay/nix-dev-home) - A `home-manager` template providing useful tools & settings for Nix-based development (macOS & Linux supported)
-- [cachix/pre-commit-hooks.nix](https://github.com/cachix/pre-commit-hooks.nix) - Seamless integration of https://pre-commit.com git hooks with Nix.
+- [cachix/git-hooks.nix](https://github.com/cachix/git-hooks.nix) - Seamless integration of https://pre-commit.com git hooks with Nix.
 - [Mic92/sops-nix](https://github.com/Mic92/sops-nix) - Atomic secret provisioning for NixOS based on sops
 - [juspay/jenkins-nix-ci](https://github.com/juspay/jenkins-nix-ci) - A NixOS module for Jenkins, optimized specifically for running projects using Nix.
 - [purifix/purifix](https://github.com/purifix/purifix) - The PureScript Package Manager in Nix
@@ -1548,10 +1548,11 @@
 
 ## Rust 
 
+- [wooorm/markdown-rs](https://github.com/wooorm/markdown-rs) - CommonMark compliant markdown parser in Rust with ASTs and extensions
 - [mdzk-rs/mdzk](https://github.com/mdzk-rs/mdzk) - General-purpose interface to connected notes
 - [oovm/tailwind-rs](https://github.com/oovm/tailwind-rs) - 
 - [nixops4/nixops4](https://github.com/nixops4/nixops4) - Deploy with Nix and manage resources declaratively
-- [Feel-ix-343/markdown-oxide](https://github.com/Feel-ix-343/markdown-oxide) - Let's record your consciousness! Bring your own text editor! Markdown-Oxide is Obsidian-Inspired PKM software for tech enthusiasts.
+- [Feel-ix-343/markdown-oxide](https://github.com/Feel-ix-343/markdown-oxide) - PKM Anywhere! Markdown-Oxide is an Obsidian-Inspired PKM system in the form of a language server to be used with any text editor
 - [brack-lang/brack](https://github.com/brack-lang/brack) - A bracket-based lightweight markup language that extends commands with WebAssembly
 - [ggez/ggez](https://github.com/ggez/ggez) - Rust library to create a Good Game Easily
 - [extism/extism](https://github.com/extism/extism) - The framework for building with WebAssembly (wasm). Easily load wasm modules, move data, call functions, and build extensible apps.
@@ -1592,7 +1593,7 @@
 - [ankarhem/blog](https://github.com/ankarhem/blog) - 
 - [DioxusLabs/include_mdbook](https://github.com/DioxusLabs/include_mdbook) - Include mdbooks at compile time in your Rust project
 - [DioxusLabs/docsite](https://github.com/DioxusLabs/docsite) - Dioxuslabs.com documentation site
-- [juspay/nix-browser](https://github.com/juspay/nix-browser) - 🚧 A graphical interface to working with Nix & Flakes
+- [juspay/nix-browser](https://github.com/juspay/nix-browser) - 🚧 A graphical interface to working with Nix & Flakes; and various related crates
 - [stevepryde/thirtyfour](https://github.com/stevepryde/thirtyfour) - Selenium WebDriver client for Rust, for automated testing of websites
 - [rambip/leptos-markdown](https://github.com/rambip/leptos-markdown) - A zero-config leptos component to display markdown
 - [richardanaya/leptos_three](https://github.com/richardanaya/leptos_three) - A prototype of creating a React Three Fiber like experience with Leptos and ThreeJS
@@ -1652,7 +1653,7 @@
 - [render-rs/render.rs](https://github.com/render-rs/render.rs) - 🔏 A safe and simple template engine with the ergonomics of JSX
 - [utkarshkukreti/markup.rs](https://github.com/utkarshkukreti/markup.rs) - A blazing fast, type-safe template engine for Rust.
 - [kaj/ructe](https://github.com/kaj/ructe) - Rust Compiled Templates with static-file handling
-- [kivikakk/comrak](https://github.com/kivikakk/comrak) - [mirror] CommonMark + GFM compatible Markdown parser and renderer
+- [kivikakk/comrak](https://github.com/kivikakk/comrak) - CommonMark + GFM compatible Markdown parser and renderer
 - [mkroman/rss-watch](https://github.com/mkroman/rss-watch) - rss-watch is a command-line utillity for watching RSS/Atom feeds and executing scripts when there's new entries.
 - [jugglerchris/rust-html2text](https://github.com/jugglerchris/rust-html2text) - Rust library to render HTML as text.
 - [jfbilodeau/yew_form](https://github.com/jfbilodeau/yew_form) - Components to simplify handling forms with Yew
@@ -1702,6 +1703,7 @@
 
 ## Scheme 
 
+- [hasit/zed-nix](https://github.com/hasit/zed-nix) - Nix language support in Zed
 - [srid/boalisp](https://github.com/srid/boalisp) - Lisp to Python bytecode compiler (2007 hack)
 
 ## Shell 
@@ -1876,6 +1878,7 @@
 - [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
 - [microsoft/TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
 - [sorskoot/WSaTypeScriptProjectTemplate](https://github.com/sorskoot/WSaTypeScriptProjectTemplate) - Windows Store app TypeScript Project Template
+- [GitbookIO/gitbook](https://github.com/GitbookIO/gitbook) - The open source frontend for GitBook doc sites
 
 ## Vala 
 
