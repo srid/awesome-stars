@@ -347,7 +347,7 @@
 
 ## Go 
 
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 2, Mistral, Gemma, and other large language models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3, Mistral, Gemma, and other large language models.
 - [MichaelMure/git-bug](https://github.com/MichaelMure/git-bug) - Distributed, offline-first bug tracker embedded in git, with bridges
 - [matrix-org/pinecone](https://github.com/matrix-org/pinecone) - Peer-to-peer overlay routing for the Matrix ecosystem
 - [yosev/private-ghp](https://github.com/yosev/private-ghp) - publish github pages privately secured by github sso (oauth2)
@@ -530,6 +530,7 @@
 
 ## Haskell 
 
+- [Haskell-Things/ImplicitCAD](https://github.com/Haskell-Things/ImplicitCAD) - A math-inspired CAD program in haskell. CSG, bevels, and shells; 2D & 3D geometry; 2D gcode generation...
 - [jgm/skylighting](https://github.com/jgm/skylighting) - A Haskell syntax highlighting library with tokenizers derived from KDE syntax highlighting descriptions
 - [ners/dosh](https://github.com/ners/dosh) - The power of Haskell in your terminal!
 - [well-typed/unfolder](https://github.com/well-typed/unfolder) - Repository with code snippets that accompany episodes of The Haskell Unfolder
@@ -1014,7 +1015,7 @@
 - [hpcloud/cloud-foundry-client-js](https://github.com/hpcloud/cloud-foundry-client-js) - A JavaScript client for Cloud Foundry. Supports running in the browser and Node.js.
 - [emberjs/ember.js](https://github.com/emberjs/ember.js) - Ember.js - A JavaScript framework for creating ambitious web applications
 - [hpcloud/confdis](https://github.com/hpcloud/confdis) - JSON-based configuration in redis
-- [mjibson/goread](https://github.com/mjibson/goread) - RSS reader in go on app engine; formerly goread.io
+- [maddyblue/goread](https://github.com/maddyblue/goread) - RSS reader in go on app engine; formerly goread.io
 - [laktek/punch](https://github.com/laktek/punch) - A fun and easy way to build modern websites
 - [berbaquero/reeddit](https://github.com/berbaquero/reeddit) - Minimal, elastic Reddit reader web-app client
 - [glinden/stick-portal](https://github.com/glinden/stick-portal) - Stick Portal
@@ -1091,6 +1092,7 @@
 
 ## Nix 
 
+- [juspay/just-flake](https://github.com/juspay/just-flake) - Use `just` in your Nix devShells with re-usable and share-able targets.
 - [juspay/rust-flake](https://github.com/juspay/rust-flake) - WIP: Like the famous `haskell-flake`, but for Rust.
 - [shivaraj-bh/ollama-flake](https://github.com/shivaraj-bh/ollama-flake) - Run ollama natively - powered by Nix and services-flake
 - [juspay/colmena-flake](https://github.com/juspay/colmena-flake) - A `flake-parts` module for colmena deployment tool
@@ -1104,7 +1106,6 @@
 - [OceanSprint/pydev](https://github.com/OceanSprint/pydev) - An opinionated environment for developing Python packages.
 - [juspay/remote-development](https://github.com/juspay/remote-development) - NixOS configuration for shared remote development via SSH
 - [nix-community/srvos](https://github.com/nix-community/srvos) - NixOS profiles for servers [maintainer=@numtide]
-- [srid/dioxus-desktop-template](https://github.com/srid/dioxus-desktop-template) - A starter template for Dioxus Desktop apps w/ Tailwind & Nix
 - [ryan4yin/nixos-and-flakes-book](https://github.com/ryan4yin/nixos-and-flakes-book) - :hammer_and_wrench: :heart: Want to know NixOS & Flakes in detail? Looking for a beginner-friendly tutorial? Then you've come to the right place!  想要学习使用 NixOS 与 Flakes 吗？在寻找一份新手友好的教程？那你可来对地方了！
 - [nixified-ai/flake](https://github.com/nixified-ai/flake) - A Nix flake for many AI projects
 - [DeterminateSystems/flake-schemas](https://github.com/DeterminateSystems/flake-schemas) - Schemas for common flake output types
@@ -1248,6 +1249,7 @@
 
 ## Others 
 
+- [ggambetta/computer-graphics-from-scratch](https://github.com/ggambetta/computer-graphics-from-scratch) - Text, diagrams, and source code for the book Computer Graphics from scratch.
 - [leptos-rs/awesome-leptos](https://github.com/leptos-rs/awesome-leptos) - A collection of awesome libraries in the Leptos ecosystem.
 - [nix-systems/nix-systems](https://github.com/nix-systems/nix-systems) - Externally extensible flake systems
 - [gayanvoice/top-github-users](https://github.com/gayanvoice/top-github-users) - Check your ranking in GitHub! Don't forget to star ⭐ this repository.
@@ -1393,7 +1395,7 @@
 
 - [xai-org/grok-1](https://github.com/xai-org/grok-1) - Grok open release
 - [embedchain/embedchain](https://github.com/embedchain/embedchain) - Personalizing LLM Responses
-- [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. A copilot to search and chat (using RAG) with your knowledge base (pdf, markdown, org). Use powerful, online (e.g gpt4) or private, local (e.g mistral) LLMs. Self-host locally or
+- [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. A copilot to get answers to your questions, whether they be from your own notes or from the internet. Use powerful, online (e.g gpt4) or private, local (e.g mistral) LLMs. Self-h
 - [d2l-ai/d2l-en](https://github.com/d2l-ai/d2l-en) - Interactive deep learning book with multi-framework code, math, and discussions. Adopted at 500 universities from 70 countries including Stanford, MIT, Harvard, and Cambridge.
 - [executablebooks/jupyter-book](https://github.com/executablebooks/jupyter-book) - Create beautiful, publication-quality books and documents from computational content.
 - [maubot/maubot](https://github.com/maubot/maubot) - A plugin-based Matrix bot system.
@@ -1578,6 +1580,7 @@
 - [dioxus-community/dioxus-redux](https://github.com/dioxus-community/dioxus-redux) - State management for Dioxus 🧬
 - [mjovanc/awesome-tokio](https://github.com/mjovanc/awesome-tokio) - Awesome books, tutorials, courses, and resources for Tokio. ⚡
 - [launchbadge/sqlx](https://github.com/launchbadge/sqlx) - 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.
+- [srid/dioxus-desktop-template](https://github.com/srid/dioxus-desktop-template) - A starter template for Dioxus Desktop apps w/ Tailwind & Nix
 - [DioxusLabs/sdk](https://github.com/DioxusLabs/sdk) - A library to provide abstractions to access common utilities when developing Dioxus applications.
 - [marc2332/dioxus-query](https://github.com/marc2332/dioxus-query) - Fully-typed, async, reusable state management and synchronization for Dioxus 🧬
 - [michalvavra/tauri-leptos-example](https://github.com/michalvavra/tauri-leptos-example) - Tauri and Leptos example.
