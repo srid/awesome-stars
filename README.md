@@ -1036,6 +1036,7 @@
 
 ## Jupyter Notebook 
 
+- [hunterad93/actualism_chat](https://github.com/hunterad93/actualism_chat) - a fun chatbot that uses 'actualfreedom.com.au' as its knowledge base for retrieval augmented chat
 - [input-output-hk/haskell-course](https://github.com/input-output-hk/haskell-course) - This course is designed to teach non-engineers (e.g., self-taught/bootcamp coders) Haskell from zero to productive in an interactive, easy-to-follow way.
 - [IHaskell/IHaskell](https://github.com/IHaskell/IHaskell) - A Haskell kernel for the Jupyter project.
 - [vaibhavsagar/notebooks](https://github.com/vaibhavsagar/notebooks) - Jupyter notebooks
@@ -1158,7 +1159,6 @@
 - [fort-nix/nix-bitcoin](https://github.com/fort-nix/nix-bitcoin) - A collection of Nix packages and NixOS modules for easily installing full-featured Bitcoin nodes with an emphasis on security.
 - [Platonic-Systems/treefmt-flake](https://github.com/Platonic-Systems/treefmt-flake) - A `flake-parts` module to work with treefmt. No longer maintained; you should instead use https://github.com/numtide/treefmt-nix#flake-parts
 - [viperML/home-manager-wsl](https://github.com/viperML/home-manager-wsl) - WSL distribution, including Nix + Home-manager + FHS Distro
-- [DeterminateSystems/update-flake-lock](https://github.com/DeterminateSystems/update-flake-lock) - Automatically refresh your Nix Flakes.
 - [srid/haskell-flake](https://github.com/srid/haskell-flake) - A `flake-parts` Nix module for Haskell development
 - [numtide/flake-utils](https://github.com/numtide/flake-utils) - Pure Nix flake utility functions [maintainer=@zimbatm]
 - [nix-community/nixos-vscode-server](https://github.com/nix-community/nixos-vscode-server) - Visual Studio Code Server support in NixOS
@@ -1839,6 +1839,7 @@
 - [Phu1237/vscode-vs-browser](https://github.com/Phu1237/vscode-vs-browser) - Built-in browser for Visual Studio Code
 - [matrix-org/matrix-widget-api](https://github.com/matrix-org/matrix-widget-api) - JavaScript/TypeScript API for widgets & web clients to communicate
 - [Richardsl/heatmap-calendar-obsidian](https://github.com/Richardsl/heatmap-calendar-obsidian) - An Obsidian plugin for displaying data in a calendar similar to the github activity calendar
+- [DeterminateSystems/update-flake-lock](https://github.com/DeterminateSystems/update-flake-lock) - Automatically refresh your Nix Flakes.
 - [markdoc/markdoc](https://github.com/markdoc/markdoc) - A powerful, flexible, Markdown-based authoring framework.
 - [antfu/vscode-browse-lite](https://github.com/antfu/vscode-browse-lite) - 🚀 An embedded browser in VS Code
 - [bamboo/idris2-lsp-vscode](https://github.com/bamboo/idris2-lsp-vscode) - Visual Studio Code integration for the Idris 2 language server
