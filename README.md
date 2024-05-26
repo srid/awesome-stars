@@ -160,7 +160,7 @@
 - [PKM-er/Blue-Topaz_Obsidian-css](https://github.com/PKM-er/Blue-Topaz_Obsidian-css) - A blue theme for Obsidian.
 - [sdras/productive-twitter](https://github.com/sdras/productive-twitter) - Chrome extension: Minimal and friendly theme for productive twitter use
 - [indieweb/indiewebify-me](https://github.com/indieweb/indiewebify-me) - Tools to help you get the best out of your indieweb site
-- [RickStrahl/LiveReloadServer](https://github.com/RickStrahl/LiveReloadServer) - A self-contained, local, cross-platform, static file Web Server with automatic Live Reloading, Markdown rendering and loose Razor Pages support.
+- [RickStrahl/LiveReloadServer](https://github.com/RickStrahl/LiveReloadServer) - A self-contained, local, cross-platform, static file Web Server based on .NET with automatic Live Reloading, Markdown rendering and loose Razor Pages support.
 - [fenwick67/mastofeed](https://github.com/fenwick67/mastofeed) - ActivityPub feed =&gt; iframe embed.  https://www.mastofeed.com
 - [obsidiansystems/calculator-tutorial](https://github.com/obsidiansystems/calculator-tutorial) - Building a calculator with Reflex-FRP
 - [dktn/resonance-syntax](https://github.com/dktn/resonance-syntax) - Resonance-Syntax Atom syntax theme
@@ -562,6 +562,7 @@
 - [parenthetical/webflex](https://github.com/parenthetical/webflex) - Purely functional web and distributed programming with Reflex FRP
 - [Plutonomicon/plutarch-core](https://github.com/Plutonomicon/plutarch-core) - Plutarch 2.0
 - [lucasvreis/org-mode-hs](https://github.com/lucasvreis/org-mode-hs) - Libraries and tool for parsing Org Mode documents with customizable exporters. 🦄
+- [BartoszMilewski/Publications](https://github.com/BartoszMilewski/Publications) - Misc. publications, conference slides, etc. For more, go to http://BartoszMilewski.com
 - [qfpl/reflex-backend-socket](https://github.com/qfpl/reflex-backend-socket) - Reflex support for socket-based applications
 - [EmaApps/timedot-invoice](https://github.com/EmaApps/timedot-invoice) - WIP: Swift invoice generator for Hledger timedot file
 - [utdemir/nix-tree](https://github.com/utdemir/nix-tree) - Interactively browse dependency graphs of Nix derivations.
@@ -1094,9 +1095,12 @@
 
 ## Nix 
 
+- [flake-parts/templates](https://github.com/flake-parts/templates) - A registry of various `flake-parts` templates
+- [nix-community/disko](https://github.com/nix-community/disko) - Declarative disk partitioning and formatting using nix [maintainer=@Lassulus]
+- [numtide/nix-vm-test](https://github.com/numtide/nix-vm-test) - Re-use the NixOS VM test infrastructure to test Ubuntu, Debian, and Fedora machines.
 - [juspay/just-flake](https://github.com/juspay/just-flake) - Use `just` in your Nix devShells with re-usable and share-able targets.
 - [juspay/rust-flake](https://github.com/juspay/rust-flake) - WIP: Like the famous `haskell-flake`, but for Rust.
-- [shivaraj-bh/ollama-flake](https://github.com/shivaraj-bh/ollama-flake) - Run ollama natively - powered by Nix and services-flake
+- [shivaraj-bh/ollama-flake](https://github.com/shivaraj-bh/ollama-flake) - Run ollama natively - powered by Nix
 - [juspay/colmena-flake](https://github.com/juspay/colmena-flake) - A `flake-parts` module for colmena deployment tool
 - [shivaraj-bh/haskell-rust-ffi-template](https://github.com/shivaraj-bh/haskell-rust-ffi-template) - A template repository demonstrating how to use a rust library as a dependency in haskell
 - [jedimahdi/fourmolu-nix](https://github.com/jedimahdi/fourmolu-nix) - fourmolu nix configuration
@@ -1192,7 +1196,7 @@
 - [input-output-hk/haskell.nix](https://github.com/input-output-hk/haskell.nix) - Alternative Haskell Infrastructure for Nixpkgs
 - [purs-nix/purs-nix](https://github.com/purs-nix/purs-nix) - Manage your PureScript projects with Nix!
 - [nix-community/robotnix](https://github.com/nix-community/robotnix) - Build Android (AOSP) using Nix [maintainer=@danielfullmer,@Atemu]
-- [nix-community/neovim-nightly-overlay](https://github.com/nix-community/neovim-nightly-overlay) - [maintainer=@Kranzes]
+- [nix-community/neovim-nightly-overlay](https://github.com/nix-community/neovim-nightly-overlay) - [maintainer=@Kranzes, @teto, @GaetanLepage, @willruggiano]
 - [serokell/nix-templates](https://github.com/serokell/nix-templates) - Nix Flake templates for various languages
 - [tweag/jupyenv](https://github.com/tweag/jupyenv) - Declarative and reproducible Jupyter environments - powered by Nix
 - [nix-community/crate2nix](https://github.com/nix-community/crate2nix) - rebuild only changed crates in CI with crate2nix and nix
@@ -1265,7 +1269,6 @@
 - [allsides-news/brave-goggles](https://github.com/allsides-news/brave-goggles) - 
 - [brave/goggles-quickstart](https://github.com/brave/goggles-quickstart) - Educational material to learn about Goggles and how to create your own.
 - [tweag/awesome-learning-haskell](https://github.com/tweag/awesome-learning-haskell) - A collection of resources which were useful to Tweagers for learning Haskell and its various aspects
-- [BartoszMilewski/Publications](https://github.com/BartoszMilewski/Publications) - Misc. publications, conference slides, etc. For more, go to http://BartoszMilewski.com
 - [matthiasn/talk-transcripts](https://github.com/matthiasn/talk-transcripts) - Transcripts of Clojure-related talks
 - [joshvera/generative-effects](https://github.com/joshvera/generative-effects) - Some notes on generative effects
 - [dpapathanasiou/simple-graph](https://github.com/dpapathanasiou/simple-graph) - This is a simple graph database in SQLite, inspired by "SQLite as a document database"
@@ -1397,9 +1400,11 @@
 
 ## Python 
 
+- [themotte/rDrama](https://github.com/themotte/rDrama) - This code runs https://www.themotte.org. Forked from https://github.com/Aevann1/rDrama
+- [kovidgoyal/vise](https://github.com/kovidgoyal/vise) - A keyboard driven browser with tabs in a tree
 - [xai-org/grok-1](https://github.com/xai-org/grok-1) - Grok open release
 - [embedchain/embedchain](https://github.com/embedchain/embedchain) - Personalizing LLM Responses
-- [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. A copilot to get answers to your questions, whether they be from your own notes or from the internet. Use powerful, online (e.g gpt4) or private, local (e.g mistral) LLMs. Self-h
+- [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. A copilot to get answers to your questions, whether they be from your own notes or from the internet. Use powerful, online (e.g gpt4) or private, local (e.g llama3) LLMs. Self-ho
 - [d2l-ai/d2l-en](https://github.com/d2l-ai/d2l-en) - Interactive deep learning book with multi-framework code, math, and discussions. Adopted at 500 universities from 70 countries including Stanford, MIT, Harvard, and Cambridge.
 - [executablebooks/jupyter-book](https://github.com/executablebooks/jupyter-book) - Create beautiful, publication-quality books and documents from computational content.
 - [maubot/maubot](https://github.com/maubot/maubot) - A plugin-based Matrix bot system.
@@ -1464,7 +1469,7 @@
 - [gevent/gevent](https://github.com/gevent/gevent) - Coroutine-based concurrency library for Python
 - [jtauber/pykanren](https://github.com/jtauber/pykanren) - an attempt to implement miniKanren and microKanren in Python
 - [noderabbit-team/PyStackato](https://github.com/noderabbit-team/PyStackato) - Client for CloudFoundry and Stackato API endpoints
-- [docopt/docopt](https://github.com/docopt/docopt) - This project is no longer maintained. Please see https://github.com/jazzband/docopt-ng
+- [docopt/docopt](https://github.com/docopt/docopt) - Create *beautiful* command-line interfaces with Python
 - [mkaz/hastie](https://github.com/mkaz/hastie) - A static site generator in Python
 - [0rpc/zerorpc-python](https://github.com/0rpc/zerorpc-python) - zerorpc for python
 - [revolunet/sublimetext-markdown-preview](https://github.com/revolunet/sublimetext-markdown-preview) - markdown preview and build plugin for sublime text 2/3
@@ -1555,10 +1560,11 @@
 
 ## Rust 
 
-- [ikebastuz/wiper](https://github.com/ikebastuz/wiper) - 
+- [nix-community/harmonia](https://github.com/nix-community/harmonia) - Nix binary cache implemented in rust using libnix-store (maintainer: @Mic92)
+- [ikebastuz/wiper](https://github.com/ikebastuz/wiper) - Disk analyser and cleanup tool
 - [juspay/superposition](https://github.com/juspay/superposition) - Superposition is a context-based configuration management system designed to facilitate safe and flexible rollout of config changes
 - [mikedilger/gossip](https://github.com/mikedilger/gossip) - Gossip is a nostr client
-- [rust-windowing/softbuffer](https://github.com/rust-windowing/softbuffer) - Softbuffer integrates with the raw-window-handle crate to allow writing to a window in a cross-platform way while using the very high quality dedicated window management libraries that are available i
+- [rust-windowing/softbuffer](https://github.com/rust-windowing/softbuffer) - Easily write an image to a window
 - [parasyte/pixels](https://github.com/parasyte/pixels) - A tiny hardware-accelerated pixel frame buffer. 🦀
 - [emoon/rust_minifb](https://github.com/emoon/rust_minifb) - Cross platfrom window and framebuffer crate for Rust
 - [not-fl3/miniquad](https://github.com/not-fl3/miniquad) - Cross platform rendering in Rust
@@ -1569,7 +1575,7 @@
 - [mdzk-rs/mdzk](https://github.com/mdzk-rs/mdzk) - General-purpose interface to connected notes
 - [oovm/tailwind-rs](https://github.com/oovm/tailwind-rs) - 
 - [nixops4/nixops4](https://github.com/nixops4/nixops4) - Deploy with Nix and manage resources declaratively
-- [Feel-ix-343/markdown-oxide](https://github.com/Feel-ix-343/markdown-oxide) - Editor Agnostic PKM: you bring the text editor and we bring the PKM
+- [Feel-ix-343/markdown-oxide](https://github.com/Feel-ix-343/markdown-oxide) - Editor Agnostic PKM: you bring the text editor and we bring the PKM - inspired by and compatible with Obsidian
 - [brack-lang/brack](https://github.com/brack-lang/brack) - A bracket-based lightweight markup language that extends commands with WebAssembly
 - [ggez/ggez](https://github.com/ggez/ggez) - Rust library to create a Good Game Easily
 - [extism/extism](https://github.com/extism/extism) - The framework for building with WebAssembly (wasm). Easily load wasm modules, move data, call functions, and build extensible apps.
@@ -1581,7 +1587,7 @@
 - [zhaofengli/colmena](https://github.com/zhaofengli/colmena) - A simple, stateless NixOS deployment tool
 - [leontoeides/indicium](https://github.com/leontoeides/indicium) - A simple in-memory search for collections and key-value stores.
 - [greyblake/nutype](https://github.com/greyblake/nutype) - Rust newtype with guarantees  🇺🇦 🦀
-- [Anush008/fastembed-rs](https://github.com/Anush008/fastembed-rs) - Library to generate vector embeddings. Rust implementation of Qdrant's FastEmbed.
+- [Anush008/fastembed-rs](https://github.com/Anush008/fastembed-rs) - Library to generate vector embeddings, reranking. Based on Qdrant's FastEmbed.
 - [ex0dus-0x/microkv](https://github.com/ex0dus-0x/microkv) - Minimal and persistent key-value store designed with security in mind
 - [bincode-org/bincode](https://github.com/bincode-org/bincode) - A binary encoder / decoder implementation in Rust.
 - [ctsrc/persistence](https://github.com/ctsrc/persistence) - Rust library providing mutable resizable arrays built on top of mmap
@@ -1802,7 +1808,7 @@
 - [vincode-io/Zavala](https://github.com/vincode-io/Zavala) - A good, simple outliner for macOS, iPadOS, and iOS.
 - [adur1990/Pass-for-macOS](https://github.com/adur1990/Pass-for-macOS) - macOS wrapper for pass, the standard UNIX password manager
 - [michaelvillar/timer-app](https://github.com/michaelvillar/timer-app) - A simple Timer app for Mac
-- [josh/Aware](https://github.com/josh/Aware) - 
+- [josh/Aware](https://github.com/josh/Aware) - A simple menubar app for OSX and macOS that tracks how long you've been actively using your computer
 
 ## Tcl 
 
