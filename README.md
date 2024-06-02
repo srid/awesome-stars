@@ -136,7 +136,6 @@
 
 ## C++ 
 
-- [nix-community/nixd](https://github.com/nix-community/nixd) - Nix language server, based on nix libraries [maintainer=@inclyc]
 - [aristocratos/btop](https://github.com/aristocratos/btop) - A monitor of resources
 - [microsoft/wslg](https://github.com/microsoft/wslg) - Enabling the Windows Subsystem for Linux to include support for Wayland and X server related scenarios
 - [xbmc/xbmc](https://github.com/xbmc/xbmc) - Kodi is an award-winning free and open source home theater/media center software and entertainment hub for digital media. With its beautiful interface and powerful skinning engine, it's available for 
@@ -498,6 +497,7 @@
 
 ## HTML 
 
+- [phil-opp/blog_os](https://github.com/phil-opp/blog_os) - Writing an OS in Rust
 - [nature-of-code/noc-book-2](https://github.com/nature-of-code/noc-book-2) - Nature of Code with p5.js and Notion workflow / build system.
 - [evildmp/diataxis-documentation-framework](https://github.com/evildmp/diataxis-documentation-framework) - A systematic approach to creating better documentation.
 - [fiatjaf/nostrexplained.com](https://github.com/fiatjaf/nostrexplained.com) - 
@@ -631,7 +631,7 @@
 - [jez/pandoc-sidenote](https://github.com/jez/pandoc-sidenote) - Convert Pandoc Markdown-style footnotes into sidenotes
 - [smallhadroncollider/brok](https://github.com/smallhadroncollider/brok) - Find broken links in text documents
 - [diagrams/diagrams-lib](https://github.com/diagrams/diagrams-lib) - Diagrams standard library
-- [monadfix/safe-wild-cards](https://github.com/monadfix/safe-wild-cards) - Tame RecordWildCards
+- [amesgen/safe-wild-cards](https://github.com/amesgen/safe-wild-cards) - Tame RecordWildCards
 - [Daniel-Diaz/HaTeX](https://github.com/Daniel-Diaz/HaTeX) - The Haskell LaTeX library.
 - [cdepillabout/world-peace](https://github.com/cdepillabout/world-peace) - open union and open product types in Haskell
 - [tweag/inline-js](https://github.com/tweag/inline-js) - Call JavaScript from Haskell, and vice versa!
@@ -1095,8 +1095,8 @@
 
 ## Nix 
 
+- [ipetkov/crane](https://github.com/ipetkov/crane) - A Nix library for building cargo projects. Never build twice thanks to incremental artifact caching.
 - [flake-parts/templates](https://github.com/flake-parts/templates) - A registry of various `flake-parts` templates
-- [nix-community/disko](https://github.com/nix-community/disko) - Declarative disk partitioning and formatting using nix [maintainer=@Lassulus]
 - [numtide/nix-vm-test](https://github.com/numtide/nix-vm-test) - Re-use the NixOS VM test infrastructure to test Ubuntu, Debian, and Fedora machines.
 - [juspay/just-flake](https://github.com/juspay/just-flake) - Use `just` in your Nix devShells with re-usable and share-able targets.
 - [juspay/rust-flake](https://github.com/juspay/rust-flake) - WIP: Like the famous `haskell-flake`, but for Rust.
@@ -1111,11 +1111,9 @@
 - [fpindia/fpindia-chat](https://github.com/fpindia/fpindia-chat) - Matrix server (NixOS) for FPIndia
 - [OceanSprint/pydev](https://github.com/OceanSprint/pydev) - An opinionated environment for developing Python packages.
 - [juspay/remote-development](https://github.com/juspay/remote-development) - NixOS configuration for shared remote development via SSH
-- [nix-community/srvos](https://github.com/nix-community/srvos) - NixOS profiles for servers [maintainer=@numtide]
 - [ryan4yin/nixos-and-flakes-book](https://github.com/ryan4yin/nixos-and-flakes-book) - :hammer_and_wrench: :heart: Want to know NixOS & Flakes in detail? Looking for a beginner-friendly tutorial? Then you've come to the right place!  想要学习使用 NixOS 与 Flakes 吗？在寻找一份新手友好的教程？那你可来对地方了！
 - [nixified-ai/flake](https://github.com/nixified-ai/flake) - A Nix flake for many AI projects
 - [DeterminateSystems/flake-schemas](https://github.com/DeterminateSystems/flake-schemas) - Schemas for common flake output types
-- [nix-community/nixvim](https://github.com/nix-community/nixvim) - Configure Neovim with Nix! [maintainer=@pta2002, @traxys, @GaetanLepage]
 - [oxalica/nocargo](https://github.com/oxalica/nocargo) - [alpha] Build Rust crates with Nix Build System.
 - [srid/cargo-doc-live](https://github.com/srid/cargo-doc-live) - Flake module to provide live server version of `cargo doc`
 - [numtide/numtide-github-runner](https://github.com/numtide/numtide-github-runner) - the best self-hosted github runners on the market
@@ -1123,13 +1121,11 @@
 - [brendanzab/ocaml-flake-example](https://github.com/brendanzab/ocaml-flake-example) - An overly elaborate example of building a ‘Hello World’ package with Nix flakes, OCaml, and Dune
 - [juspay/services-flake](https://github.com/juspay/services-flake) - NixOS-like services for Nix flakes
 - [mrkkrp/emacs-package-flake](https://github.com/mrkkrp/emacs-package-flake) - A Nix library that facilitates definition of flakes for Emacs packages
-- [nix-community/noogle](https://github.com/nix-community/noogle) - https://noogle.dev - nix function exploring. [maintainer=@hsjobeki]
 - [jetify-com/nixtest](https://github.com/jetify-com/nixtest) - A tiny unit testing framework written in pure Nix
 - [shivaraj-bh/nix-workshop](https://github.com/shivaraj-bh/nix-workshop) - Workshop materials
 - [tfc/nixos-anywhere-example](https://github.com/tfc/nixos-anywhere-example) - 
 - [srid/devour-flake](https://github.com/srid/devour-flake) - Devour all outputs in a Nix flake.
 - [nix-systems/current-system](https://github.com/nix-systems/current-system) - Like `builtins.currentSystem` but for the CLI
-- [nix-community/ethereum.nix](https://github.com/nix-community/ethereum.nix) - Nix packages and NixOS modules for the Ethereum ecosystem. [maintainers=@aldoborrero,@brianmcgee,@selfuryon]
 - [nix-systems/flake-outputs](https://github.com/nix-systems/flake-outputs) - Get buildable outputs of a flake
 - [nix-systems/aarch64-darwin](https://github.com/nix-systems/aarch64-darwin) - 
 - [sajban/lojix](https://github.com/sajban/lojix) - Nix from Clojure
@@ -1146,7 +1142,6 @@
 - [cdepillabout/stacklock2nix](https://github.com/cdepillabout/stacklock2nix) - Easily build a Haskell project from a stack.yaml.lock file with Nix
 - [obsidiansystems/seven-guis-vty](https://github.com/obsidiansystems/seven-guis-vty) - 7GUIs implemented in reflex-vty
 - [divnix/std](https://github.com/divnix/std) - A DevOps framework for the SDLC with the power of Nix and Flakes. Good for keeping deadlines!
-- [nix-community/nixpkgs.lib](https://github.com/nix-community/nixpkgs.lib) - nixpkgs lib for cheap instantiation [maintainer=@github-action] (with initial help from @blaggacao)
 - [srid/flake-root](https://github.com/srid/flake-root) - A `flake-parts` module for finding your way to the project root directory
 - [Platonic-Systems/mission-control](https://github.com/Platonic-Systems/mission-control) - A `flake-parts` module for your Nix devshell scripts
 - [srid/proc-flake](https://github.com/srid/proc-flake) - A `flake-parts` module for running multiple processes in a dev shell
@@ -1166,7 +1161,6 @@
 - [viperML/home-manager-wsl](https://github.com/viperML/home-manager-wsl) - WSL distribution, including Nix + Home-manager + FHS Distro
 - [srid/haskell-flake](https://github.com/srid/haskell-flake) - A `flake-parts` Nix module for Haskell development
 - [numtide/flake-utils](https://github.com/numtide/flake-utils) - Pure Nix flake utility functions [maintainer=@zimbatm]
-- [nix-community/nixos-vscode-server](https://github.com/nix-community/nixos-vscode-server) - Visual Studio Code Server support in NixOS
 - [numtide/devshell](https://github.com/numtide/devshell) - Per project developer environments
 - [jmgilman/dev-container](https://github.com/jmgilman/dev-container) - A devcontainer built on Debian and powered by Nix.
 - [hercules-ci/flake-parts](https://github.com/hercules-ci/flake-parts) - ❄️ Simplify Nix Flakes with the module system
@@ -1177,8 +1171,6 @@
 - [srid/nixos-config](https://github.com/srid/nixos-config) - KISS NixOS configuration based on Flakes & flake-parts (supports macOS too)
 - [astro/microvm.nix](https://github.com/astro/microvm.nix) - NixOS MicroVMs
 - [edrex/notes.env](https://github.com/edrex/notes.env) - A small software environment for your plain-text notes
-- [nix-community/nix-doom-emacs](https://github.com/nix-community/nix-doom-emacs) - doom-emacs packaged for Nix [maintainers=@ckiee,@thiagokokada]
-- [nix-community/nix-direnv](https://github.com/nix-community/nix-direnv) - A fast, persistent use_nix/use_flake implementation for direnv [maintainer=@Mic92 / @bbenne10]
 - [Mic92/nixos-shell](https://github.com/Mic92/nixos-shell) - Spawns lightweight nixos vms in a shell
 - [cardano-system/cardano-system](https://github.com/cardano-system/cardano-system) - 
 - [ursi/nix-html](https://github.com/ursi/nix-html) - An HTML DSL for Nix
@@ -1195,14 +1187,10 @@
 - [numtide/nix-filter](https://github.com/numtide/nix-filter) - a small self-contained source filtering lib
 - [input-output-hk/haskell.nix](https://github.com/input-output-hk/haskell.nix) - Alternative Haskell Infrastructure for Nixpkgs
 - [purs-nix/purs-nix](https://github.com/purs-nix/purs-nix) - Manage your PureScript projects with Nix!
-- [nix-community/robotnix](https://github.com/nix-community/robotnix) - Build Android (AOSP) using Nix [maintainer=@danielfullmer,@Atemu]
-- [nix-community/neovim-nightly-overlay](https://github.com/nix-community/neovim-nightly-overlay) - [maintainer=@Kranzes, @teto, @GaetanLepage, @willruggiano]
 - [serokell/nix-templates](https://github.com/serokell/nix-templates) - Nix Flake templates for various languages
 - [tweag/jupyenv](https://github.com/tweag/jupyenv) - Declarative and reproducible Jupyter environments - powered by Nix
-- [nix-community/crate2nix](https://github.com/nix-community/crate2nix) - rebuild only changed crates in CI with crate2nix and nix
 - [oxalica/rust-overlay](https://github.com/oxalica/rust-overlay) - Pure and reproducible nix overlay of binary distributed rust toolchains
 - [barrucadu/nixfiles](https://github.com/barrucadu/nixfiles) - My NixOS configuration and assorted other crap.
-- [nix-community/NixOS-WSL](https://github.com/nix-community/NixOS-WSL) - NixOS on WSL(2) [maintainer=@nzbr]
 - [obsidiansystems/obelisk-systemd](https://github.com/obsidiansystems/obelisk-systemd) - Turn your obelisk app into a systemd service
 - [obsidiansystems/obelisk-tailwind-example](https://github.com/obsidiansystems/obelisk-tailwind-example) - An example project using Obelisk, PostCSS, and Tailwind CSS
 - [srid/pandoc-link-context](https://github.com/srid/pandoc-link-context) - Extract context around links in Pandoc
@@ -1216,9 +1204,7 @@
 - [justinwoo/spago2nix](https://github.com/justinwoo/spago2nix) - Generate a derivation of (old) Spago dependencies, and use them to install them into the directory structure used by Spago.
 - [tbenst/purescript-nix-example](https://github.com/tbenst/purescript-nix-example) - Build a simple Halogen app using Nix
 - [justinwoo/nix-shorts](https://github.com/justinwoo/nix-shorts) - A collection of short notes about Nix, down to what is immediately needed for users.
-- [nix-community/emacs-overlay](https://github.com/nix-community/emacs-overlay) - Bleeding edge emacs overlay [maintainer=@adisbladis]
 - [hercules-ci/gitignore.nix](https://github.com/hercules-ci/gitignore.nix) - Nix functions for filtering local git sources
-- [nix-community/home-manager](https://github.com/nix-community/home-manager) - Manage a user environment using Nix  [maintainer=@rycee]
 - [LnL7/nix-darwin](https://github.com/LnL7/nix-darwin) - nix modules for darwin
 - [srid/nix-config](https://github.com/srid/nix-config) - My NixOS configuration (DEPRECATED)
 - [haskell-nix/hnix](https://github.com/haskell-nix/hnix) - A Haskell re-implementation of the Nix expression language
@@ -1254,6 +1240,7 @@
 
 ## Others 
 
+- [zellij-org/awesome-zellij](https://github.com/zellij-org/awesome-zellij) - A list of awesome resources for zellij
 - [srid/the-actualism-way](https://github.com/srid/the-actualism-way) - 
 - [nrdxp/rfc-evidence](https://github.com/nrdxp/rfc-evidence) - 
 - [ggambetta/computer-graphics-from-scratch](https://github.com/ggambetta/computer-graphics-from-scratch) - Text, diagrams, and source code for the book Computer Graphics from scratch.
@@ -1294,7 +1281,6 @@
 - [graninas/The-Voids-Of-Haskell](https://github.com/graninas/The-Voids-Of-Haskell) - 
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [croqaz/awesome-decentralized](https://github.com/croqaz/awesome-decentralized) - 🕶 Awesome list of distributed, decentralized, p2p apps and tools 👍
-- [nix-community/awesome-nix](https://github.com/nix-community/awesome-nix) - 😎 A curated list of the best resources in the Nix community [maintainer=@cyntheticfox]
 - [rothgar/awesome-tmux](https://github.com/rothgar/awesome-tmux) - A list of awesome resources for tmux
 - [fsharp/fslang-suggestions](https://github.com/fsharp/fslang-suggestions) - The place to make suggestions, discuss and vote on F# language and core library features
 - [quozd/awesome-dotnet](https://github.com/quozd/awesome-dotnet) - A collection of awesome .NET libraries, tools, frameworks and software
@@ -1320,7 +1306,6 @@
 - [beerendlauwers/haskell-papers-ereader](https://github.com/beerendlauwers/haskell-papers-ereader) - Haskell papers optimized for my e-reader.
 - [erkmos/haskell-companies](https://github.com/erkmos/haskell-companies) - A gently curated list of companies using Haskell in industry
 - [jukil/plain-text-life](https://github.com/jukil/plain-text-life) - A template to organise life in plain text files
-- [nix-community/wiki](https://github.com/nix-community/wiki) - Nixos wiki [maintainer=@samueldr]
 - [Gabriella439/post-rfc](https://github.com/Gabriella439/post-rfc) - Blog post previews in need of peer review
 - [garbas/nix-virtualenv](https://github.com/garbas/nix-virtualenv) - Might just be your next virtualenv
 - [jwbuurlage/category-theory-programmers](https://github.com/jwbuurlage/category-theory-programmers) - Category theory in the context of (functional) programming
@@ -1404,7 +1389,7 @@
 - [kovidgoyal/vise](https://github.com/kovidgoyal/vise) - A keyboard driven browser with tabs in a tree
 - [xai-org/grok-1](https://github.com/xai-org/grok-1) - Grok open release
 - [embedchain/embedchain](https://github.com/embedchain/embedchain) - Personalizing LLM Responses
-- [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. A copilot to get answers to your questions, whether they be from your own notes or from the internet. Use powerful, online (e.g gpt4) or private, local (e.g llama3) LLMs. Self-ho
+- [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Get answers to your questions, whether they be online or in your own notes. Use online AI models (e.g gpt4) or private, local LLMs (e.g llama3). Self-host locally or use our clou
 - [d2l-ai/d2l-en](https://github.com/d2l-ai/d2l-en) - Interactive deep learning book with multi-framework code, math, and discussions. Adopted at 500 universities from 70 countries including Stanford, MIT, Harvard, and Cambridge.
 - [executablebooks/jupyter-book](https://github.com/executablebooks/jupyter-book) - Create beautiful, publication-quality books and documents from computational content.
 - [maubot/maubot](https://github.com/maubot/maubot) - A plugin-based Matrix bot system.
@@ -1560,7 +1545,8 @@
 
 ## Rust 
 
-- [nix-community/harmonia](https://github.com/nix-community/harmonia) - Nix binary cache implemented in rust using libnix-store (maintainer: @Mic92)
+- [juspay/flakreate](https://github.com/juspay/flakreate) - WIP: Easily create Nix flakes for any project
+- [mikaelmello/inquire](https://github.com/mikaelmello/inquire) - A Rust library for building interactive prompts
 - [ikebastuz/wiper](https://github.com/ikebastuz/wiper) - Disk analyser and cleanup tool
 - [juspay/superposition](https://github.com/juspay/superposition) - Superposition is a context-based configuration management system designed to facilitate safe and flexible rollout of config changes
 - [mikedilger/gossip](https://github.com/mikedilger/gossip) - Gossip is a nostr client
@@ -1642,7 +1628,6 @@
 - [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack GUI library for web, desktop, mobile, and more.
 - [flox/runix](https://github.com/flox/runix) - A type-safe Rust interface to the Nix CLI
 - [rustafariandev/pavlok-cli-rs](https://github.com/rustafariandev/pavlok-cli-rs) - 
-- [nix-community/nix-melt](https://github.com/nix-community/nix-melt) - A ranger-like flake.lock viewer [maintainer=@figsoda]
 - [nerdypepper/statix](https://github.com/nerdypepper/statix) - lints and suggestions for the nix programming language
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
 - [Skallwar/suckit](https://github.com/Skallwar/suckit) - Suck the InTernet
@@ -1654,8 +1639,6 @@
 - [zhaofengli/attic](https://github.com/zhaofengli/attic) - Multi-tenant Nix Binary Cache
 - [fathyb/carbonyl](https://github.com/fathyb/carbonyl) - Chromium running inside your terminal
 - [oxalica/nil](https://github.com/oxalica/nil) - NIx Language server, an incremental analysis assistant for writing in Nix.
-- [nix-community/comma](https://github.com/nix-community/comma) - Comma runs software without installing it. [maintainers=@Artturin,@burke,@DavHau]
-- [nix-community/nix-index](https://github.com/nix-community/nix-index) - Quickly locate nix packages with specific files [maintainers=@bennofs @figsoda @raitobezarius]
 - [Mange/tydra](https://github.com/Mange/tydra) - Shortcut menu-based task runner, inspired by Emacs Hydra
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 - [jD91mZM2/xidlehook](https://github.com/jD91mZM2/xidlehook) - GitLab: https://gitlab.com/jD91mZM2/xidlehook
@@ -1686,8 +1669,6 @@
 - [ralfbiedert/cheats.rs](https://github.com/ralfbiedert/cheats.rs) - Rust Language Cheat Sheet - https://cheats.rs
 - [extrawurst/gitui](https://github.com/extrawurst/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
 - [djc/askama](https://github.com/djc/askama) - Type-safe, compiled Jinja-like templates for Rust
-- [nix-community/nixpkgs-fmt](https://github.com/nix-community/nixpkgs-fmt) - Nix code formatter for nixpkgs [maintainer=@zimbatm]
-- [nix-community/rnix-lsp](https://github.com/nix-community/rnix-lsp) - WIP Language Server for Nix! [maintainer=@aaronjanse]
 - [pchampin/sophia_rs](https://github.com/pchampin/sophia_rs) - Sophia: a Rust toolkit for RDF and Linked Data
 - [oxigraph/oxigraph](https://github.com/oxigraph/oxigraph) - SPARQL graph database
 - [terminusdb/terminusdb-store](https://github.com/terminusdb/terminusdb-store) - a tokio-enabled data store for triple data
@@ -1731,14 +1712,13 @@
 
 ## Shell 
 
+- [navikt/github-app-token-generator](https://github.com/navikt/github-app-token-generator) - GitHub action for generating an installation token for a GitHub App
 - [numtide/prj-spec](https://github.com/numtide/prj-spec) - Project Base Directory Specification
-- [nix-community/nixos-anywhere](https://github.com/nix-community/nixos-anywhere) - install nixos everywhere via ssh [maintainer=@numtide]
 - [3noch/nix-bundle-exe](https://github.com/3noch/nix-bundle-exe) - Simple Nix derivations to bundle executables
 - [Bugswriter/notflix](https://github.com/Bugswriter/notflix) - Notflix is a shell script to search and stream torrent.
 - [passff/passff-host](https://github.com/passff/passff-host) - Host app for the WebExtension PassFF
 - [spwhitton/git-remote-gcrypt](https://github.com/spwhitton/git-remote-gcrypt) - PGP-encrypted git remotes
 - [pystardust/ytfzf](https://github.com/pystardust/ytfzf) - A posix script to find and watch youtube videos from the terminal. (Without API)
-- [nix-community/nixos-install-scripts](https://github.com/nix-community/nixos-install-scripts) - collection of one-shot scripts to install NixOS on various server hosters and other hardware. [maintainer=@happysalada]
 - [erikarvstedt/extra-container](https://github.com/erikarvstedt/extra-container) - Run declarative NixOS containers without full system rebuilds
 - [JetBrains/JetBrainsMono](https://github.com/JetBrains/JetBrainsMono) - JetBrains Mono – the free and open-source typeface for developers
 - [horochx/deploy-via-scp](https://github.com/horochx/deploy-via-scp) - A GitHub Action that send the build file to a remote server for deployment via scp.
@@ -1876,7 +1856,6 @@
 - [andymatuschak/orbit](https://github.com/andymatuschak/orbit) - Experimental spaced repetition platform for exploring ideas in memory augmentation and programmable attention
 - [banga/git-split-diffs](https://github.com/banga/git-split-diffs) - Syntax highlighted side-by-side diffs in your terminal
 - [osmoscraft/osmosfeed](https://github.com/osmoscraft/osmosfeed) - Turn GitHub into an RSS reader
-- [nix-community/vscode-nix-ide](https://github.com/nix-community/vscode-nix-ide) - Nix language support for VSCode editor [maintainer: @jnoortheen]
 - [zk-org/zk-vscode](https://github.com/zk-org/zk-vscode) - Visual Studio Code extension for zk
 - [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🧡 Everything is RSSible
 - [windicss/windicss](https://github.com/windicss/windicss) - Next generation utility-first CSS framework.
