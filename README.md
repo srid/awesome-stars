@@ -213,7 +213,6 @@
 ## Dockerfile 
 
 - [matiu2/tailwind-yew-builder](https://github.com/matiu2/tailwind-yew-builder) - Build tailwind css for yew style applications, using docker-compose, so you don't need to have npm installed
-- [zimbatm/vscode-devcontainer-nix](https://github.com/zimbatm/vscode-devcontainer-nix) - WIP: VSCode remote container for Nix-based environments
 
 ## Elixir 
 
@@ -267,7 +266,7 @@
 
 ## Emacs Lisp 
 
-- [abougouffa/minemacs](https://github.com/abougouffa/minemacs) - MinEmacs: a minimal Emacs configuration framework for daily use
+- [abougouffa/minemacs](https://github.com/abougouffa/minemacs) - MinEmacs: an Emacs configuration framework for daily use
 - [copilot-emacs/copilot.el](https://github.com/copilot-emacs/copilot.el) - An unofficial Copilot plugin for Emacs.
 - [mclear-tools/tabspaces](https://github.com/mclear-tools/tabspaces) - 
 - [rougier/nano-emacs](https://github.com/rougier/nano-emacs) - GNU Emacs / N Λ N O - Emacs made simple
@@ -1128,7 +1127,7 @@
 - [nix-systems/current-system](https://github.com/nix-systems/current-system) - Like `builtins.currentSystem` but for the CLI
 - [nix-systems/flake-outputs](https://github.com/nix-systems/flake-outputs) - Get buildable outputs of a flake
 - [nix-systems/aarch64-darwin](https://github.com/nix-systems/aarch64-darwin) - 
-- [sajban/lojix](https://github.com/sajban/lojix) - Nix from Clojure
+- [criome/lojix](https://github.com/criome/lojix) - Nix from Clojure
 - [juspay/nix-dev-home](https://github.com/juspay/nix-dev-home) - A `home-manager` template providing useful tools & settings for Nix-based development (macOS & Linux supported)
 - [cachix/git-hooks.nix](https://github.com/cachix/git-hooks.nix) - Seamless integration of https://pre-commit.com git hooks with Nix.
 - [Mic92/sops-nix](https://github.com/Mic92/sops-nix) - Atomic secret provisioning for NixOS based on sops
@@ -1712,11 +1711,12 @@
 
 ## Shell 
 
+- [basecamp/omakub](https://github.com/basecamp/omakub) - Opinionated Ubuntu Setup
 - [navikt/github-app-token-generator](https://github.com/navikt/github-app-token-generator) - GitHub action for generating an installation token for a GitHub App
 - [numtide/prj-spec](https://github.com/numtide/prj-spec) - Project Base Directory Specification
 - [3noch/nix-bundle-exe](https://github.com/3noch/nix-bundle-exe) - Simple Nix derivations to bundle executables
 - [Bugswriter/notflix](https://github.com/Bugswriter/notflix) - Notflix is a shell script to search and stream torrent.
-- [passff/passff-host](https://github.com/passff/passff-host) - Host app for the WebExtension PassFF
+- [passff/passff-host](https://github.com/passff/passff-host) - Read-only mirror of https://codeberg.org/PassFF/passff-host Pull requests and issues on GitHub cannot be accepted and will be automatically closed.
 - [spwhitton/git-remote-gcrypt](https://github.com/spwhitton/git-remote-gcrypt) - PGP-encrypted git remotes
 - [pystardust/ytfzf](https://github.com/pystardust/ytfzf) - A posix script to find and watch youtube videos from the terminal. (Without API)
 - [erikarvstedt/extra-container](https://github.com/erikarvstedt/extra-container) - Run declarative NixOS containers without full system rebuilds
