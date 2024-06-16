@@ -375,7 +375,7 @@
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
 - [lk-geimfari/awesomo](https://github.com/lk-geimfari/awesomo) - Cool open source projects. Choose your project and get involved in Open Source development now.
 - [bitly/oauth2_proxy](https://github.com/bitly/oauth2_proxy) - A reverse proxy that provides authentication with Google, Github or other provider
-- [elves/elvish](https://github.com/elves/elvish) - Powerful scripting language & Versatile interactive shell
+- [elves/elvish](https://github.com/elves/elvish) - Powerful scripting language & versatile interactive shell
 - [jtolio/lecat](https://github.com/jtolio/lecat) - socat-lite with letsencrypt support
 - [sajari/fuzzy](https://github.com/sajari/fuzzy) - Spell checking and fuzzy search suggestion written in Go
 - [markbao/oo-anki](https://github.com/markbao/oo-anki) - OmniOutliner flashcards to Anki. Converts OO-exported OPML files to a CSV format compatible with Anki.
@@ -1094,6 +1094,7 @@
 
 ## Nix 
 
+- [serokell/vault-secrets](https://github.com/serokell/vault-secrets) - NixOS tooling for Hashicorp Vault
 - [ipetkov/crane](https://github.com/ipetkov/crane) - A Nix library for building cargo projects. Never build twice thanks to incremental artifact caching.
 - [flake-parts/templates](https://github.com/flake-parts/templates) - A registry of various `flake-parts` templates
 - [numtide/nix-vm-test](https://github.com/numtide/nix-vm-test) - Re-use the NixOS VM test infrastructure to test Ubuntu, Debian, and Fedora machines.
@@ -1387,7 +1388,7 @@
 - [themotte/rDrama](https://github.com/themotte/rDrama) - This code runs https://www.themotte.org. Forked from https://github.com/Aevann1/rDrama
 - [kovidgoyal/vise](https://github.com/kovidgoyal/vise) - A keyboard driven browser with tabs in a tree
 - [xai-org/grok-1](https://github.com/xai-org/grok-1) - Grok open release
-- [embedchain/embedchain](https://github.com/embedchain/embedchain) - Personalizing LLM Responses
+- [embedchain/embedchain](https://github.com/embedchain/embedchain) - Memory for AI agents
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Get answers to your questions, whether they be online or in your own notes. Use online AI models (e.g gpt4) or private, local LLMs (e.g llama3). Self-host locally or use our clou
 - [d2l-ai/d2l-en](https://github.com/d2l-ai/d2l-en) - Interactive deep learning book with multi-framework code, math, and discussions. Adopted at 500 universities from 70 countries including Stanford, MIT, Harvard, and Cambridge.
 - [executablebooks/jupyter-book](https://github.com/executablebooks/jupyter-book) - Create beautiful, publication-quality books and documents from computational content.
@@ -1706,7 +1707,7 @@
 
 ## Scheme 
 
-- [hasit/zed-nix](https://github.com/hasit/zed-nix) - Nix language support in Zed
+- [zed-extensions/nix](https://github.com/zed-extensions/nix) - Nix language support in Zed
 - [srid/boalisp](https://github.com/srid/boalisp) - Lisp to Python bytecode compiler (2007 hack)
 
 ## Shell 
@@ -1810,6 +1811,7 @@
 
 ## TypeScript 
 
+- [1943time/bluestone](https://github.com/1943time/bluestone) - A WYSIWYG Markdown editor, improve reading and editing experience. and generate your Markdown files into online documents in the easiest and fastest way.
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [w-okada/screen-recorder-ts](https://github.com/w-okada/screen-recorder-ts) - 
 - [ananthakumaran/paisa](https://github.com/ananthakumaran/paisa) - Paisa – Personal Finance Manager. https://paisa.fyi demo: https://demo.paisa.fyi
