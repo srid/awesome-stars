@@ -73,7 +73,7 @@
 
 - [martinescardo/HoTT-UF-Agda-Lecture-Notes](https://github.com/martinescardo/HoTT-UF-Agda-Lecture-Notes) - Lecture notes on univalent foundations of mathematics with Agda
 - [isovector/blagda](https://github.com/isovector/blagda) - agda blogging based on 1lab
-- [plt-amy/1lab](https://github.com/plt-amy/1lab) - A formalised, cross-linked reference resource for mathematics done in Homotopy Type Theory
+- [the1lab/1lab](https://github.com/the1lab/1lab) - A formalised, cross-linked reference resource for mathematics done in Homotopy Type Theory
 - [algebraic-graphs/agda](https://github.com/algebraic-graphs/agda) - The theory of algebraic graphs formalised in Agda
 - [isovector/agda-playground](https://github.com/isovector/agda-playground) - 
 - [agda/agda2hs](https://github.com/agda/agda2hs) - Compiling Agda code to readable Haskell
@@ -541,11 +541,11 @@
 - [nammayatri/shared-kernel](https://github.com/nammayatri/shared-kernel) - See https://github.com/nammayatri/nammayatri
 - [nammayatri/beckn-gateway](https://github.com/nammayatri/beckn-gateway) - 
 - [srid/gro](https://github.com/srid/gro) - WIP: Exploring single file org-mode visualization
-- [lucasvreis/multiwalk](https://github.com/lucasvreis/multiwalk) - Create traversals and queries of multiple types at once
+- [luavreis/multiwalk](https://github.com/luavreis/multiwalk) - Create traversals and queries of multiple types at once
 - [srid/NixHaskellIndex](https://github.com/srid/NixHaskellIndex) - A site to view the Haskell packages and their versions on nixpkgs
 - [srid/commonmark-wikilink](https://github.com/srid/commonmark-wikilink) - Commonmark Wikilink parser for Pandoc
 - [lsmor/snake-fury](https://github.com/lsmor/snake-fury) - a challenge for Haskell beginners
-- [lucasvreis/organon](https://github.com/lucasvreis/organon) - 📖 view and generate static websites from your Org files  (WIP).
+- [luavreis/organon](https://github.com/luavreis/organon) - 📖 view and generate static websites from your Org files  (WIP).
 - [NorfairKing/bevel](https://github.com/NorfairKing/bevel) - 
 - [haskell-servant/servant-blaze](https://github.com/haskell-servant/servant-blaze) - 
 - [srid/heist-extra](https://github.com/srid/heist-extra) - Extra utilities for working with Heist
@@ -554,7 +554,7 @@
 - [hercules-ci/hercules-ci-agent](https://github.com/hercules-ci/hercules-ci-agent) - https://hercules-ci.com build and deployment agent
 - [haskell-effectful/effectful](https://github.com/haskell-effectful/effectful) - An easy to use, fast extensible effects library with seamless integration with the existing Haskell ecosystem.
 - [DavHau/cabal2json](https://github.com/DavHau/cabal2json) - zurihack experiment
-- [lucasvreis/ondim](https://github.com/lucasvreis/ondim) - Multitype expansions for easy templating
+- [luavreis/ondim](https://github.com/luavreis/ondim) - Multitype expansions for easy templating
 - [kowainik/type-errors-pretty](https://github.com/kowainik/type-errors-pretty) - 💄🐞 Combinators for writing pretty type errors easily
 - [CRogers/should-not-typecheck](https://github.com/CRogers/should-not-typecheck) - A HUnit/hspec assertion to verify that an expression does not typecheck
 - [fpindia/fpindia-site](https://github.com/fpindia/fpindia-site) - The new FPIndia static site built using Ema
@@ -562,7 +562,7 @@
 - [serokell/tztime](https://github.com/serokell/tztime) - Safe timezone-aware handling of time
 - [parenthetical/webflex](https://github.com/parenthetical/webflex) - Purely functional web and distributed programming with Reflex FRP
 - [Plutonomicon/plutarch-core](https://github.com/Plutonomicon/plutarch-core) - Plutarch 2.0
-- [lucasvreis/org-mode-hs](https://github.com/lucasvreis/org-mode-hs) - Libraries and tool for parsing Org Mode documents with customizable exporters. 🦄
+- [luavreis/org-mode-hs](https://github.com/luavreis/org-mode-hs) - Libraries and tool for parsing Org Mode documents with customizable exporters. 🦄
 - [BartoszMilewski/Publications](https://github.com/BartoszMilewski/Publications) - Misc. publications, conference slides, etc. For more, go to http://BartoszMilewski.com
 - [qfpl/reflex-backend-socket](https://github.com/qfpl/reflex-backend-socket) - Reflex support for socket-based applications
 - [EmaApps/timedot-invoice](https://github.com/EmaApps/timedot-invoice) - WIP: Swift invoice generator for Hledger timedot file
@@ -1104,7 +1104,7 @@
 - [ipetkov/crane](https://github.com/ipetkov/crane) - A Nix library for building cargo projects. Never build twice thanks to incremental artifact caching.
 - [flake-parts/templates](https://github.com/flake-parts/templates) - A registry of various `flake-parts` templates
 - [juspay/just-flake](https://github.com/juspay/just-flake) - Use `just` in your Nix devShells with re-usable and share-able targets.
-- [juspay/rust-flake](https://github.com/juspay/rust-flake) - WIP: Like the famous `haskell-flake`, but for Rust.
+- [juspay/rust-flake](https://github.com/juspay/rust-flake) - Like the famous `haskell-flake`, but for Rust.
 - [shivaraj-bh/ollama-flake](https://github.com/shivaraj-bh/ollama-flake) - Run ollama natively - powered by Nix
 - [juspay/colmena-flake](https://github.com/juspay/colmena-flake) - A `flake-parts` module for colmena deployment tool
 - [shivaraj-bh/haskell-rust-ffi-template](https://github.com/shivaraj-bh/haskell-rust-ffi-template) - A template repository demonstrating how to use a rust library as a dependency in haskell
@@ -1388,7 +1388,7 @@
 - [themotte/rDrama](https://github.com/themotte/rDrama) - This code runs https://www.themotte.org. Forked from https://github.com/Aevann1/rDrama
 - [kovidgoyal/vise](https://github.com/kovidgoyal/vise) - A keyboard driven browser with tabs in a tree
 - [xai-org/grok-1](https://github.com/xai-org/grok-1) - Grok open release
-- [mem0ai/mem0](https://github.com/mem0ai/mem0) - Long-term memory for LLMs
+- [mem0ai/mem0](https://github.com/mem0ai/mem0) - The memory layer for Personalized AI
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Get answers to your questions, whether they be online or in your own notes. Use online AI models (e.g gpt4) or private, local LLMs (e.g llama3). Self-host locally or use our clou
 - [d2l-ai/d2l-en](https://github.com/d2l-ai/d2l-en) - Interactive deep learning book with multi-framework code, math, and discussions. Adopted at 500 universities from 70 countries including Stanford, MIT, Harvard, and Cambridge.
 - [jupyter-book/jupyter-book](https://github.com/jupyter-book/jupyter-book) - Create beautiful, publication-quality books and documents from computational content.
@@ -1545,6 +1545,8 @@
 
 ## Rust 
 
+- [zhiburt/tabled](https://github.com/zhiburt/tabled) - An easy to use library for pretty print tables of Rust structs and enums.
+- [clap-rs/clap-verbosity-flag](https://github.com/clap-rs/clap-verbosity-flag) - Easily add a --verbose flag to CLIs using Clap
 - [jkelleyrtp/dioxus-ratatui](https://github.com/jkelleyrtp/dioxus-ratatui) - 
 - [LukeMathWalker/pavex](https://github.com/LukeMathWalker/pavex) - An easy-to-use Rust framework for building robust and performant APIs
 - [cull-os/cab](https://github.com/cull-os/cab) - Cab, the reproducible derivation composer and builder-protocol client.
@@ -1558,14 +1560,14 @@
 - [parasyte/pixels](https://github.com/parasyte/pixels) - A tiny hardware-accelerated pixel frame buffer. 🦀
 - [emoon/rust_minifb](https://github.com/emoon/rust_minifb) - Cross platfrom window and framebuffer crate for Rust
 - [not-fl3/miniquad](https://github.com/not-fl3/miniquad) - Cross platform rendering in Rust
-- [juspay/nix-health](https://github.com/juspay/nix-health) - Check the health of your Nix install
-- [juspay/nix-rs](https://github.com/juspay/nix-rs) - 
+- [juspay/nix-health](https://github.com/juspay/nix-health) - REPO MOVED https://github.com/juspay/omnix/tree/main/crates/nix_health
+- [juspay/nix-rs](https://github.com/juspay/nix-rs) - REPO MOVED https://github.com/juspay/omnix/tree/main/crates/nix_rs
 - [replit/rippkgs](https://github.com/replit/rippkgs) - A CLI for indexing and searching packages in Nix expressions
 - [wooorm/markdown-rs](https://github.com/wooorm/markdown-rs) - CommonMark compliant markdown parser in Rust with ASTs and extensions
 - [mdzk-rs/mdzk](https://github.com/mdzk-rs/mdzk) - General-purpose interface to connected notes
 - [oovm/tailwind-rs](https://github.com/oovm/tailwind-rs) - 
 - [nixops4/nixops4](https://github.com/nixops4/nixops4) - Deploy with Nix and manage resources declaratively
-- [Feel-ix-343/markdown-oxide](https://github.com/Feel-ix-343/markdown-oxide) - Editor Agnostic PKM: you bring the text editor and we bring the PKM - inspired by and compatible with Obsidian
+- [Feel-ix-343/markdown-oxide](https://github.com/Feel-ix-343/markdown-oxide) - Composable PKM: You bring the text-editor, we bring the PKM - inspired by and compatible with Obsidian
 - [brack-lang/brack](https://github.com/brack-lang/brack) - A bracket-based lightweight markup language that extends commands with WebAssembly
 - [ggez/ggez](https://github.com/ggez/ggez) - Rust library to create a Good Game Easily
 - [extism/extism](https://github.com/extism/extism) - The framework for building with WebAssembly (wasm). Easily load wasm modules, move data, call functions, and build extensible apps.
@@ -1607,7 +1609,7 @@
 - [ankarhem/blog](https://github.com/ankarhem/blog) - 
 - [DioxusLabs/include_mdbook](https://github.com/DioxusLabs/include_mdbook) - Include mdbooks at compile time in your Rust project
 - [DioxusLabs/docsite](https://github.com/DioxusLabs/docsite) - Dioxuslabs.com documentation site
-- [juspay/omnix](https://github.com/juspay/omnix) - 🚧 Better than using raw Nix
+- [juspay/omnix](https://github.com/juspay/omnix) - 🚧 Better than raw Nix
 - [stevepryde/thirtyfour](https://github.com/stevepryde/thirtyfour) - Selenium WebDriver client for Rust, for automated testing of websites
 - [rambip/leptos-markdown](https://github.com/rambip/leptos-markdown) - A zero-config leptos component to display markdown
 - [richardanaya/leptos_three](https://github.com/richardanaya/leptos_three) - A prototype of creating a React Three Fiber like experience with Leptos and ThreeJS
@@ -1814,6 +1816,7 @@
 
 ## TypeScript 
 
+- [filllabs/dependi](https://github.com/filllabs/dependi) - Dependi (formerly crates)
 - [satellite-earth/desktop](https://github.com/satellite-earth/desktop) - 
 - [1943time/inkdown](https://github.com/1943time/inkdown) - A WYSIWYG Markdown editor, improve reading and editing experience. and generate your Markdown files into online documents in the easiest and fastest way.
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
