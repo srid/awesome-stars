@@ -94,7 +94,7 @@
 - [davatorium/rofi](https://github.com/davatorium/rofi) - Rofi: A window switcher, application launcher and dmenu replacement
 - [mpv-player/mpv](https://github.com/mpv-player/mpv) - 🎥 Command line video player
 - [imbushuo/mac-precision-touchpad](https://github.com/imbushuo/mac-precision-touchpad) - Windows Precision Touchpad Driver Implementation for Apple MacBook / Magic Trackpad
-- [netdata/netdata](https://github.com/netdata/netdata) - The open-source observability platform everyone needs!
+- [netdata/netdata](https://github.com/netdata/netdata) - The open-source observability platfrom everyone needs!
 - [jarun/nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager
 - [mwyborski/Linux-Magic-Trackpad-2-Driver](https://github.com/mwyborski/Linux-Magic-Trackpad-2-Driver) - 
 - [matz/streem](https://github.com/matz/streem) - prototype of stream based programming language
@@ -1548,6 +1548,7 @@
 
 ## Rust 
 
+- [NiklasEi/cinnog](https://github.com/NiklasEi/cinnog) - Experimental static site generator using Leptos with Bevy ECS as a data layer
 - [MercuryTechnologies/ghciwatch](https://github.com/MercuryTechnologies/ghciwatch) - Load a GHCi session for a Haskell project and reload it when source files change
 - [9999years/tracing-human-layer](https://github.com/9999years/tracing-human-layer) - A human-friendly output layer for the Rust `tracing` library
 - [rust-lang/mdBook](https://github.com/rust-lang/mdBook) - Create book from markdown files. Like Gitbook but implemented in Rust
