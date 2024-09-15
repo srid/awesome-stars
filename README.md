@@ -1098,6 +1098,7 @@
 
 ## Nix 
 
+- [jonringer/core-pkgs](https://github.com/jonringer/core-pkgs) - Core packages and NixOS modules for a poly-repo nixpkgs fork
 - [jonringer/stdenv](https://github.com/jonringer/stdenv) - Minimal repo to create a nix stdenv
 - [divnix/nix-book](https://github.com/divnix/nix-book) - The Nix Package Manager
 - [DeterminateSystems/inspect](https://github.com/DeterminateSystems/inspect) - Inspect a flake's outputs with flake schemas.
@@ -1108,7 +1109,7 @@
 - [ipetkov/crane](https://github.com/ipetkov/crane) - A Nix library for building cargo projects. Never build twice thanks to incremental artifact caching.
 - [flake-parts/templates](https://github.com/flake-parts/templates) - A registry of various `flake-parts` templates
 - [juspay/just-flake](https://github.com/juspay/just-flake) - Use `just` in your Nix devShells with re-usable and share-able targets.
-- [juspay/rust-flake](https://github.com/juspay/rust-flake) - Like the famous `haskell-flake`, but for Rust.
+- [juspay/rust-flake](https://github.com/juspay/rust-flake) - A simple flake module for Rust development, based on crane.
 - [shivaraj-bh/ollama-flake](https://github.com/shivaraj-bh/ollama-flake) - Run ollama natively - powered by Nix
 - [juspay/colmena-flake](https://github.com/juspay/colmena-flake) - A `flake-parts` module for colmena deployment tool
 - [shivaraj-bh/haskell-rust-ffi-template](https://github.com/shivaraj-bh/haskell-rust-ffi-template) - A template repository demonstrating how to use a rust library as a dependency in haskell
@@ -1155,7 +1156,6 @@
 - [Platonic-Systems/process-compose-flake](https://github.com/Platonic-Systems/process-compose-flake) - A `flake-parts` module to spin up processes for development by leveraging `process-compose`
 - [DavHau/drv-parts](https://github.com/DavHau/drv-parts) - Configure packages like NixOS systems
 - [Platonic-Systems/purescript-multi-nix](https://github.com/Platonic-Systems/purescript-multi-nix) - WIP demo of nixifying a PureScript monorepo using purs-nix
-- [cachix/devenv](https://github.com/cachix/devenv) - Fast, Declarative, Reproducible, and Composable Developer Environments
 - [srid/haskell-multi-nix](https://github.com/srid/haskell-multi-nix) - A simple demo of Nixifying a multi-package Haskell project
 - [mlabs-haskell/mlabs-tooling.nix](https://github.com/mlabs-haskell/mlabs-tooling.nix) - A flake that provides everything necessary to set up a project within our sopes. This includes the necessary maintenance as well as CI.
 - [jonascarpay/declarative-cachix](https://github.com/jonascarpay/declarative-cachix) - Manage cachix caches declaratively
@@ -1245,6 +1245,7 @@
 
 ## Others 
 
+- [jonringer/poly-repo-roadmap](https://github.com/jonringer/poly-repo-roadmap) - Roadmap for creating a poly-repo nixpkgs fork
 - [jonringer/flake-v2](https://github.com/jonringer/flake-v2) - What flakes should have been
 - [zellij-org/awesome-zellij](https://github.com/zellij-org/awesome-zellij) - A list of awesome resources for zellij
 - [srid/the-actualism-way](https://github.com/srid/the-actualism-way) - 
@@ -1550,6 +1551,7 @@
 
 ## Rust 
 
+- [jonringer/basinix](https://github.com/jonringer/basinix) - (WIP) Nixpkgs pull request review website
 - [juspay/superposition](https://github.com/juspay/superposition) - Superposition is a context-based configuration management system designed to facilitate safe and flexible rollout of config changes
 - [trashhalo/obsidian-rust-plugin](https://github.com/trashhalo/obsidian-rust-plugin) - 
 - [NiklasEi/cinnog](https://github.com/NiklasEi/cinnog) - Experimental static site generator using Leptos with Bevy ECS as a data layer
@@ -1803,6 +1805,8 @@
 
 ## Swift 
 
+- [Whisky-App/Whisky](https://github.com/Whisky-App/Whisky) - A modern Wine wrapper for macOS built with SwiftUI
+- [traderepublic/Cilicon](https://github.com/traderepublic/Cilicon) - 🛠️ Self-Hosted ephemeral macOS CI on Apple Silicon
 - [thealpa/SaneSideButtons](https://github.com/thealpa/SaneSideButtons) - A macOS menu bar app that enables system-wide navigation functionality for side buttons on third-party mice.
 - [ealeksandrov/SomaFM-miniplayer](https://github.com/ealeksandrov/SomaFM-miniplayer) - Unofficial player that gives you minimal, background playback of SomaFM channels.
 - [cirruslabs/tart](https://github.com/cirruslabs/tart) - macOS and Linux VMs on Apple Silicon to use in CI and other automations
