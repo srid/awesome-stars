@@ -541,11 +541,11 @@
 - [nammayatri/shared-kernel](https://github.com/nammayatri/shared-kernel) - See https://github.com/nammayatri/nammayatri
 - [nammayatri/beckn-gateway](https://github.com/nammayatri/beckn-gateway) - 
 - [srid/gro](https://github.com/srid/gro) - WIP: Exploring single file org-mode visualization
-- [lucasvreis/multiwalk](https://github.com/lucasvreis/multiwalk) - Create traversals and queries of multiple types at once
+- [luavreis/multiwalk](https://github.com/luavreis/multiwalk) - Create traversals and queries of multiple types at once
 - [srid/NixHaskellIndex](https://github.com/srid/NixHaskellIndex) - A site to view the Haskell packages and their versions on nixpkgs
 - [srid/commonmark-wikilink](https://github.com/srid/commonmark-wikilink) - Commonmark Wikilink parser for Pandoc
 - [lsmor/snake-fury](https://github.com/lsmor/snake-fury) - a challenge for Haskell beginners
-- [lucasvreis/organon](https://github.com/lucasvreis/organon) - 📖 view and generate static websites from your Org files  (WIP).
+- [luavreis/organon](https://github.com/luavreis/organon) - 📖 view and generate static websites from your Org files  (WIP).
 - [NorfairKing/bevel](https://github.com/NorfairKing/bevel) - 
 - [haskell-servant/servant-blaze](https://github.com/haskell-servant/servant-blaze) - 
 - [srid/heist-extra](https://github.com/srid/heist-extra) - Extra utilities for working with Heist
@@ -554,7 +554,7 @@
 - [hercules-ci/hercules-ci-agent](https://github.com/hercules-ci/hercules-ci-agent) - https://hercules-ci.com build and deployment agent
 - [haskell-effectful/effectful](https://github.com/haskell-effectful/effectful) - An easy to use, fast extensible effects library with seamless integration with the existing Haskell ecosystem.
 - [DavHau/cabal2json](https://github.com/DavHau/cabal2json) - zurihack experiment
-- [lucasvreis/ondim](https://github.com/lucasvreis/ondim) - Multitype expansions for easy templating
+- [luavreis/ondim](https://github.com/luavreis/ondim) - Multitype expansions for easy templating
 - [kowainik/type-errors-pretty](https://github.com/kowainik/type-errors-pretty) - 💄🐞 Combinators for writing pretty type errors easily
 - [CRogers/should-not-typecheck](https://github.com/CRogers/should-not-typecheck) - A HUnit/hspec assertion to verify that an expression does not typecheck
 - [fpindia/fpindia-site](https://github.com/fpindia/fpindia-site) - The new FPIndia static site built using Ema
@@ -562,7 +562,7 @@
 - [serokell/tztime](https://github.com/serokell/tztime) - Safe timezone-aware handling of time
 - [parenthetical/webflex](https://github.com/parenthetical/webflex) - Purely functional web and distributed programming with Reflex FRP
 - [Plutonomicon/plutarch-core](https://github.com/Plutonomicon/plutarch-core) - Plutarch 2.0
-- [lucasvreis/org-mode-hs](https://github.com/lucasvreis/org-mode-hs) - Libraries and tool for parsing Org Mode documents with customizable exporters. 🦄
+- [luavreis/org-mode-hs](https://github.com/luavreis/org-mode-hs) - Libraries and tool for parsing Org Mode documents with customizable exporters. 🦄
 - [BartoszMilewski/Publications](https://github.com/BartoszMilewski/Publications) - Misc. publications, conference slides, etc. For more, go to http://BartoszMilewski.com
 - [qfpl/reflex-backend-socket](https://github.com/qfpl/reflex-backend-socket) - Reflex support for socket-based applications
 - [EmaApps/timedot-invoice](https://github.com/EmaApps/timedot-invoice) - WIP: Swift invoice generator for Hledger timedot file
@@ -573,7 +573,6 @@
 - [NorfairKing/feedback](https://github.com/NorfairKing/feedback) - Declarative feedback loop manager
 - [quchen/prettyprinter](https://github.com/quchen/prettyprinter) - A modern, extensible and well-documented prettyprinter.
 - [mlabs-haskell/plutip](https://github.com/mlabs-haskell/plutip) - A Cardano tool to spin up a testnet and run contracts with an EDSL to describe the instructions. Rhymes with tulip for no particular reason.
-- [swarm-game/swarm](https://github.com/swarm-game/swarm) - Resource gathering + programming game
 - [well-typed/large-records](https://github.com/well-typed/large-records) - Library to support efficient compilation of large records (linear in the number of record fields)
 - [telostat/haspara](https://github.com/telostat/haspara) - Haskell library to work with monetary values
 - [compiling-to-categories/concat](https://github.com/compiling-to-categories/concat) - Compiling to Categories
@@ -934,6 +933,7 @@
 - [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
 - [resume/resume.github.com](https://github.com/resume/resume.github.com) - Resumes generated using the GitHub informations
 - [Gabriella439/grace](https://github.com/Gabriella439/grace) - A ready-to-fork interpreted functional language with type inference
+- [swarm-game/swarm](https://github.com/swarm-game/swarm) - Resource gathering + programming game
 - [publiusfederalist/zooko](https://github.com/publiusfederalist/zooko) - Uncensorable, immutable microblogging platform that is completely decentralized and does not rely on any centralized systems, only the Handshake blockchain
 - [Emurgo/yoroi-frontend](https://github.com/Emurgo/yoroi-frontend) - Yoroi Wallet - Cardano ADA Wallet - Your gateway to the financial world (extension frontend)
 - [tefkah/emacs-docs](https://github.com/tefkah/emacs-docs) - The documentation website Emacs deserves
@@ -1623,7 +1623,7 @@
 - [ankarhem/blog](https://github.com/ankarhem/blog) - 
 - [DioxusLabs/include_mdbook](https://github.com/DioxusLabs/include_mdbook) - Include mdbooks at compile time in your Rust project
 - [DioxusLabs/docsite](https://github.com/DioxusLabs/docsite) - Dioxuslabs.com documentation site
-- [juspay/omnix](https://github.com/juspay/omnix) - 🚧 A Nix wrapper to improve developer experience
+- [juspay/omnix](https://github.com/juspay/omnix) - 🚧 A Nix companion to improve developer experience
 - [Vrtgs/thirtyfour](https://github.com/Vrtgs/thirtyfour) - Selenium WebDriver client for Rust, for automated testing of websites
 - [rambip/leptos-markdown](https://github.com/rambip/leptos-markdown) - A zero-config leptos component to display markdown
 - [richardanaya/leptos_three](https://github.com/richardanaya/leptos_three) - A prototype of creating a React Three Fiber like experience with Leptos and ThreeJS
@@ -1735,6 +1735,7 @@
 
 ## Shell 
 
+- [juspay/nixone](https://github.com/juspay/nixone) - One-click setup of all things Nix for Juspay'ers
 - [basecamp/omakub](https://github.com/basecamp/omakub) - Opinionated Ubuntu Setup
 - [navikt/github-app-token-generator](https://github.com/navikt/github-app-token-generator) - GitHub action for generating an installation token for a GitHub App
 - [3noch/nix-bundle-exe](https://github.com/3noch/nix-bundle-exe) - Simple Nix derivations to bundle executables
