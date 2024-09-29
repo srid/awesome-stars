@@ -155,7 +155,7 @@
 - [joshua-mo-143/leptos_axum_shuttle_ex](https://github.com/joshua-mo-143/leptos_axum_shuttle_ex) - 
 - [srid/leptos-nix-template](https://github.com/srid/leptos-nix-template) - Leptos template using Axum+Tailwind+Nix.
 - [wolverian/agda-template](https://github.com/wolverian/agda-template) - A template for an Agda project with automatic GitHub Pages support
-- [chrisgrieser/shimmering-focus](https://github.com/chrisgrieser/shimmering-focus) - Minimalistic Obsidian Theme for keyboard-centric users.
+- [chrisgrieser/shimmering-focus](https://github.com/chrisgrieser/shimmering-focus) - A minimalistic and opinionated Obsidian theme for the keyboard-centric user.
 - [rougier/emacs-gtd](https://github.com/rougier/emacs-gtd) - Get Things Done with Emacs
 - [PKM-er/Blue-Topaz_Obsidian-css](https://github.com/PKM-er/Blue-Topaz_Obsidian-css) - A blue theme for Obsidian.
 - [sdras/productive-twitter](https://github.com/sdras/productive-twitter) - Chrome extension: Minimal and friendly theme for productive twitter use
@@ -348,8 +348,8 @@
 
 - [neuralinkcorp/tsui](https://github.com/neuralinkcorp/tsui) - An (experimental) elegant TUI for configuring Tailscale.
 - [elisescu/tty-share](https://github.com/elisescu/tty-share) - Share your linux or osx terminal over the Internet.
-- [usememos/memos](https://github.com/usememos/memos) - An open source, lightweight note-taking service. Easily capture and share your great thoughts.
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.1, Mistral, Gemma 2, and other large language models.
+- [usememos/memos](https://github.com/usememos/memos) - An open-source, lightweight note-taking solution. The pain-less way to create your meaningful notes.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.2, Mistral, Gemma 2, and other large language models.
 - [git-bug/git-bug](https://github.com/git-bug/git-bug) - Distributed, offline-first bug tracker embedded in git, with bridges
 - [matrix-org/pinecone](https://github.com/matrix-org/pinecone) - Peer-to-peer overlay routing for the Matrix ecosystem
 - [YoSev/private-ghp](https://github.com/YoSev/private-ghp) - publish github pages privately secured by github sso (oauth2)
@@ -499,7 +499,7 @@
 - [therockstorm/privacy-protect](https://github.com/therockstorm/privacy-protect) - Securely share and store passwords and sensitive files.
 - [robinmoisson/staticrypt](https://github.com/robinmoisson/staticrypt) - Password protect a static HTML page, decrypted in-browser in JS with no dependency. No server logic needed.
 - [phil-opp/blog_os](https://github.com/phil-opp/blog_os) - Writing an OS in Rust
-- [nature-of-code/noc-book-2](https://github.com/nature-of-code/noc-book-2) - Nature of Code with p5.js and Notion workflow / build system.
+- [nature-of-code/noc-book-2](https://github.com/nature-of-code/noc-book-2) - The 2024 edition of The Nature of Code with p5.js. Includes Notion workflow and build system.
 - [evildmp/diataxis-documentation-framework](https://github.com/evildmp/diataxis-documentation-framework) - A systematic approach to creating better documentation.
 - [fiatjaf/nostrexplained.com](https://github.com/fiatjaf/nostrexplained.com) - 
 - [bitstein/justmeat.co](https://github.com/bitstein/justmeat.co) - Carnivorous eating, paleolithic ketogenic diet and medicine, and zero carb lifestyle. Don’t bother with vegetables. Just eat meat.
@@ -786,7 +786,7 @@
 - [obsidiansystems/aeson-gadt-th](https://github.com/obsidiansystems/aeson-gadt-th) - Template Haskell for generating ToJSON and FromJSON instances for GADTs
 - [system-f/lets-lens](https://github.com/system-f/lets-lens) - Course material for lens
 - [jtdaugherty/tart](https://github.com/jtdaugherty/tart) - Tart - draw ASCII art in the terminal with your mouse!
-- [judah/haskeline](https://github.com/judah/haskeline) - A Haskell library for line input in command-line programs.
+- [haskell/haskeline](https://github.com/haskell/haskeline) - A Haskell library for line input in command-line programs.
 - [acid-state/safecopy](https://github.com/acid-state/safecopy) - An extension to Data.Serialize with built-in version control
 - [qfpl/reflex-dom-canvas](https://github.com/qfpl/reflex-dom-canvas) - HTML5 Canvas Integration for Reflex Dom
 - [benl23x5/gloss](https://github.com/benl23x5/gloss) - Painless 2D vector graphics, animations and simulations.
@@ -1098,6 +1098,7 @@
 
 ## Nix 
 
+- [srid/nixos-flake](https://github.com/srid/nixos-flake) - A flake-parts module to manage NixOS and macOS machines, along with home-manager support, in a unified fashion.
 - [jonringer/core-pkgs](https://github.com/jonringer/core-pkgs) - Core packages and NixOS modules for a poly-repo nixpkgs fork
 - [jonringer/stdenv](https://github.com/jonringer/stdenv) - Minimal repo to create a nix stdenv
 - [divnix/nix-book](https://github.com/divnix/nix-book) - The Nix Package Manager
@@ -1615,7 +1616,7 @@
 - [dallasrust/website-dioxus](https://github.com/dallasrust/website-dioxus) - Dallas Rust User Meetup website using Dioxus
 - [messense/leptos_sse](https://github.com/messense/leptos_sse) - Leptos server signals synced through Server-Sent-Events (SSE)
 - [tqwewe/leptos_server_signal](https://github.com/tqwewe/leptos_server_signal) - Leptos server signals synced through websockets
-- [Synphonyte/leptos-use](https://github.com/Synphonyte/leptos-use) - Collection of essential Leptos utilities inspired by React-Use / VueUse / SolidJS-USE
+- [Synphonyte/leptos-use](https://github.com/Synphonyte/leptos-use) - Collection of essential Leptos utilities inspired by React-Use / VueUse
 - [lukechu10/mdsycx](https://github.com/lukechu10/mdsycx) - markdown with Sycamore
 - [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
 - [dtolnay/typetag](https://github.com/dtolnay/typetag) - Serde serializable and deserializable trait objects
@@ -1645,7 +1646,7 @@
 - [sebcrozet/kiss3d](https://github.com/sebcrozet/kiss3d) - Keep it simple, stupid 3d graphics engine for Rust.
 - [RazrFalcon/resvg](https://github.com/RazrFalcon/resvg) - An SVG rendering library.
 - [DeterminateSystems/magic-nix-cache](https://github.com/DeterminateSystems/magic-nix-cache) - Save 30-50%+ of CI time without any effort or cost. Use Magic Nix Cache, a totally free and zero-configuration binary cache for Nix on GitHub Actions.
-- [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, mobile, and more.
+- [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - App framework for web, desktop, mobile, and more.
 - [flox/runix](https://github.com/flox/runix) - A type-safe Rust interface to the Nix CLI
 - [rustafariandev/pavlok-cli-rs](https://github.com/rustafariandev/pavlok-cli-rs) - 
 - [oppiliappan/statix](https://github.com/oppiliappan/statix) - lints and suggestions for the nix programming language
@@ -1654,7 +1655,7 @@
 - [zurawiki/gptcommit](https://github.com/zurawiki/gptcommit) - A git prepare-commit-msg hook for authoring commit messages with GPT-3.
 - [typst/typst](https://github.com/typst/typst) - A new markup-based typesetting system that is powerful and easy to learn.
 - [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over 2 million installs.
-- [watchexec/watchexec](https://github.com/watchexec/watchexec) - Executes commands in response to file modifications
+- [watchexec/watchexec](https://github.com/watchexec/watchexec) - Executes commands in response to file modifications —— Maintenance status: on hold. I have no time for OSS currently; back late 2024.
 - [zhaofengli/attic](https://github.com/zhaofengli/attic) - Multi-tenant Nix Binary Cache
 - [fathyb/carbonyl](https://github.com/fathyb/carbonyl) - Chromium running inside your terminal
 - [oxalica/nil](https://github.com/oxalica/nil) - NIx Language server, an incremental analysis assistant for writing in Nix.
