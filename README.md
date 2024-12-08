@@ -127,7 +127,7 @@
 - [DevrexLabs/memstate-tutorial](https://github.com/DevrexLabs/memstate-tutorial) - Course material for learning memstate
 - [DevrexLabs/memstate](https://github.com/DevrexLabs/memstate) - In-memory event-sourced ACID-transactional distributed object graph engine for .NET Standard
 - [VsVim/VsVim](https://github.com/VsVim/VsVim) - Vim Emulator Plugin for Visual Studio 2015+
-- [mbdavid/LiteDB](https://github.com/mbdavid/LiteDB) - LiteDB - A .NET NoSQL Document Store in a single data file
+- [litedb-org/LiteDB](https://github.com/litedb-org/LiteDB) - LiteDB - A .NET NoSQL Document Store in a single data file
 - [dotnet/interactive](https://github.com/dotnet/interactive) - .NET Interactive combines the power of .NET with many other languages to create notebooks, REPLs, and embedded coding experiences. Share code, explore data, write, and learn across your apps in ways y
 - [PowerShell/ConsoleGuiTools](https://github.com/PowerShell/ConsoleGuiTools) - Modules that mix PowerShell and GUIs/CUIs!
 - [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) - PowerShell for every system!
@@ -152,6 +152,7 @@
 
 ## CSS 
 
+- [fniessen/org-html-themes](https://github.com/fniessen/org-html-themes) - Transform your Org mode files into stunning HTML documents in minutes with our Org mode HTML theme. Elevate your productivity and impress your readers! #orgmode #html #theme #productivity #design
 - [joshua-mo-143/leptos_axum_shuttle_ex](https://github.com/joshua-mo-143/leptos_axum_shuttle_ex) - 
 - [srid/leptos-nix-template](https://github.com/srid/leptos-nix-template) - Leptos template using Axum+Tailwind+Nix.
 - [wolverian/agda-template](https://github.com/wolverian/agda-template) - A template for an Agda project with automatic GitHub Pages support
@@ -172,7 +173,6 @@
 
 ## Clojure 
 
-- [criome/lojix](https://github.com/criome/lojix) - Nix from Clojure
 - [arrterian/nix-env-selector](https://github.com/arrterian/nix-env-selector) - Allows switch environment for Visual Studio Code using Nix Package Manager.
 - [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: http://trello.com/b/8txSM12G/roadmap
 - [tonsky/FiraCode](https://github.com/tonsky/FiraCode) - Free monospaced font with programming ligatures
@@ -345,7 +345,9 @@
 
 ## Go 
 
-- [abenz1267/walker](https://github.com/abenz1267/walker) - Application launcher similar to Rofi etc. . Wayland native.
+- [Aylur/ags](https://github.com/Aylur/ags) - Scaffolding CLI for Astal+TypeScript
+- [nlewo/nix2container](https://github.com/nlewo/nix2container) - An archive-less dockerTools.buildImage implementation
+- [abenz1267/walker](https://github.com/abenz1267/walker) - Multi-Purpose Launcher with a lot of features. Highly Customizable and fast.
 - [neuralinkcorp/tsui](https://github.com/neuralinkcorp/tsui) - An (experimental) elegant TUI for configuring Tailscale.
 - [elisescu/tty-share](https://github.com/elisescu/tty-share) - Share your linux or osx terminal over the Internet.
 - [usememos/memos](https://github.com/usememos/memos) - An open-source, lightweight note-taking solution. The pain-less way to create your meaningful notes. Your Notes, Your Way.
@@ -384,12 +386,16 @@
 - [sajari/fuzzy](https://github.com/sajari/fuzzy) - Spell checking and fuzzy search suggestion written in Go
 - [markbao/oo-anki](https://github.com/markbao/oo-anki) - OmniOutliner flashcards to Anki. Converts OO-exported OPML files to a CSV format compatible with Anki.
 - [owenthereal/ccat](https://github.com/owenthereal/ccat) - Colorizing `cat`
+- [heroku/log-shuttle](https://github.com/heroku/log-shuttle) - HTTP log transport.
 - [apg/logflect](https://github.com/apg/logflect) - logplex tails as a service via drains.
 - [heroku/drain](https://github.com/heroku/drain) - Go library for writing Heroku drains
 - [heroku-examples/heroku-oauth-example-go](https://github.com/heroku-examples/heroku-oauth-example-go) - Example Go app OAuth'ing against Heroku
+- [heroku/spew](https://github.com/heroku/spew) - Spew on stdout periodically
 - [guregu/kami](https://github.com/guregu/kami) - web "framework" with context
+- [heroku/rollrus](https://github.com/heroku/rollrus) - Logrus Rollbar Hook
 - [heroku/draincat](https://github.com/heroku/draincat) - Like netcat but for Heroku logs
 - [yudai/gotty](https://github.com/yudai/gotty) - Share your terminal as a web application
+- [heroku/logplex-cli](https://github.com/heroku/logplex-cli) - Logplex client written in Go
 - [heroku/sql-drain](https://github.com/heroku/sql-drain) - Drain Heroku app logs to a SQL database
 - [opencontainers/runc](https://github.com/opencontainers/runc) - CLI tool for spawning and running containers according to the OCI specification
 - [freeformz/spew](https://github.com/freeformz/spew) - 
@@ -405,7 +411,7 @@
 - [petejkim/goop](https://github.com/petejkim/goop) - A simple dependency manager for Go (golang), inspired by Bundler.
 - [rkt/rkt](https://github.com/rkt/rkt) - [Project ended] rkt is a pod-native container engine for Linux. It is composable, secure, and built on standards.
 - [netvarun/docket](https://github.com/netvarun/docket) - Docket - Custom docker registry that allows for lightning fast deploys through bittorrent
-- [aws/aws-sdk-go](https://github.com/aws/aws-sdk-go) - AWS SDK for the Go programming language.
+- [aws/aws-sdk-go](https://github.com/aws/aws-sdk-go) - AWS SDK for the Go programming language (In Maintenance Mode, End-of-Life on 07/31/2025). The AWS SDK for Go v2 is available here: https://github.com/aws/aws-sdk-go-v2
 - [Bowery/prompt](https://github.com/Bowery/prompt) - Cross platform prompting library
 - [docker/machine](https://github.com/docker/machine) - Machine management for a container-centric world
 - [gin-gonic/gin](https://github.com/gin-gonic/gin) - Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
@@ -498,7 +504,7 @@
 - [phil-opp/blog_os](https://github.com/phil-opp/blog_os) - Writing an OS in Rust
 - [nature-of-code/noc-book-2](https://github.com/nature-of-code/noc-book-2) - The 2024 edition of The Nature of Code with p5.js. Includes Notion workflow and build system.
 - [evildmp/diataxis-documentation-framework](https://github.com/evildmp/diataxis-documentation-framework) - A systematic approach to creating better documentation.
-- [fiatjaf/nostrexplained.com](https://github.com/fiatjaf/nostrexplained.com) - 
+- [fiatjaf/nostr.technology](https://github.com/fiatjaf/nostr.technology) - hosted with cloudflare pages
 - [bitstein/justmeat.co](https://github.com/bitstein/justmeat.co) - Carnivorous eating, paleolithic ketogenic diet and medicine, and zero carb lifestyle. Don’t bother with vegetables. Just eat meat.
 - [htmlstreamofficial/preline](https://github.com/htmlstreamofficial/preline) - Preline UI is an open-source set of prebuilt UI components based on the utility-first Tailwind CSS framework.
 - [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) - Documentation that simply works
@@ -530,6 +536,11 @@
 
 ## Haskell 
 
+- [well-typed/recover-rtti](https://github.com/well-typed/recover-rtti) - Recover run-time type information from the GHC heap. One example use case is a "show anything" function (with no Show constraint).
+- [garnix-io/cradle](https://github.com/garnix-io/cradle) - 
+- [ad-si/Brillo](https://github.com/ad-si/Brillo) - Painless 2D vector graphics, animations, and simulations powered by GLFW (Fork of gloss)
+- [luke-clifton/shh](https://github.com/luke-clifton/shh) - Simple shell like scripting from Haskell
+- [eldritch-cookie/co-log-effectful](https://github.com/eldritch-cookie/co-log-effectful) - 
 - [seanhess/web-view](https://github.com/seanhess/web-view) - Typed HTML with simplified layout, and easy composable styles. Inspired by Tailwindcss and Elm UI
 - [srid/commonmark-simple](https://github.com/srid/commonmark-simple) - Simple interface to https://github.com/jgm/commonmark-hs
 - [seanhess/hyperbole](https://github.com/seanhess/hyperbole) - Haskell interactive serverside web framework inspired by HTMX
@@ -541,15 +552,14 @@
 - [ners/dosh](https://github.com/ners/dosh) - 📺 The power of Haskell in your terminal!
 - [well-typed/unfolder](https://github.com/well-typed/unfolder) - Repository with code snippets that accompany episodes of The Haskell Unfolder
 - [juspay/todo-app](https://github.com/juspay/todo-app) - A demo Haskell app showing the use of Nix with flake-parts to simplify various dev workflows
-- [gil0mendes/emanote-sitemap-generator](https://github.com/gil0mendes/emanote-sitemap-generator) - Sitemap generator for Emanote
 - [nammayatri/shared-kernel](https://github.com/nammayatri/shared-kernel) - See https://github.com/nammayatri/nammayatri
 - [nammayatri/beckn-gateway](https://github.com/nammayatri/beckn-gateway) - 
 - [srid/gro](https://github.com/srid/gro) - WIP: Exploring single file org-mode visualization
-- [sophicshift/multiwalk](https://github.com/sophicshift/multiwalk) - Create traversals and queries of multiple types at once
+- [soficshift/multiwalk](https://github.com/soficshift/multiwalk) - Create traversals and queries of multiple types at once
 - [srid/NixHaskellIndex](https://github.com/srid/NixHaskellIndex) - A site to view the Haskell packages and their versions on nixpkgs
 - [srid/commonmark-wikilink](https://github.com/srid/commonmark-wikilink) - Commonmark Wikilink parser for Pandoc
 - [lsmor/snake-fury](https://github.com/lsmor/snake-fury) - a challenge for Haskell beginners
-- [sophicshift/organon](https://github.com/sophicshift/organon) - 📖 view and generate static websites from your Org files  (WIP).
+- [soficshift/organon](https://github.com/soficshift/organon) - 📖 view and generate static websites from your Org files  (WIP).
 - [NorfairKing/bevel](https://github.com/NorfairKing/bevel) - 
 - [haskell-servant/servant-blaze](https://github.com/haskell-servant/servant-blaze) - 
 - [srid/heist-extra](https://github.com/srid/heist-extra) - Extra utilities for working with Heist
@@ -558,7 +568,7 @@
 - [hercules-ci/hercules-ci-agent](https://github.com/hercules-ci/hercules-ci-agent) - https://hercules-ci.com build and deployment agent
 - [haskell-effectful/effectful](https://github.com/haskell-effectful/effectful) - An easy to use, fast extensible effects library with seamless integration with the existing Haskell ecosystem.
 - [DavHau/cabal2json](https://github.com/DavHau/cabal2json) - zurihack experiment
-- [sophicshift/ondim](https://github.com/sophicshift/ondim) - Multitype expansions for easy templating
+- [soficshift/ondim](https://github.com/soficshift/ondim) - Multitype expansions for easy templating
 - [kowainik/type-errors-pretty](https://github.com/kowainik/type-errors-pretty) - 💄🐞 Combinators for writing pretty type errors easily
 - [CRogers/should-not-typecheck](https://github.com/CRogers/should-not-typecheck) - A HUnit/hspec assertion to verify that an expression does not typecheck
 - [fpindia/fpindia-site](https://github.com/fpindia/fpindia-site) - The new FPIndia static site built using Ema
@@ -566,7 +576,7 @@
 - [serokell/tztime](https://github.com/serokell/tztime) - Safe timezone-aware handling of time
 - [parenthetical/webflex](https://github.com/parenthetical/webflex) - Purely functional web and distributed programming with Reflex FRP
 - [Plutonomicon/plutarch-core](https://github.com/Plutonomicon/plutarch-core) - Plutarch 2.0
-- [sophicshift/org-mode-hs](https://github.com/sophicshift/org-mode-hs) - Libraries and tool for parsing Org Mode documents with customizable exporters. 🦄
+- [soficshift/org-mode-hs](https://github.com/soficshift/org-mode-hs) - Libraries and tool for parsing Org Mode documents with customizable exporters. 🦄
 - [BartoszMilewski/Publications](https://github.com/BartoszMilewski/Publications) - Misc. publications, conference slides, etc. For more, go to http://BartoszMilewski.com
 - [qfpl/reflex-backend-socket](https://github.com/qfpl/reflex-backend-socket) - Reflex support for socket-based applications
 - [EmaApps/timedot-invoice](https://github.com/EmaApps/timedot-invoice) - WIP: Swift invoice generator for Hledger timedot file
@@ -577,6 +587,7 @@
 - [NorfairKing/feedback](https://github.com/NorfairKing/feedback) - Declarative feedback loop manager
 - [quchen/prettyprinter](https://github.com/quchen/prettyprinter) - A modern, extensible and well-documented prettyprinter.
 - [mlabs-haskell/plutip](https://github.com/mlabs-haskell/plutip) - A Cardano tool to spin up a testnet and run contracts with an EDSL to describe the instructions. Rhymes with tulip for no particular reason.
+- [swarm-game/swarm](https://github.com/swarm-game/swarm) - Resource gathering + programming game
 - [well-typed/large-records](https://github.com/well-typed/large-records) - Library to support efficient compilation of large records (linear in the number of record fields)
 - [telostat/haspara](https://github.com/telostat/haspara) - Haskell library to work with monetary values
 - [compiling-to-categories/concat](https://github.com/compiling-to-categories/concat) - Compiling to Categories
@@ -589,7 +600,7 @@
 - [sol/markdown-unlit](https://github.com/sol/markdown-unlit) - Literate Haskell support for Markdown
 - [srid/tailwind-haskell](https://github.com/srid/tailwind-haskell) - A No-JavaScript Tailwind runner in Haskell
 - [NorfairKing/safe-coloured-text](https://github.com/NorfairKing/safe-coloured-text) - 
-- [isovector/cornelis](https://github.com/isovector/cornelis) - agda-mode for neovim
+- [agda/cornelis](https://github.com/agda/cornelis) - agda-mode for neovim
 - [kosmikus/cufp-tutorial-2016](https://github.com/kosmikus/cufp-tutorial-2016) - Materials for the CUFP 2016 tutorial on Generic and Type-Level Programming using generics-sop
 - [well-typed/generics-sop](https://github.com/well-typed/generics-sop) - Generic Programming using True Sums of Products
 - [EmaApps/banyan](https://github.com/EmaApps/banyan) - Tree of time
@@ -899,7 +910,7 @@
 - [ghcjs/ghcjs](https://github.com/ghcjs/ghcjs) - Haskell to JavaScript compiler, based on GHC
 - [josejuan/haskell-calendar](https://github.com/josejuan/haskell-calendar) - Simple calendar generator to any renderable context (as text, as html, as graphics, ...).
 - [christian-marie/git-vogue](https://github.com/christian-marie/git-vogue) - Make your Haskell git repositories fashionable.
-- [haskell-servant/servant](https://github.com/haskell-servant/servant) - Servat is a Haskell DSL for describing, serving, querying, mocking, documenting web applications and more!
+- [haskell-servant/servant](https://github.com/haskell-servant/servant) - Servant is a Haskell DSL for describing, serving, querying, mocking, documenting web applications and more!
 - [hzlmn/haskell-must-watch](https://github.com/hzlmn/haskell-must-watch) - Huge list of  videos, talks, courses for Haskell programming language.
 
 ## Idris 
@@ -928,6 +939,7 @@
 
 ## JavaScript 
 
+- [bigskysoftware/_hyperscript](https://github.com/bigskysoftware/_hyperscript) - a small scripting language for the web
 - [fiatjaf/nos2x](https://github.com/fiatjaf/nos2x) - nostr signer extension
 - [Haskell-Things/ImplicitCAD](https://github.com/Haskell-Things/ImplicitCAD) - A math-inspired CAD program in haskell. CSG, bevels, and shells; 2D & 3D geometry; 2D gcode generation...
 - [obsidianmd/jsoncanvas](https://github.com/obsidianmd/jsoncanvas) - An open file format for infinite canvas data.
@@ -937,7 +949,6 @@
 - [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
 - [resume/resume.github.com](https://github.com/resume/resume.github.com) - Resumes generated using the GitHub informations
 - [Gabriella439/grace](https://github.com/Gabriella439/grace) - A ready-to-fork interpreted functional language with type inference
-- [swarm-game/swarm](https://github.com/swarm-game/swarm) - Resource gathering + programming game
 - [publiusfederalist/zooko](https://github.com/publiusfederalist/zooko) - Uncensorable, immutable microblogging platform that is completely decentralized and does not rely on any centralized systems, only the Handshake blockchain
 - [Emurgo/yoroi-frontend](https://github.com/Emurgo/yoroi-frontend) - Yoroi Wallet - Cardano ADA Wallet - Your gateway to the financial world (extension frontend)
 - [tefkah/emacs-docs](https://github.com/tefkah/emacs-docs) - The documentation website Emacs deserves
@@ -1057,6 +1068,7 @@
 
 ## Lua 
 
+- [hedyhli/outline.nvim](https://github.com/hedyhli/outline.nvim) - Code outline sidebar powered by LSP. Forked from symbols-outline.nvim.
 - [nvim-orgmode/orgmode](https://github.com/nvim-orgmode/orgmode) - Orgmode clone written in Lua for Neovim 0.9+.
 - [kdheepak/lazygit.nvim](https://github.com/kdheepak/lazygit.nvim) - Plugin for calling lazygit from within neovim.
 - [C0nw0nk/Nginx-Lua-Anti-DDoS](https://github.com/C0nw0nk/Nginx-Lua-Anti-DDoS) - A Anti-DDoS script to protect Nginx web servers using Lua with a HTML Javascript based authentication puzzle inspired by Cloudflare I am under attack mode an Anti-DDoS authentication page protect your
@@ -1064,7 +1076,7 @@
 - [AstroNvim/AstroNvim](https://github.com/AstroNvim/AstroNvim) - AstroNvim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins
 - [folke/tokyonight.nvim](https://github.com/folke/tokyonight.nvim) - 🏙  A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish.
 - [pandoc/lua-filters](https://github.com/pandoc/lua-filters) - A collection of lua filters for pandoc
-- [ShinKage/idris2-nvim](https://github.com/ShinKage/idris2-nvim) - Simple configuration and extra tools for NVIM + LSP + Idris2
+- [idris-community/idris2-nvim](https://github.com/idris-community/idris2-nvim) - Simple configuration and extra tools for NVIM + LSP + Idris2
 - [oberblastmeister/neuron.nvim](https://github.com/oberblastmeister/neuron.nvim) - Make neovim the best note taking application
 - [pyrho/nerveux.nvim](https://github.com/pyrho/nerveux.nvim) - A neovim plugin written in lua to interact with the neuron Zettelkasten software.
 - [omarish/pandoc-md-to-slack](https://github.com/omarish/pandoc-md-to-slack) - Pandoc extension to convert markdown to slack formatting.
@@ -1105,6 +1117,8 @@
 
 ## Nix 
 
+- [9glenda/ocaml-flake](https://github.com/9glenda/ocaml-flake) - `flake-parts` module for ocaml
+- [mrjones2014/opnix](https://github.com/mrjones2014/opnix) - ❄️ Native secret management for NixOS using 1Password.
 - [jpetrucciani/pog](https://github.com/jpetrucciani/pog) - 🤯 a new, powerful way to do bash scripts
 - [nix-ocaml/nix-overlays](https://github.com/nix-ocaml/nix-overlays) - OCaml-focused, custom nix-overlays
 - [DrSensor/rescript.nix](https://github.com/DrSensor/rescript.nix) - nix devshell for using rescript compiler without JS runtime
@@ -1133,7 +1147,6 @@
 - [MatthewCroughan/NixThePlanet](https://github.com/MatthewCroughan/NixThePlanet) - Run macOS, Windows and more via a single Nix command, or simple nixosModules
 - [fpindia/fpindia-chat](https://github.com/fpindia/fpindia-chat) - Matrix server (NixOS) for FPIndia
 - [OceanSprint/pydev](https://github.com/OceanSprint/pydev) - An opinionated environment for developing Python packages.
-- [juspay/remote-development](https://github.com/juspay/remote-development) - NixOS configuration for shared remote development via SSH
 - [ryan4yin/nixos-and-flakes-book](https://github.com/ryan4yin/nixos-and-flakes-book) - :hammer_and_wrench: :heart: Want to know NixOS & Flakes in detail? Looking for a beginner-friendly tutorial? Then you've come to the right place!  想要学习使用 NixOS 与 Flakes 吗？在寻找一份新手友好的教程？那你可来对地方了！
 - [nixified-ai/flake](https://github.com/nixified-ai/flake) - A Nix flake for many AI projects
 - [DeterminateSystems/flake-schemas](https://github.com/DeterminateSystems/flake-schemas) - Schemas for common flake output types
@@ -1150,6 +1163,7 @@
 - [nix-systems/current-system](https://github.com/nix-systems/current-system) - Like `builtins.currentSystem` but for the CLI
 - [nix-systems/flake-outputs](https://github.com/nix-systems/flake-outputs) - Get buildable outputs of a flake
 - [nix-systems/aarch64-darwin](https://github.com/nix-systems/aarch64-darwin) - 
+- [criome/lojix](https://github.com/criome/lojix) - Meta-Programming Data-Interface
 - [juspay/nixos-unified-template](https://github.com/juspay/nixos-unified-template) - A multi-platform Nix configuration template optimized as development environment, based on nixos-unified.
 - [cachix/git-hooks.nix](https://github.com/cachix/git-hooks.nix) - Seamless integration of https://pre-commit.com git hooks with Nix.
 - [Mic92/sops-nix](https://github.com/Mic92/sops-nix) - Atomic secret provisioning for NixOS based on sops
@@ -1159,6 +1173,7 @@
 - [tazjin/nix-1p](https://github.com/tazjin/nix-1p) - A (more or less) one page introduction to Nix, the language.
 - [kanwren/nix-parsec](https://github.com/kanwren/nix-parsec) - 
 - [juspay/cachix-push](https://github.com/juspay/cachix-push) - A flake app to push & pin to cachix.
+- [gil0mendes/emanote-sitemap-generator](https://github.com/gil0mendes/emanote-sitemap-generator) - Sitemap generator for Emanote
 - [srid/nixid](https://github.com/srid/nixid) - Like `ghcid -T` but for Nix
 - [cdepillabout/stacklock2nix](https://github.com/cdepillabout/stacklock2nix) - Easily build a Haskell project from a stack.yaml.lock file with Nix
 - [obsidiansystems/seven-guis-vty](https://github.com/obsidiansystems/seven-guis-vty) - 7GUIs implemented in reflex-vty
@@ -1258,6 +1273,8 @@
 
 ## Others 
 
+- [juspay/awesome-selfhosted-nixos](https://github.com/juspay/awesome-selfhosted-nixos) - Example configurations for self-hosting stuff on NixOS
+- [ad-si/awesome-fp-jobs](https://github.com/ad-si/awesome-fp-jobs) - A curated list of awesome functional programming jobs.
 - [ekala-project/ekapkgs-roadmap](https://github.com/ekala-project/ekapkgs-roadmap) - Roadmap to ekapkgs being fully available
 - [hyprland-community/awesome-hyprland](https://github.com/hyprland-community/awesome-hyprland) - Awesome list for Hyprland [maintainer=@yavko]
 - [EthicsCodes/hackers-ethic](https://github.com/EthicsCodes/hackers-ethic) - First, hinder no thought.
@@ -1407,6 +1424,7 @@
 
 ## Python 
 
+- [kellyjonbrazil/jc](https://github.com/kellyjonbrazil/jc) - CLI tool and python library that converts the output of popular command-line tools, file-types, and common strings to JSON, YAML, or Dictionaries. This allows piping of output to tools like jq and sim
 - [themotte/rDrama](https://github.com/themotte/rDrama) - This code runs https://www.themotte.org. Forked from https://github.com/Aevann1/rDrama
 - [kovidgoyal/vise](https://github.com/kovidgoyal/vise) - A keyboard driven browser with tabs in a tree
 - [xai-org/grok-1](https://github.com/xai-org/grok-1) - Grok open release
@@ -1543,6 +1561,7 @@
 ## Ruby 
 
 - [sferik/t-ruby](https://github.com/sferik/t-ruby) - A command-line power tool for Twitter.
+- [heroku/log2viz](https://github.com/heroku/log2viz) - DEFUNCT: Realtime analysis of your Heroku app logs.
 - [freeCodeCamp/devdocs](https://github.com/freeCodeCamp/devdocs) - API Documentation Browser
 - [zhaocai/alfred-workflow](https://github.com/zhaocai/alfred-workflow) - Ruby Gem helper for building Alfred workflow.
 - [heroku/heroku-buildpack-static](https://github.com/heroku/heroku-buildpack-static) - [DEPRECATED] Heroku buildpack for handling static sites and single page web apps
@@ -1567,6 +1586,8 @@
 
 ## Rust 
 
+- [n3oney/anyrun-nixos-options](https://github.com/n3oney/anyrun-nixos-options) - An anyrun plugin that lets you search NixOS options.
+- [russelltg/wl-screenrec](https://github.com/russelltg/wl-screenrec) - High performance wlroots screen recording, featuring hardware encoding
 - [tweag/nix-remote-rust](https://github.com/tweag/nix-remote-rust) - 
 - [BeFunctional/haskell-rust-ffi](https://github.com/BeFunctional/haskell-rust-ffi) - 
 - [anyrun-org/anyrun](https://github.com/anyrun-org/anyrun) - A wayland native, highly customizable runner.
@@ -1621,7 +1642,7 @@
 - [zhaofengli/colmena](https://github.com/zhaofengli/colmena) - A simple, stateless NixOS deployment tool
 - [leontoeides/indicium](https://github.com/leontoeides/indicium) - A simple in-memory search for collections and key-value stores.
 - [greyblake/nutype](https://github.com/greyblake/nutype) - Rust newtype with guarantees  🇺🇦 🦀
-- [Anush008/fastembed-rs](https://github.com/Anush008/fastembed-rs) - Library for generating vector embeddings, reranking in Rust
+- [Anush008/fastembed-rs](https://github.com/Anush008/fastembed-rs) - Rust library for generating vector embeddings, reranking locally
 - [ex0dus-0x/microkv](https://github.com/ex0dus-0x/microkv) - Minimal and persistent key-value store designed with security in mind
 - [bincode-org/bincode](https://github.com/bincode-org/bincode) - A binary encoder / decoder implementation in Rust.
 - [ctsrc/persistence](https://github.com/ctsrc/persistence) - Rust library providing mutable resizable arrays built on top of mmap
@@ -1787,10 +1808,14 @@
 - [PostgREST/postgrest-heroku](https://github.com/PostgREST/postgrest-heroku) - Restful API on Heroku
 - [begriffs/haskell-vim-now](https://github.com/begriffs/haskell-vim-now) - One-line Haskell Vim install
 - [apg/heroku-buildpack-tor](https://github.com/apg/heroku-buildpack-tor) - Run a tor hidden service on Heroku
+- [heroku/heroku-buildpack-multi-procfile](https://github.com/heroku/heroku-buildpack-multi-procfile) - Classic buildpack that adds support for multiple Procfiles.
+- [heroku/docker-go-gb](https://github.com/heroku/docker-go-gb) - 
 - [git-duet/git-duet](https://github.com/git-duet/git-duet) - Support for pairing with git
 - [HashNuke/heroku-buildpack-elixir](https://github.com/HashNuke/heroku-buildpack-elixir) - Heroku Buildpack for Elixir with nitro boost
 - [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
+- [heroku/docker-go-base](https://github.com/heroku/docker-go-base) - 
 - [michaeldfallen/git-radar](https://github.com/michaeldfallen/git-radar) - A heads up display for git
+- [heroku/docker-python](https://github.com/heroku/docker-python) - [DEPRECATED] Docker image for Python (and Heroku).
 - [heroku/dotnet-buildpack](https://github.com/heroku/dotnet-buildpack) - ASP.NET 5 Buildpack
 - [srid/heroku-buildpack-elm](https://github.com/srid/heroku-buildpack-elm) - Heroku buildpack for deploying Elm apps (NEEDS MAINTAINER)
 - [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Over 325 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTermin
@@ -1947,6 +1972,7 @@
 
 ## Vala 
 
+- [Aylur/astal](https://github.com/Aylur/astal) - Building blocks for creating custom desktop shells
 - [alexkdeveloper/somafm](https://github.com/alexkdeveloper/somafm) - A simple radio with built-in stations from the website somafm.com
 - [IBBoard/cawbird](https://github.com/IBBoard/cawbird) - A fork of the Corebird GTK Twitter client that continues to work with Twitter
 - [alainm23/planify](https://github.com/alainm23/planify) - Task manager with Todoist & Nextcloud support designed for GNOME
