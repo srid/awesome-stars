@@ -1732,7 +1732,7 @@
 - [dtolnay/typetag](https://github.com/dtolnay/typetag) - Serde serializable and deserializable trait objects
 - [Synphonyte/leptos-struct-table](https://github.com/Synphonyte/leptos-struct-table) - Easily create Leptos table components from structs
 - [ankarhem/blog](https://github.com/ankarhem/blog) - 
-- [DioxusLabs/include_mdbook](https://github.com/DioxusLabs/include_mdbook) - Include mdbooks at compile time in your Rust project
+- [DioxusLabs/include_mdbook](https://github.com/DioxusLabs/include_mdbook) - [moved!] Include mdbooks at compile time in your Rust project
 - [DioxusLabs/docsite](https://github.com/DioxusLabs/docsite) - Dioxuslabs.com documentation site
 - [juspay/omnix](https://github.com/juspay/omnix) - A Nix companion to improve developer experience
 - [srid/nix-health](https://github.com/srid/nix-health) - 🩺 Check the health of your Nix install
