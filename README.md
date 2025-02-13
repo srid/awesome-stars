@@ -1135,7 +1135,6 @@
 - [JonathanLorimer/haskwire](https://github.com/JonathanLorimer/haskwire) - HTML Over The Wire, bringing SSR to Haskell
 - [misuzu/process-compose-deploy](https://github.com/misuzu/process-compose-deploy) - PoC process-compose deployments for NixOS
 - [clo4/ghostty-hm-module](https://github.com/clo4/ghostty-hm-module) - Home Manager module for the Ghostty terminal emulator
-- [9glenda/ocaml-flake](https://github.com/9glenda/ocaml-flake) - `flake-parts` module for ocaml
 - [mrjones2014/opnix](https://github.com/mrjones2014/opnix) - ❄️ Native secret management for NixOS using 1Password.
 - [jpetrucciani/pog](https://github.com/jpetrucciani/pog) - 🤯 a new, powerful way to do bash scripts
 - [nix-ocaml/nix-overlays](https://github.com/nix-ocaml/nix-overlays) - OCaml-focused, custom nix-overlays
