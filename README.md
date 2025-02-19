@@ -88,6 +88,7 @@
 
 ## C 
 
+- [TechUnRestricted/WinDiskWriter](https://github.com/TechUnRestricted/WinDiskWriter) - 🖥 Windows Bootable USB creator for macOS. 🛠 Patches Windows 11 to bypass TPM and Secure Boot requirements. 👾 UEFI & Legacy Support
 - [Xfennec/progress](https://github.com/Xfennec/progress) - Linux tool to show progress for cp, mv, dd, ... (formerly known as cv)
 - [FelixKratz/SketchyBar](https://github.com/FelixKratz/SketchyBar) - A highly customizable macOS status bar replacement
 - [rvaiya/warpd](https://github.com/rvaiya/warpd) - A modal keyboard-driven virtual pointer
@@ -1099,7 +1100,6 @@
 
 - [juspay/flakular.in](https://github.com/juspay/flakular.in) - MOVED TO https://github.com/nixos-asia/website and https://github.com/flake-parts/community.flake.parts
 - [DeterminateSystems/zero-to-nix](https://github.com/DeterminateSystems/zero-to-nix) - Zero to Nix is your guide to learning Nix and flakes. Created by Determinate Systems.
-- [yewstack/yew](https://github.com/yewstack/yew) - Rust / Wasm framework for creating reliable and efficient web applications
 
 ## Makefile 
 
@@ -1130,6 +1130,7 @@
 
 ## Nix 
 
+- [tadfisher/android-nixpkgs](https://github.com/tadfisher/android-nixpkgs) - Nix-packaged Android SDK
 - [JimJ92120/lxd-preseed-for-nixos](https://github.com/JimJ92120/lxd-preseed-for-nixos) - A preseed(ed) configuration for LXD in a NixOS host, to declare** any LXD options and configurations.
 - [Azeirah/nv](https://github.com/Azeirah/nv) - nv - A batteries-included nixvim distribution for nix development, inspired by kickstart
 - [JonathanLorimer/haskwire](https://github.com/JonathanLorimer/haskwire) - HTML Over The Wire, bringing SSR to Haskell
@@ -1770,6 +1771,7 @@
 - [lunatic-solutions/lunatic](https://github.com/lunatic-solutions/lunatic) - Lunatic is an Erlang-inspired runtime for WebAssembly
 - [pimalaya/himalaya](https://github.com/pimalaya/himalaya) - CLI to manage emails
 - [trunk-rs/trunk](https://github.com/trunk-rs/trunk) - Build, bundle & ship your Rust WASM application to the web.
+- [yewstack/yew](https://github.com/yewstack/yew) - Rust / Wasm framework for creating reliable and efficient web applications
 - [jameslittle230/stork](https://github.com/jameslittle230/stork) - 🔎 Impossibly fast web search, made for static sites.
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell
