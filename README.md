@@ -1639,7 +1639,7 @@
 - [clap-rs/clap-verbosity-flag](https://github.com/clap-rs/clap-verbosity-flag) - Easily add a --verbose flag to CLIs using Clap
 - [jkelleyrtp/dioxus-ratatui](https://github.com/jkelleyrtp/dioxus-ratatui) - 
 - [LukeMathWalker/pavex](https://github.com/LukeMathWalker/pavex) - An easy-to-use Rust framework for building robust and performant APIs
-- [cull-os/cab](https://github.com/cull-os/cab) - Cab, the reproducible contextful expression language.
+- [cull-os/carcass](https://github.com/cull-os/carcass) - The monorepository of the Cull Organization.
 - [yaxitech/ragenix](https://github.com/yaxitech/ragenix) - age-encrypted secrets for NixOS; drop-in replacement for agenix
 - [juspay/flakreate](https://github.com/juspay/flakreate) - MOVED TO https://github.com/juspay/omnix/tree/main/crates/flakreate
 - [mikaelmello/inquire](https://github.com/mikaelmello/inquire) - A Rust library for building interactive prompts
