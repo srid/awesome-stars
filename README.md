@@ -951,6 +951,7 @@
 
 ## JavaScript 
 
+- [bigskysoftware/htmx-extensions](https://github.com/bigskysoftware/htmx-extensions) - 
 - [grocy/grocy](https://github.com/grocy/grocy) - ERP beyond your fridge - Grocy is a web-based self-hosted groceries & household management solution for your home
 - [bigskysoftware/_hyperscript](https://github.com/bigskysoftware/_hyperscript) - a small scripting language for the web
 - [fiatjaf/nos2x](https://github.com/fiatjaf/nos2x) - nostr signer extension
@@ -1639,7 +1640,7 @@
 - [clap-rs/clap-verbosity-flag](https://github.com/clap-rs/clap-verbosity-flag) - Easily add a --verbose flag to CLIs using Clap
 - [jkelleyrtp/dioxus-ratatui](https://github.com/jkelleyrtp/dioxus-ratatui) - 
 - [LukeMathWalker/pavex](https://github.com/LukeMathWalker/pavex) - An easy-to-use Rust framework for building robust and performant APIs
-- [cull-os/carcass](https://github.com/cull-os/carcass) - The monorepository of the Cull Organization.
+- [cull-os/carcass](https://github.com/cull-os/carcass) - The Cull monorepository.
 - [yaxitech/ragenix](https://github.com/yaxitech/ragenix) - age-encrypted secrets for NixOS; drop-in replacement for agenix
 - [juspay/flakreate](https://github.com/juspay/flakreate) - MOVED TO https://github.com/juspay/omnix/tree/main/crates/flakreate
 - [mikaelmello/inquire](https://github.com/mikaelmello/inquire) - A Rust library for building interactive prompts
