@@ -1580,6 +1580,7 @@
 
 ## others 
 
+- [bigskysoftware/htmx-extensions](https://github.com/bigskysoftware/htmx-extensions) - 
 - [tadfisher/android-nixpkgs](https://github.com/tadfisher/android-nixpkgs) - Nix-packaged Android SDK
 - [FFmpeg/asm-lessons](https://github.com/FFmpeg/asm-lessons) - FFMPEG Assembly Language Lessons
 - [Ellpeck/ObsidianCustomFrames](https://github.com/Ellpeck/ObsidianCustomFrames) - An Obsidian plugin that turns web apps into panes using iframes with custom styling. Also comes with presets for Google Keep, Todoist and more.
@@ -1662,7 +1663,7 @@
 - [nushell/nu_scripts](https://github.com/nushell/nu_scripts) - A place to share Nushell scripts with each other
 - [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) - Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.
 - [juspay/github-nix-ci](https://github.com/juspay/github-nix-ci) - A simple NixOS & nix-darwin module for self-hosting GitHub runners
-- [cull-os/carcass](https://github.com/cull-os/carcass) - The monorepository of the Cull Organization.
+- [cull-os/carcass](https://github.com/cull-os/carcass) - The Cull monorepository.
 - [yaxitech/ragenix](https://github.com/yaxitech/ragenix) - age-encrypted secrets for NixOS; drop-in replacement for agenix
 - [ryantm/agenix](https://github.com/ryantm/agenix) - age-encrypted secrets for NixOS and Home manager
 - [serokell/vault-secrets](https://github.com/serokell/vault-secrets) - NixOS tooling for Hashicorp Vault
