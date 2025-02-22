@@ -1131,6 +1131,7 @@
 
 ## Nix 
 
+- [VitalBio/dash-haskell-flake](https://github.com/VitalBio/dash-haskell-flake) - 
 - [tadfisher/android-nixpkgs](https://github.com/tadfisher/android-nixpkgs) - Nix-packaged Android SDK
 - [JimJ92120/lxd-preseed-for-nixos](https://github.com/JimJ92120/lxd-preseed-for-nixos) - A preseed(ed) configuration for LXD in a NixOS host, to declare** any LXD options and configurations.
 - [Azeirah/nv](https://github.com/Azeirah/nv) - nv - A batteries-included nixvim distribution for nix development, inspired by kickstart
