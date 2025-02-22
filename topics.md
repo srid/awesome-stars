@@ -1580,6 +1580,7 @@
 
 ## others 
 
+- [VitalBio/dash-haskell-flake](https://github.com/VitalBio/dash-haskell-flake) - 
 - [bigskysoftware/htmx-extensions](https://github.com/bigskysoftware/htmx-extensions) - 
 - [tadfisher/android-nixpkgs](https://github.com/tadfisher/android-nixpkgs) - Nix-packaged Android SDK
 - [FFmpeg/asm-lessons](https://github.com/FFmpeg/asm-lessons) - FFMPEG Assembly Language Lessons
