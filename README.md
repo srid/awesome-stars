@@ -96,7 +96,7 @@
 - [davatorium/rofi](https://github.com/davatorium/rofi) - Rofi: A window switcher, application launcher and dmenu replacement
 - [mpv-player/mpv](https://github.com/mpv-player/mpv) - 🎥 Command line video player
 - [imbushuo/mac-precision-touchpad](https://github.com/imbushuo/mac-precision-touchpad) - Windows Precision Touchpad Driver Implementation for Apple MacBook / Magic Trackpad
-- [netdata/netdata](https://github.com/netdata/netdata) - Architected for speed. Automated for easy. Monitoring and troubleshooting, transformed!
+- [netdata/netdata](https://github.com/netdata/netdata) - X-Ray Vision for your infrastructure!
 - [jarun/nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager
 - [mwyborski/Linux-Magic-Trackpad-2-Driver](https://github.com/mwyborski/Linux-Magic-Trackpad-2-Driver) - 
 - [matz/streem](https://github.com/matz/streem) - prototype of stream based programming language
@@ -543,6 +543,8 @@
 
 ## Haskell 
 
+- [tomjaguarpaw/bluefin](https://github.com/tomjaguarpaw/bluefin) - 
+- [haskellweekly/haskellweekly](https://github.com/haskellweekly/haskellweekly) - Publishes curated news about the Haskell programming language.
 - [well-typed/grapesy](https://github.com/well-typed/grapesy) - Native Haskell gRPC client and server based on `http2`
 - [bflyblue/servant-event-stream](https://github.com/bflyblue/servant-event-stream) - Servant support for ServerSent events
 - [juspay/vira](https://github.com/juspay/vira) - 
@@ -1764,7 +1766,7 @@
 - [org-rs/org-rs](https://github.com/org-rs/org-rs) - org-mode parser rewrite in Rust
 - [supabase-community/postgrest-rs](https://github.com/supabase-community/postgrest-rs) - Rust client for PostgREST
 - [ralfbiedert/cheats.rs](https://github.com/ralfbiedert/cheats.rs) - Rust Language Cheat Sheet - https://cheats.rs
-- [extrawurst/gitui](https://github.com/extrawurst/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
+- [gitui-org/gitui](https://github.com/gitui-org/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
 - [rinja-rs/askama](https://github.com/rinja-rs/askama) - Type-safe, compiled Jinja-like templates for Rust
 - [pchampin/sophia_rs](https://github.com/pchampin/sophia_rs) - Sophia: a Rust toolkit for RDF and Linked Data
 - [oxigraph/oxigraph](https://github.com/oxigraph/oxigraph) - SPARQL graph database
