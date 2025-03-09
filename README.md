@@ -1776,6 +1776,7 @@
 - [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources.
 - [lunatic-solutions/lunatic](https://github.com/lunatic-solutions/lunatic) - Lunatic is an Erlang-inspired runtime for WebAssembly
 - [pimalaya/himalaya](https://github.com/pimalaya/himalaya) - CLI to manage emails
+- [yewstack/yew-trunk-minimal-template](https://github.com/yewstack/yew-trunk-minimal-template) - Template for starting a Yew project using Trunk
 - [trunk-rs/trunk](https://github.com/trunk-rs/trunk) - Build, bundle & ship your Rust WASM application to the web.
 - [yewstack/yew](https://github.com/yewstack/yew) - Rust / Wasm framework for creating reliable and efficient web applications
 - [jameslittle230/stork](https://github.com/jameslittle230/stork) - 🔎 Impossibly fast web search, made for static sites.
@@ -1798,7 +1799,6 @@
 ## SCSS 
 
 - [AboutRSS/ALL-about-RSS](https://github.com/AboutRSS/ALL-about-RSS) - A list of RSS related stuff: tools, services, communities and tutorials, etc.
-- [yewstack/yew-trunk-minimal-template](https://github.com/yewstack/yew-trunk-minimal-template) - Template for starting a Yew project using Trunk
 - [jonsuh/hamburgers](https://github.com/jonsuh/hamburgers) - Tasty CSS-animated Hamburgers
 
 ## Sass 
@@ -1818,6 +1818,7 @@
 
 ## Shell 
 
+- [basecamp/gh-signoff](https://github.com/basecamp/gh-signoff) - Local CI. Sign off on your own work.
 - [sheerun/git-squash](https://github.com/sheerun/git-squash) - Locally squash commits on a branch without resolving any conflicts (a'la squash and merge)
 - [juspay/nixone](https://github.com/juspay/nixone) - One-click setup of all things Nix for Juspay'ers
 - [basecamp/omakub](https://github.com/basecamp/omakub) - Opinionated Ubuntu Setup
