@@ -336,7 +336,7 @@
 - [Nhowka/Elmish.Bridge](https://github.com/Nhowka/Elmish.Bridge) - Create client-server Fable-Elmish apps keeping a single mindset
 - [Zaid-Ajaj/Feliz](https://github.com/Zaid-Ajaj/Feliz) - A fresh retake of the React API in Fable and a collection of high-quality components to build React applications in F#, optimized for happiness
 - [Shmew/Fable.SignalR](https://github.com/Shmew/Fable.SignalR) - A functional type-safe wrapper for SignalR and Fable.
-- [TheAngryByrd/MiniScaffold](https://github.com/TheAngryByrd/MiniScaffold) - F# Template for creating and publishing libraries targeting .NET 6.0 `net6.0` or console apps  .NET 6.0 `net6.0`.
+- [TheAngryByrd/MiniScaffold](https://github.com/TheAngryByrd/MiniScaffold) - F# Template for creating and publishing libraries targeting library or console apps.
 - [fsprojects/FSharp.UMX](https://github.com/fsprojects/FSharp.UMX) - F# units of measure for primitive non-numeric types
 - [Zaid-Ajaj/LiteDB.FSharp](https://github.com/Zaid-Ajaj/LiteDB.FSharp) - Advanced F# Support for LiteDB, an embedded NoSql database for .NET with type-safe query expression through F# quotations
 - [Zestylogic/FMark](https://github.com/Zestylogic/FMark) - Markdown parser to html with many useful extensions and a purely functional implementation.
@@ -359,7 +359,7 @@
 - [neuralinkcorp/tsui](https://github.com/neuralinkcorp/tsui) - An (experimental) elegant TUI for configuring Tailscale.
 - [elisescu/tty-share](https://github.com/elisescu/tty-share) - Share your linux or osx terminal over the Internet.
 - [usememos/memos](https://github.com/usememos/memos) - An open-source, lightweight note-taking solution. The pain-less way to create your meaningful notes. Your Notes, Your Way.
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 2, and other large language models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, and other large language models.
 - [git-bug/git-bug](https://github.com/git-bug/git-bug) - Distributed, offline-first bug tracker embedded in git, with bridges
 - [matrix-org/pinecone](https://github.com/matrix-org/pinecone) - Peer-to-peer overlay routing for the Matrix ecosystem
 - [YoSev/private-ghp](https://github.com/YoSev/private-ghp) - publish github pages privately secured by github sso (oauth2)
@@ -544,6 +544,7 @@
 
 ## Haskell 
 
+- [goldfirere/units](https://github.com/goldfirere/units) - The home of the units Haskell package
 - [tomjaguarpaw/bluefin](https://github.com/tomjaguarpaw/bluefin) - 
 - [haskellweekly/haskellweekly](https://github.com/haskellweekly/haskellweekly) - Publishes curated news about the Haskell programming language.
 - [well-typed/grapesy](https://github.com/well-typed/grapesy) - Native Haskell gRPC client and server based on `http2`
