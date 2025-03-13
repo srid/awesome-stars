@@ -611,7 +611,7 @@
 - [xoofx/markdig](https://github.com/xoofx/markdig) - A fast, powerful, CommonMark compliant, extensible Markdown processor for .NET
 - [quozd/awesome-dotnet](https://github.com/quozd/awesome-dotnet) - A collection of awesome .NET libraries, tools, frameworks and software
 - [BamButz/msbuild-tailwindcss](https://github.com/BamButz/msbuild-tailwindcss) - Adds a build action to process stylesheets through postcss/tailwind
-- [TheAngryByrd/MiniScaffold](https://github.com/TheAngryByrd/MiniScaffold) - F# Template for creating and publishing libraries targeting .NET 6.0 `net6.0` or console apps  .NET 6.0 `net6.0`.
+- [TheAngryByrd/MiniScaffold](https://github.com/TheAngryByrd/MiniScaffold) - F# Template for creating and publishing libraries targeting library or console apps.
 - [DevrexLabs/memstate](https://github.com/DevrexLabs/memstate) - In-memory event-sourced ACID-transactional distributed object graph engine for .NET Standard
 - [litedb-org/LiteDB](https://github.com/litedb-org/LiteDB) - LiteDB - A .NET NoSQL Document Store in a single data file
 - [Zaid-Ajaj/SAFE.React](https://github.com/Zaid-Ajaj/SAFE.React) - Full Stack F# powered by ASP.NET Core on the backend and modern React on the frontend.
@@ -821,7 +821,7 @@
 - [elisescu/tty-share](https://github.com/elisescu/tty-share) - Share your linux or osx terminal over the Internet.
 - [usememos/memos](https://github.com/usememos/memos) - An open-source, lightweight note-taking solution. The pain-less way to create your meaningful notes. Your Notes, Your Way.
 - [extism/extism](https://github.com/extism/extism) - The framework for building with WebAssembly (wasm). Easily load wasm modules, move data, call functions, and build extensible apps.
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 2, and other large language models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, and other large language models.
 - [YoSev/private-ghp](https://github.com/YoSev/private-ghp) - publish github pages privately secured by github sso (oauth2)
 - [F1bonacc1/process-compose](https://github.com/F1bonacc1/process-compose) - Process Compose is a simple and flexible scheduler and orchestrator to manage non-containerized applications.
 - [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - Cross-platform, fast, feature-rich, GPU based terminal
@@ -866,7 +866,7 @@
 
 - [abenz1267/walker](https://github.com/abenz1267/walker) - Multi-Purpose Launcher with a lot of features. Highly Customizable and fast.
 - [filllabs/dependi](https://github.com/filllabs/dependi) - Dependi (formerly crates)
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 2, and other large language models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, and other large language models.
 - [YoSev/private-ghp](https://github.com/YoSev/private-ghp) - publish github pages privately secured by github sso (oauth2)
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - The mighty, self-hostable Git server for the command line🍦
 - [F1bonacc1/process-compose](https://github.com/F1bonacc1/process-compose) - Process Compose is a simple and flexible scheduler and orchestrator to manage non-containerized applications.
@@ -1354,7 +1354,7 @@
 
 ## llm 
 
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 2, and other large language models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, and other large language models.
 - [mem0ai/mem0](https://github.com/mem0ai/mem0) - The Memory layer for AI Agents
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
 
@@ -1586,6 +1586,7 @@
 
 ## others 
 
+- [goldfirere/units](https://github.com/goldfirere/units) - The home of the units Haskell package
 - [Phillip-England/godocument](https://github.com/Phillip-England/godocument) - A quick way to build your HTMX-based documentation website. Clone, set up your config, and focus on your content.
 - [tomjaguarpaw/bluefin](https://github.com/tomjaguarpaw/bluefin) - 
 - [VitalBio/dash-haskell-flake](https://github.com/VitalBio/dash-haskell-flake) - 
@@ -2934,7 +2935,7 @@
 - [TheNeikos/rustbreak](https://github.com/TheNeikos/rustbreak) - A simple, fast and easy to use self-contained single file storage for Rust
 - [ralfbiedert/cheats.rs](https://github.com/ralfbiedert/cheats.rs) - Rust Language Cheat Sheet - https://cheats.rs
 - [gitui-org/gitui](https://github.com/gitui-org/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
-- [rinja-rs/askama](https://github.com/rinja-rs/askama) - Type-safe, compiled Jinja-like templates for Rust
+- [askama-rs/askama-old](https://github.com/askama-rs/askama-old) - The original askama repo, please go to https://github.com/askama-rs/askama
 - [rustwasm/book](https://github.com/rustwasm/book) - The Rust and WebAssembly Book
 - [oxalica/rust-overlay](https://github.com/oxalica/rust-overlay) - Pure and reproducible nix overlay of binary distributed rust toolchains
 - [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources.
