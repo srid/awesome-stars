@@ -363,7 +363,7 @@
 
 ## cli 
 
-- [alexpasmantier/television](https://github.com/alexpasmantier/television) - The revolution will (not) be televised 📺
+- [alexpasmantier/television](https://github.com/alexpasmantier/television) - A cross-platform, fast and extensible general purpose fuzzy finder TUI 📺
 - [kellyjonbrazil/jc](https://github.com/kellyjonbrazil/jc) - CLI tool and python library that converts the output of popular command-line tools, file-types, and common strings to JSON, YAML, or Dictionaries. This allows piping of output to tools like jq and sim
 - [jpetrucciani/pog](https://github.com/jpetrucciani/pog) - 🤯 a new, powerful way to do bash scripts
 - [robinmoisson/staticrypt](https://github.com/robinmoisson/staticrypt) - Password protect a static HTML page, decrypted in-browser in JS with no dependency. No server logic needed.
@@ -1586,6 +1586,8 @@
 
 ## others 
 
+- [srid/imako](https://github.com/srid/imako) - Emanote's companion optimized for journaling and planning
+- [supki/envparse](https://github.com/supki/envparse) - Parse environment variables
 - [goldfirere/units](https://github.com/goldfirere/units) - The home of the units Haskell package
 - [Phillip-England/godocument](https://github.com/Phillip-England/godocument) - A quick way to build your HTMX-based documentation website. Clone, set up your config, and focus on your content.
 - [tomjaguarpaw/bluefin](https://github.com/tomjaguarpaw/bluefin) - 
@@ -2858,7 +2860,7 @@
 
 ## rust 
 
-- [alexpasmantier/television](https://github.com/alexpasmantier/television) - The revolution will (not) be televised 📺
+- [alexpasmantier/television](https://github.com/alexpasmantier/television) - A cross-platform, fast and extensible general purpose fuzzy finder TUI 📺
 - [swsnr/mdcat](https://github.com/swsnr/mdcat) - cat for markdown
 - [viz-rs/viz-rs.github.io](https://github.com/viz-rs/viz-rs.github.io) - The official documentation site for Viz.rs.
 - [Canop/bacon](https://github.com/Canop/bacon) - background code checker
@@ -3097,7 +3099,7 @@
 
 ## terminal 
 
-- [alexpasmantier/television](https://github.com/alexpasmantier/television) - The revolution will (not) be televised 📺
+- [alexpasmantier/television](https://github.com/alexpasmantier/television) - A cross-platform, fast and extensible general purpose fuzzy finder TUI 📺
 - [swsnr/mdcat](https://github.com/swsnr/mdcat) - cat for markdown
 - [Canop/bacon](https://github.com/Canop/bacon) - background code checker
 - [mikaelmello/inquire](https://github.com/mikaelmello/inquire) - A Rust library for building interactive prompts
@@ -3241,6 +3243,7 @@
 ## web-assembly 
 
 - [brack-lang/brack](https://github.com/brack-lang/brack) - 🐦‍⬛ A bracket-based lightweight markup language that extends commands with WebAssembly
+- [dmjio/miso](https://github.com/dmjio/miso) - :ramen: A tasty Haskell front-end framework
 
 ## web-development 
 
