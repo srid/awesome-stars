@@ -93,6 +93,7 @@
 
 ## C 
 
+- [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch) - A maintained, feature-rich and performance oriented, neofetch like system information tool.
 - [TechUnRestricted/WinDiskWriter](https://github.com/TechUnRestricted/WinDiskWriter) - 🖥 Windows Bootable USB creator for macOS. 🛠 Patches Windows 11 to bypass TPM and Secure Boot requirements. 👾 UEFI & Legacy Support
 - [Xfennec/progress](https://github.com/Xfennec/progress) - Linux tool to show progress for cp, mv, dd, ... (formerly known as cv)
 - [FelixKratz/SketchyBar](https://github.com/FelixKratz/SketchyBar) - A highly customizable macOS status bar replacement
