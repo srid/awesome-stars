@@ -100,7 +100,7 @@
 - [rvaiya/warpd](https://github.com/rvaiya/warpd) - A modal keyboard-driven virtual pointer
 - [tsl0922/ttyd](https://github.com/tsl0922/ttyd) - Share your terminal over the web
 - [davatorium/rofi](https://github.com/davatorium/rofi) - Rofi: A window switcher, application launcher and dmenu replacement
-- [mpv-player/mpv](https://github.com/mpv-player/mpv) - 🎥 Command line video player
+- [mpv-player/mpv](https://github.com/mpv-player/mpv) - 🎥 Command line media player
 - [imbushuo/mac-precision-touchpad](https://github.com/imbushuo/mac-precision-touchpad) - Windows Precision Touchpad Driver Implementation for Apple MacBook / Magic Trackpad
 - [netdata/netdata](https://github.com/netdata/netdata) - X-Ray Vision for your infrastructure!
 - [jarun/nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager
@@ -514,6 +514,7 @@
 
 - [bigskysoftware/idiomorph](https://github.com/bigskysoftware/idiomorph) - A DOM-merging algorithm
 - [monadicsystems/servant-htmx](https://github.com/monadicsystems/servant-htmx) - Provides helper functions and data types for using servant with htmx
+- [juspay/nixone](https://github.com/juspay/nixone) - One-click setup of all things Nix for Juspay'ers
 - [therockstorm/privacy-protect](https://github.com/therockstorm/privacy-protect) - Securely share and store passwords and sensitive files.
 - [robinmoisson/staticrypt](https://github.com/robinmoisson/staticrypt) - Password protect a static HTML page, decrypted in-browser in JS with no dependency. No server logic needed.
 - [phil-opp/blog_os](https://github.com/phil-opp/blog_os) - Writing an OS in Rust
@@ -1828,7 +1829,6 @@
 
 - [basecamp/gh-signoff](https://github.com/basecamp/gh-signoff) - Local CI. Sign off on your own work.
 - [sheerun/git-squash](https://github.com/sheerun/git-squash) - Locally squash commits on a branch without resolving any conflicts (a'la squash and merge)
-- [juspay/nixone](https://github.com/juspay/nixone) - One-click setup of all things Nix for Juspay'ers
 - [basecamp/omakub](https://github.com/basecamp/omakub) - Opinionated Ubuntu Setup
 - [navikt/github-app-token-generator](https://github.com/navikt/github-app-token-generator) - GitHub action for generating an installation token for a GitHub App
 - [3noch/nix-bundle-exe](https://github.com/3noch/nix-bundle-exe) - Simple Nix derivations to bundle executables
