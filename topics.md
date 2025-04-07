@@ -1002,12 +1002,12 @@
 - [cdepillabout/stacklock2nix](https://github.com/cdepillabout/stacklock2nix) - Easily build a Haskell project from a stack.yaml.lock file with Nix
 - [obsidiansystems/seven-guis-vty](https://github.com/obsidiansystems/seven-guis-vty) - 7GUIs implemented in reflex-vty
 - [Platonic-Systems/process-compose-flake](https://github.com/Platonic-Systems/process-compose-flake) - A `flake-parts` module to spin up processes for development by leveraging `process-compose`
-- [estradilua/organon](https://github.com/estradilua/organon) - 📖 view and generate static websites from your Org files  (WIP).
+- [soficshift/organon](https://github.com/soficshift/organon) - 📖 view and generate static websites from your Org files  (WIP).
 - [srid/haskell-multi-nix](https://github.com/srid/haskell-multi-nix) - A simple demo of Nixifying a multi-package Haskell project
 - [morpheusgraphql/morpheus-graphql](https://github.com/morpheusgraphql/morpheus-graphql) - Haskell GraphQL Api, Client and Tools
 - [hercules-ci/hercules-ci-agent](https://github.com/hercules-ci/hercules-ci-agent) - https://hercules-ci.com build and deployment agent
 - [haskell-effectful/effectful](https://github.com/haskell-effectful/effectful) - An easy to use, fast extensible effects library with seamless integration with the existing Haskell ecosystem.
-- [estradilua/ondim](https://github.com/estradilua/ondim) - Multitype expansions for easy templating
+- [soficshift/ondim](https://github.com/soficshift/ondim) - Multitype expansions for easy templating
 - [kowainik/type-errors-pretty](https://github.com/kowainik/type-errors-pretty) - 💄🐞 Combinators for writing pretty type errors easily
 - [fpindia/fpindia-site](https://github.com/fpindia/fpindia-site) - The new FPIndia static site built using Ema
 - [kcsongor/symbols](https://github.com/kcsongor/symbols) - Symbol manipulation
@@ -1185,7 +1185,7 @@
 - [htmlstreamofficial/preline](https://github.com/htmlstreamofficial/preline) - Preline UI is an open-source set of prebuilt UI components based on the utility-first Tailwind CSS framework.
 - [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, mobile, and more.
 - [C0nw0nk/Nginx-Lua-Anti-DDoS](https://github.com/C0nw0nk/Nginx-Lua-Anti-DDoS) - A Anti-DDoS script to protect Nginx web servers using Lua with a HTML Javascript based authentication puzzle inspired by Cloudflare I am under attack mode an Anti-DDoS authentication page protect your
-- [estradilua/ondim](https://github.com/estradilua/ondim) - Multitype expansions for easy templating
+- [soficshift/ondim](https://github.com/soficshift/ondim) - Multitype expansions for easy templating
 - [alhassy/AgdaCheatSheet](https://github.com/alhassy/AgdaCheatSheet) - Basics of the dependently-typed functional language Agda ^_^
 - [render-rs/render.rs](https://github.com/render-rs/render.rs) - 🔏 A safe and simple template engine with the ergonomics of JSX
 - [utkarshkukreti/markup.rs](https://github.com/utkarshkukreti/markup.rs) - A blazing fast, type-safe template engine for Rust.
@@ -1308,8 +1308,8 @@
 ## latex 
 
 - [mathialo/simpleinvoice](https://github.com/mathialo/simpleinvoice) - LaTeX package for easily creating pretty invoices
-- [estradilua/organon](https://github.com/estradilua/organon) - 📖 view and generate static websites from your Org files  (WIP).
-- [estradilua/ondim](https://github.com/estradilua/ondim) - Multitype expansions for easy templating
+- [soficshift/organon](https://github.com/soficshift/organon) - 📖 view and generate static websites from your Org files  (WIP).
+- [soficshift/ondim](https://github.com/soficshift/ondim) - Multitype expansions for easy templating
 - [jez/pandoc-starter](https://github.com/jez/pandoc-starter) - 📄 My pandoc markdown templates and makefiles
 - [mrzool/cv-boilerplate](https://github.com/mrzool/cv-boilerplate) - Programmatic generation of high-quality CVs
 - [mrzool/invoice-boilerplate](https://github.com/mrzool/invoice-boilerplate) - Simple automated LaTeX invoicing system
@@ -1592,7 +1592,7 @@
 
 ## others 
 
-- [haskell-wasm/ghc-wasm-meta](https://github.com/haskell-wasm/ghc-wasm-meta) - Mirror of https://gitlab.haskell.org/haskell-wasm/ghc-wasm-meta
+- [haskell-wasm/ghc-wasm-meta](https://github.com/haskell-wasm/ghc-wasm-meta) - Read-only mirror of ghc-wasm-meta on ghc gitlab
 - [dmjio/LearnOpenGL.hs](https://github.com/dmjio/LearnOpenGL.hs) - LearnOpenGL.com examples ported to Haskell
 - [juspay/python-nix-template](https://github.com/juspay/python-nix-template) - WIP: A simple Nix project template for Python projects
 - [pyproject-nix/uv2nix](https://github.com/pyproject-nix/uv2nix) - Uv2nix - Ingest uv workspaces using Nix [maintainer=@adisbladis]
@@ -1824,7 +1824,7 @@
 - [Platonic-Systems/mission-control](https://github.com/Platonic-Systems/mission-control) - A `flake-parts` module for your Nix devshell scripts
 - [srid/proc-flake](https://github.com/srid/proc-flake) - A `flake-parts` module for running multiple processes in a dev shell
 - [DavHau/drv-parts](https://github.com/DavHau/drv-parts) - Configure packages like NixOS systems
-- [estradilua/multiwalk](https://github.com/estradilua/multiwalk) - Create traversals and queries of multiple types at once
+- [soficshift/multiwalk](https://github.com/soficshift/multiwalk) - Create traversals and queries of multiple types at once
 - [Platonic-Systems/purescript-multi-nix](https://github.com/Platonic-Systems/purescript-multi-nix) - WIP demo of nixifying a PureScript monorepo using purs-nix
 - [srid/NixHaskellIndex](https://github.com/srid/NixHaskellIndex) - A site to view the Haskell packages and their versions on nixpkgs
 - [srid/commonmark-wikilink](https://github.com/srid/commonmark-wikilink) - Commonmark Wikilink parser for Pandoc
@@ -1867,7 +1867,7 @@
 - [minad/org-modern](https://github.com/minad/org-modern) - :unicorn: Modern Org Style
 - [Plutonomicon/plutarch-core](https://github.com/Plutonomicon/plutarch-core) - Plutarch 2.0
 - [ners/ners.ch](https://github.com/ners/ners.ch) - Personal website
-- [estradilua/org-mode-hs](https://github.com/estradilua/org-mode-hs) - Libraries and tool for parsing Org Mode documents with customizable exporters. 🦄
+- [soficshift/org-mode-hs](https://github.com/soficshift/org-mode-hs) - Libraries and tool for parsing Org Mode documents with customizable exporters. 🦄
 - [BartoszMilewski/Publications](https://github.com/BartoszMilewski/Publications) - Misc. publications, conference slides, etc. For more, go to http://BartoszMilewski.com
 - [BartoszMilewski/DaoFP](https://github.com/BartoszMilewski/DaoFP) - The Dao of Functional Programming
 - [qfpl/reflex-backend-socket](https://github.com/qfpl/reflex-backend-socket) - Reflex support for socket-based applications
