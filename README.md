@@ -543,7 +543,6 @@
 - [google/material-design-lite](https://github.com/google/material-design-lite) - Material Design Components in HTML/CSS/JS
 - [lhunath/bash.academy](https://github.com/lhunath/bash.academy) - The http://bash.academy website
 - [ericchiang/pup](https://github.com/ericchiang/pup) - Parsing HTML at the command line
-- [joemccann/dillinger](https://github.com/joemccann/dillinger) - The last Markdown editor, ever.
 - [maacl/aleph-ws-test](https://github.com/maacl/aleph-ws-test) - Small chat-app to test Aleph websocket support.
 
 ## Handlebars 
@@ -1071,6 +1070,7 @@
 - [berbaquero/reeddit](https://github.com/berbaquero/reeddit) - Minimal, elastic Reddit reader web-app client
 - [glinden/stick-portal](https://github.com/glinden/stick-portal) - Stick Portal
 - [nwjs/nw.js](https://github.com/nwjs/nw.js) - Call all Node.js modules directly from DOM/WebWorker and enable a new way of writing applications with all Web technologies.
+- [joemccann/dillinger](https://github.com/joemccann/dillinger) - The last Markdown editor, ever.
 - [srid/horizon](https://github.com/srid/horizon) - A dashboard for Stackato/CloudFoundry based on Clojure
 - [friggeri/jump](https://github.com/friggeri/jump) - bringing autosuggest to cd
 - [srid/brain](https://github.com/srid/brain) - javascript neural networks and classifiers
@@ -1720,7 +1720,6 @@
 - [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
 - [dtolnay/typetag](https://github.com/dtolnay/typetag) - Serde serializable and deserializable trait objects
 - [Synphonyte/leptos-struct-table](https://github.com/Synphonyte/leptos-struct-table) - Easily create Leptos table components from structs
-- [ankarhem/blog](https://github.com/ankarhem/blog) - 
 - [DioxusLabs/include_mdbook](https://github.com/DioxusLabs/include_mdbook) - [moved!] Include mdbooks at compile time in your Rust project
 - [DioxusLabs/docsite](https://github.com/DioxusLabs/docsite) - Dioxuslabs.com documentation site
 - [juspay/omnix](https://github.com/juspay/omnix) - A Nix companion to improve developer experience
@@ -1944,6 +1943,7 @@
 
 ## TypeScript 
 
+- [blinko-space/blinko](https://github.com/blinko-space/blinko) - An open-source, self-hosted personal AI note tool prioritizing privacy, built using TypeScript .
 - [pixijs/pixijs](https://github.com/pixijs/pixijs) - The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer.
 - [Ellpeck/ObsidianCustomFrames](https://github.com/Ellpeck/ObsidianCustomFrames) - An Obsidian plugin that turns web apps into panes using iframes with custom styling. Also comes with presets for Google Keep, Todoist and more.
 - [gpoore/codebraid-preview-vscode](https://github.com/gpoore/codebraid-preview-vscode) - Preview Pandoc Markdown in VS Code, and execute code blocks and inline code with Codebraid
