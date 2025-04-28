@@ -1680,10 +1680,10 @@
 - [mdzk-rs/mdzk](https://github.com/mdzk-rs/mdzk) - General-purpose interface to connected notes
 - [oovm/tailwind-rs](https://github.com/oovm/tailwind-rs) - 
 - [nixops4/nixops4](https://github.com/nixops4/nixops4) - Deploy with Nix and manage resources declaratively
-- [Feel-ix-343/markdown-oxide](https://github.com/Feel-ix-343/markdown-oxide) - Personal-Knowledge-Management Markdown Language Server
+- [Feel-ix-343/markdown-oxide](https://github.com/Feel-ix-343/markdown-oxide) - Markdown Language Server
 - [brack-lang/brack](https://github.com/brack-lang/brack) - 🐦‍⬛ A bracket-based lightweight markup language that extends commands with WebAssembly
 - [ggez/ggez](https://github.com/ggez/ggez) - Rust library to create a Good Game Easily
-- [extism/extism](https://github.com/extism/extism) - The framework for building with WebAssembly (wasm). Easily load wasm modules, move data, call functions, and build extensible apps.
+- [extism/extism](https://github.com/extism/extism) - The framework for building with WebAssembly (wasm). Easily & securely load wasm modules, move data, call functions, and build extensible apps.
 - [MatthiasGrandl/Loungy](https://github.com/MatthiasGrandl/Loungy) - Loungy is a WIP launcher in the vein of Spotlight, Alfred, Raycast.
 - [gaucho-labs/leptos-query](https://github.com/gaucho-labs/leptos-query) - Async state management for Leptos, providing simplified data fetching, integrated reactivity, SSR support, and smart cache management.
 - [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
