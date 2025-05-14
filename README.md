@@ -370,7 +370,7 @@
 - [matrix-org/pinecone](https://github.com/matrix-org/pinecone) - Peer-to-peer overlay routing for the Matrix ecosystem
 - [YoSev/private-ghp](https://github.com/YoSev/private-ghp) - publish github pages privately secured by github sso (oauth2)
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - The mighty, self-hostable Git server for the command line🍦
-- [water-sucks/nixos](https://github.com/water-sucks/nixos) - A unified NixOS tooling replacement for nixos-* utilities
+- [nix-community/nixos-cli](https://github.com/nix-community/nixos-cli) - A unified NixOS tooling replacement for nixos-* utilities [maintainer=@water-sucks]
 - [maaslalani/slides](https://github.com/maaslalani/slides) - Terminal based presentation tool
 - [F1bonacc1/process-compose](https://github.com/F1bonacc1/process-compose) - Process Compose is a simple and flexible scheduler and orchestrator to manage non-containerized applications.
 - [tazjin/nixery](https://github.com/tazjin/nixery) - Container registry which transparently builds images using the Nix package manager. Canonical repository is https://cs.tvl.fyi/depot/-/tree/tools/nixery
@@ -552,6 +552,7 @@
 
 ## Haskell 
 
+- [someodd/haskellcard](https://github.com/someodd/haskellcard) - Hypercard-like game engine
 - [tbidne/gitrev-typed](https://github.com/tbidne/gitrev-typed) - Compile git revision info into Haskell projects
 - [dmjio/LearnOpenGL.hs](https://github.com/dmjio/LearnOpenGL.hs) - LearnOpenGL.com examples ported to Haskell
 - [obsidiansystems/sandstone](https://github.com/obsidiansystems/sandstone) - Fine-grained Haskell builds with Nix's dynamic derivations
@@ -570,7 +571,7 @@
 - [ad-si/Brillo](https://github.com/ad-si/Brillo) - Painless 2D vector graphics, animations, and simulations powered by GLFW (Fork of gloss)
 - [luke-clifton/shh](https://github.com/luke-clifton/shh) - Simple shell like scripting from Haskell
 - [eldritch-cookie/co-log-effectful](https://github.com/eldritch-cookie/co-log-effectful) - 
-- [seanhess/web-view](https://github.com/seanhess/web-view) - Typed HTML with simplified layout, and easy composable styles. Inspired by Tailwindcss and Elm UI
+- [seanhess/atomic-css](https://github.com/seanhess/atomic-css) - Typed HTML with simplified layout, and easy composable styles. Inspired by Tailwindcss and Elm UI
 - [srid/commonmark-simple](https://github.com/srid/commonmark-simple) - Simple interface to https://github.com/jgm/commonmark-hs
 - [seanhess/hyperbole](https://github.com/seanhess/hyperbole) - Haskell interactive serverside web framework inspired by HTMX, Elm, and Phoenix LiveView
 - [JonathanLorimer/htmx](https://github.com/JonathanLorimer/htmx) - 
@@ -1476,7 +1477,7 @@
 - [themotte/rDrama](https://github.com/themotte/rDrama) - This code runs https://www.themotte.org. Forked from https://github.com/Aevann1/rDrama
 - [kovidgoyal/vise](https://github.com/kovidgoyal/vise) - A keyboard driven browser with tabs in a tree
 - [xai-org/grok-1](https://github.com/xai-org/grok-1) - Grok open release
-- [mem0ai/mem0](https://github.com/mem0ai/mem0) - Memory for AI Agents; SOTA in AI Agent Memory, beating OpenAI Memory in accuracy by 26% - https://mem0.ai/research
+- [mem0ai/mem0](https://github.com/mem0ai/mem0) - Memory for AI Agents; SOTA in AI Agent Memory; Announcing OpenMemory MCP - local and secure memory management.
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
 - [d2l-ai/d2l-en](https://github.com/d2l-ai/d2l-en) - Interactive deep learning book with multi-framework code, math, and discussions. Adopted at 500 universities from 70 countries including Stanford, MIT, Harvard, and Cambridge.
 - [jupyter-book/jupyter-book](https://github.com/jupyter-book/jupyter-book) - Create beautiful, publication-quality books and documents from computational content.
