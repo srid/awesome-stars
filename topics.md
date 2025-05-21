@@ -1617,6 +1617,7 @@
 
 ## others 
 
+- [logseq/publish-spa](https://github.com/logseq/publish-spa) - A github action and CLI to publish logseq graphs as a SPA app
 - [sayo-hs/heftia](https://github.com/sayo-hs/heftia) - A theory‑backed, ultra type‑safe algebraic effects
 - [someodd/haskellcard](https://github.com/someodd/haskellcard) - Hypercard-like game engine
 - [tbidne/gitrev-typed](https://github.com/tbidne/gitrev-typed) - Compile git revision info into Haskell projects
@@ -1675,7 +1676,7 @@
 - [mrjones2014/opnix](https://github.com/mrjones2014/opnix) - ❄️ Native secret management for NixOS using 1Password.
 - [tweag/nix-remote-rust](https://github.com/tweag/nix-remote-rust) - 
 - [BeFunctional/haskell-rust-ffi](https://github.com/BeFunctional/haskell-rust-ffi) - 
-- [seanhess/atomic-css](https://github.com/seanhess/atomic-css) - Typed HTML with simplified layout, and easy composable styles. Inspired by Tailwindcss and Elm UI
+- [seanhess/atomic-css](https://github.com/seanhess/atomic-css) - Type-safe Atomic CSS with intuitive layouts and composable css utility classes. Inspired by Tailwindcss and Elm-UI
 - [srid/commonmark-simple](https://github.com/srid/commonmark-simple) - Simple interface to https://github.com/jgm/commonmark-hs
 - [seanhess/hyperbole](https://github.com/seanhess/hyperbole) - Haskell interactive serverside web framework inspired by HTMX, Elm, and Phoenix LiveView
 - [JonathanLorimer/htmx](https://github.com/JonathanLorimer/htmx) - 
