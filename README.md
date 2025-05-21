@@ -181,6 +181,7 @@
 
 ## Clojure 
 
+- [logseq/publish-spa](https://github.com/logseq/publish-spa) - A github action and CLI to publish logseq graphs as a SPA app
 - [arrterian/nix-env-selector](https://github.com/arrterian/nix-env-selector) - Allows switch environment for Visual Studio Code using Nix Package Manager.
 - [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: http://trello.com/b/8txSM12G/roadmap
 - [tonsky/FiraCode](https://github.com/tonsky/FiraCode) - Free monospaced font with programming ligatures
@@ -572,7 +573,7 @@
 - [ad-si/Brillo](https://github.com/ad-si/Brillo) - Painless 2D vector graphics, animations, and simulations powered by GLFW (Fork of gloss)
 - [luke-clifton/shh](https://github.com/luke-clifton/shh) - Simple shell like scripting from Haskell
 - [eldritch-cookie/co-log-effectful](https://github.com/eldritch-cookie/co-log-effectful) - 
-- [seanhess/atomic-css](https://github.com/seanhess/atomic-css) - Typed HTML with simplified layout, and easy composable styles. Inspired by Tailwindcss and Elm UI
+- [seanhess/atomic-css](https://github.com/seanhess/atomic-css) - Type-safe Atomic CSS with intuitive layouts and composable css utility classes. Inspired by Tailwindcss and Elm-UI
 - [srid/commonmark-simple](https://github.com/srid/commonmark-simple) - Simple interface to https://github.com/jgm/commonmark-hs
 - [seanhess/hyperbole](https://github.com/seanhess/hyperbole) - Haskell interactive serverside web framework inspired by HTMX, Elm, and Phoenix LiveView
 - [JonathanLorimer/htmx](https://github.com/JonathanLorimer/htmx) - 
