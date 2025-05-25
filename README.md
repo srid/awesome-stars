@@ -963,7 +963,7 @@
 
 - [Catfriend1/syncthing-android](https://github.com/Catfriend1/syncthing-android) - Syncthing-Fork - A Syncthing Wrapper for Android.
 - [n-apps/ScoreCounter](https://github.com/n-apps/ScoreCounter) - Android app. Score Counter will help you easily keep score in any games, sports or other activities. Will do all the math for tracking initiative, HP, hit points, spell slots or even count win streaks
-- [processing/processing](https://github.com/processing/processing) - Source code for the Processing Core and Development Environment (PDE)
+- [processing/processing](https://github.com/processing/processing) - ⚠️ Processing moved to processing/processing4 ⚠️
 - [gocd/gocd](https://github.com/gocd/gocd) - GoCD - Continuous Delivery server main repository
 - [clojure/clojure](https://github.com/clojure/clojure) - The Clojure programming language
 - [nathanmarz/storm-starter](https://github.com/nathanmarz/storm-starter) - Learn to use Storm!
