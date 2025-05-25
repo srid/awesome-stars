@@ -555,7 +555,6 @@
 ## design 
 
 - [rougier/nano-emacs](https://github.com/rougier/nano-emacs) - GNU Emacs / N Λ N O - Emacs made simple
-- [processing/processing](https://github.com/processing/processing) - Source code for the Processing Core and Development Environment (PDE)
 
 ## development 
 
@@ -636,7 +635,6 @@
 - [iggredible/Learn-Vim](https://github.com/iggredible/Learn-Vim) - Learning Vim and Vimscript doesn't have to be hard. This is the guide that you're looking for 📖
 - [google/codeworld](https://github.com/google/codeworld) - Educational computer programming environment using Haskell
 - [brownplt/pyret-lang](https://github.com/brownplt/pyret-lang) - The Pyret language.
-- [processing/processing](https://github.com/processing/processing) - Source code for the Processing Core and Development Environment (PDE)
 
 ## electron 
 
@@ -1242,7 +1240,6 @@
 
 - [extism/extism](https://github.com/extism/extism) - The framework for building with WebAssembly (wasm). Easily & securely load wasm modules, move data, call functions, and build extensible apps.
 - [iSoron/uhabits](https://github.com/iSoron/uhabits) - Loop Habit Tracker, a mobile app for creating and maintaining long-term positive habits
-- [processing/processing](https://github.com/processing/processing) - Source code for the Processing Core and Development Environment (PDE)
 
 ## javascript 
 
@@ -1331,7 +1328,6 @@
 
 - [iggredible/Learn-Vim](https://github.com/iggredible/Learn-Vim) - Learning Vim and Vimscript doesn't have to be hard. This is the guide that you're looking for 📖
 - [elixirschool/elixirschool](https://github.com/elixirschool/elixirschool) - The content behind Elixir School
-- [processing/processing](https://github.com/processing/processing) - Source code for the Processing Core and Development Environment (PDE)
 
 ## library 
 
@@ -2513,6 +2509,7 @@
 - [mdespuits/minty](https://github.com/mdespuits/minty) - (Unofficial) Ruby API for Mint.com
 - [mintapi/mintapi](https://github.com/mintapi/mintapi) - an unofficial screen-scraping "API" for Mint.com
 - [jdf/processing.py](https://github.com/jdf/processing.py) - Write Processing sketches in Python
+- [processing/processing](https://github.com/processing/processing) - ⚠️ Processing moved to processing/processing4 ⚠️
 - [matz/streem](https://github.com/matz/streem) - prototype of stream based programming language
 - [clojure/clojure](https://github.com/clojure/clojure) - The Clojure programming language
 - [hpcloud/stackato-go](https://github.com/hpcloud/stackato-go) - Go package for Stackato client and server API
