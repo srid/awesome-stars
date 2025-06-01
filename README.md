@@ -971,6 +971,7 @@
 
 ## JavaScript 
 
+- [ganeshrvel/openmtp](https://github.com/ganeshrvel/openmtp) - OpenMTP  - Advanced Android File Transfer Application for macOS
 - [bigskysoftware/htmx-extensions](https://github.com/bigskysoftware/htmx-extensions) - 
 - [bigskysoftware/_hyperscript](https://github.com/bigskysoftware/_hyperscript) - a small scripting language for the web
 - [fiatjaf/nos2x](https://github.com/fiatjaf/nos2x) - nostr signer extension
@@ -1105,7 +1106,7 @@
 ## Lua 
 
 - [hedyhli/outline.nvim](https://github.com/hedyhli/outline.nvim) - Navigate code with an outline sidebar. Forked from symbols-outline.nvim.
-- [nvim-orgmode/orgmode](https://github.com/nvim-orgmode/orgmode) - Orgmode clone written in Lua for Neovim 0.10.0+.
+- [nvim-orgmode/orgmode](https://github.com/nvim-orgmode/orgmode) - Orgmode clone written in Lua for Neovim 0.10.3+.
 - [kdheepak/lazygit.nvim](https://github.com/kdheepak/lazygit.nvim) - Plugin for calling lazygit from within neovim.
 - [C0nw0nk/Nginx-Lua-Anti-DDoS](https://github.com/C0nw0nk/Nginx-Lua-Anti-DDoS) - A Anti-DDoS script to protect Nginx web servers using Lua with a HTML Javascript based authentication puzzle inspired by Cloudflare I am under attack mode an Anti-DDoS authentication page protect your
 - [nvim-telescope/telescope-file-browser.nvim](https://github.com/nvim-telescope/telescope-file-browser.nvim) - File Browser extension for telescope.nvim
@@ -1701,7 +1702,7 @@
 - [zhaofengli/colmena](https://github.com/zhaofengli/colmena) - A simple, stateless NixOS deployment tool
 - [leontoeides/indicium](https://github.com/leontoeides/indicium) - A simple in-memory search for collections and key-value stores.
 - [greyblake/nutype](https://github.com/greyblake/nutype) - Rust newtype with guarantees  🇺🇦 🦀
-- [Anush008/fastembed-rs](https://github.com/Anush008/fastembed-rs) - Rust library for generating vector embeddings, reranking. Based on qdrant/fastembed.
+- [Anush008/fastembed-rs](https://github.com/Anush008/fastembed-rs) - Rust library for generating vector embeddings, reranking.
 - [ex0dus-0x/microkv](https://github.com/ex0dus-0x/microkv) - Minimal and persistent key-value store designed with security in mind
 - [bincode-org/bincode](https://github.com/bincode-org/bincode) - A binary encoder / decoder implementation in Rust.
 - [ctsrc/persistence](https://github.com/ctsrc/persistence) - Rust library providing mutable resizable arrays built on top of mmap
@@ -1962,7 +1963,7 @@
 - [githubnext/monaspace](https://github.com/githubnext/monaspace) - An innovative superfamily of fonts for code
 - [filllabs/dependi](https://github.com/filllabs/dependi) - Dependi (formerly crates)
 - [satellite-earth/desktop](https://github.com/satellite-earth/desktop) - 
-- [1943time/inkdown](https://github.com/1943time/inkdown) - A WYSIWYG Markdown editor, improve reading and editing experience. and generate your Markdown files into online documents in the easiest and fastest way.
+- [1943time/inkdown](https://github.com/1943time/inkdown) - Inkdown is a WYSIWYG editor and an LLM dialogue tool, fully compatible with GitHub Flavored Markdown Spec.
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [w-okada/screen-recorder-ts](https://github.com/w-okada/screen-recorder-ts) - 
 - [ananthakumaran/paisa](https://github.com/ananthakumaran/paisa) - Paisa – Personal Finance Manager. https://paisa.fyi demo: https://demo.paisa.fyi
