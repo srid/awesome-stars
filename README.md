@@ -93,6 +93,7 @@
 
 ## C 
 
+- [X11Libre/xserver](https://github.com/X11Libre/xserver) - 
 - [HandBrake/HandBrake](https://github.com/HandBrake/HandBrake) - HandBrake's main development repository
 - [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch) - A maintained, feature-rich and performance oriented, neofetch like system information tool.
 - [TechUnRestricted/WinDiskWriter](https://github.com/TechUnRestricted/WinDiskWriter) - 🖥 Windows Bootable USB creator for macOS. 🛠 Patches Windows 11 to bypass TPM and Secure Boot requirements. 👾 UEFI & Legacy Support
@@ -470,7 +471,6 @@
 - [rckclmbr/gologstash](https://github.com/rckclmbr/gologstash) - Logstash rewritten in Go
 - [moby/moby](https://github.com/moby/moby) - The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
 - [kisielk/errcheck](https://github.com/kisielk/errcheck) - errcheck checks that you checked errors.
-- [hgfischer/nginx2stathat](https://github.com/hgfischer/nginx2stathat) - Program to watch a nginx combined access.log and send every line to syslog
 - [hpcloud/tail](https://github.com/hpcloud/tail) - Go package for reading from continously updated files (tail -f)
 - [hpcloud/httpapi](https://github.com/hpcloud/httpapi) - Writing HTTP API services in Go
 - [hpcloud/run](https://github.com/hpcloud/run) - Channel-friendly wrapper to run commands in Go
@@ -555,6 +555,8 @@
 
 ## Haskell 
 
+- [tusharad/langchain-hs](https://github.com/tusharad/langchain-hs) - Haskell implementation of LangChain
+- [drshade/haskell-mcp-server](https://github.com/drshade/haskell-mcp-server) - An Awesome MCP Server Framework for Haskell
 - [sayo-hs/heftia](https://github.com/sayo-hs/heftia) - A theory‑backed, ultra type‑safe algebraic effects
 - [someodd/haskellcard](https://github.com/someodd/haskellcard) - Hypercard-like game engine
 - [tbidne/gitrev-typed](https://github.com/tbidne/gitrev-typed) - Compile git revision info into Haskell projects
@@ -1249,7 +1251,7 @@
 - [hercules-ci/flake-parts](https://github.com/hercules-ci/flake-parts) - ❄️ Simplify Nix Flakes with the module system
 - [gytis-ivaskevicius/high-quality-nix-content](https://github.com/gytis-ivaskevicius/high-quality-nix-content) - GitHub repository containing highest quality Nix/NixOS content
 - [srid/monorepo-nix-template](https://github.com/srid/monorepo-nix-template) - Make monorepos with Nix flakes
-- [yusdacra/nix-cargo-integration](https://github.com/yusdacra/nix-cargo-integration) - Library to easily and effortlessly integrate Cargo projects with Nix.
+- [90-008/nix-cargo-integration](https://github.com/90-008/nix-cargo-integration) - Library to easily and effortlessly integrate Cargo projects with Nix.
 - [srid/rust-nix-template](https://github.com/srid/rust-nix-template) - Rust project template with Nix (Flakes) and VSCode support
 - [srid/nixos-config](https://github.com/srid/nixos-config) - KISS NixOS configuration based on Flakes & flake-parts (supports macOS too)
 - [astro/microvm.nix](https://github.com/astro/microvm.nix) - NixOS MicroVMs
