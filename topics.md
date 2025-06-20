@@ -1626,6 +1626,7 @@
 
 ## others 
 
+- [Kegworks-App/Kegworks](https://github.com/Kegworks-App/Kegworks) - A user-friendly tool used to make wine wrapped ports of Windows software for macOS.
 - [X11Libre/xserver](https://github.com/X11Libre/xserver) - 
 - [tusharad/langchain-hs](https://github.com/tusharad/langchain-hs) - Haskell implementation of LangChain
 - [drshade/haskell-mcp-server](https://github.com/drshade/haskell-mcp-server) - An Awesome MCP Server Framework for Haskell
