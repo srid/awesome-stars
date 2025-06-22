@@ -527,7 +527,6 @@
 - [fiatjaf/nostr.technology](https://github.com/fiatjaf/nostr.technology) - hosted with cloudflare pages
 - [bitstein/justmeat.co](https://github.com/bitstein/justmeat.co) - Carnivorous eating, paleolithic ketogenic diet and medicine, and zero carb lifestyle. Don’t bother with vegetables. Just eat meat.
 - [htmlstreamofficial/preline](https://github.com/htmlstreamofficial/preline) - Preline UI is an open-source set of prebuilt UI components based on the utility-first Tailwind CSS framework.
-- [srid/srid](https://github.com/srid/srid) - Source for https://srid.ca (do you know that you can git clone and `nix run` this website locally? to create your own: https://github.com/srid/emanote-template)
 - [plaintextaccounting/plaintextaccounting](https://github.com/plaintextaccounting/plaintextaccounting) - The plaintextaccounting.org website, a portal to Ledger, hledger, beancount and co. Also the PTA wiki.
 - [tallesl/Rich-Hickey-fanclub](https://github.com/tallesl/Rich-Hickey-fanclub) - "every time I watch one of his talks I feel like someone has gone in and organized my brain"
 - [abuseofnotation/category-theory-illustrated](https://github.com/abuseofnotation/category-theory-illustrated) - A book about category theory
@@ -1136,6 +1135,7 @@
 
 - [nixos-asia/website](https://github.com/nixos-asia/website) - The NixOS Asia website
 - [Gabriella439/nixos-in-production](https://github.com/Gabriella439/nixos-in-production) - Source files for the book "NixOS in Production"
+- [srid/srid](https://github.com/srid/srid) - Source for https://srid.ca (do you know that you can git clone and `nix run` this website locally? to create your own: https://github.com/srid/emanote-template)
 - [srid/haskell-ladder](https://github.com/srid/haskell-ladder) - WIP: Haskell Pedagogic Ladder (Run `nix run` to run the site locally)
 - [uiuc-cs-zettelkasten/uiuc-cs-zettelkasten.github.io](https://github.com/uiuc-cs-zettelkasten/uiuc-cs-zettelkasten.github.io) - UIUC Computer Science Zettelkasten
 - [input-output-hk/adrestia](https://github.com/input-output-hk/adrestia) - APIs & SDK for interacting with Cardano.
