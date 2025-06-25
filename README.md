@@ -116,6 +116,7 @@
 
 ## C# # 
 
+- [seerge/g-helper](https://github.com/seerge/g-helper) - Lightweight Armoury Crate alternative for Asus laptops and ROG Ally. Control tool for ROG Zephyrus G14, G15, G16, M16, Flow X13, Flow X16, TUF, Strix, Scar and other models
 - [vitoplantamura/HackerNewsRemovals](https://github.com/vitoplantamura/HackerNewsRemovals) - List of stories removed from the Hacker News Front Page, updated in real time.
 - [themotte/vault](https://github.com/themotte/vault) - Quality Contribution Vault website.
 - [toddams/RazorLight](https://github.com/toddams/RazorLight) - Template engine based on Microsoft's Razor parsing engine for .NET Core
