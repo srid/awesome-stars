@@ -1095,6 +1095,7 @@
 
 ## Jupyter Notebook 
 
+- [AnswerDotAI/llms-txt](https://github.com/AnswerDotAI/llms-txt) - The /llms.txt file, helping language models use your website
 - [kayceesrk/cs3100_m20](https://github.com/kayceesrk/cs3100_m20) - CS3100: Paradigms of Programming at CSE IITM (Monsoon 2020)
 - [hunterad93/actualism_chat](https://github.com/hunterad93/actualism_chat) - a fun chatbot that uses 'actualfreedom.com.au' as its knowledge base for retrieval augmented chat
 - [input-output-hk/haskell-course](https://github.com/input-output-hk/haskell-course) - This course is designed to teach non-engineers (e.g., self-taught/bootcamp coders) Haskell from zero to productive in an interactive, easy-to-follow way.
@@ -1759,7 +1760,7 @@
 - [sebcrozet/kiss3d](https://github.com/sebcrozet/kiss3d) - Keep it simple, stupid 3d graphics engine for Rust.
 - [linebender/resvg](https://github.com/linebender/resvg) - An SVG rendering library.
 - [DeterminateSystems/magic-nix-cache](https://github.com/DeterminateSystems/magic-nix-cache) - Save 30-50%+ of CI time without any effort or cost. Use Magic Nix Cache, a totally free and zero-configuration binary cache for Nix on GitHub Actions.
-- [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, mobile, and more.
+- [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, and mobile.
 - [flox/runix](https://github.com/flox/runix) - A type-safe Rust interface to the Nix CLI
 - [rustafariandev/pavlok-cli-rs](https://github.com/rustafariandev/pavlok-cli-rs) - 
 - [oppiliappan/statix](https://github.com/oppiliappan/statix) - lints and suggestions for the nix programming language
