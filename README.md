@@ -557,7 +557,9 @@
 
 ## Haskell 
 
-- [three-hs/three.hs](https://github.com/three-hs/three.hs) - three.js bindings
+- [augustss/MicroHs](https://github.com/augustss/MicroHs) - Haskell implemented with combinators
+- [bellroy/github-actions](https://github.com/bellroy/github-actions) - A Haskell package for representing, serializing and deserializing Github Actions workflows.
+- [three-hs/three.hs](https://github.com/three-hs/three.hs) - 🎬 Haskell bindings to three.js
 - [Simre1/multitasking](https://github.com/Simre1/multitasking) - Easy concurrency in Haskell
 - [tusharad/langchain-hs](https://github.com/tusharad/langchain-hs) - Haskell implementation of LangChain
 - [drshade/haskell-mcp-server](https://github.com/drshade/haskell-mcp-server) - An Awesome MCP Server Framework for Haskell
@@ -1448,7 +1450,7 @@
 ## PHP 
 
 - [BookStackApp/BookStack](https://github.com/BookStackApp/BookStack) - A platform to create documentation/wiki content built with PHP & Laravel
-- [nadrad/h-m-m](https://github.com/nadrad/h-m-m) - Hackers Mind Map
+- [nadrad/h-m-m](https://github.com/nadrad/h-m-m) - h-m-m, or Hackers Mind Map, is a simple, fast, keyboard-centric terminal-based tool for working with mind maps.
 - [gharlan/alfred-github-workflow](https://github.com/gharlan/alfred-github-workflow) - GitHub Workflow for Alfred
 
 ## Perl 
