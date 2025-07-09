@@ -1165,6 +1165,7 @@
 
 ## Nix 
 
+- [antithesishq/madness](https://github.com/antithesishq/madness) - Madness enables you to easily run the same binary on NixOS and non-NixOS systems
 - [henrysipp/omarchy-nix](https://github.com/henrysipp/omarchy-nix) - An opinionated NixOS config based on DHH's Omarchy
 - [pdtpartners/globset](https://github.com/pdtpartners/globset) - Simplify Nix source management using familiar glob patterns
 - [juspay/haskell-incremental-build-template](https://github.com/juspay/haskell-incremental-build-template) - A template for incremental Haskell builds using Nix
