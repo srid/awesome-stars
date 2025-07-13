@@ -557,6 +557,7 @@
 
 ## Haskell 
 
+- [haskell-miso/miso-lynx](https://github.com/haskell-miso/miso-lynx) - :ramen: 🐈 A tasty Haskell mobile framework
 - [augustss/MicroHs](https://github.com/augustss/MicroHs) - Haskell implemented with combinators
 - [bellroy/github-actions](https://github.com/bellroy/github-actions) - A Haskell package for representing, serializing and deserializing Github Actions workflows.
 - [three-hs/three.hs](https://github.com/three-hs/three.hs) - 🎬 Haskell bindings to three.js
