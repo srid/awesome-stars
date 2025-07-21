@@ -28,6 +28,7 @@
 - [chrome-extension](#chrome-extension)
 - [cli](#cli)
 - [clojure](#clojure)
+- [cms](#cms)
 - [code](#code)
 - [code-quality](#code-quality)
 - [compiler](#compiler)
@@ -204,7 +205,7 @@
 ## ai 
 
 - [github/awesome-copilot](https://github.com/github/awesome-copilot) - Community-contributed instructions, prompts, and configurations to help you make the most of GitHub Copilot.
-- [mem0ai/mem0](https://github.com/mem0ai/mem0) - Memory for AI Agents; Announcing OpenMemory MCP - local and secure memory management.
+- [mem0ai/mem0](https://github.com/mem0ai/mem0) - Universal memory layer for AI Agents; Announcing OpenMemory MCP - local and secure memory management.
 - [pionxzh/chatgpt-exporter](https://github.com/pionxzh/chatgpt-exporter) - Export and Share your ChatGPT conversation history
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
 - [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
@@ -257,6 +258,7 @@
 
 ## awesome 
 
+- [wearetechnative/awesome-flake-parts](https://github.com/wearetechnative/awesome-flake-parts) - A curated list of awesome flake-parts resources, modules, and examples. Flake-parts is a framework for writing Nix Flakes.
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 - [hyprland-community/awesome-hyprland](https://github.com/hyprland-community/awesome-hyprland) - Awesome list for Hyprland [maintainer=@yavko]
 - [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
@@ -279,6 +281,7 @@
 
 ## awesome-list 
 
+- [wearetechnative/awesome-flake-parts](https://github.com/wearetechnative/awesome-flake-parts) - A curated list of awesome flake-parts resources, modules, and examples. Flake-parts is a framework for writing Nix Flakes.
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 - [hyprland-community/awesome-hyprland](https://github.com/hyprland-community/awesome-hyprland) - Awesome list for Hyprland [maintainer=@yavko]
 - [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
@@ -355,7 +358,7 @@
 
 ## chatgpt 
 
-- [mem0ai/mem0](https://github.com/mem0ai/mem0) - Memory for AI Agents; Announcing OpenMemory MCP - local and secure memory management.
+- [mem0ai/mem0](https://github.com/mem0ai/mem0) - Universal memory layer for AI Agents; Announcing OpenMemory MCP - local and secure memory management.
 - [pionxzh/chatgpt-exporter](https://github.com/pionxzh/chatgpt-exporter) - Export and Share your ChatGPT conversation history
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
 
@@ -428,6 +431,10 @@
 - [boot-clj/boot](https://github.com/boot-clj/boot) - Build tooling for Clojure.
 - [LightTable/LightTable](https://github.com/LightTable/LightTable) - The Light Table IDE ⛺
 - [clj-commons/aleph](https://github.com/clj-commons/aleph) - Asynchronous streaming communication for Clojure - web server, web client, and raw TCP/UDP
+
+## cms 
+
+- [getzola/zola](https://github.com/getzola/zola) - A fast static site generator in a single binary with everything built-in. https://www.getzola.org
 
 ## code 
 
@@ -1181,7 +1188,7 @@
 - [chrisdone-archive/jl](https://github.com/chrisdone-archive/jl) - Functional sed for JSON
 - [ptigwe/hs-flatris](https://github.com/ptigwe/hs-flatris) - An implementation of Flatris using Haskell and Miso
 - [theam/haskell-do](https://github.com/theam/haskell-do) - :pencil2: :bar_chart: - The Haskell code editor focused on interactive development.
-- [dmjio/miso](https://github.com/dmjio/miso) - :ramen: A tasty Haskell front-end framework
+- [dmjio/miso](https://github.com/dmjio/miso) - :ramen: A tasty Haskell web framework
 - [hansroland/reflex-dom-inbits](https://github.com/hansroland/reflex-dom-inbits) - A tutorial for reflex-dom with small code bits
 - [snowleopard/alga](https://github.com/snowleopard/alga) - Algebraic graphs
 - [reflex-frp/reflex-platform](https://github.com/reflex-frp/reflex-platform) - A curated package set and set of tools that let you build Haskell packages so they can run on a variety of platforms. reflex-platform is built on top of the nix package manager.
@@ -1276,7 +1283,7 @@
 - [fomantic/Fomantic-UI](https://github.com/fomantic/Fomantic-UI) - Fomantic-UI is the official community fork of Semantic-UI
 - [schmich/marinara](https://github.com/schmich/marinara) - Pomodoro® time management assistant for Chrome
 - [thelounge/thelounge](https://github.com/thelounge/thelounge) - 💬  ‎ Modern, responsive, cross-platform, self-hosted web IRC client
-- [dmjio/miso](https://github.com/dmjio/miso) - :ramen: A tasty Haskell front-end framework
+- [dmjio/miso](https://github.com/dmjio/miso) - :ramen: A tasty Haskell web framework
 - [gorhill/uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
 - [purescript/purescript](https://github.com/purescript/purescript) - A strongly-typed language that compiles to JavaScript
 - [yudai/gotty](https://github.com/yudai/gotty) - Share your terminal as a web application
@@ -1395,7 +1402,7 @@
 
 - [1943time/inkdown](https://github.com/1943time/inkdown) - Inkdown is a WYSIWYG editor and an LLM dialogue tool, fully compatible with GitHub Flavored Markdown Spec.
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, Mistral Small 3.1 and other large language models.
-- [mem0ai/mem0](https://github.com/mem0ai/mem0) - Memory for AI Agents; Announcing OpenMemory MCP - local and secure memory management.
+- [mem0ai/mem0](https://github.com/mem0ai/mem0) - Universal memory layer for AI Agents; Announcing OpenMemory MCP - local and secure memory management.
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
 
 ## lua 
@@ -1456,6 +1463,7 @@
 
 ## markdown 
 
+- [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
 - [blinkospace/blinko](https://github.com/blinkospace/blinko) - An open-source, self-hosted personal AI note tool prioritizing privacy, built using TypeScript .
 - [swsnr/mdcat](https://github.com/swsnr/mdcat) - cat for markdown
 - [usememos/memos](https://github.com/usememos/memos) - A modern, open-source, self-hosted knowledge management and note-taking platform designed for privacy-conscious users and organizations.
@@ -1630,6 +1638,7 @@
 
 ## openai 
 
+- [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
 - [blinkospace/blinko](https://github.com/blinkospace/blinko) - An open-source, self-hosted personal AI note tool prioritizing privacy, built using TypeScript .
 
 ## opengl 
@@ -1643,6 +1652,7 @@
 
 ## others 
 
+- [pksunkara/cargo-workspaces](https://github.com/pksunkara/cargo-workspaces) - A tool for managing cargo workspaces and their crates, inspired by lerna
 - [antithesishq/madness](https://github.com/antithesishq/madness) - Madness enables you to easily run the same binary on NixOS and non-NixOS systems
 - [augustss/MicroHs](https://github.com/augustss/MicroHs) - Haskell implemented with combinators
 - [bellroy/github-actions](https://github.com/bellroy/github-actions) - A Haskell package for representing, serializing and deserializing Github Actions workflows.
@@ -1690,7 +1700,7 @@
 - [kalbasit/ncps](https://github.com/kalbasit/ncps) - Nix binary cache proxy service -- with local caching and signing.
 - [bflyblue/servant-event-stream](https://github.com/bflyblue/servant-event-stream) - Servant support for ServerSent events
 - [JonathanLorimer/haskwire](https://github.com/JonathanLorimer/haskwire) - HTML Over The Wire, bringing SSR to Haskell
-- [juspay/vira](https://github.com/juspay/vira) - 
+- [juspay/vira](https://github.com/juspay/vira) - WIP: No-frills CI for teams using Nix
 - [juliuszint/asdbctl](https://github.com/juliuszint/asdbctl) - Small command line utility to get/set the brightness of Apple Studio Displays from Linux
 - [misuzu/process-compose-deploy](https://github.com/misuzu/process-compose-deploy) - PoC process-compose deployments for NixOS
 - [gpoore/codebraid-preview-vscode](https://github.com/gpoore/codebraid-preview-vscode) - Preview Pandoc Markdown in VS Code, and execute code blocks and inline code with Codebraid
@@ -1947,7 +1957,7 @@
 - [resume/resume.github.com](https://github.com/resume/resume.github.com) - Resumes generated using the GitHub informations
 - [Gabriella439/grace](https://github.com/Gabriella439/grace) - A ready-to-fork interpreted functional language with type inference
 - [srid/nixos-config](https://github.com/srid/nixos-config) - KISS NixOS configuration based on Flakes & flake-parts (supports macOS too)
-- [astro/microvm.nix](https://github.com/astro/microvm.nix) - NixOS MicroVMs
+- [microvm-nix/microvm.nix](https://github.com/microvm-nix/microvm.nix) - NixOS MicroVMs
 - [martinescardo/HoTT-UF-Agda-Lecture-Notes](https://github.com/martinescardo/HoTT-UF-Agda-Lecture-Notes) - Lecture notes on univalent foundations of mathematics with Agda
 - [plaintextaccounting/plaintextaccounting](https://github.com/plaintextaccounting/plaintextaccounting) - The plaintextaccounting.org website, a portal to Ledger, hledger, beancount and co. Also the PTA wiki.
 - [well-typed/plutonomy](https://github.com/well-typed/plutonomy) - An optimizer for untyped plutus core
@@ -2041,7 +2051,6 @@
 - [alexkdeveloper/somafm](https://github.com/alexkdeveloper/somafm) - A simple radio with built-in stations from the website somafm.com
 - [gitpod-io/openvscode-server](https://github.com/gitpod-io/openvscode-server) - Run upstream VS Code on a remote machine with access through a modern web browser from any device, anywhere.
 - [microsoft/vscode-edge-devtools](https://github.com/microsoft/vscode-edge-devtools) - A VSCode extension that allows you to use browser devtools from within the editor. The devtools will connect to an instance of Microsoft Edge giving you the ability to alter CSS styling, perform diagn
-- [Catfriend1/syncthing-android](https://github.com/Catfriend1/syncthing-android) - Syncthing-Fork - A Syncthing Wrapper for Android.
 - [mlabs-haskell/awesome-plutus](https://github.com/mlabs-haskell/awesome-plutus) - 
 - [ongyiren1994/mermaid-hs](https://github.com/ongyiren1994/mermaid-hs) - 
 - [HackerNews/API](https://github.com/HackerNews/API) - Documentation and Samples for the Official HN API
@@ -2542,7 +2551,7 @@
 - [Bowery/prompt](https://github.com/Bowery/prompt) - Cross platform prompting library
 - [sachac/.emacs.d](https://github.com/sachac/.emacs.d) - Emacs configuration
 - [martijnwalraven/meteor-ios](https://github.com/martijnwalraven/meteor-ios) - Meteor iOS integrates native iOS apps with the Meteor platform (http://www.meteor.com) through DDP
-- [docker/machine](https://github.com/docker/machine) - Machine management for a container-centric world
+- [docker-archive-public/docker.machine](https://github.com/docker-archive-public/docker.machine) - Machine management for a container-centric world
 - [joostkremers/writeroom-mode](https://github.com/joostkremers/writeroom-mode) - Writeroom-mode: distraction-free writing for Emacs.
 - [rtfeldman/dreamwriter](https://github.com/rtfeldman/dreamwriter) - (NOTE! This has not been updated since Elm 0.15.1.) Streamlined long-form writing software. Written in Elm.
 - [mdespuits/minty](https://github.com/mdespuits/minty) - (Unofficial) Ruby API for Mint.com
@@ -2567,7 +2576,7 @@
 - [illusori/bash-itunes](https://github.com/illusori/bash-itunes) - Shell script to control iTunes from the command-line.
 - [go-tomb/tomb](https://github.com/go-tomb/tomb) - The tomb package helps with clean goroutine termination in the Go language.
 - [sorskoot/WSaTypeScriptProjectTemplate](https://github.com/sorskoot/WSaTypeScriptProjectTemplate) - Windows Store app TypeScript Project Template
-- [docker/libchan](https://github.com/docker/libchan) - Like Go channels over the network
+- [docker-archive-public/docker.libchan](https://github.com/docker-archive-public/docker.libchan) - Like Go channels over the network
 - [docker-archive/classicswarm](https://github.com/docker-archive/classicswarm) - Swarm Classic: a container clustering system. Not to be confused with Docker Swarm which is at https://github.com/docker/swarmkit
 - [googlearchive/container-agent](https://github.com/googlearchive/container-agent) - Simple agent for running containers based on a declarative manifest.
 - [babun/babun](https://github.com/babun/babun) - Babun - a Windows shell you will love!
@@ -2854,7 +2863,7 @@
 - [kellyjonbrazil/jc](https://github.com/kellyjonbrazil/jc) - CLI tool and python library that converts the output of popular command-line tools, file-types, and common strings to JSON, YAML, or Dictionaries. This allows piping of output to tools like jq and sim
 - [filllabs/dependi](https://github.com/filllabs/dependi) - Dependi (formerly crates)
 - [extism/extism](https://github.com/extism/extism) - The framework for building with WebAssembly (wasm). Easily & securely load wasm modules, move data, call functions, and build extensible apps.
-- [mem0ai/mem0](https://github.com/mem0ai/mem0) - Memory for AI Agents; Announcing OpenMemory MCP - local and secure memory management.
+- [mem0ai/mem0](https://github.com/mem0ai/mem0) - Universal memory layer for AI Agents; Announcing OpenMemory MCP - local and secure memory management.
 - [d2l-ai/d2l-en](https://github.com/d2l-ai/d2l-en) - Interactive deep learning book with multi-framework code, math, and discussions. Adopted at 500 universities from 70 countries including Stanford, MIT, Harvard, and Cambridge.
 - [8go/matrix-nostr-bridge](https://github.com/8go/matrix-nostr-bridge) - Bridge between Matrix and Nostr communication protocols
 - [maubot/maubot](https://github.com/maubot/maubot) - A plugin-based Matrix bot system.
@@ -3272,7 +3281,7 @@
 - [osmoscraft/osmosfeed](https://github.com/osmoscraft/osmosfeed) - Turn GitHub into an RSS reader
 - [laobubu/HyperMD](https://github.com/laobubu/HyperMD) - A WYSIWYG Markdown Editor for browsers. Break the Wall between writing and previewing.
 - [lk-geimfari/awesomo](https://github.com/lk-geimfari/awesomo) - Cool open source projects. Choose your project and get involved in Open Source development now.
-- [dmjio/miso](https://github.com/dmjio/miso) - :ramen: A tasty Haskell front-end framework
+- [dmjio/miso](https://github.com/dmjio/miso) - :ramen: A tasty Haskell web framework
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 - [yudai/gotty](https://github.com/yudai/gotty) - Share your terminal as a web application
 - [microsoft/TypeScript-Handbook](https://github.com/microsoft/TypeScript-Handbook) - Deprecated, please use the TypeScript-Website repo instead
@@ -3294,7 +3303,7 @@
 - [pkamenarsky/concur-replica](https://github.com/pkamenarsky/concur-replica) - Server-side VDOM UI framework for Concur
 - [ajnsit/concur](https://github.com/ajnsit/concur) - An unusual Web UI Framework for Haskell
 - [jtdaugherty/brick](https://github.com/jtdaugherty/brick) - A declarative Unix terminal UI library written in Haskell
-- [dmjio/miso](https://github.com/dmjio/miso) - :ramen: A tasty Haskell front-end framework
+- [dmjio/miso](https://github.com/dmjio/miso) - :ramen: A tasty Haskell web framework
 - [purescript-halogen/purescript-halogen](https://github.com/purescript-halogen/purescript-halogen) - A declarative, type-safe UI library for PureScript.
 
 ## ui-design 
@@ -3366,7 +3375,7 @@
 ## web-assembly 
 
 - [brack-lang/brack](https://github.com/brack-lang/brack) - 🐦‍⬛ A bracket-based lightweight markup language that extends commands with WebAssembly
-- [dmjio/miso](https://github.com/dmjio/miso) - :ramen: A tasty Haskell front-end framework
+- [dmjio/miso](https://github.com/dmjio/miso) - :ramen: A tasty Haskell web framework
 
 ## web-development 
 
