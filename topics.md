@@ -235,6 +235,7 @@
 
 ## api 
 
+- [Airsequel/AirGQL](https://github.com/Airsequel/AirGQL) - Automatically generate a GraphQL API for any SQLite database
 - [input-output-hk/adrestia](https://github.com/input-output-hk/adrestia) - APIs & SDK for interacting with Cardano.
 - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
 - [hasura/graphql-engine](https://github.com/hasura/graphql-engine) - Blazing fast, instant realtime GraphQL APIs on all your data with fine grained access control, also trigger webhooks on database events.
@@ -934,6 +935,7 @@
 
 ## graphql 
 
+- [Airsequel/AirGQL](https://github.com/Airsequel/AirGQL) - Automatically generate a GraphQL API for any SQLite database
 - [morpheusgraphql/morpheus-graphql](https://github.com/morpheusgraphql/morpheus-graphql) - Haskell GraphQL Api, Client and Tools
 - [aantron/dream](https://github.com/aantron/dream) - Tidy, feature-complete Web framework
 - [hasura/graphql-engine](https://github.com/hasura/graphql-engine) - Blazing fast, instant realtime GraphQL APIs on all your data with fine grained access control, also trigger webhooks on database events.
@@ -1025,6 +1027,7 @@
 
 ## haskell 
 
+- [Airsequel/AirGQL](https://github.com/Airsequel/AirGQL) - Automatically generate a GraphQL API for any SQLite database
 - [haskell-miso/miso-lynx](https://github.com/haskell-miso/miso-lynx) - :ramen: 🐈 A tasty Haskell mobile framework
 - [L-as/procex](https://github.com/L-as/procex) - Ergonomic process launching with extreme flexibility and speed (compared to shh)
 - [haskellweekly/haskellweekly](https://github.com/haskellweekly/haskellweekly) - Publishes curated news about the Haskell programming language.
@@ -1656,6 +1659,7 @@
 
 ## others 
 
+- [juspay/vertex](https://github.com/juspay/vertex) - One-click AI agent setup through Google Vertex AI Platform
 - [tusharad/ollama-haskell](https://github.com/tusharad/ollama-haskell) - Ollama client for Haskell
 - [minad/persist](https://github.com/minad/persist) - Minimal binary serialization library with focus on performance
 - [jgm/typst-hs](https://github.com/jgm/typst-hs) - Haskell library for parsing and evaluating typst
@@ -3106,6 +3110,7 @@
 
 ## server 
 
+- [Airsequel/AirGQL](https://github.com/Airsequel/AirGQL) - Automatically generate a GraphQL API for any SQLite database
 - [PostgREST/postgrest](https://github.com/PostgREST/postgrest) - REST API for any Postgres database
 - [gin-gonic/gin](https://github.com/gin-gonic/gin) - Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
 
@@ -3144,6 +3149,7 @@
 
 ## sql 
 
+- [Airsequel/AirGQL](https://github.com/Airsequel/AirGQL) - Automatically generate a GraphQL API for any SQLite database
 - [launchbadge/sqlx](https://github.com/launchbadge/sqlx) - 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.
 - [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data
 - [haskell-beam/beam](https://github.com/haskell-beam/beam) - A type-safe, non-TH Haskell SQL library and ORM
@@ -3156,6 +3162,7 @@
 
 ## sqlite 
 
+- [Airsequel/AirGQL](https://github.com/Airsequel/AirGQL) - Automatically generate a GraphQL API for any SQLite database
 - [usememos/memos](https://github.com/usememos/memos) - A modern, open-source, self-hosted knowledge management and note-taking platform designed for privacy-conscious users and organizations.
 - [launchbadge/sqlx](https://github.com/launchbadge/sqlx) - 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.
 - [ad-si/TaskLite](https://github.com/ad-si/TaskLite) - The CLI task manager for power users
