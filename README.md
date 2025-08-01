@@ -433,7 +433,7 @@
 - [petejkim/goop](https://github.com/petejkim/goop) - A simple dependency manager for Go (golang), inspired by Bundler.
 - [rkt/rkt](https://github.com/rkt/rkt) - [Project ended] rkt is a pod-native container engine for Linux. It is composable, secure, and built on standards.
 - [netvarun/docket](https://github.com/netvarun/docket) - Docket - Custom docker registry that allows for lightning fast deploys through bittorrent
-- [aws/aws-sdk-go](https://github.com/aws/aws-sdk-go) - AWS SDK for the Go programming language (In Maintenance Mode, End-of-Life on 07/31/2025). The AWS SDK for Go v2 is available here: https://github.com/aws/aws-sdk-go-v2
+- [aws/aws-sdk-go](https://github.com/aws/aws-sdk-go) - This SDK has reached end-of-support. The AWS SDK for Go v2 is available here: https://github.com/aws/aws-sdk-go-v2
 - [Bowery/prompt](https://github.com/Bowery/prompt) - Cross platform prompting library
 - [docker-archive-public/docker.machine](https://github.com/docker-archive-public/docker.machine) - Machine management for a container-centric world
 - [gin-gonic/gin](https://github.com/gin-gonic/gin) - Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
@@ -530,7 +530,6 @@
 - [fiatjaf/nostr.technology](https://github.com/fiatjaf/nostr.technology) - hosted with cloudflare pages
 - [bitstein/justmeat.co](https://github.com/bitstein/justmeat.co) - Carnivorous eating, paleolithic ketogenic diet and medicine, and zero carb lifestyle. Don’t bother with vegetables. Just eat meat.
 - [htmlstreamofficial/preline](https://github.com/htmlstreamofficial/preline) - Preline UI is an open-source set of prebuilt UI components based on the utility-first Tailwind CSS framework.
-- [srid/srid](https://github.com/srid/srid) - Source for https://srid.ca (do you know that you can git clone and `nix run` this website locally? to create your own: https://github.com/srid/emanote-template)
 - [plaintextaccounting/plaintextaccounting](https://github.com/plaintextaccounting/plaintextaccounting) - The plaintextaccounting.org website, a portal to Ledger, hledger, beancount and co. Also the PTA wiki.
 - [tallesl/Rich-Hickey-fanclub](https://github.com/tallesl/Rich-Hickey-fanclub) - "every time I watch one of his talks I feel like someone has gone in and organized my brain"
 - [abuseofnotation/category-theory-illustrated](https://github.com/abuseofnotation/category-theory-illustrated) - A book about category theory
@@ -558,6 +557,7 @@
 
 ## Haskell 
 
+- [ajnsit/wai-routes](https://github.com/ajnsit/wai-routes) - Typesafe URLs for Haskell Wai applications
 - [Airsequel/AirGQL](https://github.com/Airsequel/AirGQL) - Automatically generate a GraphQL API for any SQLite database
 - [tusharad/ollama-haskell](https://github.com/tusharad/ollama-haskell) - Ollama client for Haskell
 - [minad/persist](https://github.com/minad/persist) - Minimal binary serialization library with focus on performance
@@ -1122,6 +1122,7 @@
 
 ## Lua 
 
+- [greggh/claude-code.nvim](https://github.com/greggh/claude-code.nvim) - Seamless integration between Claude Code AI assistant and Neovim
 - [hedyhli/outline.nvim](https://github.com/hedyhli/outline.nvim) - Navigate code with an outline sidebar. Forked from symbols-outline.nvim.
 - [nvim-orgmode/orgmode](https://github.com/nvim-orgmode/orgmode) - Orgmode clone written in Lua for Neovim 0.10.3+.
 - [kdheepak/lazygit.nvim](https://github.com/kdheepak/lazygit.nvim) - Plugin for calling lazygit from within neovim.
@@ -1150,6 +1151,7 @@
 
 - [nixos-asia/website](https://github.com/nixos-asia/website) - The NixOS Asia website
 - [Gabriella439/nixos-in-production](https://github.com/Gabriella439/nixos-in-production) - Source files for the book "NixOS in Production"
+- [srid/srid](https://github.com/srid/srid) - Source for https://srid.ca (do you know that you can git clone and `nix run` this website locally? to create your own: https://github.com/srid/emanote-template)
 - [srid/haskell-ladder](https://github.com/srid/haskell-ladder) - WIP: Haskell Pedagogic Ladder (Run `nix run` to run the site locally)
 - [uiuc-cs-zettelkasten/uiuc-cs-zettelkasten.github.io](https://github.com/uiuc-cs-zettelkasten/uiuc-cs-zettelkasten.github.io) - UIUC Computer Science Zettelkasten
 - [input-output-hk/adrestia](https://github.com/input-output-hk/adrestia) - APIs & SDK for interacting with Cardano.
@@ -1170,6 +1172,7 @@
 
 ## Nix 
 
+- [NotAShelf/nvf](https://github.com/NotAShelf/nvf) - Modular, extensible and distro-agnostic Neovim configuration framework for Nix/NixOS
 - [juspay/vertex](https://github.com/juspay/vertex) - One-click AI agent setup through Google Vertex AI Platform
 - [theobori/zettel](https://github.com/theobori/zettel) - My public zettelkasten
 - [antithesishq/madness](https://github.com/antithesishq/madness) - Madness enables you to easily run the same binary on NixOS and non-NixOS systems
@@ -1471,6 +1474,7 @@
 
 ## PowerShell 
 
+- [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows 
 - [janikvonrotz/awesome-powershell](https://github.com/janikvonrotz/awesome-powershell) - A curated list of delightful PowerShell modules and resources
 
 ## PureScript 
@@ -1666,6 +1670,7 @@
 
 ## Rust 
 
+- [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor.
 - [pksunkara/cargo-workspaces](https://github.com/pksunkara/cargo-workspaces) - A tool for managing cargo workspaces and their crates, inspired by lerna
 - [terror/just-lsp](https://github.com/terror/just-lsp) - A language server for just
 - [phiresky/ripgrep-all](https://github.com/phiresky/ripgrep-all) - rga: ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc.
@@ -1750,7 +1755,7 @@
 - [Pitasi/leptos-mdx](https://github.com/Pitasi/leptos-mdx) - Supercharge your markdown including Leptos components.
 - [JaniM/emergence](https://github.com/JaniM/emergence) - Short-form note-taking
 - [dallasrust/website-dioxus](https://github.com/dallasrust/website-dioxus) - Dallas Rust User Meetup website using Dioxus
-- [messense/leptos_sse](https://github.com/messense/leptos_sse) - Leptos server signals synced through Server-Sent-Events (SSE)
+- [messense/leptos_sse](https://github.com/messense/leptos_sse) - Leptos server signals synced through Server-Sent-Events (SSE). Deprecated, use https://leptos-use.rs/network/use_event_source.html instead
 - [tqwewe/leptos_server_signal](https://github.com/tqwewe/leptos_server_signal) - Leptos server signals synced through websockets
 - [Synphonyte/leptos-use](https://github.com/Synphonyte/leptos-use) - Collection of essential Leptos utilities inspired by React-Use / VueUse
 - [lukechu10/mdsycx](https://github.com/lukechu10/mdsycx) - markdown with Sycamore
