@@ -65,6 +65,7 @@
 - [Tcl](#tcl)
 - [TeX](#tex)
 - [TypeScript](#typescript)
+- [Typst](#typst)
 - [Vala](#vala)
 - [Vim Script](#vim-script)
 - [Vue](#vue)
@@ -165,12 +166,14 @@
 
 ## CSS 
 
+- [emaletter/emaletter](https://github.com/emaletter/emaletter) - 
 - [fniessen/org-html-themes](https://github.com/fniessen/org-html-themes) - Transform your Org mode files into stunning HTML documents in minutes with our Org mode HTML theme. Elevate your productivity and impress your readers! #orgmode #html #theme #productivity #design
 - [joshua-mo-143/leptos_axum_shuttle_ex](https://github.com/joshua-mo-143/leptos_axum_shuttle_ex) - 
 - [srid/leptos-nix-template](https://github.com/srid/leptos-nix-template) - Leptos template using Axum+Tailwind+Nix.
 - [wolverian/agda-template](https://github.com/wolverian/agda-template) - A template for an Agda project with automatic GitHub Pages support
 - [chrisgrieser/shimmering-focus](https://github.com/chrisgrieser/shimmering-focus) - A minimalistic and opinionated Obsidian theme for the keyboard-centric user.
 - [rougier/emacs-gtd](https://github.com/rougier/emacs-gtd) - Get Things Done with Emacs
+- [srid/ema-template](https://github.com/srid/ema-template) - Template repo for Ema static site generator
 - [PKM-er/Blue-Topaz_Obsidian-css](https://github.com/PKM-er/Blue-Topaz_Obsidian-css) - A blue theme for Obsidian.
 - [sdras/productive-twitter](https://github.com/sdras/productive-twitter) - Chrome extension: Minimal and friendly theme for productive twitter use
 - [indieweb/indiewebify-me](https://github.com/indieweb/indiewebify-me) - Tools to help you get the best out of your indieweb site
@@ -629,7 +632,7 @@
 - [qfpl/reflex-backend-socket](https://github.com/qfpl/reflex-backend-socket) - Reflex support for socket-based applications
 - [EmaApps/timedot-invoice](https://github.com/EmaApps/timedot-invoice) - WIP: Swift invoice generator for Hledger timedot file
 - [utdemir/nix-tree](https://github.com/utdemir/nix-tree) - Interactively browse dependency graphs of Nix derivations.
-- [Gabriella439/grace](https://github.com/Gabriella439/grace) - A ready-to-fork interpreted functional language with type inference
+- [Gabriella439/grace](https://github.com/Gabriella439/grace) - A prompt engineering functional programming language
 - [haskell-hint/hint](https://github.com/haskell-hint/hint) - Runtime Haskell interpreter
 - [well-typed/plutonomy](https://github.com/well-typed/plutonomy) - An optimizer for untyped plutus core
 - [recursion-schemes/recursion-schemes](https://github.com/recursion-schemes/recursion-schemes) - Generalized bananas, lenses and barbed wire
@@ -654,7 +657,6 @@
 - [well-typed/generics-sop](https://github.com/well-typed/generics-sop) - Generic Programming using True Sums of Products
 - [EmaApps/banyan](https://github.com/EmaApps/banyan) - Tree of time
 - [ku-fpg/blank-canvas](https://github.com/ku-fpg/blank-canvas) - A Haskell API into HTML5 Canvas
-- [srid/ema-template](https://github.com/srid/ema-template) - Template repo for Ema static site generator
 - [kosmikus/SSGEP](https://github.com/kosmikus/SSGEP) - 
 - [RyanGlScott/ghc-software-foundations](https://github.com/RyanGlScott/ghc-software-foundations) - The Software Foundations book, in GHC
 - [Plutonomicon/plutarch-plutus](https://github.com/Plutonomicon/plutarch-plutus) - Typed eDSL for writing UPLC  /ˈpluː.tɑːk/
@@ -1438,7 +1440,7 @@
 - [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
 - [sporto/awesome-elm](https://github.com/sporto/awesome-elm) - A curated list of useful Elm tutorials, libraries and software. Inspired by awesome list. Feel free to contribute. :rocket:
 - [adonoho/SL2016-LearnMachineLearning](https://github.com/adonoho/SL2016-LearnMachineLearning) - A collection of links to pages covering resources to help you learn machine learning techniques.
-- [elixirschool/elixirschool](https://github.com/elixirschool/elixirschool) - The content behind Elixir School
+- [elixirschool/elixirschool](https://github.com/elixirschool/elixirschool) - The content behind Elixir School, the premier destination for people seeking to learn and master the Elixir programming language.
 - [urfolomeus/seat_saver](https://github.com/urfolomeus/seat_saver) - Phoenix and Elm demo app.
 - [mmcgrana/services-engineering](https://github.com/mmcgrana/services-engineering) - A reading list for services engineering, with a focus on cloud infrastructure services
 - [sindresorhus/awesome-electron](https://github.com/sindresorhus/awesome-electron) - Useful resources for creating apps with Electron
@@ -1503,6 +1505,7 @@
 
 ## Python 
 
+- [sapientinc/HRM](https://github.com/sapientinc/HRM) - Hierarchical Reasoning Model Official Release
 - [coderamp-labs/gitingest](https://github.com/coderamp-labs/gitingest) - Replace 'hub' with 'ingest' in any GitHub URL to get a prompt-friendly extract of a codebase
 - [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
 - [juspay/juspay-mcp](https://github.com/juspay/juspay-mcp) - 
@@ -1670,6 +1673,7 @@
 
 ## Rust 
 
+- [Myriad-Dreamin/tinymist](https://github.com/Myriad-Dreamin/tinymist) - Tinymist [ˈtaɪni mɪst] is an integrated language service for Typst [taɪpst].
 - [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor.
 - [pksunkara/cargo-workspaces](https://github.com/pksunkara/cargo-workspaces) - A tool for managing cargo workspaces and their crates, inspired by lerna
 - [terror/just-lsp](https://github.com/terror/just-lsp) - A language server for just
@@ -2074,6 +2078,10 @@
 - [microsoft/TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
 - [sorskoot/WSaTypeScriptProjectTemplate](https://github.com/sorskoot/WSaTypeScriptProjectTemplate) - Windows Store app TypeScript Project Template
 - [GitbookIO/gitbook](https://github.com/GitbookIO/gitbook) - The open source frontend for GitBook doc sites
+
+## Typst 
+
+- [mayconfmelo/min-book](https://github.com/mayconfmelo/min-book) - Simple and complete books without introducing new sintax
 
 ## Vala 
 
