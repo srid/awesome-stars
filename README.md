@@ -1187,7 +1187,7 @@
 - [pyproject-nix/uv2nix](https://github.com/pyproject-nix/uv2nix) - Uv2nix - Ingest uv workspaces using Nix [maintainer=@adisbladis]
 - [pyproject-nix/pyproject.nix](https://github.com/pyproject-nix/pyproject.nix) - A collection of Nix utilities to work with Python projects [maintainer=@adisbladis]
 - [srid/imako](https://github.com/srid/imako) - WIP: Immaculate journal and planner atop Markdown notes
-- [juspay/chutney](https://github.com/juspay/chutney) - WIP: Reliable Nix Cache Server configuration for self-hosting
+- [juspay/chutney](https://github.com/juspay/chutney) - Reliable Nix Cache Server configuration for self-hosting
 - [sciexp/python-nix-template](https://github.com/sciexp/python-nix-template) - ❄️ (om)nix template for python workspace monorepos +/- pyo3 extension modules with uv2nix and flake-parts 🐍
 - [VitalBio/dash-haskell-flake](https://github.com/VitalBio/dash-haskell-flake) - 
 - [tadfisher/android-nixpkgs](https://github.com/tadfisher/android-nixpkgs) - Nix-packaged Android SDK
