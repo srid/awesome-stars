@@ -560,6 +560,7 @@
 
 ## Haskell 
 
+- [obsidiansystems/cli-nix](https://github.com/obsidiansystems/cli-nix) - 
 - [sol/hpack](https://github.com/sol/hpack) - hpack: A modern format for Haskell packages
 - [haskell-streaming/streaming](https://github.com/haskell-streaming/streaming) - An optimized general monad transformer for streaming applications, with a simple prelude of functions
 - [konn/sized](https://github.com/konn/sized) - Sized sequence data-types
@@ -2003,6 +2004,7 @@
 
 ## TypeScript 
 
+- [wenlzhang/obsidian-todoist-context-bridge](https://github.com/wenlzhang/obsidian-todoist-context-bridge) - Bridge your Obsidian notes with Todoist tasks while preserving rich context, helping you highlight important tasks and maintain seamless workflows between the two platforms. Seamlessly integrate with 
 - [ProtonDriveApps/sdk](https://github.com/ProtonDriveApps/sdk) - 
 - [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows 
 - [xynehq/xyne](https://github.com/xynehq/xyne) - AI-first Search & Answer Engine for work. Open-source alternative to Glean.
