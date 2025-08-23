@@ -560,6 +560,8 @@
 
 ## Haskell 
 
+- [merijn/broadcast-chan](https://github.com/merijn/broadcast-chan) - Closable, fair, single-wakeup channel type that avoids 0 reader space leaks.
+- [snoyberg/why-you-should-use-stm](https://github.com/snoyberg/why-you-should-use-stm) - 
 - [obsidiansystems/cli-nix](https://github.com/obsidiansystems/cli-nix) - 
 - [sol/hpack](https://github.com/sol/hpack) - hpack: A modern format for Haskell packages
 - [haskell-streaming/streaming](https://github.com/haskell-streaming/streaming) - An optimized general monad transformer for streaming applications, with a simple prelude of functions
@@ -2099,7 +2101,7 @@
 
 ## Typst 
 
-- [mayconfmelo/min-book](https://github.com/mayconfmelo/min-book) - Simple and complete books without introducing new sintax
+- [mayconfmelo/min-book](https://github.com/mayconfmelo/min-book) - Simple and complete books without introducing new syntax
 
 ## Vala 
 
