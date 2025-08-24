@@ -150,6 +150,7 @@
 
 ## C++ 
 
+- [MisterTea/EternalTerminal](https://github.com/MisterTea/EternalTerminal) - Re-Connectable secure remote shell
 - [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) - Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.
 - [aristocratos/btop](https://github.com/aristocratos/btop) - A monitor of resources
 - [microsoft/wslg](https://github.com/microsoft/wslg) - Enabling the Windows Subsystem for Linux to include support for Wayland and X server related scenarios
@@ -522,6 +523,7 @@
 
 ## HTML 
 
+- [utensils/mcp-nixos](https://github.com/utensils/mcp-nixos) - MCP-NixOS - Model Context Protocol Server for NixOS resources
 - [bigskysoftware/idiomorph](https://github.com/bigskysoftware/idiomorph) - A DOM-merging algorithm
 - [monadicsystems/servant-htmx](https://github.com/monadicsystems/servant-htmx) - Provides helper functions and data types for using servant with htmx
 - [juspay/nixone](https://github.com/juspay/nixone) - One-click setup of all things Nix for Juspay'ers
