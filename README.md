@@ -1025,7 +1025,7 @@
 - [eungjun-yi/copy-as-markdown-quot](https://github.com/eungjun-yi/copy-as-markdown-quot) - Chrome extension to copy text as markdown quote
 - [notlmn/copy-as-markdown](https://github.com/notlmn/copy-as-markdown) - 📋 Browser extension to copy text as Markdown (with GFM and MathML support)
 - [Leleat/Tiling-Assistant](https://github.com/Leleat/Tiling-Assistant) - An extension which adds a Windows-like snap assist to GNOME. It also expands GNOME's 2 column tiling layout.
-- [christianvoigt/argdown](https://github.com/christianvoigt/argdown) - a simple syntax for complex argumentation
+- [argdown/argdown](https://github.com/argdown/argdown) - a simple syntax for complex argumentation
 - [dessant/web-archives](https://github.com/dessant/web-archives) - Browser extension for viewing archived and cached versions of web pages, available for Chrome, Edge and Safari
 - [brave/brave-browser](https://github.com/brave/brave-browser) - Brave browser for Android, iOS, Linux, macOS, Windows.
 - [headllines/github-monthly](https://github.com/headllines/github-monthly) - GitHub monthly top 10 repos
@@ -2011,6 +2011,7 @@
 
 ## TypeScript 
 
+- [iconoir-icons/iconoir](https://github.com/iconoir-icons/iconoir) - An open source icons library with 1600+ icons, supporting React, React Native, Flutter, Vue, Figma, and Framer.
 - [wenlzhang/obsidian-todoist-context-bridge](https://github.com/wenlzhang/obsidian-todoist-context-bridge) - Bridge your Obsidian notes with Todoist tasks while preserving rich context, helping you highlight important tasks and maintain seamless workflows between the two platforms. Seamlessly integrate with 
 - [ProtonDriveApps/sdk](https://github.com/ProtonDriveApps/sdk) - 
 - [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows 
