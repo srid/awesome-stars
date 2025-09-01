@@ -268,7 +268,7 @@
 - [Zinggi/elm-2d-game](https://github.com/Zinggi/elm-2d-game) - A small rendering engine for creating 2d games with elm, based on WebGL.
 - [debois/elm-mdl](https://github.com/debois/elm-mdl) - Elm-port of the Material Design Lite CSS/JS library
 - [mgold/elm-nonempty-list](https://github.com/mgold/elm-nonempty-list) - head and tail without the Maybe
-- [matthieu-beteille/gipher](https://github.com/matthieu-beteille/gipher) - tinder like app for gifs built with elm and firebase
+- [mt-bt/gipher](https://github.com/mt-bt/gipher) - tinder like app for gifs built with elm and firebase
 - [lukewestby/builtwithelm](https://github.com/lukewestby/builtwithelm) - A list of projects and apps built with Elm.
 - [ohanhi/elm-native-ui](https://github.com/ohanhi/elm-native-ui) - [CLOSED] Experiment: mobile apps in Elm using React Native.
 - [krisajenkins/flowchart](https://github.com/krisajenkins/flowchart) - Elm experiment
@@ -1692,6 +1692,7 @@
 
 ## Rust 
 
+- [gak/hashmoji](https://github.com/gak/hashmoji) - hashmoji is a crate that generates unique emojis based on the hash of a value.
 - [faukah/dix](https://github.com/faukah/dix) - Diff Nix
 - [mikeleppane/chamber](https://github.com/mikeleppane/chamber) - A secure, local-first secrets manager built with Rust, featuring encrypted storage, intuitive terminal UI, and comprehensive import/export capabilities.
 - [Myriad-Dreamin/tinymist](https://github.com/Myriad-Dreamin/tinymist) - Tinymist [ˈtaɪni mɪst] is an integrated language service for Typst [taɪpst].
