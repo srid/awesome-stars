@@ -561,6 +561,7 @@
 
 ## Haskell 
 
+- [sqids/sqids-haskell](https://github.com/sqids/sqids-haskell) - Official Haskell port of Sqids. Generate short unique IDs from numbers.
 - [juspay/tabler-icons-hs](https://github.com/juspay/tabler-icons-hs) - Haskell bindings for Tabler Icons
 - [merijn/broadcast-chan](https://github.com/merijn/broadcast-chan) - Closable, fair, single-wakeup channel type that avoids 0 reader space leaks.
 - [snoyberg/why-you-should-use-stm](https://github.com/snoyberg/why-you-should-use-stm) - 
