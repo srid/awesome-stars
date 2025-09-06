@@ -94,6 +94,7 @@
 
 ## C 
 
+- [augustss/MicroHs](https://github.com/augustss/MicroHs) - Haskell implemented with combinators
 - [X11Libre/xserver](https://github.com/X11Libre/xserver) - XLibre Xserver
 - [HandBrake/HandBrake](https://github.com/HandBrake/HandBrake) - HandBrake's main development repository
 - [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch) - A maintained, feature-rich and performance oriented, neofetch like system information tool.
@@ -118,7 +119,7 @@
 ## C# # 
 
 - [Kareadita/Kavita](https://github.com/Kareadita/Kavita) - Kavita is a fast, feature rich, cross platform reading server. Built with the goal of being a full solution for all your reading needs. Setup your own server and share your reading collection with you
-- [seerge/g-helper](https://github.com/seerge/g-helper) - Lightweight Armoury Crate alternative for Asus laptops and ROG Ally. Control tool for ROG Zephyrus G14, G15, G16, M16, Flow X13, Flow X16, TUF, Strix, Scar and other models
+- [seerge/g-helper](https://github.com/seerge/g-helper) - Lightweight, open-source control tool for ASUS laptops and ROG Ally. Manage performance modes, fans, GPU, battery, and RGB lighting across Zephyrus, Flow, TUF, Strix, Scar, and other models.
 - [vitoplantamura/HackerNewsRemovals](https://github.com/vitoplantamura/HackerNewsRemovals) - List of stories removed from the Hacker News Front Page, updated in real time.
 - [themotte/vault](https://github.com/themotte/vault) - Quality Contribution Vault website.
 - [toddams/RazorLight](https://github.com/toddams/RazorLight) - Template engine based on Microsoft's Razor parsing engine for .NET Core
@@ -575,7 +576,6 @@
 - [minad/persist](https://github.com/minad/persist) - Minimal binary serialization library with focus on performance
 - [jgm/typst-hs](https://github.com/jgm/typst-hs) - Haskell library for parsing and evaluating typst
 - [haskell-miso/miso-lynx](https://github.com/haskell-miso/miso-lynx) - :ramen: 🐈 A tasty Haskell mobile framework
-- [augustss/MicroHs](https://github.com/augustss/MicroHs) - Haskell implemented with combinators
 - [bellroy/github-actions](https://github.com/bellroy/github-actions) - A Haskell package for representing, serializing and deserializing Github Actions workflows.
 - [three-hs/three.hs](https://github.com/three-hs/three.hs) - 🎬 Haskell bindings to three.js
 - [Simre1/multitasking](https://github.com/Simre1/multitasking) - Easy concurrency in Haskell
@@ -797,7 +797,7 @@
 - [srid/rib-sample](https://github.com/srid/rib-sample) - Sample site for the Rib static site generator
 - [srid/rib](https://github.com/srid/rib) - Haskell static site generator based on Shake (superseded by https://github.com/srid/ema)
 - [srid/zulip-archive](https://github.com/srid/zulip-archive) - Zulip Archive viewer (statically generated HTML)
-- [haskell/haskell-language-server](https://github.com/haskell/haskell-language-server) - Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.
+- [haskell/haskell-language-server](https://github.com/haskell/haskell-language-server) - Official Haskell IDE support via the language server protocol (LSP)
 - [obsidiansystems/constraints-extras](https://github.com/obsidiansystems/constraints-extras) - Convenience functions and template haskell for working with constraints
 - [reflex-frp/reflex-fsnotify](https://github.com/reflex-frp/reflex-fsnotify) - Watch files and directories for changes using a functional-reactive interface!
 - [reflex-frp/reflex-process](https://github.com/reflex-frp/reflex-process) - Run and interact with system processes from within a Reflex FRP application.
@@ -998,6 +998,7 @@
 
 ## JavaScript 
 
+- [angiejones/mcp-selenium](https://github.com/angiejones/mcp-selenium) - An MCP implementation for Selenium WebDriver
 - [dougppaz/youtube-music-dl](https://github.com/dougppaz/youtube-music-dl) - Chrome Extension to download music file with tags and cover from Youtube Music.
 - [github/awesome-copilot](https://github.com/github/awesome-copilot) - Community-contributed instructions, prompts, and configurations to help you make the most of GitHub Copilot.
 - [ganeshrvel/openmtp](https://github.com/ganeshrvel/openmtp) - OpenMTP  - Advanced Android File Transfer Application for macOS
@@ -1120,6 +1121,7 @@
 
 ## Jupyter Notebook 
 
+- [chiphuyen/aie-book](https://github.com/chiphuyen/aie-book) - [WIP] Resources for AI engineers. Also contains supporting materials for the book AI Engineering (Chip Huyen, 2025)
 - [AnswerDotAI/llms-txt](https://github.com/AnswerDotAI/llms-txt) - The /llms.txt file, helping language models use your website
 - [kayceesrk/cs3100_m20](https://github.com/kayceesrk/cs3100_m20) - CS3100: Paradigms of Programming at CSE IITM (Monsoon 2020)
 - [hunterad93/actualism_chat](https://github.com/hunterad93/actualism_chat) - a fun chatbot that uses 'actualfreedom.com.au' as its knowledge base for retrieval augmented chat
@@ -1136,7 +1138,7 @@
 
 - [greggh/claude-code.nvim](https://github.com/greggh/claude-code.nvim) - Seamless integration between Claude Code AI assistant and Neovim
 - [hedyhli/outline.nvim](https://github.com/hedyhli/outline.nvim) - Navigate code with an outline sidebar. Forked from symbols-outline.nvim.
-- [nvim-orgmode/orgmode](https://github.com/nvim-orgmode/orgmode) - Orgmode clone written in Lua for Neovim 0.10.3+.
+- [nvim-orgmode/orgmode](https://github.com/nvim-orgmode/orgmode) - Orgmode clone written in Lua for Neovim 0.11.0+.
 - [kdheepak/lazygit.nvim](https://github.com/kdheepak/lazygit.nvim) - Plugin for calling lazygit from within neovim.
 - [C0nw0nk/Nginx-Lua-Anti-DDoS](https://github.com/C0nw0nk/Nginx-Lua-Anti-DDoS) - A Anti-DDoS script to protect Nginx web servers using Lua with a HTML Javascript based authentication puzzle inspired by Cloudflare I am under attack mode an Anti-DDoS authentication page protect your
 - [nvim-telescope/telescope-file-browser.nvim](https://github.com/nvim-telescope/telescope-file-browser.nvim) - File Browser extension for telescope.nvim
@@ -1184,6 +1186,7 @@
 
 ## Nix 
 
+- [pietdevries94/playwright-web-flake](https://github.com/pietdevries94/playwright-web-flake) - 
 - [naminx/chrome-remote-desktop](https://github.com/naminx/chrome-remote-desktop) - 
 - [YPares/nushellWith](https://github.com/YPares/nushellWith) - Isolated nushell envs with specific plugins and libraries (with Nix)
 - [NotAShelf/nvf](https://github.com/NotAShelf/nvf) - Modular, extensible and distro-agnostic Neovim configuration framework for Nix/NixOS
@@ -1235,7 +1238,6 @@
 - [MatthewCroughan/NixThePlanet](https://github.com/MatthewCroughan/NixThePlanet) - Run macOS, Windows and more via a single Nix command, or simple nixosModules
 - [fpindia/fpindia-chat](https://github.com/fpindia/fpindia-chat) - Matrix server (NixOS) for FPIndia
 - [OceanSprint/pydev](https://github.com/OceanSprint/pydev) - An opinionated environment for developing Python packages.
-- [ryan4yin/nixos-and-flakes-book](https://github.com/ryan4yin/nixos-and-flakes-book) - :hammer_and_wrench: :heart: Want to know NixOS & Flakes in detail? Looking for a beginner-friendly tutorial? Then you've come to the right place!  想要学习使用 NixOS 与 Flakes 吗？在寻找一份新手友好的教程？那你可来对地方了！
 - [nixified-ai/flake](https://github.com/nixified-ai/flake) - A Nix flake for many AI projects
 - [DeterminateSystems/flake-schemas](https://github.com/DeterminateSystems/flake-schemas) - Schemas for common flake output types
 - [oxalica/nocargo](https://github.com/oxalica/nocargo) - [alpha] Build Rust crates with Nix Build System.
@@ -1362,6 +1364,7 @@
 
 ## Others 
 
+- [fmhy/FMHY](https://github.com/fmhy/FMHY) - https://fmhy.net/
 - [AnimMouse/NixOS-ISO-Torrents](https://github.com/AnimMouse/NixOS-ISO-Torrents) - NixOS ISO Torrents
 - [cachix/haskell-release-action](https://github.com/cachix/haskell-release-action) - Automation for releasing haskell packages
 - [bramus/chrome-dark-mode-toggle](https://github.com/bramus/chrome-dark-mode-toggle) - Real control over Light Mode / Dark Mode on a per-site basis!
@@ -1693,6 +1696,9 @@
 
 ## Rust 
 
+- [tangramdotdev/tangram](https://github.com/tangramdotdev/tangram) - Tangram is a build system and package manager.
+- [brioche-dev/brioche](https://github.com/brioche-dev/brioche) - A delicious package manager
+- [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep) - ⚡A CLI tool for code structural search, lint and rewriting. Written in Rust
 - [gak/hashmoji](https://github.com/gak/hashmoji) - hashmoji is a crate that generates unique emojis based on the hash of a value.
 - [faukah/dix](https://github.com/faukah/dix) - Diff Nix
 - [mikeleppane/chamber](https://github.com/mikeleppane/chamber) - A secure, local-first secrets manager built with Rust, featuring encrypted storage, intuitive terminal UI, and comprehensive import/export capabilities.
@@ -2016,6 +2022,9 @@
 
 ## TypeScript 
 
+- [brioche-dev/brioche-packages](https://github.com/brioche-dev/brioche-packages) - Brioche packages, which get auto-published to the Brioche Registry
+- [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
+- [fmhy/edit](https://github.com/fmhy/edit) - Make changes to FMHY
 - [iconoir-icons/iconoir](https://github.com/iconoir-icons/iconoir) - An open source icons library with 1600+ icons, supporting React, React Native, Flutter, Vue, Figma, and Framer.
 - [wenlzhang/obsidian-todoist-context-bridge](https://github.com/wenlzhang/obsidian-todoist-context-bridge) - Bridge your Obsidian notes with Todoist tasks while preserving rich context, helping you highlight important tasks and maintain seamless workflows between the two platforms. Seamlessly integrate with 
 - [ProtonDriveApps/sdk](https://github.com/ProtonDriveApps/sdk) - 
@@ -2039,6 +2048,7 @@
 - [ananthakumaran/paisa](https://github.com/ananthakumaran/paisa) - Paisa – Personal Finance Manager. https://paisa.fyi demo: https://demo.paisa.fyi
 - [bbycroft/llm-viz](https://github.com/bbycroft/llm-viz) - 3D Visualization of an GPT-style LLM
 - [garnix-io/garn](https://github.com/garnix-io/garn) - garn is a build tool and environment manager that replaces justfiles/makefiles, docker, and the annoying parts of READMEs. The builders lingua franca.
+- [ryan4yin/nixos-and-flakes-book](https://github.com/ryan4yin/nixos-and-flakes-book) - :hammer_and_wrench: :heart: Want to know NixOS & Flakes in detail? Looking for a beginner-friendly tutorial? Then you've come to the right place!  想要学习使用 NixOS 与 Flakes 吗？在寻找一份新手友好的教程？那你可来对地方了！
 - [pionxzh/chatgpt-exporter](https://github.com/pionxzh/chatgpt-exporter) - Export and Share your ChatGPT conversation history
 - [phindle/error-lens](https://github.com/phindle/error-lens) - Visual Studio Code extension which enhances the display of errors and warnings.
 - [mark-when/mw](https://github.com/mark-when/mw) - Markwhen CLI
