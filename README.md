@@ -1901,7 +1901,7 @@
 
 ## Scala 
 
-- [twitter/the-algorithm](https://github.com/twitter/the-algorithm) - Source code for Twitter's Recommendation Algorithm
+- [twitter/the-algorithm](https://github.com/twitter/the-algorithm) - Source code for the X Recommendation Algorithm
 - [zio/zio](https://github.com/zio/zio) - ZIO — A type-safe, composable library for async and concurrent programming in Scala
 - [decaffeinated-android/core](https://github.com/decaffeinated-android/core) - Decaffeinated Android: core examples
 
@@ -2025,6 +2025,7 @@
 
 ## TypeScript 
 
+- [bash-lsp/bash-language-server](https://github.com/bash-lsp/bash-language-server) - A language server for Bash
 - [ZeroRegister/vscode-tmux-manager](https://github.com/ZeroRegister/vscode-tmux-manager) - 
 - [brioche-dev/brioche-packages](https://github.com/brioche-dev/brioche-packages) - Brioche packages, which get auto-published to the Brioche Registry
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
