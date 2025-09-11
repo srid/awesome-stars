@@ -1188,6 +1188,7 @@
 
 ## Nix 
 
+- [nixbuild/nix-quick-install-action](https://github.com/nixbuild/nix-quick-install-action) - 
 - [pietdevries94/playwright-web-flake](https://github.com/pietdevries94/playwright-web-flake) - 
 - [naminx/chrome-remote-desktop](https://github.com/naminx/chrome-remote-desktop) - 
 - [YPares/nushellWith](https://github.com/YPares/nushellWith) - Isolated nushell envs with specific plugins and libraries (with Nix)
