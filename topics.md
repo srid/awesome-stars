@@ -1721,6 +1721,7 @@
 
 ## others 
 
+- [nixbuild/nix-quick-install-action](https://github.com/nixbuild/nix-quick-install-action) - 
 - [joshmedeski/sesh](https://github.com/joshmedeski/sesh) - Smart session manager for the terminal
 - [leanprover/verso](https://github.com/leanprover/verso) - Lean documentation authoring tool
 - [ZeroRegister/vscode-tmux-manager](https://github.com/ZeroRegister/vscode-tmux-manager) - 
