@@ -1190,6 +1190,7 @@
 
 ## Nix 
 
+- [baileyluTCD/bun2nix](https://github.com/baileyluTCD/bun2nix) - Generate a nix expression to build bun packages - similar to node2nix or yarn2nix
 - [nixbuild/nix-quick-install-action](https://github.com/nixbuild/nix-quick-install-action) - 
 - [pietdevries94/playwright-web-flake](https://github.com/pietdevries94/playwright-web-flake) - 
 - [naminx/chrome-remote-desktop](https://github.com/naminx/chrome-remote-desktop) - 
