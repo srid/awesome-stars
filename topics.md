@@ -151,6 +151,7 @@
 - [privacy](#privacy)
 - [productivity](#productivity)
 - [programming](#programming)
+- [programming-language](#programming-language)
 - [publishing](#publishing)
 - [pwa](#pwa)
 - [python](#python)
@@ -2264,7 +2265,6 @@
 - [toddams/RazorLight](https://github.com/toddams/RazorLight) - Template engine based on Microsoft's Razor parsing engine for .NET Core
 - [deviousasti/fsharp-worksheet](https://github.com/deviousasti/fsharp-worksheet) - A spreadsheet-like interactive evaluator for F#
 - [Tewr/BlazorWorker](https://github.com/Tewr/BlazorWorker) - Library for creating DotNet Web Worker threads/multithreading in Client side Blazor
-- [fsharp/fslang-design](https://github.com/fsharp/fslang-design) - RFCs and docs related to the F# language design process, see https://github.com/fsharp/fslang-suggestions to submit ideas
 - [srid/Feather](https://github.com/srid/Feather) - [Paused] Static site generator with customizable pipeline and live-reload
 - [fsharp/fslang-suggestions](https://github.com/fsharp/fslang-suggestions) - The place to make suggestions, discuss and vote on F# language and core library features
 - [scriban/scriban](https://github.com/scriban/scriban) - A fast, powerful, safe and lightweight scripting language and engine for .NET
@@ -2976,6 +2976,15 @@
 - [iggredible/Learn-Vim](https://github.com/iggredible/Learn-Vim) - Learning Vim and Vimscript doesn't have to be hard. This is the guide that you're looking for 📖
 - [elixirschool/elixirschool](https://github.com/elixirschool/elixirschool) - The content behind Elixir School, the premier destination for people seeking to learn and master the Elixir programming language.
 - [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
+
+## programming-language 
+
+- [Gabriella439/grace](https://github.com/Gabriella439/grace) - A prompt engineering functional programming language
+- [IntersectMBO/plutus](https://github.com/IntersectMBO/plutus) - The Plutus language implementation and tools
+- [fsharp/fslang-design](https://github.com/fsharp/fslang-design) - RFCs and docs related to the F# language design process, see https://github.com/fsharp/fslang-suggestions to submit ideas
+- [elves/elvish](https://github.com/elves/elvish) - Powerful scripting language & versatile interactive shell
+- [unisonweb/unison](https://github.com/unisonweb/unison) - A friendly programming language from the future
+- [golang/go](https://github.com/golang/go) - The Go programming language
 
 ## publishing 
 
