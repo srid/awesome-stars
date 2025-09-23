@@ -562,6 +562,7 @@
 
 ## Haskell 
 
+- [ndmitchell/record-hasfield](https://github.com/ndmitchell/record-hasfield) - A version of HasField that will be available in future GHC
 - [codedownio/sandwich](https://github.com/codedownio/sandwich) - Yet another test framework for Haskell.
 - [hercules-ci/haskell-releaser](https://github.com/hercules-ci/haskell-releaser) - Automation of Haskell package release process.
 - [gregwebs/Shelly.hs](https://github.com/gregwebs/Shelly.hs) - Haskell shell scripting
@@ -590,7 +591,6 @@
 - [tbidne/gitrev-typed](https://github.com/tbidne/gitrev-typed) - Compile git revision info into Haskell projects
 - [dmjio/LearnOpenGL.hs](https://github.com/dmjio/LearnOpenGL.hs) - LearnOpenGL.com examples ported to Haskell
 - [obsidiansystems/sandstone](https://github.com/obsidiansystems/sandstone) - Fine-grained Haskell builds with Nix's dynamic derivations
-- [L-as/procex](https://github.com/L-as/procex) - Ergonomic process launching with extreme flexibility and speed (compared to shh)
 - [srid/imako](https://github.com/srid/imako) - WIP: Immaculate journal and planner atop Markdown notes
 - [supki/envparse](https://github.com/supki/envparse) - Parse environment variables
 - [goldfirere/units](https://github.com/goldfirere/units) - The home of the units Haskell package
@@ -1373,6 +1373,7 @@
 
 ## Others 
 
+- [dharmx/walls](https://github.com/dharmx/walls) - All of my wallpapers in one repo.
 - [fmhy/FMHY](https://github.com/fmhy/FMHY) - https://fmhy.net/
 - [AnimMouse/NixOS-ISO-Torrents](https://github.com/AnimMouse/NixOS-ISO-Torrents) - NixOS ISO Torrents
 - [cachix/haskell-release-action](https://github.com/cachix/haskell-release-action) - Automation for releasing haskell packages
@@ -1994,6 +1995,7 @@
 
 ## Swift 
 
+- [Beingpax/VoiceInk](https://github.com/Beingpax/VoiceInk) - Voice-to-text app for macOS to transcribe what you say to text almost instantly
 - [iina/iina](https://github.com/iina/iina) - The modern video player for macOS.
 - [nikitabobko/AeroSpace](https://github.com/nikitabobko/AeroSpace) - AeroSpace is an i3-like tiling window manager for macOS
 - [KrishKrosh/TrackWeight](https://github.com/KrishKrosh/TrackWeight) - Use your Mac trackpad as a weighing scale
