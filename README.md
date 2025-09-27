@@ -1939,7 +1939,6 @@
 - [c00kiemon5ter/iii](https://github.com/c00kiemon5ter/iii) - POSIX sh frontend to iim or ii
 - [gpakosz/.tmux](https://github.com/gpakosz/.tmux) - Oh my tmux! My self-contained, pretty & versatile tmux configuration made with 💛🩷💙🖤❤️🤍
 - [Dunedan/mbp-2016-linux](https://github.com/Dunedan/mbp-2016-linux) - State of Linux on the MacBook Pro 2016 & 2017
-- [nikitavoloboev/myworkflow](https://github.com/nikitavoloboev/myworkflow) - Place to share what you use. Apps/CLIs/Libraries/Configs/..
 - [negativetwelve/heroku-buildpack-subdir](https://github.com/negativetwelve/heroku-buildpack-subdir) - Deploy apps from subdirectories to Heroku
 - [jeaye/nixos-in-place](https://github.com/jeaye/nixos-in-place) - Install NixOS on top of any existing Linux distribution without rebooting
 - [katspaugh/youtube-flashcards](https://github.com/katspaugh/youtube-flashcards) - Extract screenshots & audio clips from YouTube videos into Anki cards
@@ -2125,6 +2124,7 @@
 - [thelounge/thelounge](https://github.com/thelounge/thelounge) - 💬  ‎ Modern, responsive, cross-platform, self-hosted web IRC client
 - [haskell/vscode-haskell](https://github.com/haskell/vscode-haskell) - VS Code extension for Haskell, powered by haskell-language-server
 - [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - 💯 Curated coding interview preparation materials for busy software engineers
+- [nikitavoloboev/myflow](https://github.com/nikitavoloboev/myflow) - Place to share & store what you use
 - [antonycourtney/tad](https://github.com/antonycourtney/tad) - A desktop application for viewing and analyzing tabular data
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 - [atom-haskell/ide-haskell](https://github.com/atom-haskell/ide-haskell) - Haskell IDE plugin for Atom editor
