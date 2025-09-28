@@ -1002,6 +1002,7 @@
 
 ## JavaScript 
 
+- [srid/haietmoba](https://github.com/srid/haietmoba) - 
 - [cbasdev/dracula-purple-theme](https://github.com/cbasdev/dracula-purple-theme) - 💜 Extended dracula theme for vscode
 - [leanprover/verso](https://github.com/leanprover/verso) - Lean documentation authoring tool
 - [angiejones/mcp-selenium](https://github.com/angiejones/mcp-selenium) - An MCP implementation for Selenium WebDriver
@@ -1234,7 +1235,6 @@
 - [juspay/github-nix-ci](https://github.com/juspay/github-nix-ci) - A simple NixOS & nix-darwin module for self-hosting GitHub runners
 - [ryantm/agenix](https://github.com/ryantm/agenix) - age-encrypted secrets for NixOS and Home manager
 - [serokell/vault-secrets](https://github.com/serokell/vault-secrets) - NixOS tooling for Hashicorp Vault
-- [ipetkov/crane](https://github.com/ipetkov/crane) - A Nix library for building cargo projects. Never build twice thanks to incremental artifact caching.
 - [flake-parts/templates](https://github.com/flake-parts/templates) - A registry of various `flake-parts` templates
 - [juspay/just-flake](https://github.com/juspay/just-flake) - Use `just` in your Nix devShells with re-usable and share-able targets.
 - [juspay/rust-flake](https://github.com/juspay/rust-flake) - A simple flake module for Rust development, based on crane.
@@ -1307,7 +1307,7 @@
 - [ursi/nix-html](https://github.com/ursi/nix-html) - An HTML DSL for Nix
 - [V0ldek/plutarch-examples](https://github.com/V0ldek/plutarch-examples) - Example contracts written with Plutarch and usual PlutusTx
 - [srid/idris-template](https://github.com/srid/idris-template) - Like https://github.com/srid/haskell-template but for Idris 2
-- [srid/anima](https://github.com/srid/anima) - Playground for creating animations programatically
+- [srid/anima-haskell](https://github.com/srid/anima-haskell) - Playground for creating animations programatically
 - [claymager/idris2-pkgs](https://github.com/claymager/idris2-pkgs) - An unofficial Idris2 package repository for Nix
 - [srid/idris-js-template](https://github.com/srid/idris-js-template) - Idris template for JavaScript projects
 - [srid/agda-template](https://github.com/srid/agda-template) - Imperfect Agda project template using Nix
