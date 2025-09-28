@@ -1032,6 +1032,7 @@
 - [reactivemarbles/DynamicData](https://github.com/reactivemarbles/DynamicData) - Reactive collections based on Rx.Net
 - [statiqdev/Statiq.Web](https://github.com/statiqdev/Statiq.Web) - Statiq Web is a flexible static site generator written in .NET.
 - [BamButz/msbuild-tailwindcss](https://github.com/BamButz/msbuild-tailwindcss) - Adds a build action to process stylesheets through postcss/tailwind
+- [litedb-org/LiteDB](https://github.com/litedb-org/LiteDB) - LiteDB - A .NET NoSQL Document Store in a single data file
 - [mpv-player/mpv](https://github.com/mpv-player/mpv) - 🎥 Command line media player
 - [fenwick67/mastofeed](https://github.com/fenwick67/mastofeed) - ActivityPub feed =&gt; iframe embed.  https://www.mastofeed.com
 - [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better 'df' alternative
@@ -1736,6 +1737,7 @@
 
 ## others 
 
+- [srid/haietmoba](https://github.com/srid/haietmoba) - 
 - [ndmitchell/record-hasfield](https://github.com/ndmitchell/record-hasfield) - A version of HasField that will be available in future GHC
 - [dharmx/walls](https://github.com/dharmx/walls) - All of my wallpapers in one repo.
 - [johansan/notebook-navigator](https://github.com/johansan/notebook-navigator) - Replace the default file explorer in Obsidian with a clean two-pane interface featuring folder tree, tag browsing, file previews, keyboard navigation, drag-and-drop, pinned notes, and customizable dis
@@ -2136,7 +2138,7 @@
 - [EmaApps/banyan](https://github.com/EmaApps/banyan) - Tree of time
 - [isovector/papers](https://github.com/isovector/papers) - I will read and engage with one paper a week.
 - [bolt12/advent-of-haskell-dd](https://github.com/bolt12/advent-of-haskell-dd) - Day 9 of Advent of Haskell - Denotational Design
-- [srid/anima](https://github.com/srid/anima) - Playground for creating animations programatically
+- [srid/anima-haskell](https://github.com/srid/anima-haskell) - Playground for creating animations programatically
 - [nostr-protocol/nostr](https://github.com/nostr-protocol/nostr) - a truly censorship-resistant alternative to Twitter that has a chance of working
 - [ku-fpg/blank-canvas](https://github.com/ku-fpg/blank-canvas) - A Haskell API into HTML5 Canvas
 - [statebox/idris-ct](https://github.com/statebox/idris-ct) - formally verified category theory library
@@ -3125,7 +3127,6 @@
 - [clap-rs/clap-verbosity-flag](https://github.com/clap-rs/clap-verbosity-flag) - Easily add a --verbose flag to CLIs using Clap
 - [filllabs/dependi](https://github.com/filllabs/dependi) - Dependi (formerly crates)
 - [LukeMathWalker/pavex](https://github.com/LukeMathWalker/pavex) - A backend framework for Rust professionals
-- [ipetkov/crane](https://github.com/ipetkov/crane) - A Nix library for building cargo projects. Never build twice thanks to incremental artifact caching.
 - [mikaelmello/inquire](https://github.com/mikaelmello/inquire) - A Rust library for building interactive prompts
 - [phil-opp/blog_os](https://github.com/phil-opp/blog_os) - Writing an OS in Rust
 - [ikebastuz/wiper](https://github.com/ikebastuz/wiper) - Disk analyser and cleanup tool
