@@ -562,6 +562,7 @@
 
 ## Haskell 
 
+- [haskellari/lukko](https://github.com/haskellari/lukko) - File locking
 - [ndmitchell/record-hasfield](https://github.com/ndmitchell/record-hasfield) - A version of HasField that will be available in future GHC
 - [codedownio/sandwich](https://github.com/codedownio/sandwich) - Yet another test framework for Haskell.
 - [hercules-ci/haskell-releaser](https://github.com/hercules-ci/haskell-releaser) - Automation of Haskell package release process.
@@ -579,7 +580,7 @@
 - [tusharad/ollama-haskell](https://github.com/tusharad/ollama-haskell) - Ollama client for Haskell
 - [minad/persist](https://github.com/minad/persist) - Minimal binary serialization library with focus on performance
 - [jgm/typst-hs](https://github.com/jgm/typst-hs) - Haskell library for parsing and evaluating typst
-- [haskell-miso/miso-lynx](https://github.com/haskell-miso/miso-lynx) - :ramen: 🐆 A tasty Haskell mobile framework
+- [haskell-miso/miso-lynx](https://github.com/haskell-miso/miso-lynx) - :ramen: 🐈 A tasty Haskell mobile framework
 - [augustss/MicroHs](https://github.com/augustss/MicroHs) - Haskell implemented with combinators
 - [bellroy/github-actions](https://github.com/bellroy/github-actions) - A Haskell package for representing, serializing and deserializing Github Actions workflows.
 - [three-hs/three.hs](https://github.com/three-hs/three.hs) - 🎬 Haskell bindings to three.js
@@ -620,11 +621,11 @@
 - [nammayatri/shared-kernel](https://github.com/nammayatri/shared-kernel) - See https://github.com/nammayatri/nammayatri
 - [nammayatri/beckn-gateway](https://github.com/nammayatri/beckn-gateway) - 
 - [srid/gro](https://github.com/srid/gro) - WIP: Exploring single file org-mode visualization
-- [estradilua/multiwalk](https://github.com/estradilua/multiwalk) - Create traversals and queries of multiple types at once
+- [lua-vr/multiwalk](https://github.com/lua-vr/multiwalk) - Create traversals and queries of multiple types at once
 - [srid/NixHaskellIndex](https://github.com/srid/NixHaskellIndex) - A site to view the Haskell packages and their versions on nixpkgs
 - [srid/commonmark-wikilink](https://github.com/srid/commonmark-wikilink) - Commonmark Wikilink parser for Pandoc
 - [lsmor/snake-fury](https://github.com/lsmor/snake-fury) - a challenge for Haskell beginners
-- [estradilua/organon](https://github.com/estradilua/organon) - 📖 view and generate static websites from your Org files  (WIP).
+- [lua-vr/organon](https://github.com/lua-vr/organon) - 📖 view and generate static websites from your Org files  (WIP).
 - [NorfairKing/bevel](https://github.com/NorfairKing/bevel) - 
 - [haskell-servant/servant-blaze](https://github.com/haskell-servant/servant-blaze) - 
 - [srid/heist-extra](https://github.com/srid/heist-extra) - Extra utilities for working with Heist
@@ -633,7 +634,7 @@
 - [hercules-ci/hercules-ci-agent](https://github.com/hercules-ci/hercules-ci-agent) - https://hercules-ci.com build and deployment agent
 - [haskell-effectful/effectful](https://github.com/haskell-effectful/effectful) - An easy to use, fast extensible effects library with seamless integration with the existing Haskell ecosystem.
 - [DavHau/cabal2json](https://github.com/DavHau/cabal2json) - zurihack experiment
-- [estradilua/ondim](https://github.com/estradilua/ondim) - Multitype expansions for easy templating
+- [lua-vr/ondim](https://github.com/lua-vr/ondim) - Multitype expansions for easy templating
 - [kowainik/type-errors-pretty](https://github.com/kowainik/type-errors-pretty) - 💄🐞 Combinators for writing pretty type errors easily
 - [CRogers/should-not-typecheck](https://github.com/CRogers/should-not-typecheck) - A HUnit/hspec assertion to verify that an expression does not typecheck
 - [fpindia/fpindia-site](https://github.com/fpindia/fpindia-site) - The new FPIndia static site built using Ema
@@ -641,7 +642,7 @@
 - [serokell/tztime](https://github.com/serokell/tztime) - Safe timezone-aware handling of time
 - [parenthetical/webflex](https://github.com/parenthetical/webflex) - Purely functional web and distributed programming with Reflex FRP
 - [Plutonomicon/plutarch-core](https://github.com/Plutonomicon/plutarch-core) - Plutarch 2.0
-- [estradilua/org-mode-hs](https://github.com/estradilua/org-mode-hs) - Libraries and tool for parsing Org Mode documents with customizable exporters. 🦄
+- [lua-vr/org-mode-hs](https://github.com/lua-vr/org-mode-hs) - Libraries and tool for parsing Org Mode documents with customizable exporters. 🦄
 - [BartoszMilewski/Publications](https://github.com/BartoszMilewski/Publications) - Misc. publications, conference slides, etc. For more, go to http://BartoszMilewski.com
 - [qfpl/reflex-backend-socket](https://github.com/qfpl/reflex-backend-socket) - Reflex support for socket-based applications
 - [EmaApps/timedot-invoice](https://github.com/EmaApps/timedot-invoice) - WIP: Swift invoice generator for Hledger timedot file
@@ -1808,7 +1809,7 @@
 - [DioxusLabs/include_mdbook](https://github.com/DioxusLabs/include_mdbook) - [moved!] Include mdbooks at compile time in your Rust project
 - [DioxusLabs/docsite](https://github.com/DioxusLabs/docsite) - Dioxuslabs.com documentation site
 - [juspay/omnix](https://github.com/juspay/omnix) - A Nix companion to improve developer experience
-- [Vrtgs/thirtyfour](https://github.com/Vrtgs/thirtyfour) - Selenium WebDriver client for Rust, for automated testing of websites
+- [vrtgs/thirtyfour](https://github.com/vrtgs/thirtyfour) - Selenium WebDriver client for Rust, for automated testing of websites
 - [rambip/leptos-markdown](https://github.com/rambip/leptos-markdown) - A zero-config leptos component to display markdown
 - [richardanaya/leptos_three](https://github.com/richardanaya/leptos_three) - A prototype of creating a React Three Fiber like experience with Leptos and ThreeJS
 - [jquesada2016/leptos-tui](https://github.com/jquesada2016/leptos-tui) - Declarative and reactive terminal UI library for Rust
@@ -2034,6 +2035,7 @@
 
 ## TypeScript 
 
+- [cjpais/Handy](https://github.com/cjpais/Handy) - A free, open source, and extensible speech-to-text application that works completely offline.
 - [johansan/notebook-navigator](https://github.com/johansan/notebook-navigator) - Replace the default file explorer in Obsidian with a clean two-pane interface featuring folder tree, tag browsing, file previews, keyboard navigation, drag-and-drop, pinned notes, and customizable dis
 - [bash-lsp/bash-language-server](https://github.com/bash-lsp/bash-language-server) - A language server for Bash
 - [ZeroRegister/vscode-tmux-manager](https://github.com/ZeroRegister/vscode-tmux-manager) - 
