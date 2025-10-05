@@ -600,7 +600,7 @@
 - [haskellweekly/haskellweekly](https://github.com/haskellweekly/haskellweekly) - Publishes curated news about the Haskell programming language.
 - [well-typed/grapesy](https://github.com/well-typed/grapesy) - Native Haskell gRPC client and server based on `http2`
 - [bflyblue/servant-event-stream](https://github.com/bflyblue/servant-event-stream) - Servant support for ServerSent events
-- [juspay/vira](https://github.com/juspay/vira) - WIP: No-frills CI for teams using Nix
+- [juspay/vira](https://github.com/juspay/vira) - WIP: No-frills CI for small teams using Nix
 - [haskell/stm](https://github.com/haskell/stm) - Software Transactional Memory
 - [dschrempf/magix](https://github.com/dschrempf/magix) - Build, cache, and run possibly compiled scripts with dependencies using the Nix package manager
 - [well-typed/recover-rtti](https://github.com/well-typed/recover-rtti) - Recover run-time type information from the GHC heap. One example use case is a "show anything" function (with no Show constraint).
@@ -1537,6 +1537,7 @@
 
 ## Python 
 
+- [Mic92/nix-fast-build](https://github.com/Mic92/nix-fast-build) - Combine the power of nix-eval-jobs with nix-output-monitor to speed-up your evaluation and building process.
 - [3b1b/manim](https://github.com/3b1b/manim) - Animation engine for explanatory math videos
 - [quinneden/virby-nix-darwin](https://github.com/quinneden/virby-nix-darwin) - A vfkit-based linux builder for Nix-darwin
 - [sapientinc/HRM](https://github.com/sapientinc/HRM) - Hierarchical Reasoning Model Official Release
@@ -1709,6 +1710,7 @@
 
 ## Rust 
 
+- [nixops4/nix-bindings-rust](https://github.com/nixops4/nix-bindings-rust) - Use the Nix package manager as a library
 - [YaLTeR/niri](https://github.com/YaLTeR/niri) - A scrollable-tiling Wayland compositor.
 - [tangramdotdev/tangram](https://github.com/tangramdotdev/tangram) - Tangram is a build system and package manager.
 - [brioche-dev/brioche](https://github.com/brioche-dev/brioche) - A delicious package manager
