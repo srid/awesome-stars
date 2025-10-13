@@ -367,6 +367,7 @@
 
 ## Go 
 
+- [Zouuup/landrun](https://github.com/Zouuup/landrun) - Run any Linux process in a secure, unprivileged sandbox using Landlock. Think firejail, but lightweight, user-friendly, and baked into the kernel.
 - [bigwhite/issue2md](https://github.com/bigwhite/issue2md) - A tool to convert GitHub issue/discussion into Markdown.
 - [joshmedeski/sesh](https://github.com/joshmedeski/sesh) - Smart session manager for the terminal
 - [3timeslazy/nix-search-tv](https://github.com/3timeslazy/nix-search-tv) - Fuzzy search for Nix packages.
@@ -1108,7 +1109,7 @@
 - [hpcloud/cloud-foundry-client-js](https://github.com/hpcloud/cloud-foundry-client-js) - A JavaScript client for Cloud Foundry. Supports running in the browser and Node.js.
 - [emberjs/ember.js](https://github.com/emberjs/ember.js) - Ember.js - A JavaScript framework for creating ambitious web applications
 - [hpcloud/confdis](https://github.com/hpcloud/confdis) - JSON-based configuration in redis
-- [maddyblue/goread](https://github.com/maddyblue/goread) - RSS reader in go on app engine; formerly goread.io
+- [madelynnblue/goread](https://github.com/madelynnblue/goread) - RSS reader in go on app engine; formerly goread.io
 - [laktek/punch](https://github.com/laktek/punch) - A fun and easy way to build modern websites
 - [berbaquero/reeddit](https://github.com/berbaquero/reeddit) - Minimal, elastic Reddit reader web-app client
 - [glinden/stick-portal](https://github.com/glinden/stick-portal) - Stick Portal
@@ -1195,6 +1196,10 @@
 
 ## Nix 
 
+- [nixpak/nixpak](https://github.com/nixpak/nixpak) - Runtime sandboxing for Nix
+- [srid/landrun-nix](https://github.com/srid/landrun-nix) - Nix flake-parts module for landrun (wrap Nix paths in Landlock based sandbox)
+- [Sveske-Juice/declarative-jellyfin](https://github.com/Sveske-Juice/declarative-jellyfin) - Nix flake to configure Jellyfin declaratively
+- [viperML/nix-maid](https://github.com/viperML/nix-maid) - [simpler dotfile management]
 - [srid/nix-serve-cloudflared](https://github.com/srid/nix-serve-cloudflared) - Serve your Nix store as cache, behind Cloudflare Tunnel
 - [phaer/nixos-vm-on-macos](https://github.com/phaer/nixos-vm-on-macos) - Run #NixOS on darwin, including Rosetta 2 & virtiofs!
 - [baileyluTCD/bun2nix](https://github.com/baileyluTCD/bun2nix) - Generate a nix expression to build bun packages - similar to node2nix or yarn2nix
@@ -1213,7 +1218,7 @@
 - [pyproject-nix/uv2nix](https://github.com/pyproject-nix/uv2nix) - Uv2nix - Ingest uv workspaces using Nix [maintainer=@adisbladis]
 - [pyproject-nix/pyproject.nix](https://github.com/pyproject-nix/pyproject.nix) - A collection of Nix utilities to work with Python projects [maintainer=@adisbladis]
 - [juspay/chutney](https://github.com/juspay/chutney) - Reliable Nix Cache Server configuration for self-hosting
-- [sciexp/python-nix-template](https://github.com/sciexp/python-nix-template) - ❄️ (om)nix template for python workspace monorepos +/- pyo3 extension modules with uv2nix and flake-parts 🐍
+- [sciexp/python-nix-template](https://github.com/sciexp/python-nix-template) - ❄️ nix template for python monorepos +/- pyo3 extension modules with uv2nix and flake-parts 🐍
 - [VitalBio/dash-haskell-flake](https://github.com/VitalBio/dash-haskell-flake) - 
 - [tadfisher/android-nixpkgs](https://github.com/tadfisher/android-nixpkgs) - Nix-packaged Android SDK
 - [JimJ92120/lxd-preseed-for-nixos](https://github.com/JimJ92120/lxd-preseed-for-nixos) - A preseed(ed) configuration for LXD in a NixOS host, to declare** any LXD options and configurations.
@@ -1356,7 +1361,7 @@
 - [chshersh/ccl](https://github.com/chshersh/ccl) - 📜 CCL: Categorical Configuration Language, The most elegant configuration language
 - [melange-re/melange](https://github.com/melange-re/melange) - A mixture of tooling combined to produce JavaScript from OCaml & Reason
 - [chshersh/github-tui](https://github.com/chshersh/github-tui) - 🌒 A TUI for GitHub
-- [aantron/dream](https://github.com/aantron/dream) - Tidy, feature-complete Web framework
+- [camlworks/dream](https://github.com/camlworks/dream) - Tidy, feature-complete Web framework
 
 ## Objective-C 
 
@@ -1537,6 +1542,7 @@
 
 ## Python 
 
+- [Mic92/fast-flake-update](https://github.com/Mic92/fast-flake-update) - Update flake.lock with the latest commit of a local checkout
 - [Mic92/nix-fast-build](https://github.com/Mic92/nix-fast-build) - Combine the power of nix-eval-jobs with nix-output-monitor to speed-up your evaluation and building process.
 - [3b1b/manim](https://github.com/3b1b/manim) - Animation engine for explanatory math videos
 - [quinneden/virby-nix-darwin](https://github.com/quinneden/virby-nix-darwin) - A vfkit-based linux builder for Nix-darwin
@@ -1555,7 +1561,7 @@
 - [jupyter-book/jupyter-book](https://github.com/jupyter-book/jupyter-book) - Create beautiful, publication-quality books and documents from computational content.
 - [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) - Documentation that simply works
 - [maubot/maubot](https://github.com/maubot/maubot) - A plugin-based Matrix bot system.
-- [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - Cross-platform, fast, feature-rich, GPU based terminal
+- [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - If you live in the terminal, kitty is made for you! Cross-platform, fast, feature-rich, GPU based.
 - [WhyNotHugo/caffeine-ng](https://github.com/WhyNotHugo/caffeine-ng) - ⚠ This project has migrated to codeberg.org
 - [speedyg0nz/MagInkCal](https://github.com/speedyg0nz/MagInkCal) - E-Ink Magic Calendar that automatically syncs to Google Calendar and runs off a battery powered Raspberry Pi Zero
 - [boltgolt/howdy](https://github.com/boltgolt/howdy) - 🛡️ Windows Hello™ style facial authentication for Linux
@@ -1710,6 +1716,7 @@
 
 ## Rust 
 
+- [SeaDve/Kooha](https://github.com/SeaDve/Kooha) - Elegantly record your screen
 - [nixops4/nix-bindings-rust](https://github.com/nixops4/nix-bindings-rust) - Use the Nix package manager as a library
 - [YaLTeR/niri](https://github.com/YaLTeR/niri) - A scrollable-tiling Wayland compositor.
 - [tangramdotdev/tangram](https://github.com/tangramdotdev/tangram) - Tangram is a build system and package manager.
@@ -2151,7 +2158,7 @@
 - [Aylur/astal](https://github.com/Aylur/astal) - Building blocks for creating custom desktop shells
 - [alexkdeveloper/somafm](https://github.com/alexkdeveloper/somafm) - A simple radio with built-in stations from the website somafm.com
 - [IBBoard/cawbird](https://github.com/IBBoard/cawbird) - A fork of the Corebird GTK Twitter client that continues to work with Twitter
-- [alainm23/planify](https://github.com/alainm23/planify) - Task manager with Todoist & Nextcloud support designed for GNOME
+- [alainm23/planify](https://github.com/alainm23/planify) - Task manager with Todoist, Nextcloud & CalDAV support designed for GNOME
 - [phw/peek](https://github.com/phw/peek) - Simple animated GIF screen recorder with an easy to use interface
 
 ## Vim Script 
