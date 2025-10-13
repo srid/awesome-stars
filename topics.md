@@ -173,6 +173,7 @@
 - [sass](#sass)
 - [scala](#scala)
 - [security](#security)
+- [security-tools](#security-tools)
 - [self-hosted](#self-hosted)
 - [server](#server)
 - [serverless](#serverless)
@@ -211,6 +212,7 @@
 - [xamarin](#xamarin)
 - [xcode](#xcode)
 - [xml](#xml)
+- [youtube](#youtube)
 - [zig](#zig)
 - [zsh](#zsh)
 
@@ -358,7 +360,7 @@
 
 - [extism/extism](https://github.com/extism/extism) - The framework for building with WebAssembly (wasm). Easily & securely load wasm modules, move data, call functions, and build extensible apps.
 - [rvaiya/warpd](https://github.com/rvaiya/warpd) - A modal keyboard-driven virtual pointer
-- [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - Cross-platform, fast, feature-rich, GPU based terminal
+- [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - If you live in the terminal, kitty is made for you! Cross-platform, fast, feature-rich, GPU based.
 - [davatorium/rofi](https://github.com/davatorium/rofi) - Rofi: A window switcher, application launcher and dmenu replacement
 - [mpv-player/mpv](https://github.com/mpv-player/mpv) - 🎥 Command line media player
 - [urbit/urbit](https://github.com/urbit/urbit) - An operating function
@@ -404,6 +406,7 @@
 
 ## cli 
 
+- [Zouuup/landrun](https://github.com/Zouuup/landrun) - Run any Linux process in a secure, unprivileged sandbox using Landlock. Think firejail, but lightweight, user-friendly, and baked into the kernel.
 - [hercules-ci/haskell-releaser](https://github.com/hercules-ci/haskell-releaser) - Automation of Haskell package release process.
 - [3timeslazy/nix-search-tv](https://github.com/3timeslazy/nix-search-tv) - Fuzzy search for Nix packages.
 - [alexpasmantier/television](https://github.com/alexpasmantier/television) - A cross-platform, fast and extensible general purpose fuzzy finder 📺
@@ -806,7 +809,7 @@
 - [viz-rs/viz-rs.github.io](https://github.com/viz-rs/viz-rs.github.io) - The official documentation site for Viz.rs.
 - [LukeMathWalker/pavex](https://github.com/LukeMathWalker/pavex) - A backend framework for Rust professionals
 - [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) - Documentation that simply works
-- [aantron/dream](https://github.com/aantron/dream) - Tidy, feature-complete Web framework
+- [camlworks/dream](https://github.com/camlworks/dream) - Tidy, feature-complete Web framework
 - [reactiveui/ReactiveUI](https://github.com/reactiveui/ReactiveUI) - An advanced, composable, functional reactive model-view-viewmodel framework for all .NET platforms that is inspired by functional reactive programming. ReactiveUI allows you to  abstract mutable state
 - [jtdaugherty/brick](https://github.com/jtdaugherty/brick) - A declarative Unix terminal UI library written in Haskell
 - [guregu/kami](https://github.com/guregu/kami) - web "framework" with context
@@ -906,7 +909,7 @@
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with OpenAI gpt-oss, DeepSeek-R1, Gemma 3 and other models.
 - [YoSev/private-ghp](https://github.com/YoSev/private-ghp) - publish github pages privately secured by github sso (oauth2)
 - [F1bonacc1/process-compose](https://github.com/F1bonacc1/process-compose) - Process Compose is a simple and flexible scheduler and orchestrator to manage non-containerized applications.
-- [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - Cross-platform, fast, feature-rich, GPU based terminal
+- [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - If you live in the terminal, kitty is made for you! Cross-platform, fast, feature-rich, GPU based.
 - [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
 - [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files
 - [ksimka/go-is-not-good](https://github.com/ksimka/go-is-not-good) - A curated list of articles complaining that go (golang) isn't good enough
@@ -946,12 +949,13 @@
 
 ## golang 
 
+- [Zouuup/landrun](https://github.com/Zouuup/landrun) - Run any Linux process in a secure, unprivileged sandbox using Landlock. Think firejail, but lightweight, user-friendly, and baked into the kernel.
 - [filllabs/dependi](https://github.com/filllabs/dependi) - Dependi (formerly crates)
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with OpenAI gpt-oss, DeepSeek-R1, Gemma 3 and other models.
 - [YoSev/private-ghp](https://github.com/YoSev/private-ghp) - publish github pages privately secured by github sso (oauth2)
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - The mighty, self-hostable Git server for the command line🍦
 - [F1bonacc1/process-compose](https://github.com/F1bonacc1/process-compose) - Process Compose is a simple and flexible scheduler and orchestrator to manage non-containerized applications.
-- [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - Cross-platform, fast, feature-rich, GPU based terminal
+- [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - If you live in the terminal, kitty is made for you! Cross-platform, fast, feature-rich, GPU based.
 - [emicklei/melrose](https://github.com/emicklei/melrose) - interactive programming of melodies, producing MIDI
 - [tj/sponsors-api](https://github.com/tj/sponsors-api) - GitHub Sponsor avatar listings in your Readme.md
 - [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data
@@ -982,7 +986,7 @@
 
 - [Airsequel/AirGQL](https://github.com/Airsequel/AirGQL) - Automatically generate a GraphQL API for any SQLite database
 - [morpheusgraphql/morpheus-graphql](https://github.com/morpheusgraphql/morpheus-graphql) - Haskell GraphQL Api, Client and Tools
-- [aantron/dream](https://github.com/aantron/dream) - Tidy, feature-complete Web framework
+- [camlworks/dream](https://github.com/camlworks/dream) - Tidy, feature-complete Web framework
 - [hasura/graphql-engine](https://github.com/hasura/graphql-engine) - Blazing fast, instant realtime GraphQL APIs on all your data with fine grained access control, also trigger webhooks on database events.
 
 ## hacking 
@@ -993,11 +997,14 @@
 ## hacktoberfest 
 
 - [iina/iina](https://github.com/iina/iina) - The modern video player for macOS.
+- [github/awesome-copilot](https://github.com/github/awesome-copilot) - Community-contributed instructions, prompts, and configurations to help you make the most of GitHub Copilot.
 - [ManimCommunity/manim](https://github.com/ManimCommunity/manim) - A community-maintained Python framework for creating mathematical animations.
 - [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch) - A maintained, feature-rich and performance oriented, neofetch like system information tool.
 - [amber-lang/amber](https://github.com/amber-lang/amber) - 💎 Amber the programming language compiled to Bash
 - [zhiburt/tabled](https://github.com/zhiburt/tabled) - An easy to use library for pretty print tables of Rust structs and enums.
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
+- [lsd-rs/lsd](https://github.com/lsd-rs/lsd) - The next gen ls command
+- [mem0ai/mem0](https://github.com/mem0ai/mem0) - Universal memory layer for AI Agents; Announcing OpenMemory MCP - local and secure memory management.
 - [marc2332/dioxus-query](https://github.com/marc2332/dioxus-query) - Fully-typed, async, reusable state management and synchronization for Dioxus 🧬
 - [josecelano/cargo-pretty-test](https://github.com/josecelano/cargo-pretty-test) - A Rust command that prettifies the ugly `cargo test` output into a beautiful one.
 - [messense/leptos_sse](https://github.com/messense/leptos_sse) - Leptos server signals synced through Server-Sent-Events (SSE). Deprecated, use https://leptos-use.rs/network/use_event_source.html instead
@@ -1287,7 +1294,7 @@
 
 ## http 
 
-- [aantron/dream](https://github.com/aantron/dream) - Tidy, feature-complete Web framework
+- [camlworks/dream](https://github.com/camlworks/dream) - Tidy, feature-complete Web framework
 - [fsprojects/FsHttp](https://github.com/fsprojects/FsHttp) - HTTP library for F#
 - [lukewestby/elm-http-builder](https://github.com/lukewestby/elm-http-builder) - elm-http-builder
 - [edgurgel/httpoison](https://github.com/edgurgel/httpoison) - Yet Another HTTP client for Elixir powered by hackney
@@ -1427,6 +1434,7 @@
 
 ## linux 
 
+- [SeaDve/Kooha](https://github.com/SeaDve/Kooha) - Elegantly record your screen
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 - [Kareadita/Kavita](https://github.com/Kareadita/Kavita) - Kavita is a fast, feature rich, cross platform reading server. Built with the goal of being a full solution for all your reading needs. Setup your own server and share your reading collection with you
 - [X11Libre/xserver](https://github.com/X11Libre/xserver) - XLibre Xserver
@@ -1728,7 +1736,7 @@
 ## opengl 
 
 - [X11Libre/xserver](https://github.com/X11Libre/xserver) - XLibre Xserver
-- [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - Cross-platform, fast, feature-rich, GPU based terminal
+- [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - If you live in the terminal, kitty is made for you! Cross-platform, fast, feature-rich, GPU based.
 - [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
 
 ## operating-system 
@@ -1737,6 +1745,11 @@
 
 ## others 
 
+- [nixpak/nixpak](https://github.com/nixpak/nixpak) - Runtime sandboxing for Nix
+- [srid/landrun-nix](https://github.com/srid/landrun-nix) - Nix flake-parts module for landrun (wrap Nix paths in Landlock based sandbox)
+- [Mic92/fast-flake-update](https://github.com/Mic92/fast-flake-update) - Update flake.lock with the latest commit of a local checkout
+- [Sveske-Juice/declarative-jellyfin](https://github.com/Sveske-Juice/declarative-jellyfin) - Nix flake to configure Jellyfin declaratively
+- [viperML/nix-maid](https://github.com/viperML/nix-maid) - [simpler dotfile management]
 - [Mic92/nix-fast-build](https://github.com/Mic92/nix-fast-build) - Combine the power of nix-eval-jobs with nix-output-monitor to speed-up your evaluation and building process.
 - [nixops4/nix-bindings-rust](https://github.com/nixops4/nix-bindings-rust) - Use the Nix package manager as a library
 - [srid/master](https://github.com/srid/master) - Dethrone "main" and restore "master" to its rightful glory.
@@ -2344,7 +2357,7 @@
 - [houkanshan/vscode-markdown-footnote](https://github.com/houkanshan/vscode-markdown-footnote) - [^1] footnote syntax support to VS Code's Markdown editor and preview.
 - [fiatjaf/neuron.vim](https://github.com/fiatjaf/neuron.vim) - 📝 Manage your Zettelkasten in {n}vim.
 - [pepeiborra/hls-tutorial](https://github.com/pepeiborra/hls-tutorial) - A tutorial on writing Haskell Language Server plugins
-- [alainm23/planify](https://github.com/alainm23/planify) - Task manager with Todoist & Nextcloud support designed for GNOME
+- [alainm23/planify](https://github.com/alainm23/planify) - Task manager with Todoist, Nextcloud & CalDAV support designed for GNOME
 - [barnybug/go-cast](https://github.com/barnybug/go-cast) - A command line tool to control Google Chromecast devices.
 - [vshabanov/fast-tagsoup](https://github.com/vshabanov/fast-tagsoup) - Fast Haskell tagsoup parser
 - [imbushuo/mac-precision-touchpad](https://github.com/imbushuo/mac-precision-touchpad) - Windows Precision Touchpad Driver Implementation for Apple MacBook / Magic Trackpad
@@ -2756,7 +2769,7 @@
 - [hpcloud/logyard](https://github.com/hpcloud/logyard) - Stackato's logging system (open sourced on Oct, 2014)
 - [philwhln/stackato-buildpack-racket](https://github.com/philwhln/stackato-buildpack-racket) - 
 - [upserve/docker-api](https://github.com/upserve/docker-api) - A lightweight Ruby client for the Docker Remote API
-- [maddyblue/goread](https://github.com/maddyblue/goread) - RSS reader in go on app engine; formerly goread.io
+- [madelynnblue/goread](https://github.com/madelynnblue/goread) - RSS reader in go on app engine; formerly goread.io
 - [owenthereal/gh](https://github.com/owenthereal/gh) - Fast GitHub command line client (deprecated). gh has been merged into https://github.com/github/hub, see https://github.com/github/hub/issues/475 for more info
 - [mrdavidlaing/stackato-buildpack-mono](https://github.com/mrdavidlaing/stackato-buildpack-mono) - A buildpack for running Mono apps on stackato
 - [tumblr/gocircuit](https://github.com/tumblr/gocircuit) - 
@@ -3009,7 +3022,7 @@
 - [3b1b/manim](https://github.com/3b1b/manim) - Animation engine for explanatory math videos
 - [utensils/mcp-nixos](https://github.com/utensils/mcp-nixos) - MCP-NixOS - Model Context Protocol Server for NixOS resources
 - [ManimCommunity/manim](https://github.com/ManimCommunity/manim) - A community-maintained Python framework for creating mathematical animations.
-- [sciexp/python-nix-template](https://github.com/sciexp/python-nix-template) - ❄️ (om)nix template for python workspace monorepos +/- pyo3 extension modules with uv2nix and flake-parts 🐍
+- [sciexp/python-nix-template](https://github.com/sciexp/python-nix-template) - ❄️ nix template for python monorepos +/- pyo3 extension modules with uv2nix and flake-parts 🐍
 - [kellyjonbrazil/jc](https://github.com/kellyjonbrazil/jc) - CLI tool and python library that converts the output of popular command-line tools, file-types, and common strings to JSON, YAML, or Dictionaries. This allows piping of output to tools like jq and sim
 - [filllabs/dependi](https://github.com/filllabs/dependi) - Dependi (formerly crates)
 - [extism/extism](https://github.com/extism/extism) - The framework for building with WebAssembly (wasm). Easily & securely load wasm modules, move data, call functions, and build extensible apps.
@@ -3017,7 +3030,7 @@
 - [d2l-ai/d2l-en](https://github.com/d2l-ai/d2l-en) - Interactive deep learning book with multi-framework code, math, and discussions. Adopted at 500 universities from 70 countries including Stanford, MIT, Harvard, and Cambridge.
 - [8go/matrix-nostr-bridge](https://github.com/8go/matrix-nostr-bridge) - Bridge between Matrix and Nostr communication protocols
 - [maubot/maubot](https://github.com/maubot/maubot) - A plugin-based Matrix bot system.
-- [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - Cross-platform, fast, feature-rich, GPU based terminal
+- [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - If you live in the terminal, kitty is made for you! Cross-platform, fast, feature-rich, GPU based.
 - [xbmc/xbmc](https://github.com/xbmc/xbmc) - Kodi is an award-winning free and open source home theater/media center software and entertainment hub for digital media. With its beautiful interface and powerful skinning engine, it's available for 
 - [albertlauncher/albert](https://github.com/albertlauncher/albert) - A fast and flexible keyboard launcher
 - [getting-things-gnome/gtg](https://github.com/getting-things-gnome/gtg) - Getting Things GNOME! desktop app development
@@ -3038,7 +3051,7 @@
 
 ## python3 
 
-- [sciexp/python-nix-template](https://github.com/sciexp/python-nix-template) - ❄️ (om)nix template for python workspace monorepos +/- pyo3 extension modules with uv2nix and flake-parts 🐍
+- [sciexp/python-nix-template](https://github.com/sciexp/python-nix-template) - ❄️ nix template for python monorepos +/- pyo3 extension modules with uv2nix and flake-parts 🐍
 - [lorien/grab](https://github.com/lorien/grab) - Web Scraping Framework
 
 ## pytorch 
@@ -3117,6 +3130,7 @@
 
 ## rust 
 
+- [SeaDve/Kooha](https://github.com/SeaDve/Kooha) - Elegantly record your screen
 - [YaLTeR/niri](https://github.com/YaLTeR/niri) - A scrollable-tiling Wayland compositor.
 - [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep) - ⚡A CLI tool for code structural search, lint and rewriting. Written in Rust
 - [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor.
@@ -3236,10 +3250,15 @@
 
 ## security 
 
+- [Zouuup/landrun](https://github.com/Zouuup/landrun) - Run any Linux process in a secure, unprivileged sandbox using Landlock. Think firejail, but lightweight, user-friendly, and baked into the kernel.
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 - [ex0dus-0x/microkv](https://github.com/ex0dus-0x/microkv) - Minimal and persistent key-value store designed with security in mind
 - [C0nw0nk/Nginx-Lua-Anti-DDoS](https://github.com/C0nw0nk/Nginx-Lua-Anti-DDoS) - A Anti-DDoS script to protect Nginx web servers using Lua with a HTML Javascript based authentication puzzle inspired by Cloudflare I am under attack mode an Anti-DDoS authentication page protect your
 - [ClearURLs/Addon](https://github.com/ClearURLs/Addon) - ClearURLs is an add-on based on the new WebExtensions technology and will automatically remove tracking elements from URLs to help protect your privacy.
+
+## security-tools 
+
+- [Zouuup/landrun](https://github.com/Zouuup/landrun) - Run any Linux process in a secure, unprivileged sandbox using Landlock. Think firejail, but lightweight, user-friendly, and baked into the kernel.
 
 ## self-hosted 
 
@@ -3392,7 +3411,7 @@
 - [fathyb/carbonyl](https://github.com/fathyb/carbonyl) - Chromium running inside your terminal
 - [8go/matrix-nostr-bridge](https://github.com/8go/matrix-nostr-bridge) - Bridge between Matrix and Nostr communication protocols
 - [tsl0922/ttyd](https://github.com/tsl0922/ttyd) - Share your terminal over the web
-- [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - Cross-platform, fast, feature-rich, GPU based terminal
+- [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - If you live in the terminal, kitty is made for you! Cross-platform, fast, feature-rich, GPU based.
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
 - [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
 - [chmln/sd](https://github.com/chmln/sd) - Intuitive find & replace CLI (sed alternative)
@@ -3537,7 +3556,7 @@
 - [morpheusgraphql/morpheus-graphql](https://github.com/morpheusgraphql/morpheus-graphql) - Haskell GraphQL Api, Client and Tools
 - [kaj/ructe](https://github.com/kaj/ructe) - Rust Compiled Templates with static-file handling
 - [yewstack/yew](https://github.com/yewstack/yew) - Rust / Wasm framework for creating reliable and efficient web applications
-- [aantron/dream](https://github.com/aantron/dream) - Tidy, feature-complete Web framework
+- [camlworks/dream](https://github.com/camlworks/dream) - Tidy, feature-complete Web framework
 - [Shmew/Fable.SignalR](https://github.com/Shmew/Fable.SignalR) - A functional type-safe wrapper for SignalR and Fable.
 - [Zaid-Ajaj/SAFE.React](https://github.com/Zaid-Ajaj/SAFE.React) - Full Stack F# powered by ASP.NET Core on the backend and modern React on the frontend.
 - [Holmusk/three-layer](https://github.com/Holmusk/three-layer) - :three: :cake: Architecture of the Haskell web applications
@@ -3599,6 +3618,12 @@
 ## xml 
 
 - [xbmc/xbmc](https://github.com/xbmc/xbmc) - Kodi is an award-winning free and open source home theater/media center software and entertainment hub for digital media. With its beautiful interface and powerful skinning engine, it's available for 
+
+## youtube 
+
+- [dertuxmalwieder/yaydl](https://github.com/dertuxmalwieder/yaydl) - yet another youtube down loader (Git mirror)
+- [pystardust/ytfzf](https://github.com/pystardust/ytfzf) - A posix script to find and watch youtube videos from the terminal. (Without API)
+- [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🧡 Everything is RSSible
 
 ## zig 
 
