@@ -2358,7 +2358,6 @@
 - [intolerable/stitch](https://github.com/intolerable/stitch) - a lightweight CSS DSL for haskell
 - [hslbck/gnome-shell-extension-radio](https://github.com/hslbck/gnome-shell-extension-radio) - Gnome shell extension for listening to internet radio streams
 - [svsool/vscode-markdown-kit](https://github.com/svsool/vscode-markdown-kit) - Collection of commands and utilities for managing Markdown notes
-- [lmu-ffp-sose-2020-secret-hitler/secret-hitler](https://github.com/lmu-ffp-sose-2020-secret-hitler/secret-hitler) - A Haskell implementation of the game Secret Hitler
 - [mpickering/ghcide-reflex](https://github.com/mpickering/ghcide-reflex) - Experimental fork of ghcide which is reimplemented using the FRP library reflex
 - [WebGHC/jsaddle-wasm](https://github.com/WebGHC/jsaddle-wasm) - jsaddle interface for WebGHC
 - [ghc-proposals/ghc-proposals](https://github.com/ghc-proposals/ghc-proposals) - Proposed compiler and language changes for GHC and GHC/Haskell
