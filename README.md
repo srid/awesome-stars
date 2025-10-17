@@ -759,7 +759,6 @@
 - [TheMatten/purjs](https://github.com/TheMatten/purjs) - [WIP] wrapper for running purescript compiler in browser
 - [kowainik/learn4haskell](https://github.com/kowainik/learn4haskell) - 👩‍🏫 👨‍🏫 Learn Haskell basics in 4 pull requests
 - [intolerable/stitch](https://github.com/intolerable/stitch) - a lightweight CSS DSL for haskell
-- [lmu-ffp-sose-2020-secret-hitler/secret-hitler](https://github.com/lmu-ffp-sose-2020-secret-hitler/secret-hitler) - A Haskell implementation of the game Secret Hitler
 - [mpickering/ghcide-reflex](https://github.com/mpickering/ghcide-reflex) - Experimental fork of ghcide which is reimplemented using the FRP library reflex
 - [WebGHC/jsaddle-wasm](https://github.com/WebGHC/jsaddle-wasm) - jsaddle interface for WebGHC
 - [tweag/asterius](https://github.com/tweag/asterius) - DEPRECATED in favor of ghc wasm backend, see https://www.tweag.io/blog/2022-11-22-wasm-backend-merged-in-ghc
