@@ -94,6 +94,7 @@
 
 ## C 
 
+- [nedimzecic/gammad](https://github.com/nedimzecic/gammad) - Modify gamma ramp (LUT) directly in DRM
 - [X11Libre/xserver](https://github.com/X11Libre/xserver) - XLibre Xserver
 - [HandBrake/HandBrake](https://github.com/HandBrake/HandBrake) - HandBrake's main development repository
 - [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch) - A maintained, feature-rich and performance oriented, neofetch like system information tool.
@@ -167,6 +168,7 @@
 
 ## CSS 
 
+- [primary-theme/obsidian](https://github.com/primary-theme/obsidian) - Comfy, playful but productive theme for Obsidian. "Primary instantly puts you in a relaxed state that opens the door to creativity and exploration. Wonderfully executed down to the smallest details,"
 - [emaletter/emaletter](https://github.com/emaletter/emaletter) - 
 - [fniessen/org-html-themes](https://github.com/fniessen/org-html-themes) - Transform your Org mode files into stunning HTML documents in minutes with our Org mode HTML theme. Elevate your productivity and impress your readers! #orgmode #html #theme #productivity #design
 - [joshua-mo-143/leptos_axum_shuttle_ex](https://github.com/joshua-mo-143/leptos_axum_shuttle_ex) - 
@@ -375,9 +377,9 @@
 - [Phillip-England/godocument](https://github.com/Phillip-England/godocument) - A quick way to build your HTMX-based documentation website. Clone, set up your config, and focus on your content.
 - [kalbasit/ncps](https://github.com/kalbasit/ncps) - Nix binary cache proxy service -- with local caching and signing.
 - [nlewo/nix2container](https://github.com/nlewo/nix2container) - An archive-less dockerTools.buildImage implementation
-- [neuralinkcorp/tsui](https://github.com/neuralinkcorp/tsui) - An (experimental) elegant TUI for configuring Tailscale.
+- [neuralink/tsui](https://github.com/neuralink/tsui) - An (experimental) elegant TUI for configuring Tailscale.
 - [elisescu/tty-share](https://github.com/elisescu/tty-share) - Share your linux or osx terminal over the Internet.
-- [usememos/memos](https://github.com/usememos/memos) - A modern, open-source, self-hosted knowledge management and note-taking platform designed for privacy-conscious users and organizations.
+- [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted alternative to cloud note-taking services. No tracking, no ads, no subscription fees — just a clean, fast way to capture and organize your ideas.
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with OpenAI gpt-oss, DeepSeek-R1, Gemma 3 and other models.
 - [git-bug/git-bug](https://github.com/git-bug/git-bug) - Distributed, offline-first bug tracker embedded in git
 - [matrix-org/pinecone](https://github.com/matrix-org/pinecone) - Peer-to-peer overlay routing for the Matrix ecosystem
@@ -564,6 +566,9 @@
 
 ## Haskell 
 
+- [cuedo/github-webhooks](https://github.com/cuedo/github-webhooks) - Haskell types and instances for decoding GitHub webhook payloads.
+- [ndmitchell/filepattern](https://github.com/ndmitchell/filepattern) - A file path matching library
+- [unfoldml/include-env](https://github.com/unfoldml/include-env) - Include environment variables in executables at compile time
 - [haskellari/lukko](https://github.com/haskellari/lukko) - File locking
 - [ndmitchell/record-hasfield](https://github.com/ndmitchell/record-hasfield) - A version of HasField that will be available in future GHC
 - [codedownio/sandwich](https://github.com/codedownio/sandwich) - Yet another test framework for Haskell.
@@ -1194,6 +1199,7 @@
 
 ## Nix 
 
+- [emrldnix/wrangler](https://github.com/emrldnix/wrangler) - Wrangler, the CLI for Cloudflare Workers, packaged as a nix flake
 - [astro/skyflake](https://github.com/astro/skyflake) - NixOS Hyperconverged Infrastructure on Nomad/NixOS
 - [nixpak/nixpak](https://github.com/nixpak/nixpak) - Runtime sandboxing for Nix
 - [srid/landrun-nix](https://github.com/srid/landrun-nix) - Nix flake-parts module for landrun (wrap Nix paths in Landlock based sandbox)
@@ -1541,6 +1547,7 @@
 
 ## Python 
 
+- [tcgoetz/GarminDB](https://github.com/tcgoetz/GarminDB) - Download and parse data from Garmin Connect or a Garmin watch, FitBit CSV, and MS Health CSV files into and analyze data in Sqlite serverless databases with Jupyter notebooks.
 - [Mic92/fast-flake-update](https://github.com/Mic92/fast-flake-update) - Update flake.lock with the latest commit of a local checkout
 - [Mic92/nix-fast-build](https://github.com/Mic92/nix-fast-build) - Combine the power of nix-eval-jobs with nix-output-monitor to speed-up your evaluation and building process.
 - [3b1b/manim](https://github.com/3b1b/manim) - Animation engine for explanatory math videos
@@ -1716,6 +1723,7 @@
 
 ## Rust 
 
+- [Jagalite/superseedr](https://github.com/Jagalite/superseedr) - A BitTorrent Client in your Terminal
 - [SeaDve/Kooha](https://github.com/SeaDve/Kooha) - Elegantly record your screen
 - [nixops4/nix-bindings-rust](https://github.com/nixops4/nix-bindings-rust) - Use the Nix package manager as a library
 - [YaLTeR/niri](https://github.com/YaLTeR/niri) - A scrollable-tiling Wayland compositor.
@@ -1849,7 +1857,7 @@
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
 - [Skallwar/suckit](https://github.com/Skallwar/suckit) - Suck the InTernet
 - [zurawiki/gptcommit](https://github.com/zurawiki/gptcommit) - A git prepare-commit-msg hook for authoring commit messages with LLMs.
-- [typst/typst](https://github.com/typst/typst) - A new markup-based typesetting system that is powerful and easy to learn.
+- [typst/typst](https://github.com/typst/typst) - A markup-based typesetting system that is powerful and easy to learn.
 - [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over 7 million installs.
 - [watchexec/watchexec](https://github.com/watchexec/watchexec) - Executes commands in response to file modifications
 - [zhaofengli/attic](https://github.com/zhaofengli/attic) - Multi-tenant Nix Binary Cache
@@ -1933,6 +1941,7 @@
 
 ## Shell 
 
+- [srid/nix-systems](https://github.com/srid/nix-systems) - 
 - [srid/master](https://github.com/srid/master) - Dethrone "main" and restore "master" to its rightful glory.
 - [haskell-wasm/ghc-wasm-meta](https://github.com/haskell-wasm/ghc-wasm-meta) - Read-only mirror of ghc-wasm-meta on ghc gitlab
 - [basecamp/gh-signoff](https://github.com/basecamp/gh-signoff) - Local CI. Sign off on your own work.
@@ -2048,6 +2057,7 @@
 
 ## TypeScript 
 
+- [anthropic-experimental/sandbox-runtime](https://github.com/anthropic-experimental/sandbox-runtime) - A lightweight sandboxing tool for enforcing filesystem and network restrictions on arbitrary processes at the OS level, without requiring a container.
 - [giscus/giscus](https://github.com/giscus/giscus) - A commenting system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:
 - [cjpais/Handy](https://github.com/cjpais/Handy) - A free, open source, and extensible speech-to-text application that works completely offline.
 - [johansan/notebook-navigator](https://github.com/johansan/notebook-navigator) - Replace the default file explorer in Obsidian with a clean two-pane interface featuring folder tree, tag browsing, file previews, keyboard navigation, drag-and-drop, pinned notes, and customizable dis
