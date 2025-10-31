@@ -64,6 +64,7 @@
 - [Swift](#swift)
 - [Tcl](#tcl)
 - [TeX](#tex)
+- [Tree-sitter Query](#tree-sitter-query)
 - [TypeScript](#typescript)
 - [Typst](#typst)
 - [Vala](#vala)
@@ -369,6 +370,7 @@
 
 ## Go 
 
+- [jmmv/ssh-agent-switcher](https://github.com/jmmv/ssh-agent-switcher) - SSH agent proxy for tmux
 - [Zouuup/landrun](https://github.com/Zouuup/landrun) - Run any Linux process in a secure, unprivileged sandbox using Landlock. Think firejail, but lightweight, user-friendly, and baked into the kernel.
 - [bigwhite/issue2md](https://github.com/bigwhite/issue2md) - A tool to convert GitHub issue/discussion into Markdown.
 - [joshmedeski/sesh](https://github.com/joshmedeski/sesh) - Smart session manager for the terminal
@@ -566,6 +568,7 @@
 
 ## Haskell 
 
+- [hindsight-es/hindsight](https://github.com/hindsight-es/hindsight) - Type-safe event sourcing system for Haskell
 - [cuedo/github-webhooks](https://github.com/cuedo/github-webhooks) - Haskell types and instances for decoding GitHub webhook payloads.
 - [ndmitchell/filepattern](https://github.com/ndmitchell/filepattern) - A file path matching library
 - [unfoldml/include-env](https://github.com/unfoldml/include-env) - Include environment variables in executables at compile time
@@ -619,7 +622,7 @@
 - [seanhess/hyperbole](https://github.com/seanhess/hyperbole) - Haskell interactive serverside web framework inspired by HTMX, Elm, and Phoenix LiveView
 - [JonathanLorimer/htmx](https://github.com/JonathanLorimer/htmx) - 
 - [monadicsystems/lucid-htmx](https://github.com/monadicsystems/lucid-htmx) - lucid + htmx = lucid-htmx
-- [tweag/ghc-wasm-miso-examples](https://github.com/tweag/ghc-wasm-miso-examples) - 
+- [haskell-wasm/ghc-wasm-miso-examples](https://github.com/haskell-wasm/ghc-wasm-miso-examples) - 
 - [NorfairKing/opt-env-conf](https://github.com/NorfairKing/opt-env-conf) - 
 - [jgm/skylighting](https://github.com/jgm/skylighting) - A Haskell syntax highlighting library with tokenizers derived from KDE syntax highlighting descriptions
 - [ners/dosh](https://github.com/ners/dosh) - 📺 The power of Haskell in your terminal!
@@ -1936,11 +1939,11 @@
 
 ## Scheme 
 
-- [zed-extensions/nix](https://github.com/zed-extensions/nix) - Nix language support in Zed
 - [srid/boalisp](https://github.com/srid/boalisp) - Lisp to Python bytecode compiler (2007 hack)
 
 ## Shell 
 
+- [diet103/claude-code-infrastructure-showcase](https://github.com/diet103/claude-code-infrastructure-showcase) - Examples of my Claude Code infrastructure with skill auto-activation, hooks, and agents
 - [srid/nix-systems](https://github.com/srid/nix-systems) - 
 - [srid/master](https://github.com/srid/master) - Dethrone "main" and restore "master" to its rightful glory.
 - [haskell-wasm/ghc-wasm-meta](https://github.com/haskell-wasm/ghc-wasm-meta) - Read-only mirror of ghc-wasm-meta on ghc gitlab
@@ -2055,8 +2058,13 @@
 - [conal/talk-2015-essence-and-origins-of-frp](https://github.com/conal/talk-2015-essence-and-origins-of-frp) - A keynote talk for LambdaJam 2015 (July 15--16)
 - [hmemcpy/milewski-ctfp-pdf](https://github.com/hmemcpy/milewski-ctfp-pdf) - Bartosz Milewski's 'Category Theory for Programmers' unofficial PDF and LaTeX source
 
+## Tree-sitter Query 
+
+- [zed-extensions/nix](https://github.com/zed-extensions/nix) - Nix language support in Zed
+
 ## TypeScript 
 
+- [google/clasp](https://github.com/google/clasp) - 🔗 Command Line Apps Script Projects
 - [anthropic-experimental/sandbox-runtime](https://github.com/anthropic-experimental/sandbox-runtime) - A lightweight sandboxing tool for enforcing filesystem and network restrictions on arbitrary processes at the OS level, without requiring a container.
 - [giscus/giscus](https://github.com/giscus/giscus) - A commenting system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:
 - [cjpais/Handy](https://github.com/cjpais/Handy) - A free, open source, and extensible speech-to-text application that works completely offline.
