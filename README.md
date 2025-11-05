@@ -530,6 +530,7 @@
 
 ## HTML 
 
+- [bigskysoftware/fixi](https://github.com/bigskysoftware/fixi) - 
 - [utensils/mcp-nixos](https://github.com/utensils/mcp-nixos) - MCP-NixOS - Model Context Protocol Server for NixOS resources
 - [bigskysoftware/idiomorph](https://github.com/bigskysoftware/idiomorph) - A DOM-merging algorithm
 - [monadicsystems/servant-htmx](https://github.com/monadicsystems/servant-htmx) - Provides helper functions and data types for using servant with htmx
@@ -569,6 +570,7 @@
 
 ## Haskell 
 
+- [garnix-io/nixos-compose](https://github.com/garnix-io/nixos-compose) - 
 - [hindsight-es/hindsight](https://github.com/hindsight-es/hindsight) - Type-safe event sourcing system for Haskell
 - [cuedo/github-webhooks](https://github.com/cuedo/github-webhooks) - Haskell types and instances for decoding GitHub webhook payloads.
 - [ndmitchell/filepattern](https://github.com/ndmitchell/filepattern) - A file path matching library
@@ -1013,6 +1015,7 @@
 
 ## JavaScript 
 
+- [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx) - &lt;/&gt; htmx - high power tools for HTML
 - [srid/haietmoba](https://github.com/srid/haietmoba) - 
 - [cbasdev/dracula-purple-theme](https://github.com/cbasdev/dracula-purple-theme) - 💜 Extended dracula theme for vscode
 - [leanprover/verso](https://github.com/leanprover/verso) - Lean documentation authoring tool
@@ -1562,13 +1565,12 @@
 - [juspay/juspay-mcp](https://github.com/juspay/juspay-mcp) - 
 - [ManimCommunity/manim](https://github.com/ManimCommunity/manim) - A community-maintained Python framework for creating mathematical animations.
 - [kellyjonbrazil/jc](https://github.com/kellyjonbrazil/jc) - CLI tool and python library that converts the output of popular command-line tools, file-types, and common strings to JSON, YAML, or Dictionaries. This allows piping of output to tools like jq and sim
-- [themotte/rDrama](https://github.com/themotte/rDrama) - This code runs https://www.themotte.org. Forked from https://github.com/Aevann1/rDrama
+- [themotte/rDrama](https://github.com/themotte/rDrama) - This code runs https://www.themotte.org. Originally forked from https://github.com/Aevann1/rDrama, which no longer exists.
 - [kovidgoyal/vise](https://github.com/kovidgoyal/vise) - A keyboard driven browser with tabs in a tree
 - [xai-org/grok-1](https://github.com/xai-org/grok-1) - Grok open release
 - [mem0ai/mem0](https://github.com/mem0ai/mem0) - Universal memory layer for AI Agents; Announcing OpenMemory MCP - local and secure memory management.
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
 - [d2l-ai/d2l-en](https://github.com/d2l-ai/d2l-en) - Interactive deep learning book with multi-framework code, math, and discussions. Adopted at 500 universities from 70 countries including Stanford, MIT, Harvard, and Cambridge.
-- [jupyter-book/jupyter-book](https://github.com/jupyter-book/jupyter-book) - Create beautiful, publication-quality books and documents from computational content.
 - [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) - Documentation that simply works
 - [maubot/maubot](https://github.com/maubot/maubot) - A plugin-based Matrix bot system.
 - [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - If you live in the terminal, kitty is made for you! Cross-platform, fast, feature-rich, GPU based.
@@ -2103,6 +2105,7 @@
 - [phindle/error-lens](https://github.com/phindle/error-lens) - Visual Studio Code extension which enhances the display of errors and warnings.
 - [mark-when/mw](https://github.com/mark-when/mw) - Markwhen CLI
 - [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
+- [jupyter-book/jupyter-book](https://github.com/jupyter-book/jupyter-book) - Create beautiful, publication-quality books and documents from computational content.
 - [DeterminateSystems/nix-installer-action](https://github.com/DeterminateSystems/nix-installer-action) - The Github Action for the Determinate Nix Installer
 - [motion-canvas/motion-canvas](https://github.com/motion-canvas/motion-canvas) - Visualize Your Ideas With Code
 - [vilm3r/sendstr-web](https://github.com/vilm3r/sendstr-web) - Sendstr is an open source end-to-end encrypted shared clipboard app built on top of Nostr.
