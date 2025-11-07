@@ -2067,6 +2067,7 @@
 
 ## TypeScript 
 
+- [tom-pollak/lazygit-vscode](https://github.com/tom-pollak/lazygit-vscode) - https://marketplace.visualstudio.com/items?itemName=TomPollak.lazygit-vscode
 - [google/clasp](https://github.com/google/clasp) - 🔗 Command Line Apps Script Projects
 - [anthropic-experimental/sandbox-runtime](https://github.com/anthropic-experimental/sandbox-runtime) - A lightweight sandboxing tool for enforcing filesystem and network restrictions on arbitrary processes at the OS level, without requiring a container.
 - [giscus/giscus](https://github.com/giscus/giscus) - A commenting system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:
