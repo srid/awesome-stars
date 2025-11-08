@@ -1402,7 +1402,7 @@
 - [wearetechnative/awesome-flake-parts](https://github.com/wearetechnative/awesome-flake-parts) - A curated list of awesome flake-parts resources, modules, and examples. Flake-parts is a framework for writing Nix Flakes.
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 - [Sikarugir-App/Sikarugir](https://github.com/Sikarugir-App/Sikarugir) - A user-friendly tool used to make wine wrapped ports of Windows software for macOS.
-- [FFmpeg/asm-lessons](https://github.com/FFmpeg/asm-lessons) - FFMPEG Assembly Language Lessons
+- [FFmpeg/asm-lessons](https://github.com/FFmpeg/asm-lessons) - FFmpeg Assembly Language Lessons
 - [morrownr/USB-WiFi](https://github.com/morrownr/USB-WiFi) - USB WiFi Adapter Information for Linux
 - [alex/what-happens-when](https://github.com/alex/what-happens-when) - An attempt to answer the age old interview question "What happens when you type google.com into your browser and press enter?"
 - [juspay/awesome-selfhosted-nixos](https://github.com/juspay/awesome-selfhosted-nixos) - Example configurations for self-hosting stuff on NixOS
@@ -2067,6 +2067,7 @@
 
 ## TypeScript 
 
+- [vkostyanetsky/ObsidianFastimer](https://github.com/vkostyanetsky/ObsidianFastimer) - Intermittent fasting tracker plugin for Obsidian
 - [tom-pollak/lazygit-vscode](https://github.com/tom-pollak/lazygit-vscode) - https://marketplace.visualstudio.com/items?itemName=TomPollak.lazygit-vscode
 - [google/clasp](https://github.com/google/clasp) - 🔗 Command Line Apps Script Projects
 - [anthropic-experimental/sandbox-runtime](https://github.com/anthropic-experimental/sandbox-runtime) - A lightweight sandboxing tool for enforcing filesystem and network restrictions on arbitrary processes at the OS level, without requiring a container.
