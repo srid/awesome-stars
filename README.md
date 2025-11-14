@@ -543,6 +543,7 @@
 - [fiatjaf/nostr.technology](https://github.com/fiatjaf/nostr.technology) - hosted with cloudflare pages
 - [bitstein/justmeat.co](https://github.com/bitstein/justmeat.co) - Carnivorous eating, paleolithic ketogenic diet and medicine, and zero carb lifestyle. Don’t bother with vegetables. Just eat meat.
 - [htmlstreamofficial/preline](https://github.com/htmlstreamofficial/preline) - Preline UI is an open-source set of prebuilt UI components based on the utility-first Tailwind CSS framework.
+- [srid/srid](https://github.com/srid/srid) - Source for https://srid.ca (do you know that you can git clone and `nix run` this website locally? to create your own: https://github.com/srid/emanote-template)
 - [plaintextaccounting/plaintextaccounting](https://github.com/plaintextaccounting/plaintextaccounting) - The plaintextaccounting.org website, a portal to Ledger, hledger, beancount and co. Also the PTA wiki.
 - [tallesl/Rich-Hickey-fanclub](https://github.com/tallesl/Rich-Hickey-fanclub) - "every time I watch one of his talks I feel like someone has gone in and organized my brain"
 - [abuseofnotation/category-theory-illustrated](https://github.com/abuseofnotation/category-theory-illustrated) - A book about category theory
@@ -1185,7 +1186,6 @@
 
 - [nixos-asia/website](https://github.com/nixos-asia/website) - The NixOS Asia website
 - [Gabriella439/nixos-in-production](https://github.com/Gabriella439/nixos-in-production) - Source files for the book "NixOS in Production"
-- [srid/srid](https://github.com/srid/srid) - Source for https://srid.ca (do you know that you can git clone and `nix run` this website locally? to create your own: https://github.com/srid/emanote-template)
 - [srid/haskell-ladder](https://github.com/srid/haskell-ladder) - WIP: Haskell Pedagogic Ladder (Run `nix run` to run the site locally)
 - [uiuc-cs-zettelkasten/uiuc-cs-zettelkasten.github.io](https://github.com/uiuc-cs-zettelkasten/uiuc-cs-zettelkasten.github.io) - UIUC Computer Science Zettelkasten
 - [input-output-hk/adrestia](https://github.com/input-output-hk/adrestia) - APIs & SDK for interacting with Cardano.
@@ -1206,6 +1206,7 @@
 
 ## Nix 
 
+- [srid/AI](https://github.com/srid/AI) - My AI setup (for coding, in particular)
 - [emrldnix/wrangler](https://github.com/emrldnix/wrangler) - Wrangler, the CLI for Cloudflare Workers, packaged as a nix flake
 - [astro/skyflake](https://github.com/astro/skyflake) - NixOS Hyperconverged Infrastructure on Nomad/NixOS
 - [nixpak/nixpak](https://github.com/nixpak/nixpak) - Runtime sandboxing for Nix
@@ -1246,6 +1247,7 @@
 - [marienz/nix-doom-emacs-unstraightened](https://github.com/marienz/nix-doom-emacs-unstraightened) - Builds Doom Emacs using Nix
 - [starside/Nix-On-Hyper-V-Gen-2-X-Elite](https://github.com/starside/Nix-On-Hyper-V-Gen-2-X-Elite) - Nix derivation to build iso installer that will run on Windows 11 Hyper V.  Uses the Microsoft Linxus WSL2 kernel 6.6.
 - [srid/nixos-unified](https://github.com/srid/nixos-unified) - Unify NixOS + nix-darwin + home-manager configuration in a single flake, while providing a consistent interface at DX and UX level.
+- [ekala-project/eka](https://github.com/ekala-project/eka) - A command-line tool for decentralized software dependency management using the Atom Protocol.
 - [ekala-project/corepkgs](https://github.com/ekala-project/corepkgs) - Core packages and NixOS modules for a poly-repo nixpkgs fork
 - [ekala-project/stdenv](https://github.com/ekala-project/stdenv) - Minimal repo to create a nix stdenv
 - [ekala-project/atom](https://github.com/ekala-project/atom) - Efficient source archive format with deterministic properties
@@ -1554,6 +1556,7 @@
 
 ## Python 
 
+- [palantir/python-jsonrpc-server](https://github.com/palantir/python-jsonrpc-server) - A Python 2 and 3 asynchronous JSON RPC server
 - [tcgoetz/GarminDB](https://github.com/tcgoetz/GarminDB) - Download and parse data from Garmin Connect or a Garmin watch, FitBit CSV, and MS Health CSV files into and analyze data in Sqlite serverless databases with Jupyter notebooks.
 - [Mic92/fast-flake-update](https://github.com/Mic92/fast-flake-update) - Update flake.lock with the latest commit of a local checkout
 - [Mic92/nix-fast-build](https://github.com/Mic92/nix-fast-build) - Combine the power of nix-eval-jobs with nix-output-monitor to speed-up your evaluation and building process.
@@ -1568,7 +1571,7 @@
 - [themotte/rDrama](https://github.com/themotte/rDrama) - This code runs https://www.themotte.org. Originally forked from https://github.com/Aevann1/rDrama, which no longer exists.
 - [kovidgoyal/vise](https://github.com/kovidgoyal/vise) - A keyboard driven browser with tabs in a tree
 - [xai-org/grok-1](https://github.com/xai-org/grok-1) - Grok open release
-- [mem0ai/mem0](https://github.com/mem0ai/mem0) - Universal memory layer for AI Agents; Announcing OpenMemory MCP - local and secure memory management.
+- [mem0ai/mem0](https://github.com/mem0ai/mem0) - Universal memory layer for AI Agents
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
 - [d2l-ai/d2l-en](https://github.com/d2l-ai/d2l-en) - Interactive deep learning book with multi-framework code, math, and discussions. Adopted at 500 universities from 70 countries including Stanford, MIT, Harvard, and Cambridge.
 - [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) - Documentation that simply works
@@ -1762,7 +1765,6 @@
 - [Canop/bacon](https://github.com/Canop/bacon) - background code checker
 - [GitoxideLabs/prodash](https://github.com/GitoxideLabs/prodash) - report progress of concurrent applications and display it in various ways
 - [amber-lang/amber](https://github.com/amber-lang/amber) - 💎 Amber the programming language compiled to Bash
-- [ekala-project/eka](https://github.com/ekala-project/eka) - A WIP CLI frontend for the Eos API
 - [jonringer/basinix](https://github.com/jonringer/basinix) - (WIP) Nix CI pull request review website
 - [juspay/superposition](https://github.com/juspay/superposition) - Superposition is a context-based configuration management system designed to facilitate safe and flexible rollout of config changes
 - [trashhalo/obsidian-rust-plugin](https://github.com/trashhalo/obsidian-rust-plugin) - 
@@ -2164,7 +2166,7 @@
 - [thelounge/thelounge](https://github.com/thelounge/thelounge) - 💬  ‎ Modern, responsive, cross-platform, self-hosted web IRC client
 - [haskell/vscode-haskell](https://github.com/haskell/vscode-haskell) - VS Code extension for Haskell, powered by haskell-language-server
 - [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - 💯 Curated coding interview preparation materials for busy software engineers
-- [nikivdev/myflow](https://github.com/nikivdev/myflow) - Place to share & store what you use
+- [nikivdev/flow](https://github.com/nikivdev/flow) - Place to share & store what you use. Full sync up tool.
 - [antonycourtney/tad](https://github.com/antonycourtney/tad) - A desktop application for viewing and analyzing tabular data
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 - [atom-haskell/ide-haskell](https://github.com/atom-haskell/ide-haskell) - Haskell IDE plugin for Atom editor
