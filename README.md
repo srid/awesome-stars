@@ -222,6 +222,7 @@
 
 ## CoffeeScript 
 
+- [zero-peak/ZeroOmega](https://github.com/zero-peak/ZeroOmega) - Manage and switch between multiple proxies quickly & easily.
 - [srid/readability-service](https://github.com/srid/readability-service) - nothing here, move along
 - [mauricemach/zappa](https://github.com/mauricemach/zappa) - Node development for the lazy.
 - [mauricemach/coffeekup](https://github.com/mauricemach/coffeekup) - Markup as CoffeeScript.
@@ -1206,6 +1207,7 @@
 
 ## Nix 
 
+- [tomberek/-](https://github.com/tomberek/-) - 
 - [srid/AI](https://github.com/srid/AI) - My AI setup (for coding, in particular)
 - [emrldnix/wrangler](https://github.com/emrldnix/wrangler) - Wrangler, the CLI for Cloudflare Workers, packaged as a nix flake
 - [astro/skyflake](https://github.com/astro/skyflake) - NixOS Hyperconverged Infrastructure on Nomad/NixOS
@@ -1563,6 +1565,7 @@
 - [3b1b/manim](https://github.com/3b1b/manim) - Animation engine for explanatory math videos
 - [quinneden/virby-nix-darwin](https://github.com/quinneden/virby-nix-darwin) - A vfkit-based linux builder for Nix-darwin
 - [sapientinc/HRM](https://github.com/sapientinc/HRM) - Hierarchical Reasoning Model Official Release
+- [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows 
 - [coderamp-labs/gitingest](https://github.com/coderamp-labs/gitingest) - Replace 'hub' with 'ingest' in any GitHub URL to get a prompt-friendly extract of a codebase
 - [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
 - [juspay/juspay-mcp](https://github.com/juspay/juspay-mcp) - 
@@ -2085,7 +2088,6 @@
 - [iconoir-icons/iconoir](https://github.com/iconoir-icons/iconoir) - An open source icons library with 1600+ icons, supporting React, React Native, Flutter, Vue, Figma, and Framer.
 - [wenlzhang/obsidian-todoist-context-bridge](https://github.com/wenlzhang/obsidian-todoist-context-bridge) - Bridge your Obsidian notes with Todoist tasks while preserving rich context, helping you highlight important tasks and maintain seamless workflows between the two platforms. Seamlessly integrate with 
 - [ProtonDriveApps/sdk](https://github.com/ProtonDriveApps/sdk) - 
-- [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows 
 - [xynehq/xyne](https://github.com/xynehq/xyne) - AI-first Search & Answer Engine for work. Open-source alternative to Glean.
 - [readest/readest](https://github.com/readest/readest) - Readest is a modern, feature-rich ebook reader designed for avid readers offering seamless cross-platform access, powerful tools, and an intuitive interface to elevate your reading experience.
 - [yusukesaitoh/calm-twitter](https://github.com/yusukesaitoh/calm-twitter) - This extension hides trending information from twitter timelines to make your mind calm.
