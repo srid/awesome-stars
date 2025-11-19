@@ -372,6 +372,7 @@
 
 ## Go 
 
+- [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm) - An open-source, cross-platform terminal for seamless workflows
 - [jmmv/ssh-agent-switcher](https://github.com/jmmv/ssh-agent-switcher) - SSH agent proxy for tmux
 - [Zouuup/landrun](https://github.com/Zouuup/landrun) - Run any Linux process in a secure, unprivileged sandbox using Landlock. Think firejail, but lightweight, user-friendly, and baked into the kernel.
 - [bigwhite/issue2md](https://github.com/bigwhite/issue2md) - A tool to convert GitHub issue/discussion into Markdown.
@@ -1158,6 +1159,7 @@
 
 ## Lua 
 
+- [obsidian-nvim/obsidian.nvim](https://github.com/obsidian-nvim/obsidian.nvim) - Obsidian 🤝 Neovim (currently maintained)
 - [greggh/claude-code.nvim](https://github.com/greggh/claude-code.nvim) - Seamless integration between Claude Code AI assistant and Neovim
 - [hedyhli/outline.nvim](https://github.com/hedyhli/outline.nvim) - Fancy code outline sidebar to visualize and navigate code symbols in a tree hierarchy
 - [nvim-orgmode/orgmode](https://github.com/nvim-orgmode/orgmode) - Orgmode clone written in Lua for Neovim 0.11.0+.
@@ -1565,7 +1567,6 @@
 - [3b1b/manim](https://github.com/3b1b/manim) - Animation engine for explanatory math videos
 - [quinneden/virby-nix-darwin](https://github.com/quinneden/virby-nix-darwin) - A vfkit-based linux builder for Nix-darwin
 - [sapientinc/HRM](https://github.com/sapientinc/HRM) - Hierarchical Reasoning Model Official Release
-- [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows 
 - [coderamp-labs/gitingest](https://github.com/coderamp-labs/gitingest) - Replace 'hub' with 'ingest' in any GitHub URL to get a prompt-friendly extract of a codebase
 - [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
 - [juspay/juspay-mcp](https://github.com/juspay/juspay-mcp) - 
@@ -1735,6 +1736,7 @@
 
 ## Rust 
 
+- [chase/awrit](https://github.com/chase/awrit) - A full graphical web browser for Kitty terminal with mouse and keyboard support
 - [Jagalite/superseedr](https://github.com/Jagalite/superseedr) - A Rust BitTorrent Client in your Terminal
 - [SeaDve/Kooha](https://github.com/SeaDve/Kooha) - Elegantly record your screen
 - [nixops4/nix-bindings-rust](https://github.com/nixops4/nix-bindings-rust) - Use the Nix package manager as a library
@@ -1955,6 +1957,7 @@
 - [diet103/claude-code-infrastructure-showcase](https://github.com/diet103/claude-code-infrastructure-showcase) - Examples of my Claude Code infrastructure with skill auto-activation, hooks, and agents
 - [srid/nix-systems](https://github.com/srid/nix-systems) - 
 - [srid/master](https://github.com/srid/master) - Dethrone "main" and restore "master" to its rightful glory.
+- [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows 
 - [haskell-wasm/ghc-wasm-meta](https://github.com/haskell-wasm/ghc-wasm-meta) - Read-only mirror of ghc-wasm-meta on ghc gitlab
 - [basecamp/gh-signoff](https://github.com/basecamp/gh-signoff) - Local CI. Sign off on your own work.
 - [sheerun/git-squash](https://github.com/sheerun/git-squash) - Locally squash commits on a branch without resolving any conflicts (a'la squash and merge)
