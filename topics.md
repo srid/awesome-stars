@@ -1811,7 +1811,7 @@
 - [dharmx/walls](https://github.com/dharmx/walls) - All of my wallpapers in one repo.
 - [johansan/notebook-navigator](https://github.com/johansan/notebook-navigator) - Replace the default file explorer in Obsidian with a clean two-pane interface featuring folder tree, tag browsing, file previews, keyboard navigation, drag-and-drop, pinned notes, and customizable dis
 - [phaer/nixos-vm-on-macos](https://github.com/phaer/nixos-vm-on-macos) - Run #NixOS on darwin, including Rosetta 2 & virtiofs!
-- [baileyluTCD/bun2nix](https://github.com/baileyluTCD/bun2nix) - Generate a nix expression to build bun packages - similar to node2nix or yarn2nix
+- [nix-community/bun2nix](https://github.com/nix-community/bun2nix) - Generate a nix expression to build bun packages - similar to node2nix or yarn2nix [maintainer=@baileyluTCD]
 - [cbasdev/dracula-purple-theme](https://github.com/cbasdev/dracula-purple-theme) - 💜 Extended dracula theme for vscode
 - [gregwebs/Shelly.hs](https://github.com/gregwebs/Shelly.hs) - Haskell shell scripting
 - [nixbuild/nix-quick-install-action](https://github.com/nixbuild/nix-quick-install-action) - 
