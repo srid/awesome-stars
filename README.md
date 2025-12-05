@@ -1220,7 +1220,7 @@
 - [viperML/nix-maid](https://github.com/viperML/nix-maid) - [simpler dotfile management]
 - [srid/nix-serve-cloudflared](https://github.com/srid/nix-serve-cloudflared) - Serve your Nix store as cache, behind Cloudflare Tunnel
 - [phaer/nixos-vm-on-macos](https://github.com/phaer/nixos-vm-on-macos) - Run #NixOS on darwin, including Rosetta 2 & virtiofs!
-- [nix-community/bun2nix](https://github.com/nix-community/bun2nix) - Generate a nix expression to build bun packages - similar to node2nix or yarn2nix [maintainer=@baileyluTCD]
+- [nix-community/bun2nix](https://github.com/nix-community/bun2nix) - Generate a nix expression to build bun packages - similar to node2nix or yarn2nix [maintainer=@baileylu121]
 - [nixbuild/nix-quick-install-action](https://github.com/nixbuild/nix-quick-install-action) - 
 - [pietdevries94/playwright-web-flake](https://github.com/pietdevries94/playwright-web-flake) - 
 - [naminx/chrome-remote-desktop](https://github.com/naminx/chrome-remote-desktop) - 
