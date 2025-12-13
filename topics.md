@@ -1836,6 +1836,7 @@
 
 ## others 
 
+- [garnix-io/yensid](https://github.com/garnix-io/yensid) - A proxy for better Nix remote builds
 - [jupyter-xeus/xeus-haskell](https://github.com/jupyter-xeus/xeus-haskell) - jupyter / jupyterlite kernel for Haskell powered by WebAssembly
 - [chase/awrit](https://github.com/chase/awrit) - A full graphical web browser for Kitty terminal with mouse and keyboard support
 - [tomberek/-](https://github.com/tomberek/-) - 
