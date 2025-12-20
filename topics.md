@@ -126,6 +126,7 @@
 - [markdown](#markdown)
 - [mastodon](#mastodon)
 - [material-design](#material-design)
+- [microservices](#microservices)
 - [microsoft](#microsoft)
 - [mongodb](#mongodb)
 - [monitoring](#monitoring)
@@ -1679,6 +1680,11 @@
 - [material-shell/material-shell](https://github.com/material-shell/material-shell) - A modern desktop interface for Linux. Improve your user experience and get rid of the anarchy of traditional desktop workflows. Designed to simplify navigation and reduce the need to manipulate window
 - [google/material-design-lite](https://github.com/google/material-design-lite) - Material Design Components in HTML/CSS/JS
 
+## microservices 
+
+- [DevrexLabs/memstate](https://github.com/DevrexLabs/memstate) - In-memory event-sourced ACID-transactional distributed object graph engine for .NET Standard
+- [nats-io/nats.go](https://github.com/nats-io/nats.go) - Golang client for NATS, the cloud native messaging system.
+
 ## microsoft 
 
 - [AdrienTorris/awesome-blazor](https://github.com/AdrienTorris/awesome-blazor) - Resources for Blazor, a .NET web framework using C#/Razor and HTML that runs in the browser with WebAssembly.
@@ -1835,6 +1841,7 @@
 
 ## others 
 
+- [aanderse/trix](https://github.com/aanderse/trix) - trick yourself into flakes
 - [garnix-io/yensid](https://github.com/garnix-io/yensid) - A proxy for better Nix remote builds
 - [jupyter-xeus/xeus-haskell](https://github.com/jupyter-xeus/xeus-haskell) - jupyter / jupyterlite kernel for Haskell powered by WebAssembly
 - [chase/awrit](https://github.com/chase/awrit) - A full graphical web browser for Kitty terminal with mouse and keyboard support
@@ -1964,7 +1971,7 @@
 - [kalbasit/ncps](https://github.com/kalbasit/ncps) - Nix binary cache proxy service -- with local caching and signing.
 - [bflyblue/servant-event-stream](https://github.com/bflyblue/servant-event-stream) - Servant support for ServerSent events
 - [JonathanLorimer/haskwire](https://github.com/JonathanLorimer/haskwire) - HTML Over The Wire, bringing SSR to Haskell
-- [juspay/vira](https://github.com/juspay/vira) - WIP: No-frills CI for small teams using Nix
+- [juspay/vira](https://github.com/juspay/vira) - No-frills CI for small teams using Nix
 - [juliuszint/asdbctl](https://github.com/juliuszint/asdbctl) - Small command line utility to get/set the brightness of Apple Studio Displays from Linux
 - [misuzu/process-compose-deploy](https://github.com/misuzu/process-compose-deploy) - PoC process-compose deployments for NixOS
 - [gpoore/codebraid-preview-vscode](https://github.com/gpoore/codebraid-preview-vscode) - Preview Pandoc Markdown in VS Code, and execute code blocks and inline code with Codebraid
