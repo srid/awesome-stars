@@ -1559,6 +1559,7 @@
 
 ## Python 
 
+- [simonw/claude-code-transcripts](https://github.com/simonw/claude-code-transcripts) - Tools for publishing transcripts for Claude Code sessions
 - [openai/whisper](https://github.com/openai/whisper) - Robust Speech Recognition via Large-Scale Weak Supervision
 - [zai-org/GLM-4.5](https://github.com/zai-org/GLM-4.5) - GLM-4.5: Agentic, Reasoning, and Coding (ARC) Foundation Models
 - [palantir/python-jsonrpc-server](https://github.com/palantir/python-jsonrpc-server) - A Python 2 and 3 asynchronous JSON RPC server
