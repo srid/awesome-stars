@@ -1211,6 +1211,7 @@
 
 ## Nix 
 
+- [srid/hackage-publish](https://github.com/srid/hackage-publish) - A simple script to publish Haskell packages to Hackage with little fanfare.
 - [garnix-io/yensid](https://github.com/garnix-io/yensid) - A proxy for better Nix remote builds
 - [tomberek/-](https://github.com/tomberek/-) - 
 - [srid/AI](https://github.com/srid/AI) - My AI setup (for coding, in particular)
