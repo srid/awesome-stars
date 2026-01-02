@@ -1839,6 +1839,7 @@
 
 ## others 
 
+- [srid/hackage-publish](https://github.com/srid/hackage-publish) - A simple script to publish Haskell packages to Hackage with little fanfare.
 - [ShreyRavi/workmode](https://github.com/ShreyRavi/workmode) - A Google Chrome plug-in that allows the blocking of certain time-wasting websites for 10,000+ active users!
 - [simonw/claude-code-transcripts](https://github.com/simonw/claude-code-transcripts) - Tools for publishing transcripts for Claude Code sessions
 - [openai/whisper](https://github.com/openai/whisper) - Robust Speech Recognition via Large-Scale Weak Supervision
