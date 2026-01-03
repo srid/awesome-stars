@@ -533,6 +533,7 @@
 
 ## HTML 
 
+- [m4dc4p/claude-hls](https://github.com/m4dc4p/claude-hls) - 
 - [bigskysoftware/fixi](https://github.com/bigskysoftware/fixi) - 
 - [utensils/mcp-nixos](https://github.com/utensils/mcp-nixos) - MCP-NixOS - Model Context Protocol Server for NixOS resources
 - [bigskysoftware/idiomorph](https://github.com/bigskysoftware/idiomorph) - A DOM-merging algorithm
