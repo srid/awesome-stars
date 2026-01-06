@@ -1847,6 +1847,7 @@
 
 ## others 
 
+- [srid/openspatial](https://github.com/srid/openspatial) - Virtual Office for Remote Teams
 - [m4dc4p/claude-hls](https://github.com/m4dc4p/claude-hls) - 
 - [srid/hackage-publish](https://github.com/srid/hackage-publish) - A simple script to publish Haskell packages to Hackage with little fanfare.
 - [ShreyRavi/workmode](https://github.com/ShreyRavi/workmode) - A Google Chrome plug-in that allows the blocking of certain time-wasting websites for 10,000+ active users!
