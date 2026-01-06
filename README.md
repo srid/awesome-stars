@@ -2082,6 +2082,7 @@
 
 ## TypeScript 
 
+- [srid/openspatial](https://github.com/srid/openspatial) - Virtual Office for Remote Teams
 - [vkostyanetsky/ObsidianFastimer](https://github.com/vkostyanetsky/ObsidianFastimer) - Intermittent fasting tracker plugin for Obsidian
 - [tom-pollak/lazygit-vscode](https://github.com/tom-pollak/lazygit-vscode) - https://marketplace.visualstudio.com/items?itemName=TomPollak.lazygit-vscode
 - [google/clasp](https://github.com/google/clasp) - 🔗 Command Line Apps Script Projects
