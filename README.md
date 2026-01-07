@@ -535,7 +535,6 @@
 
 - [m4dc4p/claude-hls](https://github.com/m4dc4p/claude-hls) - 
 - [bigskysoftware/fixi](https://github.com/bigskysoftware/fixi) - 
-- [utensils/mcp-nixos](https://github.com/utensils/mcp-nixos) - MCP-NixOS - Model Context Protocol Server for NixOS resources
 - [bigskysoftware/idiomorph](https://github.com/bigskysoftware/idiomorph) - A DOM-merging algorithm
 - [monadicsystems/servant-htmx](https://github.com/monadicsystems/servant-htmx) - Provides helper functions and data types for using servant with htmx
 - [juspay/nixone](https://github.com/juspay/nixone) - One-click setup of all things Nix for Juspay'ers
@@ -1123,7 +1122,6 @@
 - [atom/atom](https://github.com/atom/atom) - :atom: The hackable text editor
 - [jgallen23/toc](https://github.com/jgallen23/toc) - Table of Contents Plugin
 - [hpcloud/cloud-foundry-client-js](https://github.com/hpcloud/cloud-foundry-client-js) - A JavaScript client for Cloud Foundry. Supports running in the browser and Node.js.
-- [emberjs/ember.js](https://github.com/emberjs/ember.js) - Ember.js - A JavaScript framework for creating ambitious web applications
 - [hpcloud/confdis](https://github.com/hpcloud/confdis) - JSON-based configuration in redis
 - [madelynnblue/goread](https://github.com/madelynnblue/goread) - RSS reader in go on app engine; formerly goread.io
 - [laktek/punch](https://github.com/laktek/punch) - A fun and easy way to build modern websites
@@ -1571,6 +1569,7 @@
 - [Mic92/fast-flake-update](https://github.com/Mic92/fast-flake-update) - Update flake.lock with the latest commit of a local checkout
 - [Mic92/nix-fast-build](https://github.com/Mic92/nix-fast-build) - Combine the power of nix-eval-jobs with nix-output-monitor to speed-up your evaluation and building process.
 - [3b1b/manim](https://github.com/3b1b/manim) - Animation engine for explanatory math videos
+- [utensils/mcp-nixos](https://github.com/utensils/mcp-nixos) - MCP-NixOS - Model Context Protocol Server for NixOS resources
 - [quinneden/virby-nix-darwin](https://github.com/quinneden/virby-nix-darwin) - A vfkit-based linux builder for Nix-darwin
 - [sapientinc/HRM](https://github.com/sapientinc/HRM) - Hierarchical Reasoning Model Official Release
 - [coderamp-labs/gitingest](https://github.com/coderamp-labs/gitingest) - Replace 'hub' with 'ingest' in any GitHub URL to get a prompt-friendly extract of a codebase
@@ -1740,6 +1739,7 @@
 
 ## Rust 
 
+- [Datron/jilebi](https://github.com/Datron/jilebi) - MCP runtime with javacript plugins
 - [aanderse/trix](https://github.com/aanderse/trix) - trick yourself into flakes
 - [chase/awrit](https://github.com/chase/awrit) - A full graphical web browser for Kitty terminal with mouse and keyboard support
 - [jmmv/ssh-agent-switcher](https://github.com/jmmv/ssh-agent-switcher) - SSH agent proxy for tmux
@@ -2187,6 +2187,7 @@
 - [microsoft/TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
 - [sorskoot/WSaTypeScriptProjectTemplate](https://github.com/sorskoot/WSaTypeScriptProjectTemplate) - Windows Store app TypeScript Project Template
 - [GitbookIO/gitbook](https://github.com/GitbookIO/gitbook) - The open source frontend for GitBook doc sites
+- [emberjs/ember.js](https://github.com/emberjs/ember.js) - Ember.js - A JavaScript framework for creating ambitious web applications
 
 ## Typst 
 
