@@ -1856,6 +1856,7 @@
 
 ## others 
 
+- [e1134171019/agrnt](https://github.com/e1134171019/agrnt) - 
 - [srid/openspatial](https://github.com/srid/openspatial) - Virtual Office for Remote Teams
 - [m4dc4p/claude-hls](https://github.com/m4dc4p/claude-hls) - 
 - [srid/hackage-publish](https://github.com/srid/hackage-publish) - A simple script to publish Haskell packages to Hackage with little fanfare.
