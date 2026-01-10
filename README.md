@@ -258,6 +258,7 @@
 ## Elm 
 
 - [am-on/work-timer](https://github.com/am-on/work-timer) - App for tracking work hours using Elm and Toggl.com
+- [ad-si/TaskLite](https://github.com/ad-si/TaskLite) - The CLI task manager for power users
 - [ghivert/fireblog](https://github.com/ghivert/fireblog) - Blog template in elm for easy deploy on Firebase!
 - [arturopala/elm-monocle](https://github.com/arturopala/elm-monocle) - Functional abstractions to manipulate complex records in Elm - Iso, Prism, Lens, Optional, Traversal.
 - [elm-community/parser-combinators](https://github.com/elm-community/parser-combinators) - A parser combinator library for Elm.
@@ -751,7 +752,6 @@
 - [j-mueller/ghci-websockets](https://github.com/j-mueller/ghci-websockets) - A websocket server in GHCi that survives reloads
 - [obsidiansystems/vessel](https://github.com/obsidiansystems/vessel) - Functor-parametric containers
 - [yesodweb/wai](https://github.com/yesodweb/wai) - Haskell Web Application Interface
-- [ad-si/TaskLite](https://github.com/ad-si/TaskLite) - The CLI task manager for power users
 - [waymonad/waymonad](https://github.com/waymonad/waymonad) - A wayland compositor based on ideas from and inspired by xmonad
 - [pkamenarsky/concur-static](https://github.com/pkamenarsky/concur-static) - Generate semi-dynamic UIs with Concur
 - [ekmett/propagators](https://github.com/ekmett/propagators) - The Art of the Propagator. See also:
@@ -1577,6 +1577,7 @@
 - [coderamp-labs/gitingest](https://github.com/coderamp-labs/gitingest) - Replace 'hub' with 'ingest' in any GitHub URL to get a prompt-friendly extract of a codebase
 - [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
 - [juspay/juspay-mcp](https://github.com/juspay/juspay-mcp) - 
+- [ManimCommunity/manim](https://github.com/ManimCommunity/manim) - A community-maintained Python framework for creating mathematical animations.
 - [kellyjonbrazil/jc](https://github.com/kellyjonbrazil/jc) - CLI tool and python library that converts the output of popular command-line tools, file-types, and common strings to JSON, YAML, or Dictionaries. This allows piping of output to tools like jq and sim
 - [themotte/rDrama](https://github.com/themotte/rDrama) - This code runs https://www.themotte.org. Originally forked from https://github.com/Aevann1/rDrama, which no longer exists.
 - [kovidgoyal/vise](https://github.com/kovidgoyal/vise) - A keyboard driven browser with tabs in a tree
