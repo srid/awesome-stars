@@ -549,7 +549,7 @@
 - [bitstein/justmeat.co](https://github.com/bitstein/justmeat.co) - Carnivorous eating, paleolithic ketogenic diet and medicine, and zero carb lifestyle. Don’t bother with vegetables. Just eat meat.
 - [htmlstreamofficial/preline](https://github.com/htmlstreamofficial/preline) - Preline UI is an open-source set of prebuilt UI components based on the utility-first Tailwind CSS framework.
 - [srid/srid](https://github.com/srid/srid) - Source for https://srid.ca (do you know that you can git clone and `nix run` this website locally? to create your own: https://github.com/srid/emanote-template)
-- [plaintextaccounting/plaintextaccounting](https://github.com/plaintextaccounting/plaintextaccounting) - The plaintextaccounting.org website, a portal to Ledger, hledger, beancount and co. Also the PTA wiki.
+- [plaintextaccounting/plaintextaccounting](https://github.com/plaintextaccounting/plaintextaccounting) - The plaintextaccounting.org website, a portal to the world of Plain Text Accounting.
 - [tallesl/Rich-Hickey-fanclub](https://github.com/tallesl/Rich-Hickey-fanclub) - "every time I watch one of his talks I feel like someone has gone in and organized my brain"
 - [abuseofnotation/category-theory-illustrated](https://github.com/abuseofnotation/category-theory-illustrated) - A book about category theory
 - [ossu/computer-science](https://github.com/ossu/computer-science) - 🎓 Path to a free self-taught education in Computer Science!
