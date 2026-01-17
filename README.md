@@ -535,6 +535,7 @@
 
 ## HTML 
 
+- [Pankajtanwarbanna/stfu](https://github.com/Pankajtanwarbanna/stfu) - stfu
 - [m4dc4p/claude-hls](https://github.com/m4dc4p/claude-hls) - 
 - [bigskysoftware/fixi](https://github.com/bigskysoftware/fixi) - 
 - [bigskysoftware/idiomorph](https://github.com/bigskysoftware/idiomorph) - A DOM-merging algorithm
