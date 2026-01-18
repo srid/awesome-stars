@@ -1414,6 +1414,7 @@
 
 ## javascript 
 
+- [solidjs/solid](https://github.com/solidjs/solid) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
 - [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx) - &lt;/&gt; htmx - high power tools for HTML
 - [google/clasp](https://github.com/google/clasp) - 🔗 Command Line Apps Script Projects
 - [giscus/giscus](https://github.com/giscus/giscus) - A commenting system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:
@@ -1861,7 +1862,7 @@
 - [FootprintAI/Containarium](https://github.com/FootprintAI/Containarium) - Hundred of containers living together with LXC container for saving resources and make the configuration easier
 - [icloud-photos-downloader/icloud_photos_downloader](https://github.com/icloud-photos-downloader/icloud_photos_downloader) - A command-line tool to download photos from iCloud
 - [e1134171019/agrnt](https://github.com/e1134171019/agrnt) - 
-- [srid/openspatial](https://github.com/srid/openspatial) - Virtual Office for Remote Teams
+- [srid/openspatial](https://github.com/srid/openspatial) - A virtual space where distance disappears
 - [m4dc4p/claude-hls](https://github.com/m4dc4p/claude-hls) - 
 - [srid/hackage-publish](https://github.com/srid/hackage-publish) - A simple script to publish Haskell packages to Hackage with little fanfare.
 - [ShreyRavi/workmode](https://github.com/ShreyRavi/workmode) - A Google Chrome plug-in that allows the blocking of certain time-wasting websites for 10,000+ active users!
