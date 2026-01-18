@@ -2088,7 +2088,8 @@
 
 ## TypeScript 
 
-- [srid/openspatial](https://github.com/srid/openspatial) - Virtual Office for Remote Teams
+- [solidjs/solid](https://github.com/solidjs/solid) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
+- [srid/openspatial](https://github.com/srid/openspatial) - A virtual space where distance disappears
 - [vkostyanetsky/ObsidianFastimer](https://github.com/vkostyanetsky/ObsidianFastimer) - Intermittent fasting tracker plugin for Obsidian
 - [tom-pollak/lazygit-vscode](https://github.com/tom-pollak/lazygit-vscode) - https://marketplace.visualstudio.com/items?itemName=TomPollak.lazygit-vscode
 - [google/clasp](https://github.com/google/clasp) - 🔗 Command Line Apps Script Projects
