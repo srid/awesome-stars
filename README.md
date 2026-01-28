@@ -2161,7 +2161,7 @@
 - [mushanshitiancai/vscode-paste-image](https://github.com/mushanshitiancai/vscode-paste-image) - paste image from clipboard to markdown/asciidoc directly!
 - [LBRYFoundation/Watch-on-LBRY](https://github.com/LBRYFoundation/Watch-on-LBRY) - Plugin for web browser that automatic check if YouTube video is on LBRY
 - [kodxana/Watch-on-Odysee](https://github.com/kodxana/Watch-on-Odysee) - Plugin for web browser that automatic check if YouTube video is on LBRY
-- [BeardedBear/bearded-icons](https://github.com/BeardedBear/bearded-icons) - The VS Code icons with a long beard.
+- [BeardedBear/bearded-icons](https://github.com/BeardedBear/bearded-icons) - The icons with a long beard.
 - [BeardedBear/bearded-theme](https://github.com/BeardedBear/bearded-theme) - The themes with a long beard.
 - [kahole/edamagit](https://github.com/kahole/edamagit) - Magit for VSCode
 - [matrix-org/matrix-appservice-slack](https://github.com/matrix-org/matrix-appservice-slack) - A Matrix &lt;--&gt; Slack bridge
