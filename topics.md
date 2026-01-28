@@ -2390,7 +2390,7 @@
 - [graninas/The-Voids-Of-Haskell](https://github.com/graninas/The-Voids-Of-Haskell) - 
 - [TaKO8Ki/awesome-alternatives-in-rust](https://github.com/TaKO8Ki/awesome-alternatives-in-rust) - A curated list of replacements for existing software written in Rust
 - [Daniel-Diaz/HaTeX](https://github.com/Daniel-Diaz/HaTeX) - The Haskell LaTeX library.
-- [BeardedBear/bearded-icons](https://github.com/BeardedBear/bearded-icons) - The VS Code icons with a long beard.
+- [BeardedBear/bearded-icons](https://github.com/BeardedBear/bearded-icons) - The icons with a long beard.
 - [BeardedBear/bearded-theme](https://github.com/BeardedBear/bearded-theme) - The themes with a long beard.
 - [tweag/inline-js](https://github.com/tweag/inline-js) - Call JavaScript from Haskell, and vice versa!
 - [rubik/argon](https://github.com/rubik/argon) - Monitor cyclomatic complexity in Haskell programs
