@@ -672,7 +672,7 @@
 - [well-typed/plutonomy](https://github.com/well-typed/plutonomy) - An optimizer for untyped plutus core
 - [recursion-schemes/recursion-schemes](https://github.com/recursion-schemes/recursion-schemes) - Generalized bananas, lenses and barbed wire
 - [NorfairKing/feedback](https://github.com/NorfairKing/feedback) - Declarative feedback loop manager
-- [quchen/prettyprinter](https://github.com/quchen/prettyprinter) - A modern, extensible and well-documented prettyprinter.
+- [haskell-prettyprinter/prettyprinter](https://github.com/haskell-prettyprinter/prettyprinter) - A modern, extensible and well-documented prettyprinter.
 - [mlabs-haskell/plutip](https://github.com/mlabs-haskell/plutip) - A Cardano tool to spin up a testnet and run contracts with an EDSL to describe the instructions. Rhymes with tulip for no particular reason.
 - [swarm-game/swarm](https://github.com/swarm-game/swarm) - Resource gathering + programming game
 - [well-typed/large-records](https://github.com/well-typed/large-records) - Library to support efficient compilation of large records (linear in the number of record fields)
