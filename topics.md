@@ -1194,7 +1194,7 @@
 - [serokell/tztime](https://github.com/serokell/tztime) - Safe timezone-aware handling of time
 - [srid/haskell-flake](https://github.com/srid/haskell-flake) - A `flake-parts` Nix module for Haskell development
 - [haskell-hint/hint](https://github.com/haskell-hint/hint) - Runtime Haskell interpreter
-- [quchen/prettyprinter](https://github.com/quchen/prettyprinter) - A modern, extensible and well-documented prettyprinter.
+- [haskell-prettyprinter/prettyprinter](https://github.com/haskell-prettyprinter/prettyprinter) - A modern, extensible and well-documented prettyprinter.
 - [sellout/compiling-anything-to-categories](https://github.com/sellout/compiling-anything-to-categories) - a talk about and sample project for the [Categorifier](https://github.org/con-kitty/categorifier) GHC plugin.
 - [con-kitty/categorifier](https://github.com/con-kitty/categorifier) - Interpret Haskell programs into any cartesian closed category.
 - [well-typed/generics-sop](https://github.com/well-typed/generics-sop) - Generic Programming using True Sums of Products
