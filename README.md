@@ -1779,7 +1779,7 @@
 - [anyrun-org/anyrun](https://github.com/anyrun-org/anyrun) - A wayland native, highly customizable runner.
 - [swsnr/mdcat](https://github.com/swsnr/mdcat) - cat for markdown
 - [guilhermeprokisch/see](https://github.com/guilhermeprokisch/see) - A cute cat(1) for the terminal with advanced code viewing, Markdown rendering, 🌳  tree-sitter syntax highlighting, images view and more.
-- [viz-rs/viz-rs.github.io](https://github.com/viz-rs/viz-rs.github.io) - The official documentation site for Viz.rs.
+- [viz-rs/vidi.github.io](https://github.com/viz-rs/vidi.github.io) - The official documentation site for Viz.rs.
 - [eboody/styled](https://github.com/eboody/styled) - A simple solution for scoped styles in Leptos
 - [Canop/bacon](https://github.com/Canop/bacon) - background code checker
 - [GitoxideLabs/prodash](https://github.com/GitoxideLabs/prodash) - report progress of concurrent applications and display it in various ways
