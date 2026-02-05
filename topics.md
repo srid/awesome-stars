@@ -874,7 +874,7 @@
 
 ## framework 
 
-- [viz-rs/viz-rs.github.io](https://github.com/viz-rs/viz-rs.github.io) - The official documentation site for Viz.rs.
+- [viz-rs/vidi.github.io](https://github.com/viz-rs/vidi.github.io) - The official documentation site for Viz.rs.
 - [LukeMathWalker/pavex](https://github.com/LukeMathWalker/pavex) - A backend framework for Rust professionals
 - [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) - Documentation that simply works
 - [camlworks/dream](https://github.com/camlworks/dream) - Tidy, feature-complete Web framework
@@ -3305,7 +3305,7 @@
 - [alexpasmantier/television](https://github.com/alexpasmantier/television) - A very fast, portable and hackable fuzzy finder for the terminal.
 - [abenz1267/walker](https://github.com/abenz1267/walker) - Multi-Purpose Launcher with a lot of features. Highly Customizable and fast.
 - [swsnr/mdcat](https://github.com/swsnr/mdcat) - cat for markdown
-- [viz-rs/viz-rs.github.io](https://github.com/viz-rs/viz-rs.github.io) - The official documentation site for Viz.rs.
+- [viz-rs/vidi.github.io](https://github.com/viz-rs/vidi.github.io) - The official documentation site for Viz.rs.
 - [Canop/bacon](https://github.com/Canop/bacon) - background code checker
 - [juspay/superposition](https://github.com/juspay/superposition) - Superposition is a context-based configuration management system designed to facilitate safe and flexible rollout of config changes
 - [NiklasEi/cinnog](https://github.com/NiklasEi/cinnog) - Experimental static site generator using Leptos with Bevy ECS as a data layer
@@ -3758,7 +3758,7 @@
 ## web 
 
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
-- [viz-rs/viz-rs.github.io](https://github.com/viz-rs/viz-rs.github.io) - The official documentation site for Viz.rs.
+- [viz-rs/vidi.github.io](https://github.com/viz-rs/vidi.github.io) - The official documentation site for Viz.rs.
 - [LukeMathWalker/pavex](https://github.com/LukeMathWalker/pavex) - A backend framework for Rust professionals
 - [ekzhang/sshx](https://github.com/ekzhang/sshx) - Fast, collaborative live terminal sharing over the web
 - [greyblake/nutype](https://github.com/greyblake/nutype) - Rust newtype with guarantees  🇺🇦 🦀
