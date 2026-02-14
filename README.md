@@ -641,6 +641,7 @@
 - [juspay/todo-app](https://github.com/juspay/todo-app) - A demo Haskell app showing the use of Nix with flake-parts to simplify various dev workflows
 - [nammayatri/shared-kernel](https://github.com/nammayatri/shared-kernel) - See https://github.com/nammayatri/nammayatri
 - [nammayatri/beckn-gateway](https://github.com/nammayatri/beckn-gateway) - 
+- [nammayatri/nammayatri](https://github.com/nammayatri/nammayatri) - A Direct-to-Driver open mobility platform powering the next-generation of mobility applications in India.
 - [srid/gro](https://github.com/srid/gro) - WIP: Exploring single file org-mode visualization
 - [lua-vr/multiwalk](https://github.com/lua-vr/multiwalk) - Create traversals and queries of multiple types at once
 - [srid/NixHaskellIndex](https://github.com/srid/NixHaskellIndex) - A site to view the Haskell packages and their versions on nixpkgs
@@ -1543,7 +1544,6 @@
 ## PureScript 
 
 - [cdepillabout/cabal2nixWithoutIFD](https://github.com/cdepillabout/cabal2nixWithoutIFD) - 
-- [nammayatri/nammayatri](https://github.com/nammayatri/nammayatri) - A Direct-to-Driver open mobility platform powering the next-generation of mobility applications in India.
 - [ArdanaLabs/hello-cardano-template](https://github.com/ArdanaLabs/hello-cardano-template) - 
 - [purescript-gjs/purescript-gjs](https://github.com/purescript-gjs/purescript-gjs) - GNOME JavaScript bindings for PureScript
 - [purescript-react/purescript-react-basic](https://github.com/purescript-react/purescript-react-basic) - An opinionated set of bindings to the React library, optimizing for the most basic use cases
