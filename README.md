@@ -1030,7 +1030,6 @@
 - [angiejones/mcp-selenium](https://github.com/angiejones/mcp-selenium) - An MCP implementation for Selenium WebDriver
 - [fmhy/edit](https://github.com/fmhy/edit) - Make changes to FMHY
 - [dougppaz/youtube-music-dl](https://github.com/dougppaz/youtube-music-dl) - Chrome Extension to download music file with tags and cover from Youtube Music.
-- [github/awesome-copilot](https://github.com/github/awesome-copilot) - Community-contributed instructions, prompts, and configurations to help you make the most of GitHub Copilot.
 - [ganeshrvel/openmtp](https://github.com/ganeshrvel/openmtp) - OpenMTP  - Advanced Android File Transfer Application for macOS
 - [bigskysoftware/htmx-extensions](https://github.com/bigskysoftware/htmx-extensions) - 
 - [bigskysoftware/_hyperscript](https://github.com/bigskysoftware/_hyperscript) - a small scripting language for the web
@@ -1241,7 +1240,7 @@
 - [pyproject-nix/uv2nix](https://github.com/pyproject-nix/uv2nix) - Uv2nix - Ingest uv workspaces using Nix [maintainer=@adisbladis]
 - [pyproject-nix/pyproject.nix](https://github.com/pyproject-nix/pyproject.nix) - A collection of Nix utilities to work with Python projects [maintainer=@adisbladis]
 - [juspay/chutney](https://github.com/juspay/chutney) - Reliable Nix Cache Server configuration for self-hosting
-- [sciexp/python-nix-template](https://github.com/sciexp/python-nix-template) - ❄️ nix template for python monorepos +/- pyo3 extension modules with flake-parts, uv2nix, and crane 🐍
+- [sciexp/python-nix-template](https://github.com/sciexp/python-nix-template) - ❄️ nix template for python monorepos +/- rust pyo3 extension modules with flake-parts, uv2nix, and crane 🐍
 - [VitalBio/dash-haskell-flake](https://github.com/VitalBio/dash-haskell-flake) - 
 - [tadfisher/android-nixpkgs](https://github.com/tadfisher/android-nixpkgs) - Nix-packaged Android SDK
 - [JimJ92120/lxd-preseed-for-nixos](https://github.com/JimJ92120/lxd-preseed-for-nixos) - A preseed(ed) configuration for LXD in a NixOS host, to declare** any LXD options and configurations.
@@ -2046,7 +2045,7 @@
 ## Swift 
 
 - [tw93/MiaoYan](https://github.com/tw93/MiaoYan) - ⛷ Lightweight Markdown app to help you write great sentences.
-- [tldev/posturr](https://github.com/tldev/posturr) - A macOS app that blurs your screen when you slouch.
+- [tldev/dorso](https://github.com/tldev/dorso) - A macOS app that blurs your screen when you slouch.
 - [Beingpax/VoiceInk](https://github.com/Beingpax/VoiceInk) - Voice-to-text app for macOS to transcribe what you say to text almost instantly
 - [iina/iina](https://github.com/iina/iina) - The modern video player for macOS.
 - [nikitabobko/AeroSpace](https://github.com/nikitabobko/AeroSpace) - AeroSpace is an i3-like tiling window manager for macOS
@@ -2115,6 +2114,7 @@
 - [xynehq/xyne](https://github.com/xynehq/xyne) - AI-first Search & Answer Engine for work. Open-source alternative to Glean.
 - [readest/readest](https://github.com/readest/readest) - Readest is a modern, feature-rich ebook reader designed for avid readers offering seamless cross-platform access, powerful tools, and an intuitive interface to elevate your reading experience.
 - [yusukesaitoh/calm-twitter](https://github.com/yusukesaitoh/calm-twitter) - This extension hides trending information from twitter timelines to make your mind calm.
+- [github/awesome-copilot](https://github.com/github/awesome-copilot) - Community-contributed instructions, prompts, and configurations to help you make the most of GitHub Copilot.
 - [blinkospace/blinko](https://github.com/blinkospace/blinko) - An open-source, self-hosted personal AI note tool prioritizing privacy, built using TypeScript .
 - [pixijs/pixijs](https://github.com/pixijs/pixijs) - The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer.
 - [Ellpeck/ObsidianCustomFrames](https://github.com/Ellpeck/ObsidianCustomFrames) - An Obsidian plugin that turns web apps into panes using iframes with custom styling. Also comes with presets for Google Keep, Todoist and more.
