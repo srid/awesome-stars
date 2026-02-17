@@ -1871,7 +1871,7 @@
 - [erictli/scratch](https://github.com/erictli/scratch) - A minimalist, offline-first markdown note-taking app for Mac
 - [solidjs/solid-start](https://github.com/solidjs/solid-start) - SolidStart, the Solid app framework
 - [tobi/qmd](https://github.com/tobi/qmd) - mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local
-- [tldev/posturr](https://github.com/tldev/posturr) - A macOS app that blurs your screen when you slouch.
+- [tldev/dorso](https://github.com/tldev/dorso) - A macOS app that blurs your screen when you slouch.
 - [Pankajtanwarbanna/stfu](https://github.com/Pankajtanwarbanna/stfu) - stfu
 - [FootprintAI/Containarium](https://github.com/FootprintAI/Containarium) - Hundred of containers living together with LXC container for saving resources and make the configuration easier
 - [icloud-photos-downloader/icloud_photos_downloader](https://github.com/icloud-photos-downloader/icloud_photos_downloader) - A command-line tool to download photos from iCloud
@@ -3182,7 +3182,7 @@
 - [3b1b/manim](https://github.com/3b1b/manim) - Animation engine for explanatory math videos
 - [utensils/mcp-nixos](https://github.com/utensils/mcp-nixos) - MCP-NixOS - Model Context Protocol Server for NixOS resources
 - [ManimCommunity/manim](https://github.com/ManimCommunity/manim) - A community-maintained Python framework for creating mathematical animations.
-- [sciexp/python-nix-template](https://github.com/sciexp/python-nix-template) - ❄️ nix template for python monorepos +/- pyo3 extension modules with flake-parts, uv2nix, and crane 🐍
+- [sciexp/python-nix-template](https://github.com/sciexp/python-nix-template) - ❄️ nix template for python monorepos +/- rust pyo3 extension modules with flake-parts, uv2nix, and crane 🐍
 - [kellyjonbrazil/jc](https://github.com/kellyjonbrazil/jc) - CLI tool and python library that converts the output of popular command-line tools, file-types, and common strings to JSON, YAML, or Dictionaries. This allows piping of output to tools like jq and sim
 - [filllabs/dependi](https://github.com/filllabs/dependi) - Dependi (formerly crates)
 - [extism/extism](https://github.com/extism/extism) - The framework for building with WebAssembly (wasm). Easily & securely load wasm modules, move data, call functions, and build extensible apps.
@@ -3211,7 +3211,7 @@
 
 ## python3 
 
-- [sciexp/python-nix-template](https://github.com/sciexp/python-nix-template) - ❄️ nix template for python monorepos +/- pyo3 extension modules with flake-parts, uv2nix, and crane 🐍
+- [sciexp/python-nix-template](https://github.com/sciexp/python-nix-template) - ❄️ nix template for python monorepos +/- rust pyo3 extension modules with flake-parts, uv2nix, and crane 🐍
 - [lorien/grab](https://github.com/lorien/grab) - Web Scraping Framework
 
 ## pytorch 
