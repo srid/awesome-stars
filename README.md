@@ -1746,6 +1746,7 @@
 
 ## Rust 
 
+- [nrdxp/sukr](https://github.com/nrdxp/sukr) - Minimal static site compiler — suckless, Rust, zero JS.
 - [Datron/jilebi](https://github.com/Datron/jilebi) - MCP runtime with javacript plugins
 - [aanderse/trix](https://github.com/aanderse/trix) - trick yourself into flakes
 - [chase/awrit](https://github.com/chase/awrit) - A full graphical web browser for Kitty terminal with mouse and keyboard support
@@ -2092,6 +2093,7 @@
 
 ## TypeScript 
 
+- [SuperCmdLabs/SuperCmd](https://github.com/SuperCmdLabs/SuperCmd) - What Apple Intelligence should have been
 - [erictli/scratch](https://github.com/erictli/scratch) - A minimalist, offline-first markdown note-taking app for Mac
 - [solidjs/solid-start](https://github.com/solidjs/solid-start) - SolidStart, the Solid app framework
 - [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap) - The headless rich text editor framework for web artisans.
