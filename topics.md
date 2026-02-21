@@ -1339,7 +1339,7 @@
 - [srid/my-haskell-scripts](https://github.com/srid/my-haskell-scripts) - Bunch of Haskell scripts for various purposes
 - [HeinrichApfelmus/hyper-haskell](https://github.com/HeinrichApfelmus/hyper-haskell) - The strongly hyped Haskell interpreter.
 - [hlian/linklater](https://github.com/hlian/linklater) - A Haskell library for the Slack API (including real-time messaging!)
-- [ozanmakes/markup.rocks](https://github.com/ozanmakes/markup.rocks) - Pandoc based document editor and converter in your browser.
+- [ozanvos/markup.rocks](https://github.com/ozanvos/markup.rocks) - Pandoc based document editor and converter in your browser.
 - [atom-haskell/ide-haskell](https://github.com/atom-haskell/ide-haskell) - Haskell IDE plugin for Atom editor
 - [purescript/purescript](https://github.com/purescript/purescript) - A strongly-typed language that compiles to JavaScript
 - [jaspervdj/patat](https://github.com/jaspervdj/patat) - Terminal-based presentations using Pandoc
@@ -1673,7 +1673,7 @@
 - [mmark-md/mmark](https://github.com/mmark-md/mmark) - Strict markdown processor for writers
 - [jez/pandoc-starter](https://github.com/jez/pandoc-starter) - 📄 My pandoc markdown templates and makefiles
 - [smallhadroncollider/taskell](https://github.com/smallhadroncollider/taskell) - Command-line Kanban board/task manager with support for Trello boards and GitHub projects
-- [ozanmakes/markup.rocks](https://github.com/ozanmakes/markup.rocks) - Pandoc based document editor and converter in your browser.
+- [ozanvos/markup.rocks](https://github.com/ozanvos/markup.rocks) - Pandoc based document editor and converter in your browser.
 - [jaspervdj/patat](https://github.com/jaspervdj/patat) - Terminal-based presentations using Pandoc
 - [jgm/pandoc](https://github.com/jgm/pandoc) - Universal markup converter
 - [MacDownApp/macdown](https://github.com/MacDownApp/macdown) - Open source Markdown editor for macOS.
@@ -2618,7 +2618,7 @@
 - [jonitrythall/svgpocketguide](https://github.com/jonitrythall/svgpocketguide) - All original content of A Pocket Guide to Writing SVG by Joni Trythall
 - [krispo/awesome-haskell](https://github.com/krispo/awesome-haskell) - A collection of awesome Haskell links, frameworks, libraries and software. Inspired by awesome projects line.
 - [jyp/styx](https://github.com/jyp/styx) - A nix-based Haskell project manager
-- [ozanmakes/pandoc](https://github.com/ozanmakes/pandoc) - Universal markup converter (ghcjs compatible fork)
+- [ozanvos/pandoc](https://github.com/ozanvos/pandoc) - Universal markup converter (ghcjs compatible fork)
 - [reflex-frp/reflex-frp](https://github.com/reflex-frp/reflex-frp) - Subscribe to this repo to be notified of announcements and changes in Reflex FRP
 - [fpco/unliftio](https://github.com/fpco/unliftio) - The MonadUnliftIO typeclass for unlifting monads to IO
 - [ocharles/logging-effect](https://github.com/ocharles/logging-effect) - A very general logging effect for Haskell
@@ -2703,7 +2703,7 @@
 - [nwolverson/atom-ide-purescript](https://github.com/nwolverson/atom-ide-purescript) - Atom package for PureScript build, completion, etc support
 - [alexmingoia/pux-starter-app](https://github.com/alexmingoia/pux-starter-app) - Starter Pux app w/ hot-reloading and isomorphic routing and rendering
 - [kritzcreek/purescript-matrices](https://github.com/kritzcreek/purescript-matrices) - Simple two-dimensional matrices backed by a flat array
-- [ozanmakes/wring](https://github.com/ozanmakes/wring) - Extract content from webpages using CSS Selectors, XPath, and JS expressions
+- [ozanvos/wring](https://github.com/ozanvos/wring) - Extract content from webpages using CSS Selectors, XPath, and JS expressions
 - [alexmingoia/purescript-pux](https://github.com/alexmingoia/purescript-pux) - Build type-safe web apps with PureScript.
 - [elm-community/graph](https://github.com/elm-community/graph) - Functional Graph Library in Elm.
 - [Gizra/elm-hedley](https://github.com/Gizra/elm-hedley) - Elm web app with Headless Drupal backend
