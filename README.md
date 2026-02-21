@@ -909,7 +909,7 @@
 - [krispo/awesome-haskell](https://github.com/krispo/awesome-haskell) - A collection of awesome Haskell links, frameworks, libraries and software. Inspired by awesome projects line.
 - [jyp/styx](https://github.com/jyp/styx) - A nix-based Haskell project manager
 - [obsidiansystems/rhyolite](https://github.com/obsidiansystems/rhyolite) - 
-- [ozanmakes/pandoc](https://github.com/ozanmakes/pandoc) - Universal markup converter (ghcjs compatible fork)
+- [ozanvos/pandoc](https://github.com/ozanvos/pandoc) - Universal markup converter (ghcjs compatible fork)
 - [obsidiansystems/obelisk](https://github.com/obsidiansystems/obelisk) - Functional reactive web and mobile applications, with batteries included.
 - [fpco/unliftio](https://github.com/fpco/unliftio) - The MonadUnliftIO typeclass for unlifting monads to IO
 - [mrkkrp/modern-uri](https://github.com/mrkkrp/modern-uri) - Modern library for working with URIs
@@ -968,7 +968,7 @@
 - [tensorflow/haskell](https://github.com/tensorflow/haskell) - Haskell bindings for TensorFlow
 - [fokot/howerpoint](https://github.com/fokot/howerpoint) - 
 - [hlian/linklater](https://github.com/hlian/linklater) - A Haskell library for the Slack API (including real-time messaging!)
-- [ozanmakes/markup.rocks](https://github.com/ozanmakes/markup.rocks) - Pandoc based document editor and converter in your browser.
+- [ozanvos/markup.rocks](https://github.com/ozanvos/markup.rocks) - Pandoc based document editor and converter in your browser.
 - [purescript/purescript](https://github.com/purescript/purescript) - A strongly-typed language that compiles to JavaScript
 - [leksah/leksah](https://github.com/leksah/leksah) - Haskell IDE
 - [jaspervdj/patat](https://github.com/jaspervdj/patat) - Terminal-based presentations using Pandoc
@@ -1556,7 +1556,7 @@
 - [alexmingoia/pux-starter-app](https://github.com/alexmingoia/pux-starter-app) - Starter Pux app w/ hot-reloading and isomorphic routing and rendering
 - [srid/Pallanguzhi](https://github.com/srid/Pallanguzhi) - A Tamil mancala game written in PureScript
 - [kritzcreek/purescript-matrices](https://github.com/kritzcreek/purescript-matrices) - Simple two-dimensional matrices backed by a flat array
-- [ozanmakes/wring](https://github.com/ozanmakes/wring) - Extract content from webpages using CSS Selectors, XPath, and JS expressions
+- [ozanvos/wring](https://github.com/ozanvos/wring) - Extract content from webpages using CSS Selectors, XPath, and JS expressions
 - [alexmingoia/purescript-pux](https://github.com/alexmingoia/purescript-pux) - Build type-safe web apps with PureScript.
 - [purescript-contrib/purescript-ace](https://github.com/purescript-contrib/purescript-ace) - Purescript bindings for the Ace editor
 - [paf31/purescript-book](https://github.com/paf31/purescript-book) - Sources for the PureScript book
