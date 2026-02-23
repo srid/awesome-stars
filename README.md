@@ -153,7 +153,6 @@
 ## C++ 
 
 - [FedoraQt/MediaWriter](https://github.com/FedoraQt/MediaWriter) - Fedora Media Writer - Write Fedora Images to Portable Media
-- [jupyter-xeus/xeus-haskell](https://github.com/jupyter-xeus/xeus-haskell) - jupyter / jupyterlite kernel for Haskell powered by WebAssembly
 - [emcrisostomo/fswatch](https://github.com/emcrisostomo/fswatch) - A cross-platform file change monitor with multiple backends: Apple macOS File System Events, *BSD kqueue, Solaris/Illumos File Events Notification, Linux inotify, Microsoft Windows and a stat()-based 
 - [MisterTea/EternalTerminal](https://github.com/MisterTea/EternalTerminal) - Re-Connectable secure remote shell
 - [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) - Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.
@@ -578,6 +577,7 @@
 
 ## Haskell 
 
+- [jupyter-xeus/xeus-haskell](https://github.com/jupyter-xeus/xeus-haskell) - jupyter / jupyterlite kernel for Haskell powered by WebAssembly
 - [garnix-io/nixos-compose](https://github.com/garnix-io/nixos-compose) - 
 - [hindsight-es/hindsight](https://github.com/hindsight-es/hindsight) - Type-safe event sourcing system for Haskell
 - [cuedo/github-webhooks](https://github.com/cuedo/github-webhooks) - Haskell types and instances for decoding GitHub webhook payloads.
@@ -608,7 +608,7 @@
 - [Simre1/multitasking](https://github.com/Simre1/multitasking) - Easy concurrency in Haskell
 - [tusharad/langchain-hs](https://github.com/tusharad/langchain-hs) - Haskell implementation of LangChain
 - [drshade/haskell-mcp-server](https://github.com/drshade/haskell-mcp-server) - An Awesome MCP Server Framework for Haskell
-- [sayo-hs/heftia](https://github.com/sayo-hs/heftia) - A theory‑backed, ultra type‑safe algebraic effects
+- [sayo-hs/heftia](https://github.com/sayo-hs/heftia) - A theory‑backed, type‑safe algebraic effects
 - [someodd/haskellcard](https://github.com/someodd/haskellcard) - Hypercard-like game engine
 - [tbidne/gitrev-typed](https://github.com/tbidne/gitrev-typed) - Compile git revision info into Haskell projects
 - [dmjio/LearnOpenGL.hs](https://github.com/dmjio/LearnOpenGL.hs) - LearnOpenGL.com examples ported to Haskell
@@ -914,7 +914,7 @@
 - [fpco/unliftio](https://github.com/fpco/unliftio) - The MonadUnliftIO typeclass for unlifting monads to IO
 - [mrkkrp/modern-uri](https://github.com/mrkkrp/modern-uri) - Modern library for working with URIs
 - [ocharles/logging-effect](https://github.com/ocharles/logging-effect) - A very general logging effect for Haskell
-- [haskell-beam/beam](https://github.com/haskell-beam/beam) - A type-safe, non-TH Haskell SQL library and ORM
+- [haskell-beam/beam](https://github.com/haskell-beam/beam) - A type-safe Haskell SQL library
 - [Compositional/reflex-servant](https://github.com/Compositional/reflex-servant) - Access Servant APIs using the Reflex Functional Reactive Programming library
 - [acid-state/acid-state](https://github.com/acid-state/acid-state) - Add ACID guarantees to any serializable Haskell data structure
 - [mxswd/editable](https://github.com/mxswd/editable) - Derive editors for data types.
@@ -2046,6 +2046,7 @@
 
 ## Swift 
 
+- [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) - Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents
 - [tw93/MiaoYan](https://github.com/tw93/MiaoYan) - ⛷ Lightweight Markdown app to help you write great sentences.
 - [tldev/dorso](https://github.com/tldev/dorso) - A macOS app that blurs your screen when you slouch.
 - [Beingpax/VoiceInk](https://github.com/Beingpax/VoiceInk) - Voice-to-text app for macOS to transcribe what you say to text almost instantly
