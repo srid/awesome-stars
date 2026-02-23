@@ -1301,7 +1301,7 @@
 - [obsidiansystems/rhyolite](https://github.com/obsidiansystems/rhyolite) - 
 - [obsidiansystems/obelisk](https://github.com/obsidiansystems/obelisk) - Functional reactive web and mobile applications, with batteries included.
 - [mrkkrp/modern-uri](https://github.com/mrkkrp/modern-uri) - Modern library for working with URIs
-- [haskell-beam/beam](https://github.com/haskell-beam/beam) - A type-safe, non-TH Haskell SQL library and ORM
+- [haskell-beam/beam](https://github.com/haskell-beam/beam) - A type-safe Haskell SQL library
 - [acid-state/acid-state](https://github.com/acid-state/acid-state) - Add ACID guarantees to any serializable Haskell data structure
 - [mxswd/editable](https://github.com/mxswd/editable) - Derive editors for data types.
 - [reflex-frp/reflex-dom](https://github.com/reflex-frp/reflex-dom) - Web applications without callbacks or side-effects. Reflex-DOM brings the power of functional reactive programming (FRP) to the web. Build HTML and other Document Object Model (DOM) data with a pure f
@@ -1980,7 +1980,7 @@
 - [HandBrake/HandBrake](https://github.com/HandBrake/HandBrake) - HandBrake's development repository
 - [juspay/juspay-mcp](https://github.com/juspay/juspay-mcp) - 
 - [logseq/publish-spa](https://github.com/logseq/publish-spa) - A github action and CLI to publish logseq graphs as a SPA app
-- [sayo-hs/heftia](https://github.com/sayo-hs/heftia) - A theory‑backed, ultra type‑safe algebraic effects
+- [sayo-hs/heftia](https://github.com/sayo-hs/heftia) - A theory‑backed, type‑safe algebraic effects
 - [someodd/haskellcard](https://github.com/someodd/haskellcard) - Hypercard-like game engine
 - [tbidne/gitrev-typed](https://github.com/tbidne/gitrev-typed) - Compile git revision info into Haskell projects
 - [terror/just-lsp](https://github.com/terror/just-lsp) - A language server for just
@@ -3111,7 +3111,7 @@
 - [launchbadge/sqlx](https://github.com/launchbadge/sqlx) - 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.
 - [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
 - [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
-- [haskell-beam/beam](https://github.com/haskell-beam/beam) - A type-safe, non-TH Haskell SQL library and ORM
+- [haskell-beam/beam](https://github.com/haskell-beam/beam) - A type-safe Haskell SQL library
 - [obsidiansystems/gargoyle](https://github.com/obsidiansystems/gargoyle) - A framework for managing daemons from Haskell and libraries for use with postgresql and nix
 - [PostgREST/postgrest](https://github.com/PostgREST/postgrest) - REST API for any Postgres database
 - [gogs/gogs](https://github.com/gogs/gogs) - Gogs is a painless self-hosted Git service
@@ -3493,7 +3493,7 @@
 - [Airsequel/AirGQL](https://github.com/Airsequel/AirGQL) - Automatically generate a GraphQL API for any SQLite database
 - [launchbadge/sqlx](https://github.com/launchbadge/sqlx) - 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.
 - [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data
-- [haskell-beam/beam](https://github.com/haskell-beam/beam) - A type-safe, non-TH Haskell SQL library and ORM
+- [haskell-beam/beam](https://github.com/haskell-beam/beam) - A type-safe Haskell SQL library
 - [PostgREST/postgrest](https://github.com/PostgREST/postgrest) - REST API for any Postgres database
 - [LauJensen/clojureql](https://github.com/LauJensen/clojureql) - ClojureQL is superior SQL integration for Clojure
 
@@ -3508,7 +3508,7 @@
 - [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees.
 - [launchbadge/sqlx](https://github.com/launchbadge/sqlx) - 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.
 - [ad-si/TaskLite](https://github.com/ad-si/TaskLite) - The CLI task manager for power users
-- [haskell-beam/beam](https://github.com/haskell-beam/beam) - A type-safe, non-TH Haskell SQL library and ORM
+- [haskell-beam/beam](https://github.com/haskell-beam/beam) - A type-safe Haskell SQL library
 
 ## statistics 
 
@@ -3570,6 +3570,7 @@
 
 ## terminal 
 
+- [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) - Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents
 - [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm) - An open-source, cross-platform terminal for seamless workflows
 - [MisterTea/EternalTerminal](https://github.com/MisterTea/EternalTerminal) - Re-Connectable secure remote shell
 - [greggh/claude-code.nvim](https://github.com/greggh/claude-code.nvim) - Seamless integration between Claude Code AI assistant and Neovim
