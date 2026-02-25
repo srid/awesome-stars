@@ -548,7 +548,6 @@
 - [evildmp/diataxis-documentation-framework](https://github.com/evildmp/diataxis-documentation-framework) - A systematic approach to creating better documentation.
 - [fiatjaf/nostr.technology](https://github.com/fiatjaf/nostr.technology) - hosted with cloudflare pages
 - [bitstein/justmeat.co](https://github.com/bitstein/justmeat.co) - Carnivorous eating, paleolithic ketogenic diet and medicine, and zero carb lifestyle. Don’t bother with vegetables. Just eat meat.
-- [htmlstreamofficial/preline](https://github.com/htmlstreamofficial/preline) - Preline UI is an open-source set of prebuilt UI components based on the utility-first Tailwind CSS framework.
 - [srid/srid](https://github.com/srid/srid) - Source for https://srid.ca (do you know that you can git clone and `nix run` this website locally? to create your own: https://github.com/srid/emanote-template)
 - [plaintextaccounting/plaintextaccounting](https://github.com/plaintextaccounting/plaintextaccounting) - The plaintextaccounting.org website, a portal to the world of Plain Text Accounting.
 - [tallesl/Rich-Hickey-fanclub](https://github.com/tallesl/Rich-Hickey-fanclub) - "every time I watch one of his talks I feel like someone has gone in and organized my brain"
@@ -2137,6 +2136,7 @@
 - [ryan4yin/nixos-and-flakes-book](https://github.com/ryan4yin/nixos-and-flakes-book) - :hammer_and_wrench: :heart: Want to know NixOS & Flakes in detail? Looking for a beginner-friendly tutorial? Then you've come to the right place!  想要学习使用 NixOS 与 Flakes 吗？在寻找一份新手友好的教程？那你可来对地方了！
 - [pionxzh/chatgpt-exporter](https://github.com/pionxzh/chatgpt-exporter) - Export and Share your ChatGPT conversation history
 - [phindle/error-lens](https://github.com/phindle/error-lens) - Visual Studio Code extension which enhances the display of errors and warnings.
+- [htmlstreamofficial/preline](https://github.com/htmlstreamofficial/preline) - Preline UI is an open-source set of prebuilt UI components based on the utility-first Tailwind CSS framework.
 - [mark-when/mw](https://github.com/mark-when/mw) - Markwhen CLI
 - [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
 - [jupyter-book/jupyter-book](https://github.com/jupyter-book/jupyter-book) - Create beautiful, publication-quality books and documents from computational content.
