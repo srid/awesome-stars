@@ -1745,6 +1745,8 @@
 
 ## Rust 
 
+- [srid/disc-scrape](https://github.com/srid/disc-scrape) - Fetch Discourse posts as Markdown
+- [CryptoGladi/obsidian-parser](https://github.com/CryptoGladi/obsidian-parser) - Blazingly fast Obsidian vault parser with graph analysis
 - [nrdxp/sukr](https://github.com/nrdxp/sukr) - Minimal static site compiler — suckless, Rust, zero JS.
 - [Datron/jilebi](https://github.com/Datron/jilebi) - MCP runtime with javacript plugins
 - [aanderse/trix](https://github.com/aanderse/trix) - trick yourself into flakes
