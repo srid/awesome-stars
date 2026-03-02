@@ -1400,6 +1400,7 @@
 
 ## Others 
 
+- [Uzaaft/awesome-libghostty](https://github.com/Uzaaft/awesome-libghostty) - 
 - [MiniMax-AI/MiniMax-M2](https://github.com/MiniMax-AI/MiniMax-M2) - MiniMax-M2, a model built for Max coding & agentic workflows.
 - [dharmx/walls](https://github.com/dharmx/walls) - All of my wallpapers in one repo.
 - [fmhy/FMHY](https://github.com/fmhy/FMHY) - https://fmhy.net/
