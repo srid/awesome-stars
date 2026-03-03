@@ -1868,6 +1868,8 @@
 
 ## others 
 
+- [callumalpass/mdbase-tasknotes](https://github.com/callumalpass/mdbase-tasknotes) - 
+- [callumalpass/tasknotes](https://github.com/callumalpass/tasknotes) - Task and time-tracking management with calendar integration for Obsidian
 - [Uzaaft/awesome-libghostty](https://github.com/Uzaaft/awesome-libghostty) - 
 - [srid/disc-scrape](https://github.com/srid/disc-scrape) - Fetch Discourse posts as Markdown
 - [SuperCmdLabs/SuperCmd](https://github.com/SuperCmdLabs/SuperCmd) - What Apple Intelligence should have been
@@ -2236,7 +2238,6 @@
 - [wolverian/agda-template](https://github.com/wolverian/agda-template) - A template for an Agda project with automatic GitHub Pages support
 - [viperML/home-manager-wsl](https://github.com/viperML/home-manager-wsl) - WSL distribution, including Nix + Home-manager + FHS Distro
 - [DavHau/cabal2json](https://github.com/DavHau/cabal2json) - zurihack experiment
-- [srid/srid](https://github.com/srid/srid) - Source for https://srid.ca (do you know that you can git clone and `nix run` this website locally? to create your own: https://github.com/srid/emanote-template)
 - [DeterminateSystems/update-flake-lock](https://github.com/DeterminateSystems/update-flake-lock) - Automatically refresh your Nix Flakes.
 - [abo-abo/org-download](https://github.com/abo-abo/org-download) - Drag and drop images to Emacs org-mode
 - [CRogers/should-not-typecheck](https://github.com/CRogers/should-not-typecheck) - A HUnit/hspec assertion to verify that an expression does not typecheck
@@ -2486,7 +2487,7 @@
 - [markmap/markmap-vscode](https://github.com/markmap/markmap-vscode) - Integrate markmap into VSCode
 - [JeffreyBenjaminBrown/hode](https://github.com/JeffreyBenjaminBrown/hode) - rslt, take five-ish
 - [obsidiansystems/cli-extras](https://github.com/obsidiansystems/cli-extras) - 
-- [sferik/t-ruby](https://github.com/sferik/t-ruby) - A command-line power tool for Twitter.
+- [sferik/x-cli](https://github.com/sferik/x-cli) - A command-line power tool for Twitter.
 - [aca/aca.github.io.bak](https://github.com/aca/aca.github.io.bak) - 
 - [srid/pandoc-link-context](https://github.com/srid/pandoc-link-context) - Extract context around links in Pandoc
 - [leshow/i3ipc](https://github.com/leshow/i3ipc) - Types and bindings for communicating with i3 in Haskell
