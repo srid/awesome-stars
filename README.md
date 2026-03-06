@@ -31,6 +31,7 @@
 - [JavaScript](#javascript)
 - [Jupyter Notebook](#jupyter-notebook)
 - [Kotlin](#kotlin)
+- [Lean](#lean)
 - [Lua](#lua)
 - [MDX](#mdx)
 - [Makefile](#makefile)
@@ -1024,7 +1025,6 @@
 - [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx) - &lt;/&gt; htmx - high power tools for HTML
 - [srid/haietmoba](https://github.com/srid/haietmoba) - 
 - [cbasdev/dracula-purple-theme](https://github.com/cbasdev/dracula-purple-theme) - 💜 Extended dracula theme for vscode
-- [leanprover/verso](https://github.com/leanprover/verso) - Lean documentation authoring tool
 - [angiejones/mcp-selenium](https://github.com/angiejones/mcp-selenium) - An MCP implementation for Selenium WebDriver
 - [fmhy/edit](https://github.com/fmhy/edit) - Make changes to FMHY
 - [dougppaz/youtube-music-dl](https://github.com/dougppaz/youtube-music-dl) - Chrome Extension to download music file with tags and cover from Youtube Music.
@@ -1157,6 +1157,10 @@
 
 - [android-password-store/Android-Password-Store](https://github.com/android-password-store/Android-Password-Store) - Android application compatible with ZX2C4's Pass command line application
 - [iSoron/uhabits](https://github.com/iSoron/uhabits) - Loop Habit Tracker, a mobile app for creating and maintaining long-term positive habits
+
+## Lean 
+
+- [leanprover/verso](https://github.com/leanprover/verso) - Lean documentation authoring tool
 
 ## Lua 
 
@@ -2098,7 +2102,7 @@
 - [callumalpass/mdbase-tasknotes](https://github.com/callumalpass/mdbase-tasknotes) - 
 - [callumalpass/tasknotes](https://github.com/callumalpass/tasknotes) - Task and time-tracking management with calendar integration for Obsidian
 - [SuperCmdLabs/SuperCmd](https://github.com/SuperCmdLabs/SuperCmd) - What Apple Intelligence should have been
-- [erictli/scratch](https://github.com/erictli/scratch) - A minimalist, offline-first markdown note-taking app for Mac
+- [erictli/scratch](https://github.com/erictli/scratch) - A minimalist, offline-first markdown note-taking app
 - [solidjs/solid-start](https://github.com/solidjs/solid-start) - SolidStart, the Solid app framework
 - [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap) - The headless rich text editor framework for web artisans.
 - [tobi/qmd](https://github.com/tobi/qmd) - mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local
