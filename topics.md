@@ -1868,6 +1868,7 @@
 
 ## others 
 
+- [jdegoes/zproj](https://github.com/jdegoes/zproj) - Parallel workspaces with bare git worktrees and tmux
 - [haskell-wasm/ghc-wasm-reflex-examples](https://github.com/haskell-wasm/ghc-wasm-reflex-examples) - 
 - [callumalpass/mdbase-tasknotes](https://github.com/callumalpass/mdbase-tasknotes) - 
 - [callumalpass/tasknotes](https://github.com/callumalpass/tasknotes) - Task and time-tracking management with calendar integration for Obsidian
@@ -1909,7 +1910,7 @@
 - [unfoldml/include-env](https://github.com/unfoldml/include-env) - Include environment variables in executables at compile time
 - [astro/skyflake](https://github.com/astro/skyflake) - NixOS Hyperconverged Infrastructure on Nomad/NixOS
 - [nixpak/nixpak](https://github.com/nixpak/nixpak) - Runtime sandboxing for Nix
-- [srid/landrun-nix](https://github.com/srid/landrun-nix) - Nix flake-parts module for landrun (wrap Nix paths in Landlock based sandbox)
+- [srid/sandnix](https://github.com/srid/sandnix) - A Nix flake-parts module for wrapping programs with a sandboxed environment using landrun (Landlock) on Linux, and sandbox-exec on macOS.
 - [Mic92/fast-flake-update](https://github.com/Mic92/fast-flake-update) - Update flake.lock with the latest commit of a local checkout
 - [Sveske-Juice/declarative-jellyfin](https://github.com/Sveske-Juice/declarative-jellyfin) - Nix flake to configure Jellyfin declaratively
 - [viperML/nix-maid](https://github.com/viperML/nix-maid) - [simpler dotfile management]
