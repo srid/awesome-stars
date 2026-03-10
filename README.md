@@ -1082,7 +1082,6 @@
 - [MikeRogers0/LivePage](https://github.com/MikeRogers0/LivePage) - LivePage for Google Chrome reloads website resources (such as CSS, HTML and JavaScript) as they change on the server.
 - [ajnsit/concur](https://github.com/ajnsit/concur) - An unusual Web UI Framework for Haskell
 - [ajnsit/concur-documentation](https://github.com/ajnsit/concur-documentation) - Documentation for Concur
-- [reveddit/reveddit](https://github.com/reveddit/reveddit) - Review removed content on reddit. Uses the Pushshift API, built on code from removeddit.
 - [cohomolo-gy/haskell-resources](https://github.com/cohomolo-gy/haskell-resources) - A List of Foundational Haskell Papers
 - [schmich/marinara](https://github.com/schmich/marinara) - Pomodoro® time management assistant for Chrome
 - [lmmx/gdocs2md-html](https://github.com/lmmx/gdocs2md-html) - Convert a Google Drive Document to a markdown.
@@ -1155,6 +1154,7 @@
 
 ## Kotlin 
 
+- [srid/Appreciate](https://github.com/srid/Appreciate) - A tiny macOS/Android app that periodically flashes a reminder across your screen
 - [android-password-store/Android-Password-Store](https://github.com/android-password-store/Android-Password-Store) - Android application compatible with ZX2C4's Pass command line application
 - [iSoron/uhabits](https://github.com/iSoron/uhabits) - Loop Habit Tracker, a mobile app for creating and maintaining long-term positive habits
 
@@ -2201,6 +2201,7 @@
 - [peaceiris/actions-gh-pages](https://github.com/peaceiris/actions-gh-pages) - GitHub Actions for GitHub Pages 🚀 Deploy static files and publish your site easily. Static-Site-Generators-friendly.
 - [laobubu/HyperMD](https://github.com/laobubu/HyperMD) - A WYSIWYG Markdown Editor for browsers. Break the Wall between writing and previewing.
 - [urbit/sigil-js](https://github.com/urbit/sigil-js) - ~4.2 billion default profile pics
+- [reveddit/reveddit](https://github.com/reveddit/reveddit) - Review removed content on reddit. Uses the Pushshift API, built on code from removeddit.
 - [hasura/graphql-engine](https://github.com/hasura/graphql-engine) - Blazing fast, instant realtime GraphQL APIs on all your data with fine grained access control, also trigger webhooks on database events.
 - [thelounge/thelounge](https://github.com/thelounge/thelounge) - 💬  ‎ Modern, responsive, cross-platform, self-hosted web IRC client
 - [haskell/vscode-haskell](https://github.com/haskell/vscode-haskell) - VS Code extension for Haskell, powered by haskell-language-server
