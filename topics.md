@@ -1870,6 +1870,7 @@
 
 ## others 
 
+- [mozilla/uniffi-rs](https://github.com/mozilla/uniffi-rs) - a multi-language bindings generator for rust
 - [srid/Appreciate](https://github.com/srid/Appreciate) - A tiny macOS/Android app that periodically flashes a reminder across your screen
 - [jdegoes/zproj](https://github.com/jdegoes/zproj) - Parallel workspaces with bare git worktrees and tmux
 - [haskell-wasm/ghc-wasm-reflex-examples](https://github.com/haskell-wasm/ghc-wasm-reflex-examples) - 
