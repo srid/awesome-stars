@@ -242,6 +242,7 @@
 ## Dockerfile 
 
 - [matiu2/tailwind-yew-builder](https://github.com/matiu2/tailwind-yew-builder) - Build tailwind css for yew style applications, using docker-compose, so you don't need to have npm installed
+- [iggredible/Learn-Vim](https://github.com/iggredible/Learn-Vim) - Learning Vim and Vimscript doesn't have to be hard. This is the guide that you're looking for 📖
 
 ## Elixir 
 
@@ -1478,7 +1479,6 @@
 - [fpindia/jobs](https://github.com/fpindia/jobs) - An up to date listing of all FP jobs open to folks in India
 - [prathyvsh/networked-notebooks](https://github.com/prathyvsh/networked-notebooks) - Hyperlinked notebooks
 - [pepeiborra/hls-tutorial](https://github.com/pepeiborra/hls-tutorial) - A tutorial on writing Haskell Language Server plugins
-- [iggredible/Learn-Vim](https://github.com/iggredible/Learn-Vim) - Learning Vim and Vimscript doesn't have to be hard. This is the guide that you're looking for 📖
 - [sponsorware/docs](https://github.com/sponsorware/docs) - What is a Sponsorware project and how can YOU start one?
 - [kowainik/awesome-haskell-sponsorship](https://github.com/kowainik/awesome-haskell-sponsorship) - 💝 Haskell profiles to sponsor
 - [google/eng-practices](https://github.com/google/eng-practices) - Google's Engineering Practices documentation
@@ -1749,6 +1749,7 @@
 
 ## Rust 
 
+- [mozilla/uniffi-rs](https://github.com/mozilla/uniffi-rs) - a multi-language bindings generator for rust
 - [srid/disc-scrape](https://github.com/srid/disc-scrape) - Fetch Discourse posts as Markdown
 - [CryptoGladi/obsidian-parser](https://github.com/CryptoGladi/obsidian-parser) - Blazingly fast Obsidian vault parser with graph analysis
 - [nrdxp/sukr](https://github.com/nrdxp/sukr) - Minimal static site compiler — suckless, Rust, zero JS.
