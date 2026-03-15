@@ -577,6 +577,7 @@
 
 ## Haskell 
 
+- [srid/opencode-haskell](https://github.com/srid/opencode-haskell) - Haskell client library for OpenCode
 - [haskell-wasm/ghc-wasm-reflex-examples](https://github.com/haskell-wasm/ghc-wasm-reflex-examples) - 
 - [jupyter-xeus/xeus-haskell](https://github.com/jupyter-xeus/xeus-haskell) - jupyter / jupyterlite kernel for Haskell powered by WebAssembly
 - [garnix-io/nixos-compose](https://github.com/garnix-io/nixos-compose) - 
@@ -1215,7 +1216,8 @@
 
 ## Nix 
 
-- [juspay/oc](https://github.com/juspay/oc) - One-click access to OpenCode for Nix users
+- [juspay/skills](https://github.com/juspay/skills) - AI skill pack for Nix, etc.
+- [juspay/oc](https://github.com/juspay/oc) - One-click OpenCode for Juspay
 - [srid/hackage-publish](https://github.com/srid/hackage-publish) - A simple script to publish Haskell packages to Hackage with little fanfare.
 - [garnix-io/yensid](https://github.com/garnix-io/yensid) - A proxy for better Nix remote builds
 - [tomberek/-](https://github.com/tomberek/-) - 
@@ -1749,6 +1751,7 @@
 
 ## Rust 
 
+- [MercuryTechnologies/ghciwatch](https://github.com/MercuryTechnologies/ghciwatch) - Load a GHCi session for a Haskell project and reload it when source files change
 - [raine/workmux](https://github.com/raine/workmux) - git worktrees + tmux windows for zero-friction parallel dev
 - [mozilla/uniffi-rs](https://github.com/mozilla/uniffi-rs) - a multi-language bindings generator for rust
 - [srid/disc-scrape](https://github.com/srid/disc-scrape) - Fetch Discourse posts as Markdown
@@ -1796,7 +1799,6 @@
 - [juspay/superposition](https://github.com/juspay/superposition) - Superposition is a context-based configuration management system designed to facilitate safe and flexible rollout of config changes
 - [trashhalo/obsidian-rust-plugin](https://github.com/trashhalo/obsidian-rust-plugin) - 
 - [NiklasEi/cinnog](https://github.com/NiklasEi/cinnog) - Experimental static site generator using Leptos with Bevy ECS as a data layer
-- [MercuryTechnologies/ghciwatch](https://github.com/MercuryTechnologies/ghciwatch) - Load a GHCi session for a Haskell project and reload it when source files change
 - [9999years/tracing-human-layer](https://github.com/9999years/tracing-human-layer) - A human-friendly output layer for the Rust `tracing` library
 - [rust-lang/mdBook](https://github.com/rust-lang/mdBook) - Create book from markdown files. Like Gitbook but implemented in Rust
 - [BurntSushi/jiff](https://github.com/BurntSushi/jiff) - A datetime library for Rust that encourages you to jump into the pit of success.
@@ -2102,6 +2104,7 @@
 
 ## TypeScript 
 
+- [anomalyco/opentui](https://github.com/anomalyco/opentui) - OpenTUI is a library for building terminal user interfaces (TUIs)
 - [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
 - [callumalpass/mdbase-tasknotes](https://github.com/callumalpass/mdbase-tasknotes) - 
 - [callumalpass/tasknotes](https://github.com/callumalpass/tasknotes) - Task and time-tracking management with calendar integration for Obsidian
