@@ -441,6 +441,7 @@
 
 ## cli 
 
+- [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼
 - [google/clasp](https://github.com/google/clasp) - 🔗 Command Line Apps Script Projects
 - [Zouuup/landrun](https://github.com/Zouuup/landrun) - Run any Linux process in a secure, unprivileged sandbox using Landlock. Think firejail, but lightweight, user-friendly, and baked into the kernel.
 - [hercules-ci/haskell-releaser](https://github.com/hercules-ci/haskell-releaser) - Automation of Haskell package release process.
@@ -514,6 +515,7 @@
 
 ## command-line 
 
+- [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼
 - [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm) - An open-source, AI-integrated, cross-platform terminal for seamless workflows
 - [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep) - ⚡A CLI tool for code structural search, lint and rewriting. Written in Rust
 - [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch) - A maintained, feature-rich and performance oriented, neofetch like system information tool.
@@ -1873,7 +1875,7 @@
 - [juspay/skills](https://github.com/juspay/skills) - AI skill pack for Nix, etc.
 - [anomalyco/opentui](https://github.com/anomalyco/opentui) - OpenTUI is a library for building terminal user interfaces (TUIs)
 - [srid/opencode-haskell](https://github.com/srid/opencode-haskell) - Haskell client library for OpenCode
-- [juspay/oc](https://github.com/juspay/oc) - One-click OpenCode for Juspay
+- [juspay/oc](https://github.com/juspay/oc) - One-click AI coding agent for Juspay
 - [raine/workmux](https://github.com/raine/workmux) - git worktrees + tmux windows for zero-friction parallel dev
 - [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
 - [mozilla/uniffi-rs](https://github.com/mozilla/uniffi-rs) - a multi-language bindings generator for rust
@@ -1905,7 +1907,7 @@
 - [tomberek/-](https://github.com/tomberek/-) - 
 - [zero-peak/ZeroOmega](https://github.com/zero-peak/ZeroOmega) - Manage and switch between multiple proxies quickly & easily.
 - [palantir/python-jsonrpc-server](https://github.com/palantir/python-jsonrpc-server) - A Python 2 and 3 asynchronous JSON RPC server
-- [srid/AI](https://github.com/srid/AI) - My AI setup (for coding, in particular)
+- [srid/nix-agent-wire](https://github.com/srid/nix-agent-wire) - Nix Autowiring for LLM Agents
 - [bigskysoftware/fixi](https://github.com/bigskysoftware/fixi) - 
 - [garnix-io/nixos-compose](https://github.com/garnix-io/nixos-compose) - 
 - [hindsight-es/hindsight](https://github.com/hindsight-es/hindsight) - Type-safe event sourcing system for Haskell
@@ -2065,7 +2067,7 @@
 - [guilhermeprokisch/see](https://github.com/guilhermeprokisch/see) - A cute cat(1) for the terminal with advanced code viewing, Markdown rendering, 🌳  tree-sitter syntax highlighting, images view and more.
 - [melange-re/melange](https://github.com/melange-re/melange) - A mixture of tooling combined to produce JavaScript from OCaml & Reason
 - [haskell-wasm/ghc-wasm-miso-examples](https://github.com/haskell-wasm/ghc-wasm-miso-examples) - 
-- [eboody/styled](https://github.com/eboody/styled) - A simple solution for scoped styles in Leptos
+- [eboody/styled](https://github.com/eboody/styled) - Scoped CSS for Leptos with a small Rust-first API.
 - [dominiclet/obsidian-note-definitions](https://github.com/dominiclet/obsidian-note-definitions) - Obsidian plugin for seamless viewing of personal definitions
 - [DrSensor/rescript.nix](https://github.com/DrSensor/rescript.nix) - nix devshell for using rescript compiler without JS runtime
 - [bloodyowl/rescript-pages](https://github.com/bloodyowl/rescript-pages) - A static website generator
@@ -3583,6 +3585,7 @@
 
 ## terminal 
 
+- [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼
 - [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) - Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents
 - [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm) - An open-source, AI-integrated, cross-platform terminal for seamless workflows
 - [MisterTea/EternalTerminal](https://github.com/MisterTea/EternalTerminal) - Re-Connectable secure remote shell
@@ -3723,6 +3726,7 @@
 
 ## video 
 
+- [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼
 - [iina/iina](https://github.com/iina/iina) - The modern video player for macOS.
 - [dertuxmalwieder/yaydl](https://github.com/dertuxmalwieder/yaydl) - yet another youtube down loader (Git mirror)
 - [mpv-player/mpv](https://github.com/mpv-player/mpv) - 🎥 Command line media player
