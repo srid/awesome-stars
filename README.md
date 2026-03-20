@@ -545,7 +545,6 @@
 - [bigskysoftware/fixi](https://github.com/bigskysoftware/fixi) - 
 - [bigskysoftware/idiomorph](https://github.com/bigskysoftware/idiomorph) - A DOM-merging algorithm
 - [monadicsystems/servant-htmx](https://github.com/monadicsystems/servant-htmx) - Provides helper functions and data types for using servant with htmx
-- [juspay/nixone](https://github.com/juspay/nixone) - One-click setup of all things Nix for Juspay'ers
 - [therockstorm/privacy-protect](https://github.com/therockstorm/privacy-protect) - Securely share and store passwords and sensitive files.
 - [robinmoisson/staticrypt](https://github.com/robinmoisson/staticrypt) - Password protect a static HTML page, decrypted in-browser in JS with no dependency. No server logic needed.
 - [phil-opp/blog_os](https://github.com/phil-opp/blog_os) - Writing an OS in Rust
@@ -553,6 +552,7 @@
 - [evildmp/diataxis-documentation-framework](https://github.com/evildmp/diataxis-documentation-framework) - A systematic approach to creating better documentation.
 - [fiatjaf/nostr.technology](https://github.com/fiatjaf/nostr.technology) - hosted with cloudflare pages
 - [bitstein/justmeat.co](https://github.com/bitstein/justmeat.co) - Carnivorous eating, paleolithic ketogenic diet and medicine, and zero carb lifestyle. Don’t bother with vegetables. Just eat meat.
+- [htmlstreamofficial/preline](https://github.com/htmlstreamofficial/preline) - Preline UI is an open-source set of prebuilt UI components based on the utility-first Tailwind CSS framework.
 - [plaintextaccounting/plaintextaccounting](https://github.com/plaintextaccounting/plaintextaccounting) - The plaintextaccounting.org website, a portal to the world of Plain Text Accounting.
 - [tallesl/Rich-Hickey-fanclub](https://github.com/tallesl/Rich-Hickey-fanclub) - "every time I watch one of his talks I feel like someone has gone in and organized my brain"
 - [abuseofnotation/category-theory-illustrated](https://github.com/abuseofnotation/category-theory-illustrated) - A book about category theory
@@ -1219,8 +1219,9 @@
 
 ## Nix 
 
-- [juspay/skills](https://github.com/juspay/skills) - AI skill pack for Nix, etc.
-- [juspay/oc](https://github.com/juspay/oc) - One-click AI coding agent for Juspay
+- [a-kenji/zellij-nix](https://github.com/a-kenji/zellij-nix) - Zellij Nix Environment
+- [juspay/skills](https://github.com/juspay/skills) - MOVED to https://github.com/juspay/AI
+- [juspay/AI](https://github.com/juspay/AI) - One-click AI agent for Juspay
 - [srid/hackage-publish](https://github.com/srid/hackage-publish) - A simple script to publish Haskell packages to Hackage with little fanfare.
 - [garnix-io/yensid](https://github.com/garnix-io/yensid) - A proxy for better Nix remote builds
 - [tomberek/-](https://github.com/tomberek/-) - 
@@ -1980,6 +1981,7 @@
 
 ## Shell 
 
+- [uditgoenka/autoresearch](https://github.com/uditgoenka/autoresearch) - Claude Autoresearch Skill — Autonomous goal-directed iteration for Claude Code. Inspired by Karpathy's autoresearch. Modify → Verify → Keep/Discard → Repeat forever.
 - [jdegoes/zproj](https://github.com/jdegoes/zproj) - Parallel workspaces with bare git worktrees and tmux
 - [diet103/claude-code-infrastructure-showcase](https://github.com/diet103/claude-code-infrastructure-showcase) - Examples of my Claude Code infrastructure with skill auto-activation, hooks, and agents
 - [srid/nix-systems](https://github.com/srid/nix-systems) - 
@@ -1989,6 +1991,7 @@
 - [haskell-wasm/ghc-wasm-meta](https://github.com/haskell-wasm/ghc-wasm-meta) - Read-only mirror of ghc-wasm-meta on ghc gitlab
 - [basecamp/gh-signoff](https://github.com/basecamp/gh-signoff) - Local CI. Sign off on your own work.
 - [sheerun/git-squash](https://github.com/sheerun/git-squash) - Locally squash commits on a branch without resolving any conflicts (a'la squash and merge)
+- [juspay/nixone](https://github.com/juspay/nixone) - One-click setup of all things Nix for Juspay'ers
 - [githubnext/monaspace](https://github.com/githubnext/monaspace) - An innovative superfamily of fonts for code
 - [basecamp/omakub](https://github.com/basecamp/omakub) - Opinionated Ubuntu Setup
 - [navikt/github-app-token-generator](https://github.com/navikt/github-app-token-generator) - GitHub action for generating an installation token for a GitHub App
@@ -2107,6 +2110,7 @@
 
 ## TypeScript 
 
+- [coder/ghostty-web](https://github.com/coder/ghostty-web) - Ghostty for the web with xterm.js API compatibility
 - [anomalyco/opentui](https://github.com/anomalyco/opentui) - OpenTUI is a library for building terminal user interfaces (TUIs)
 - [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
 - [callumalpass/mdbase-tasknotes](https://github.com/callumalpass/mdbase-tasknotes) - 
@@ -2154,7 +2158,6 @@
 - [ryan4yin/nixos-and-flakes-book](https://github.com/ryan4yin/nixos-and-flakes-book) - :hammer_and_wrench: :heart: Want to know NixOS & Flakes in detail? Looking for a beginner-friendly tutorial? Then you've come to the right place!  想要学习使用 NixOS 与 Flakes 吗？在寻找一份新手友好的教程？那你可来对地方了！
 - [pionxzh/chatgpt-exporter](https://github.com/pionxzh/chatgpt-exporter) - Export and Share your ChatGPT conversation history
 - [phindle/error-lens](https://github.com/phindle/error-lens) - Visual Studio Code extension which enhances the display of errors and warnings.
-- [htmlstreamofficial/preline](https://github.com/htmlstreamofficial/preline) - Preline UI is an open-source set of prebuilt UI components based on the utility-first Tailwind CSS framework.
 - [mark-when/mw](https://github.com/mark-when/mw) - Markwhen CLI
 - [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
 - [jupyter-book/jupyter-book](https://github.com/jupyter-book/jupyter-book) - Create beautiful, publication-quality books and documents from computational content.
