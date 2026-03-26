@@ -443,6 +443,7 @@
 
 ## cli 
 
+- [bpauli/gccli](https://github.com/bpauli/gccli) - A command-line interface for Garmin Connect — activities, health, courses, workouts, devices, and more — with JSON output and secure credential storage.
 - [modem-dev/hunk](https://github.com/modem-dev/hunk) - Review-first terminal diff viewer for agentic coders
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼
 - [google/clasp](https://github.com/google/clasp) - 🔗 Command Line Apps Script Projects
@@ -1036,6 +1037,7 @@
 
 ## golang 
 
+- [bpauli/gccli](https://github.com/bpauli/gccli) - A command-line interface for Garmin Connect — activities, health, courses, workouts, devices, and more — with JSON output and secure credential storage.
 - [Zouuup/landrun](https://github.com/Zouuup/landrun) - Run any Linux process in a secure, unprivileged sandbox using Landlock. Think firejail, but lightweight, user-friendly, and baked into the kernel.
 - [filllabs/dependi](https://github.com/filllabs/dependi) - Dependi (formerly crates)
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
@@ -1881,6 +1883,7 @@
 
 ## others 
 
+- [halfwhey/nix-apple-container](https://github.com/halfwhey/nix-apple-container) - 
 - [srid/localci](https://github.com/srid/localci) - Local CI with multi-system support
 - [Weizhena/Deep-Research-skills](https://github.com/Weizhena/Deep-Research-skills) - Structured deep research skill for Claude Code/Open Code/Codex with human-in-the-loop control
 - [catenarytransit/rtc_quebec_proxy_zip](https://github.com/catenarytransit/rtc_quebec_proxy_zip) - 
