@@ -767,6 +767,7 @@
 - [serokell/haskell-with-utf8](https://github.com/serokell/haskell-with-utf8) - Get your IO right on the first try
 - [fission-codes/ipfs-haskell](https://github.com/fission-codes/ipfs-haskell) - IPFS wrapper for Haskell
 - [fizruk/telegram-bot-simple](https://github.com/fizruk/telegram-bot-simple) - Easy to use library for building Telegram bots in Haskell.
+- [obsidiansystems/obelisk-tailwind-example](https://github.com/obsidiansystems/obelisk-tailwind-example) - An example project using Obelisk, PostCSS, and Tailwind CSS
 - [taffybar/taffybar](https://github.com/taffybar/taffybar) - A gtk based status bar for tiling window managers such as XMonad
 - [obsidiansystems/directory-contents](https://github.com/obsidiansystems/directory-contents) - Recursively build a tree of directory contents, avoiding symlink cycles
 - [JeffreyBenjaminBrown/hode](https://github.com/JeffreyBenjaminBrown/hode) - rslt, take five-ish
@@ -1222,6 +1223,7 @@
 
 ## Nix 
 
+- [Mic92/adios-flake](https://github.com/Mic92/adios-flake) - Composable flake outputs using the adios module system — the ergonomics of flake-parts without the evaluation overhead.
 - [halfwhey/nix-apple-container](https://github.com/halfwhey/nix-apple-container) - 
 - [a-kenji/zellij-nix](https://github.com/a-kenji/zellij-nix) - Zellij Nix Environment
 - [juspay/skills](https://github.com/juspay/skills) - MOVED to https://github.com/juspay/AI
@@ -1363,7 +1365,6 @@
 - [oxalica/rust-overlay](https://github.com/oxalica/rust-overlay) - Pure and reproducible nix overlay of binary distributed rust toolchains
 - [barrucadu/nixfiles](https://github.com/barrucadu/nixfiles) - My NixOS configuration and assorted other crap.
 - [obsidiansystems/obelisk-systemd](https://github.com/obsidiansystems/obelisk-systemd) - Turn your obelisk app into a systemd service
-- [obsidiansystems/obelisk-tailwind-example](https://github.com/obsidiansystems/obelisk-tailwind-example) - An example project using Obelisk, PostCSS, and Tailwind CSS
 - [srid/pandoc-link-context](https://github.com/srid/pandoc-link-context) - Extract context around links in Pandoc
 - [srid/reflex-stone](https://github.com/srid/reflex-stone) - Template repository for writing GHCJS/Reflex apps targeting static sites without a backend.
 - [vlaci/nix-doom-emacs](https://github.com/vlaci/nix-doom-emacs) - doom-emacs packaged for Nix
@@ -1414,6 +1415,7 @@
 
 ## Others 
 
+- [mohammedAcheddad/SSH_port_forwarding](https://github.com/mohammedAcheddad/SSH_port_forwarding) - a full tutorial on how to use ssh port forwarding with all its types
 - [nrdxp/predicate](https://github.com/nrdxp/predicate) - Reusable agent predicates (rulesets) and workflows for agentic coding assistants.
 - [Uzaaft/awesome-libghostty](https://github.com/Uzaaft/awesome-libghostty) - 
 - [MiniMax-AI/MiniMax-M2](https://github.com/MiniMax-AI/MiniMax-M2) - MiniMax-M2, a model built for Max coding & agentic workflows.
@@ -1760,6 +1762,8 @@
 
 ## Rust 
 
+- [nikstur/lon](https://github.com/nikstur/lon) - Lock & update Nix dependencies
+- [andir/npins](https://github.com/andir/npins) - Nix dependency pinning. Very similar to Niv but has a few features that I personally wanted.
 - [catenarytransit/rtc_quebec_proxy_zip](https://github.com/catenarytransit/rtc_quebec_proxy_zip) - 
 - [catenarytransit/rtc_quebec_gtfs_rt](https://github.com/catenarytransit/rtc_quebec_gtfs_rt) - Conversion de l'API RTC Québec en GTFS temps réel | Conversion of RTC Quebec API to GTFS realtime
 - [antithesishq/bombadil](https://github.com/antithesishq/bombadil) - Property-based testing for web UIs, autonomously exploring and validating correctness properties, finding harder bugs earlier
@@ -2122,7 +2126,7 @@
 
 - [corvudev/corvu](https://github.com/corvudev/corvu) - 🐦‍⬛ Unstyled, accessible and customizable UI primitives for SolidJS
 - [modem-dev/hunk](https://github.com/modem-dev/hunk) - Review-first terminal diff viewer for agentic coders
-- [juspay/kolu](https://github.com/juspay/kolu) - WIP
+- [juspay/kolu](https://github.com/juspay/kolu) - WIP: Web-based Agentic Development Environment (ADE) built on terminals
 - [coder/ghostty-web](https://github.com/coder/ghostty-web) - Ghostty for the web with xterm.js API compatibility
 - [anomalyco/opentui](https://github.com/anomalyco/opentui) - OpenTUI is a library for building terminal user interfaces (TUIs)
 - [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
