@@ -1297,7 +1297,7 @@
 - [srid/cargo-doc-live](https://github.com/srid/cargo-doc-live) - Flake module to provide live server version of `cargo doc`
 - [tweag/opam-nix](https://github.com/tweag/opam-nix) - Turn opam-based OCaml projects into Nix derivations
 - [brendanzab/ocaml-flake-example](https://github.com/brendanzab/ocaml-flake-example) - An overly elaborate example of building a ‘Hello World’ package with Nix flakes, OCaml, and Dune
-- [juspay/services-flake](https://github.com/juspay/services-flake) - NixOS-like services for Nix flakes
+- [juspay/services-flake](https://github.com/juspay/services-flake) - NixOS-like services for Nix flakes [maintainer=@shivaraj-bh]
 - [mrkkrp/emacs-package-flake](https://github.com/mrkkrp/emacs-package-flake) - A Nix library that facilitates definition of flakes for Emacs packages
 - [jetify-com/nixtest](https://github.com/jetify-com/nixtest) - A tiny unit testing framework written in pure Nix
 - [shivaraj-bh/nix-workshop](https://github.com/shivaraj-bh/nix-workshop) - Workshop materials
@@ -2035,7 +2035,6 @@
 - [heroku/docker-go-base](https://github.com/heroku/docker-go-base) - 
 - [michaeldfallen/git-radar](https://github.com/michaeldfallen/git-radar) - A heads up display for git
 - [heroku/docker-python](https://github.com/heroku/docker-python) - [DEPRECATED] Docker image for Python (and Heroku).
-- [heroku/dotnet-buildpack](https://github.com/heroku/dotnet-buildpack) - ASP.NET 5 Buildpack
 - [srid/heroku-buildpack-elm](https://github.com/srid/heroku-buildpack-elm) - Heroku buildpack for deploying Elm apps (NEEDS MAINTAINER)
 - [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Over 450 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTermin
 - [ActiveState/activepython-docker](https://github.com/ActiveState/activepython-docker) - ActivePython Docker image
