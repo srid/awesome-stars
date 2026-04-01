@@ -2223,7 +2223,7 @@
 - [lovvtide/satellite-web](https://github.com/lovvtide/satellite-web) - Satellite nostr client
 - [tweag/opam-nix](https://github.com/tweag/opam-nix) - Turn opam-based OCaml projects into Nix derivations
 - [brendanzab/ocaml-flake-example](https://github.com/brendanzab/ocaml-flake-example) - An overly elaborate example of building a ‘Hello World’ package with Nix flakes, OCaml, and Dune
-- [juspay/services-flake](https://github.com/juspay/services-flake) - NixOS-like services for Nix flakes
+- [juspay/services-flake](https://github.com/juspay/services-flake) - NixOS-like services for Nix flakes [maintainer=@shivaraj-bh]
 - [mrkkrp/emacs-package-flake](https://github.com/mrkkrp/emacs-package-flake) - A Nix library that facilitates definition of flakes for Emacs packages
 - [jetify-com/nixtest](https://github.com/jetify-com/nixtest) - A tiny unit testing framework written in pure Nix
 - [well-typed/unfolder](https://github.com/well-typed/unfolder) - Repository with code snippets that accompany episodes of The Haskell Unfolder
@@ -2849,7 +2849,6 @@
 - [mdgriffith/elm-electron-todomvc](https://github.com/mdgriffith/elm-electron-todomvc) - Proper implementation of the TodoMVC app
 - [domgetter/NCoC](https://github.com/domgetter/NCoC) - No Code of Conduct: A Code of Conduct for Adults in Open Source Software
 - [heroku/heroku-buildpack-static](https://github.com/heroku/heroku-buildpack-static) - [DEPRECATED] Heroku buildpack for handling static sites and single page web apps
-- [heroku/dotnet-buildpack](https://github.com/heroku/dotnet-buildpack) - ASP.NET 5 Buildpack
 - [websharper-samples/ui](https://github.com/websharper-samples/ui) - An experiment in next-generation front-end combinator library for WebSharper
 - [heroku/logplex](https://github.com/heroku/logplex) - [DEPRECATED] Heroku log router
 - [paldepind/synceddb](https://github.com/paldepind/synceddb) - Makes it easy to write offline-first applications with realtime syncing and server side persistence.
