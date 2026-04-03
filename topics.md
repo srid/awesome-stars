@@ -252,6 +252,7 @@
 
 ## ai-agents 
 
+- [microsoft/apm](https://github.com/microsoft/apm) - Agent Package Manager
 - [Datron/jilebi](https://github.com/Datron/jilebi) - MCP runtime with javacript plugins
 - [mem0ai/mem0](https://github.com/mem0ai/mem0) - Universal memory layer for AI Agents
 - [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data
@@ -1894,6 +1895,8 @@
 
 ## others 
 
+- [kunchenguid/gnhf](https://github.com/kunchenguid/gnhf) - Before I go to bed, I tell my agents: good night, have fun
+- [MercuryTechnologies/claude](https://github.com/MercuryTechnologies/claude) - Haskell bindings to Claude API
 - [Ataraxy-Labs/opensessions](https://github.com/Ataraxy-Labs/opensessions) - bring your own multiplexer — terminal session manager with agent status, git branches, and instant switching
 - [adisbladis/adios](https://github.com/adisbladis/adios) - 
 - [Mic92/adios-flake](https://github.com/Mic92/adios-flake) - Composable flake outputs using the adios module system — the ergonomics of flake-parts without the evaluation overhead.
@@ -3136,6 +3139,7 @@
 
 ## package-manager 
 
+- [microsoft/apm](https://github.com/microsoft/apm) - Agent Package Manager
 - [nikstur/lon](https://github.com/nikstur/lon) - Lock & update Nix dependencies
 - [brioche-dev/brioche](https://github.com/brioche-dev/brioche) - A delicious package manager
 - [microsoft/winget-cli](https://github.com/microsoft/winget-cli) - WinGet is the Windows Package Manager. This project includes a CLI (Command Line Interface), PowerShell modules, and a COM (Component Object Model) API (Application Programming Interface).
@@ -3221,6 +3225,7 @@
 
 ## prompt-engineering 
 
+- [microsoft/apm](https://github.com/microsoft/apm) - Agent Package Manager
 - [github/awesome-copilot](https://github.com/github/awesome-copilot) - Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.
 - [Gabriella439/grace](https://github.com/Gabriella439/grace) - A prompt engineering functional programming language
 
