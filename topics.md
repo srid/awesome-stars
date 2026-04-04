@@ -1895,6 +1895,7 @@
 
 ## others 
 
+- [srid/agency](https://github.com/srid/agency) - My near-autonomous workflow for coding agents
 - [kunchenguid/gnhf](https://github.com/kunchenguid/gnhf) - Before I go to bed, I tell my agents: good night, have fun
 - [MercuryTechnologies/claude](https://github.com/MercuryTechnologies/claude) - Haskell bindings to Claude API
 - [Ataraxy-Labs/opensessions](https://github.com/Ataraxy-Labs/opensessions) - bring your own multiplexer — terminal session manager with agent status, git branches, and instant switching
@@ -1913,7 +1914,7 @@
 - [nammayatri/claude-fleet](https://github.com/nammayatri/claude-fleet) - A parallel task orchestrator for running hundreds of [Claude Code](https://docs.anthropic.com/en/docs/claude-code) sessions concurrently. Maximize your Claude Max subscription by running audit, fix, a
 - [a-kenji/zellij-nix](https://github.com/a-kenji/zellij-nix) - Zellij Nix Environment
 - [Mic92/niks3](https://github.com/Mic92/niks3) - S3-backed Nix binary cache with garbage collection
-- [juspay/skills](https://github.com/juspay/skills) - MOVED to https://github.com/juspay/AI
+- [juspay/skills](https://github.com/juspay/skills) - WIP
 - [anomalyco/opentui](https://github.com/anomalyco/opentui) - OpenTUI is a library for building terminal user interfaces (TUIs)
 - [srid/opencode-haskell](https://github.com/srid/opencode-haskell) - Haskell client library for OpenCode
 - [juspay/AI](https://github.com/juspay/AI) - One-click AI agent for Juspay
