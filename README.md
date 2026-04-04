@@ -7,7 +7,6 @@
 
 - [Agda](#agda)
 - [AutoHotkey](#autohotkey)
-- [Blade](#blade)
 - [C](#c)
 - [C#](#c#)
 - [C++](#c++)
@@ -30,6 +29,7 @@
 - [Java](#java)
 - [JavaScript](#javascript)
 - [Jupyter Notebook](#jupyter-notebook)
+- [Just](#just)
 - [Kotlin](#kotlin)
 - [Lean](#lean)
 - [Lua](#lua)
@@ -89,10 +89,6 @@
 ## AutoHotkey 
 
 - [lydell/spacefn-win](https://github.com/lydell/spacefn-win) - A Windows implementation of the SpaceFN keyboard layout.
-
-## Blade 
-
-- [grocy/grocy](https://github.com/grocy/grocy) - ERP beyond your fridge - Grocy is a web-based self-hosted groceries & household management solution for your home
 
 ## C 
 
@@ -1041,6 +1037,7 @@
 - [dougppaz/youtube-music-dl](https://github.com/dougppaz/youtube-music-dl) - Chrome Extension to download music file with tags and cover from Youtube Music.
 - [ganeshrvel/openmtp](https://github.com/ganeshrvel/openmtp) - OpenMTP  - Advanced Android File Transfer Application for macOS
 - [bigskysoftware/htmx-extensions](https://github.com/bigskysoftware/htmx-extensions) - 
+- [grocy/grocy](https://github.com/grocy/grocy) - ERP beyond your fridge - Grocy is a web-based self-hosted groceries & household management solution for your home
 - [bigskysoftware/_hyperscript](https://github.com/bigskysoftware/_hyperscript) - a small scripting language for the web
 - [fiatjaf/nos2x](https://github.com/fiatjaf/nos2x) - nostr signer extension
 - [Haskell-Things/ImplicitCAD](https://github.com/Haskell-Things/ImplicitCAD) - A math-inspired CAD program in haskell. CSG, bevels, and shells; 2D & 3D geometry; 2D gcode generation...
@@ -1161,6 +1158,10 @@
 - [IHaskell/IHaskell](https://github.com/IHaskell/IHaskell) - A Haskell kernel for the Jupyter project.
 - [vaibhavsagar/notebooks](https://github.com/vaibhavsagar/notebooks) - Jupyter notebooks
 
+## Just 
+
+- [juspay/skills](https://github.com/juspay/skills) - WIP
+
 ## Kotlin 
 
 - [srid/Appreciate](https://github.com/srid/Appreciate) - A tiny macOS/Android app that periodically flashes a reminder across your screen
@@ -1227,7 +1228,6 @@
 - [Mic92/adios-flake](https://github.com/Mic92/adios-flake) - Composable flake outputs using the adios module system — the ergonomics of flake-parts without the evaluation overhead.
 - [halfwhey/nix-apple-container](https://github.com/halfwhey/nix-apple-container) - 
 - [a-kenji/zellij-nix](https://github.com/a-kenji/zellij-nix) - Zellij Nix Environment
-- [juspay/skills](https://github.com/juspay/skills) - MOVED to https://github.com/juspay/AI
 - [juspay/AI](https://github.com/juspay/AI) - One-click AI agent for Juspay
 - [srid/hackage-publish](https://github.com/srid/hackage-publish) - A simple script to publish Haskell packages to Hackage with little fanfare.
 - [garnix-io/yensid](https://github.com/garnix-io/yensid) - A proxy for better Nix remote builds
@@ -2125,6 +2125,7 @@
 
 ## TypeScript 
 
+- [srid/agency](https://github.com/srid/agency) - My near-autonomous workflow for coding agents
 - [kunchenguid/gnhf](https://github.com/kunchenguid/gnhf) - Before I go to bed, I tell my agents: good night, have fun
 - [Ataraxy-Labs/opensessions](https://github.com/Ataraxy-Labs/opensessions) - bring your own multiplexer — terminal session manager with agent status, git branches, and instant switching
 - [sindresorhus/conf](https://github.com/sindresorhus/conf) - Simple config handling for your app or module
