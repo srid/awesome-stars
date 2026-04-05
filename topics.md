@@ -252,6 +252,7 @@
 
 ## ai-agents 
 
+- [avivsinai/bitbucket-cli](https://github.com/avivsinai/bitbucket-cli) - Bitbucket CLI with gh-like ergonomics
 - [microsoft/apm](https://github.com/microsoft/apm) - Agent Package Manager
 - [Datron/jilebi](https://github.com/Datron/jilebi) - MCP runtime with javacript plugins
 - [mem0ai/mem0](https://github.com/mem0ai/mem0) - Universal memory layer for AI Agents
@@ -445,6 +446,7 @@
 
 ## cli 
 
+- [avivsinai/bitbucket-cli](https://github.com/avivsinai/bitbucket-cli) - Bitbucket CLI with gh-like ergonomics
 - [bpauli/gccli](https://github.com/bpauli/gccli) - A command-line interface for Garmin Connect — activities, health, courses, workouts, devices, and more — with JSON output and secure credential storage.
 - [modem-dev/hunk](https://github.com/modem-dev/hunk) - Review-first terminal diff viewer for agentic coders
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼
@@ -694,6 +696,7 @@
 
 ## developer-tools 
 
+- [avivsinai/bitbucket-cli](https://github.com/avivsinai/bitbucket-cli) - Bitbucket CLI with gh-like ergonomics
 - [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm) - An open-source, AI-integrated, cross-platform terminal for seamless workflows
 - [utensils/mcp-nixos](https://github.com/utensils/mcp-nixos) - MCP-NixOS - Model Context Protocol Server for NixOS resources
 - [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
@@ -713,6 +716,7 @@
 
 ## devops 
 
+- [avivsinai/bitbucket-cli](https://github.com/avivsinai/bitbucket-cli) - Bitbucket CLI with gh-like ergonomics
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 - [divnix/std](https://github.com/divnix/std) - A DevOps framework for the SDLC with the power of Nix and Flakes. Good for keeping deadlines!
 - [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
@@ -949,6 +953,7 @@
 
 ## git 
 
+- [avivsinai/bitbucket-cli](https://github.com/avivsinai/bitbucket-cli) - Bitbucket CLI with gh-like ergonomics
 - [modem-dev/hunk](https://github.com/modem-dev/hunk) - Review-first terminal diff viewer for agentic coders
 - [tom-pollak/lazygit-vscode](https://github.com/tom-pollak/lazygit-vscode) - https://marketplace.visualstudio.com/items?itemName=TomPollak.lazygit-vscode
 - [sheerun/git-squash](https://github.com/sheerun/git-squash) - Locally squash commits on a branch without resolving any conflicts (a'la squash and merge)
@@ -1047,6 +1052,7 @@
 
 ## golang 
 
+- [avivsinai/bitbucket-cli](https://github.com/avivsinai/bitbucket-cli) - Bitbucket CLI with gh-like ergonomics
 - [bpauli/gccli](https://github.com/bpauli/gccli) - A command-line interface for Garmin Connect — activities, health, courses, workouts, devices, and more — with JSON output and secure credential storage.
 - [Zouuup/landrun](https://github.com/Zouuup/landrun) - Run any Linux process in a secure, unprivileged sandbox using Landlock. Think firejail, but lightweight, user-friendly, and baked into the kernel.
 - [filllabs/dependi](https://github.com/filllabs/dependi) - Dependi (formerly crates)
@@ -1895,6 +1901,7 @@
 
 ## others 
 
+- [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) - Production-grade engineering skills for AI coding agents.
 - [srid/agency](https://github.com/srid/agency) - My near-autonomous workflow for coding agents
 - [kunchenguid/gnhf](https://github.com/kunchenguid/gnhf) - Before I go to bed, I tell my agents: good night, have fun
 - [MercuryTechnologies/claude](https://github.com/MercuryTechnologies/claude) - Haskell bindings to Claude API
@@ -1914,7 +1921,7 @@
 - [nammayatri/claude-fleet](https://github.com/nammayatri/claude-fleet) - A parallel task orchestrator for running hundreds of [Claude Code](https://docs.anthropic.com/en/docs/claude-code) sessions concurrently. Maximize your Claude Max subscription by running audit, fix, a
 - [a-kenji/zellij-nix](https://github.com/a-kenji/zellij-nix) - Zellij Nix Environment
 - [Mic92/niks3](https://github.com/Mic92/niks3) - S3-backed Nix binary cache with garbage collection
-- [juspay/skills](https://github.com/juspay/skills) - WIP
+- [juspay/skills](https://github.com/juspay/skills) - Various useful skills for development
 - [anomalyco/opentui](https://github.com/anomalyco/opentui) - OpenTUI is a library for building terminal user interfaces (TUIs)
 - [srid/opencode-haskell](https://github.com/srid/opencode-haskell) - Haskell client library for OpenCode
 - [juspay/AI](https://github.com/juspay/AI) - One-click AI agent for Juspay
