@@ -149,6 +149,7 @@
 
 ## C++ 
 
+- [love2d/love](https://github.com/love2d/love) - LÖVE is an awesome 2D game framework for Lua.
 - [FedoraQt/MediaWriter](https://github.com/FedoraQt/MediaWriter) - Fedora Media Writer - Write Fedora Images to Portable Media
 - [emcrisostomo/fswatch](https://github.com/emcrisostomo/fswatch) - A cross-platform file change monitor with multiple backends: Apple macOS File System Events, *BSD kqueue, Solaris/Illumos File Events Notification, Linux inotify, Microsoft Windows and a stat()-based 
 - [MisterTea/EternalTerminal](https://github.com/MisterTea/EternalTerminal) - Re-Connectable secure remote shell
@@ -1153,7 +1154,7 @@
 
 - [chiphuyen/aie-book](https://github.com/chiphuyen/aie-book) - [WIP] Resources for AI engineers. Also contains supporting materials for the book AI Engineering (Chip Huyen, 2025)
 - [AnswerDotAI/llms-txt](https://github.com/AnswerDotAI/llms-txt) - The /llms.txt file, helping language models use your website
-- [kayceesrk/cs3100_m20](https://github.com/kayceesrk/cs3100_m20) - CS3100: Paradigms of Programming at CSE IITM (Monsoon 2020)
+- [fplaunchpad/cs3100_m20](https://github.com/fplaunchpad/cs3100_m20) - CS3100: Paradigms of Programming at CSE IITM (Monsoon 2020)
 - [hunterad93/actualism_chat](https://github.com/hunterad93/actualism_chat) - a fun chatbot that uses 'actualfreedom.com.au' as its knowledge base for retrieval augmented chat
 - [input-output-hk/haskell-course](https://github.com/input-output-hk/haskell-course) - This course is designed to teach non-engineers (e.g., self-taught/bootcamp coders) Haskell from zero to productive in an interactive, easy-to-follow way.
 - [IHaskell/IHaskell](https://github.com/IHaskell/IHaskell) - A Haskell kernel for the Jupyter project.
@@ -1225,6 +1226,7 @@
 
 ## Nix 
 
+- [juspay/project-unknown](https://github.com/juspay/project-unknown) - TBD
 - [adisbladis/adios](https://github.com/adisbladis/adios) - 
 - [Mic92/adios-flake](https://github.com/Mic92/adios-flake) - Composable flake outputs using the adios module system — the ergonomics of flake-parts without the evaluation overhead.
 - [halfwhey/nix-apple-container](https://github.com/halfwhey/nix-apple-container) - 
@@ -1997,6 +1999,7 @@
 ## Shell 
 
 - [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) - Production-grade engineering skills for AI coding agents.
+- [srid/agency](https://github.com/srid/agency) - My near-autonomous workflow for coding agents
 - [nammayatri/claude-fleet](https://github.com/nammayatri/claude-fleet) - A parallel task orchestrator for running hundreds of [Claude Code](https://docs.anthropic.com/en/docs/claude-code) sessions concurrently. Maximize your Claude Max subscription by running audit, fix, a
 - [uditgoenka/autoresearch](https://github.com/uditgoenka/autoresearch) - Claude Autoresearch Skill — Autonomous goal-directed iteration for Claude Code. Inspired by Karpathy's autoresearch. Modify → Verify → Keep/Discard → Repeat forever.
 - [jdegoes/zproj](https://github.com/jdegoes/zproj) - Parallel workspaces with bare git worktrees and tmux
@@ -2127,7 +2130,6 @@
 
 ## TypeScript 
 
-- [srid/agency](https://github.com/srid/agency) - My near-autonomous workflow for coding agents
 - [kunchenguid/gnhf](https://github.com/kunchenguid/gnhf) - Before I go to bed, I tell my agents: good night, have fun
 - [Ataraxy-Labs/opensessions](https://github.com/Ataraxy-Labs/opensessions) - bring your own multiplexer — terminal session manager with agent status, git branches, and instant switching
 - [sindresorhus/conf](https://github.com/sindresorhus/conf) - Simple config handling for your app or module
