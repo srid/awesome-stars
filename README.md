@@ -29,7 +29,6 @@
 - [Java](#java)
 - [JavaScript](#javascript)
 - [Jupyter Notebook](#jupyter-notebook)
-- [Just](#just)
 - [Kotlin](#kotlin)
 - [Lean](#lean)
 - [Lua](#lua)
@@ -1160,10 +1159,6 @@
 - [IHaskell/IHaskell](https://github.com/IHaskell/IHaskell) - A Haskell kernel for the Jupyter project.
 - [vaibhavsagar/notebooks](https://github.com/vaibhavsagar/notebooks) - Jupyter notebooks
 
-## Just 
-
-- [juspay/skills](https://github.com/juspay/skills) - Various useful skills for development
-
 ## Kotlin 
 
 - [srid/Appreciate](https://github.com/srid/Appreciate) - A tiny macOS/Android app that periodically flashes a reminder across your screen
@@ -1311,6 +1306,7 @@
 - [nix-systems/current-system](https://github.com/nix-systems/current-system) - Like `builtins.currentSystem` but for the CLI
 - [nix-systems/flake-outputs](https://github.com/nix-systems/flake-outputs) - Get buildable outputs of a flake
 - [nix-systems/aarch64-darwin](https://github.com/nix-systems/aarch64-darwin) - 
+- [Criome/lojix](https://github.com/Criome/lojix) - Meta-Programming Data-Interface
 - [juspay/nixos-unified-template](https://github.com/juspay/nixos-unified-template) - A multi-platform Nix configuration template optimized for development environment, based on nixos-unified.
 - [cachix/git-hooks.nix](https://github.com/cachix/git-hooks.nix) - Seamless integration of https://pre-commit.com git hooks with Nix.
 - [Mic92/sops-nix](https://github.com/Mic92/sops-nix) - Atomic secret provisioning for NixOS based on sops
@@ -1421,6 +1417,7 @@
 
 - [mohammedAcheddad/SSH_port_forwarding](https://github.com/mohammedAcheddad/SSH_port_forwarding) - a full tutorial on how to use ssh port forwarding with all its types
 - [nrdxp/predicate](https://github.com/nrdxp/predicate) - Reusable agent predicates (rulesets) and workflows for agentic coding assistants.
+- [juspay/skills](https://github.com/juspay/skills) - Various useful skills for development
 - [Uzaaft/awesome-libghostty](https://github.com/Uzaaft/awesome-libghostty) - 
 - [MiniMax-AI/MiniMax-M2](https://github.com/MiniMax-AI/MiniMax-M2) - MiniMax-M2, a model built for Max coding & agentic workflows.
 - [dharmx/walls](https://github.com/dharmx/walls) - All of my wallpapers in one repo.
@@ -1914,7 +1911,6 @@
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
 - [Skallwar/suckit](https://github.com/Skallwar/suckit) - Suck the InTernet
 - [zurawiki/gptcommit](https://github.com/zurawiki/gptcommit) - A git prepare-commit-msg hook for authoring commit messages with LLMs.
-- [Criome/lojix](https://github.com/Criome/lojix) - Meta-Programming Data-Interface
 - [typst/typst](https://github.com/typst/typst) - A markup-based typesetting system that is powerful and easy to learn.
 - [watchexec/watchexec](https://github.com/watchexec/watchexec) - Executes commands in response to file modifications
 - [zhaofengli/attic](https://github.com/zhaofengli/attic) - Multi-tenant Nix Binary Cache
