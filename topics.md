@@ -30,6 +30,7 @@
 - [chatgpt](#chatgpt)
 - [chrome](#chrome)
 - [chrome-extension](#chrome-extension)
+- [claude-code](#claude-code)
 - [cli](#cli)
 - [clojure](#clojure)
 - [cloud](#cloud)
@@ -443,6 +444,16 @@
 - [notlmn/copy-as-markdown](https://github.com/notlmn/copy-as-markdown) - 📋 Browser extension to copy text as Markdown (with GFM and MathML support)
 - [dessant/web-archives](https://github.com/dessant/web-archives) - Browser extension for viewing archived and cached versions of web pages, available for Chrome, Edge and Safari
 - [kamranahmedse/githunt](https://github.com/kamranahmedse/githunt) - Hunt the most starred projects on any date on GitHub
+
+## claude-code 
+
+- [avivsinai/bitbucket-cli](https://github.com/avivsinai/bitbucket-cli) - Bitbucket CLI with gh-like ergonomics
+- [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) - Production-grade engineering skills for AI coding agents.
+- [microsoft/apm](https://github.com/microsoft/apm) - Agent Package Manager
+- [Weizhena/Deep-Research-skills](https://github.com/Weizhena/Deep-Research-skills) - Structured deep research skill for Claude Code/Open Code/Codex with human-in-the-loop control
+- [uditgoenka/autoresearch](https://github.com/uditgoenka/autoresearch) - Claude Autoresearch Skill — Autonomous goal-directed iteration for Claude Code. Inspired by Karpathy's autoresearch. Modify → Verify → Keep/Discard → Repeat forever.
+- [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) - Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents
+- [greggh/claude-code.nvim](https://github.com/greggh/claude-code.nvim) - Seamless integration between Claude Code AI assistant and Neovim
 
 ## cli 
 
@@ -1905,7 +1916,6 @@
 ## others 
 
 - [juspay/project-unknown](https://github.com/juspay/project-unknown) - TBD
-- [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) - Production-grade engineering skills for AI coding agents.
 - [srid/agency](https://github.com/srid/agency) - My near-autonomous workflow for coding agents
 - [kunchenguid/gnhf](https://github.com/kunchenguid/gnhf) - Before I go to bed, I tell my agents: good night, have fun
 - [MercuryTechnologies/claude](https://github.com/MercuryTechnologies/claude) - Haskell bindings to Claude API
@@ -1915,7 +1925,6 @@
 - [andir/npins](https://github.com/andir/npins) - Nix dependency pinning. Very similar to Niv but has a few features that I personally wanted.
 - [halfwhey/nix-apple-container](https://github.com/halfwhey/nix-apple-container) - 
 - [srid/localci](https://github.com/srid/localci) - Local CI with multi-system support
-- [Weizhena/Deep-Research-skills](https://github.com/Weizhena/Deep-Research-skills) - Structured deep research skill for Claude Code/Open Code/Codex with human-in-the-loop control
 - [catenarytransit/rtc_quebec_proxy_zip](https://github.com/catenarytransit/rtc_quebec_proxy_zip) - 
 - [catenarytransit/rtc-nomade-web-version](https://github.com/catenarytransit/rtc-nomade-web-version) - 
 - [catenarytransit/rtc_quebec_gtfs_rt](https://github.com/catenarytransit/rtc_quebec_gtfs_rt) - Conversion de l'API RTC Québec en GTFS temps réel | Conversion of RTC Quebec API to GTFS realtime
