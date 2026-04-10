@@ -406,7 +406,6 @@
 - [climech/grit](https://github.com/climech/grit) - Multitree-based personal task manager
 - [zk-org/zk](https://github.com/zk-org/zk) - Plain text note-taking assistant
 - [multiverse-vcs/go-multiverse](https://github.com/multiverse-vcs/go-multiverse) - Decentralized Version Control System
-- [karan/fleets](https://github.com/karan/fleets) - Automatically delete tweets, retweets, and favorites.
 - [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better 'df' alternative
 - [tj/sponsors-api](https://github.com/tj/sponsors-api) - GitHub Sponsor avatar listings in your Readme.md
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
