@@ -2559,7 +2559,6 @@
 - [obsidiansystems/obelisk-systemd](https://github.com/obsidiansystems/obelisk-systemd) - Turn your obelisk app into a systemd service
 - [obsidiansystems/obelisk-tailwind-example](https://github.com/obsidiansystems/obelisk-tailwind-example) - An example project using Obelisk, PostCSS, and Tailwind CSS
 - [kritikaseen/defund-wikipedia](https://github.com/kritikaseen/defund-wikipedia) - Chrome Extension to delete notices on Wikipedia for donations for their biasedness and lack of desire to make amends.
-- [karan/fleets](https://github.com/karan/fleets) - Automatically delete tweets, retweets, and favorites.
 - [markmap/markmap-vscode](https://github.com/markmap/markmap-vscode) - Integrate markmap into VSCode
 - [JeffreyBenjaminBrown/hode](https://github.com/JeffreyBenjaminBrown/hode) - rslt, take five-ish
 - [obsidiansystems/cli-extras](https://github.com/obsidiansystems/cli-extras) - 
