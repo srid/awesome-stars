@@ -1221,6 +1221,7 @@
 
 ## Nix 
 
+- [srid/hint-demo](https://github.com/srid/hint-demo) - Nix-based demo of Haskell's `hint` library
 - [juspay/project-unknown](https://github.com/juspay/project-unknown) - TBD
 - [adisbladis/adios](https://github.com/adisbladis/adios) - 
 - [Mic92/adios-flake](https://github.com/Mic92/adios-flake) - Composable flake outputs using the adios module system — the ergonomics of flake-parts without the evaluation overhead.
@@ -2127,6 +2128,7 @@
 
 ## TypeScript 
 
+- [juspay/kolu](https://github.com/juspay/kolu) - A browser cockpit for coding agents. Bring your own CLI, run them anywhere.
 - [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) - Chrome DevTools for coding agents
 - [collaborator-ai/collab-public](https://github.com/collaborator-ai/collab-public) - Collaborator is a place to create with agents.
 - [kunchenguid/gnhf](https://github.com/kunchenguid/gnhf) - Before I go to bed, I tell my agents: good night, have fun
@@ -2183,7 +2185,7 @@
 - [pionxzh/chatgpt-exporter](https://github.com/pionxzh/chatgpt-exporter) - Export and Share your ChatGPT conversation history
 - [phindle/error-lens](https://github.com/phindle/error-lens) - Visual Studio Code extension which enhances the display of errors and warnings.
 - [mark-when/mw](https://github.com/mark-when/mw) - Markwhen CLI
-- [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
+- [calcom/cal.diy](https://github.com/calcom/cal.diy) - Scheduling infrastructure for absolutely everyone.
 - [jupyter-book/jupyter-book](https://github.com/jupyter-book/jupyter-book) - Create beautiful, publication-quality books and documents from computational content.
 - [DeterminateSystems/nix-installer-action](https://github.com/DeterminateSystems/nix-installer-action) - The Github Action for the Determinate Nix Installer
 - [motion-canvas/motion-canvas](https://github.com/motion-canvas/motion-canvas) - Visualize Your Ideas With Code
