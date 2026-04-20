@@ -1264,7 +1264,6 @@
 - [JonathanLorimer/haskwire](https://github.com/JonathanLorimer/haskwire) - HTML Over The Wire, bringing SSR to Haskell
 - [misuzu/process-compose-deploy](https://github.com/misuzu/process-compose-deploy) - PoC process-compose deployments for NixOS
 - [clo4/ghostty-hm-module](https://github.com/clo4/ghostty-hm-module) - Home Manager module for the Ghostty terminal emulator
-- [ad-si/awesome-fp-jobs](https://github.com/ad-si/awesome-fp-jobs) - A curated list of awesome functional programming jobs.
 - [mrjones2014/opnix](https://github.com/mrjones2014/opnix) - ❄️ Native secret management for NixOS using 1Password.
 - [jpetrucciani/pog](https://github.com/jpetrucciani/pog) - 🤯 a new, powerful way to do bash scripts
 - [nix-ocaml/nix-overlays](https://github.com/nix-ocaml/nix-overlays) - OCaml-focused, custom nix-overlays
@@ -1434,6 +1433,7 @@
 - [morrownr/USB-WiFi](https://github.com/morrownr/USB-WiFi) - USB WiFi Adapter Information for Linux
 - [alex/what-happens-when](https://github.com/alex/what-happens-when) - An attempt to answer the age old interview question "What happens when you type google.com into your browser and press enter?"
 - [juspay/awesome-selfhosted-nixos](https://github.com/juspay/awesome-selfhosted-nixos) - Example configurations for self-hosting stuff on NixOS
+- [ad-si/awesome-fp-jobs](https://github.com/ad-si/awesome-fp-jobs) - A curated list of awesome functional programming jobs.
 - [ekala-project/ekapkgs-roadmap](https://github.com/ekala-project/ekapkgs-roadmap) - Roadmap to ekapkgs being fully available
 - [hyprland-community/awesome-hyprland](https://github.com/hyprland-community/awesome-hyprland) - Awesome list for Hyprland [maintainer=@yavko]
 - [EthicsCodes/hackers-ethic](https://github.com/EthicsCodes/hackers-ethic) - First, hinder no thought.
@@ -1764,6 +1764,7 @@
 
 ## Rust 
 
+- [mfontanini/presenterm](https://github.com/mfontanini/presenterm) - A markdown terminal slideshow tool
 - [nikstur/lon](https://github.com/nikstur/lon) - Lock & update Nix dependencies
 - [andir/npins](https://github.com/andir/npins) - Nix dependency pinning. Very similar to Niv but has a few features that I personally wanted.
 - [catenarytransit/rtc_quebec_proxy_zip](https://github.com/catenarytransit/rtc_quebec_proxy_zip) - 
