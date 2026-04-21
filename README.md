@@ -580,6 +580,7 @@
 
 ## Haskell 
 
+- [jappeace/hatter](https://github.com/jappeace/hatter) - see how far we can get with haskell on mobile? I just wanna track my personal records, all the apps suck.
 - [MercuryTechnologies/claude](https://github.com/MercuryTechnologies/claude) - Haskell bindings to Claude API
 - [srid/opencode-haskell](https://github.com/srid/opencode-haskell) - Haskell client library for OpenCode
 - [haskell-wasm/ghc-wasm-reflex-examples](https://github.com/haskell-wasm/ghc-wasm-reflex-examples) - 
@@ -1221,6 +1222,8 @@
 
 ## Nix 
 
+- [nixos-lima/nixos-lima](https://github.com/nixos-lima/nixos-lima) - Create NixOS VMs on macOS or Linux using Lima
+- [DavHau/sbox](https://github.com/DavHau/sbox) - Like sudo, but in reverse
 - [srid/hint-demo](https://github.com/srid/hint-demo) - Nix-based demo of Haskell's `hint` library
 - [juspay/project-unknown](https://github.com/juspay/project-unknown) - TBD
 - [adisbladis/adios](https://github.com/adisbladis/adios) - 
@@ -1306,7 +1309,7 @@
 - [nix-systems/current-system](https://github.com/nix-systems/current-system) - Like `builtins.currentSystem` but for the CLI
 - [nix-systems/flake-outputs](https://github.com/nix-systems/flake-outputs) - Get buildable outputs of a flake
 - [nix-systems/aarch64-darwin](https://github.com/nix-systems/aarch64-darwin) - 
-- [Criome/lojix](https://github.com/Criome/lojix) - Meta-Programming Data-Interface
+- [LiGoldragon/lojix](https://github.com/LiGoldragon/lojix) - Meta-Programming Data-Interface
 - [juspay/nixos-unified-template](https://github.com/juspay/nixos-unified-template) - A multi-platform Nix configuration template optimized for development environment, based on nixos-unified.
 - [cachix/git-hooks.nix](https://github.com/cachix/git-hooks.nix) - Seamless integration of https://pre-commit.com git hooks with Nix.
 - [Mic92/sops-nix](https://github.com/Mic92/sops-nix) - Atomic secret provisioning for NixOS based on sops
@@ -2130,7 +2133,7 @@
 ## TypeScript 
 
 - [skillsynchq/replay](https://github.com/skillsynchq/replay) - 
-- [juspay/kolu](https://github.com/juspay/kolu) - A browser cockpit for coding agents. Bring your own CLI, run them anywhere.
+- [juspay/kolu](https://github.com/juspay/kolu) - A terminal-native cockpit for coding agents. Bring your own CLI, run them anywhere.
 - [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) - Chrome DevTools for coding agents
 - [collaborator-ai/collab-public](https://github.com/collaborator-ai/collab-public) - Collaborator is a place to create with agents.
 - [kunchenguid/gnhf](https://github.com/kunchenguid/gnhf) - Before I go to bed, I tell my agents: good night, have fun
