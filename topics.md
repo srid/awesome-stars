@@ -1926,8 +1926,11 @@
 
 ## others 
 
+- [jappeace/hatter](https://github.com/jappeace/hatter) - see how far we can get with haskell on mobile? I just wanna track my personal records, all the apps suck.
+- [nixos-lima/nixos-lima](https://github.com/nixos-lima/nixos-lima) - Create NixOS VMs on macOS or Linux using Lima
+- [DavHau/sbox](https://github.com/DavHau/sbox) - Like sudo, but in reverse
 - [srid/hint-demo](https://github.com/srid/hint-demo) - Nix-based demo of Haskell's `hint` library
-- [juspay/kolu](https://github.com/juspay/kolu) - A browser cockpit for coding agents. Bring your own CLI, run them anywhere.
+- [juspay/kolu](https://github.com/juspay/kolu) - A terminal-native cockpit for coding agents. Bring your own CLI, run them anywhere.
 - [juspay/project-unknown](https://github.com/juspay/project-unknown) - TBD
 - [srid/agency](https://github.com/srid/agency) - My near-autonomous workflow for coding agents
 - [kunchenguid/gnhf](https://github.com/kunchenguid/gnhf) - Before I go to bed, I tell my agents: good night, have fun
@@ -3455,7 +3458,7 @@
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
 - [Skallwar/suckit](https://github.com/Skallwar/suckit) - Suck the InTernet
 - [zurawiki/gptcommit](https://github.com/zurawiki/gptcommit) - A git prepare-commit-msg hook for authoring commit messages with LLMs.
-- [Criome/lojix](https://github.com/Criome/lojix) - Meta-Programming Data-Interface
+- [LiGoldragon/lojix](https://github.com/LiGoldragon/lojix) - Meta-Programming Data-Interface
 - [watchexec/watchexec](https://github.com/watchexec/watchexec) - Executes commands in response to file modifications
 - [90-008/nix-cargo-integration](https://github.com/90-008/nix-cargo-integration) - Library to easily and effortlessly integrate Cargo projects with Nix.
 - [srid/rust-nix-template](https://github.com/srid/rust-nix-template) - Rust project template with Nix (Flakes) and VSCode support
