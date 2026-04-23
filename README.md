@@ -580,6 +580,7 @@
 
 ## Haskell 
 
+- [dpella/mcp](https://github.com/dpella/mcp) - 
 - [jappeace/hatter](https://github.com/jappeace/hatter) - Hatter is like flutter but instead of dart, haskell!
 - [MercuryTechnologies/claude](https://github.com/MercuryTechnologies/claude) - Haskell bindings to Claude API
 - [srid/opencode-haskell](https://github.com/srid/opencode-haskell) - Haskell client library for OpenCode
@@ -950,7 +951,7 @@
 - [xmonad/xmonad](https://github.com/xmonad/xmonad) - The core of xmonad, a small but functional ICCCM-compliant tiling window manager
 - [sdiehl/wiwinwlh](https://github.com/sdiehl/wiwinwlh) - What I Wish I Knew When Learning Haskell
 - [smallhadroncollider/taskell](https://github.com/smallhadroncollider/taskell) - Command-line Kanban board/task manager with support for Trello boards and GitHub projects
-- [composewell/streamly](https://github.com/composewell/streamly) - High performance, concurrent functional programming abstractions
+- [composewell/streamly](https://github.com/composewell/streamly) - High performance, streaming and concurrent functional programming abstractions
 - [jtdaugherty/brick](https://github.com/jtdaugherty/brick) - A declarative Unix terminal UI library written in Haskell
 - [chrisdone-archive/intero](https://github.com/chrisdone-archive/intero) - 
 - [cocreature/diagrams-miso](https://github.com/cocreature/diagrams-miso) - Miso backend for the diagrams Haskell graphics library
@@ -1768,6 +1769,7 @@
 
 ## Rust 
 
+- [DecapodLabs/decapod](https://github.com/DecapodLabs/decapod) - Decapod is the daemonless, local-first control plane agents call on demand to converge on human intent, shape context before inference, enforce boundaries, and deliver proof-backed completion across c
 - [mfontanini/presenterm](https://github.com/mfontanini/presenterm) - A markdown terminal slideshow tool
 - [nikstur/lon](https://github.com/nikstur/lon) - Lock & update Nix dependencies
 - [andir/npins](https://github.com/andir/npins) - Nix dependency pinning. Very similar to Niv but has a few features that I personally wanted.
