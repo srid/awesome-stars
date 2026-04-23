@@ -241,6 +241,7 @@
 
 ## ai 
 
+- [DecapodLabs/decapod](https://github.com/DecapodLabs/decapod) - Decapod is the daemonless, local-first control plane agents call on demand to converge on human intent, shape context before inference, enforce boundaries, and deliver proof-backed completion across c
 - [skillsynchq/replay](https://github.com/skillsynchq/replay) - 
 - [collaborator-ai/collab-public](https://github.com/collaborator-ai/collab-public) - Collaborator is a place to create with agents.
 - [uditgoenka/autoresearch](https://github.com/uditgoenka/autoresearch) - Claude Autoresearch Skill — Autonomous goal-directed iteration for Claude Code. Inspired by Karpathy's autoresearch. Modify → Verify → Keep/Discard → Repeat forever.
@@ -255,6 +256,7 @@
 
 ## ai-agents 
 
+- [DecapodLabs/decapod](https://github.com/DecapodLabs/decapod) - Decapod is the daemonless, local-first control plane agents call on demand to converge on human intent, shape context before inference, enforce boundaries, and deliver proof-backed completion across c
 - [avivsinai/bitbucket-cli](https://github.com/avivsinai/bitbucket-cli) - Bitbucket CLI with gh-like ergonomics
 - [microsoft/apm](https://github.com/microsoft/apm) - Agent Package Manager
 - [Datron/jilebi](https://github.com/Datron/jilebi) - MCP runtime with javacript plugins
@@ -1368,7 +1370,7 @@
 - [sdiehl/wiwinwlh](https://github.com/sdiehl/wiwinwlh) - What I Wish I Knew When Learning Haskell
 - [hmemcpy/milewski-ctfp-pdf](https://github.com/hmemcpy/milewski-ctfp-pdf) - Bartosz Milewski's 'Category Theory for Programmers' unofficial PDF and LaTeX source
 - [smallhadroncollider/taskell](https://github.com/smallhadroncollider/taskell) - Command-line Kanban board/task manager with support for Trello boards and GitHub projects
-- [composewell/streamly](https://github.com/composewell/streamly) - High performance, concurrent functional programming abstractions
+- [composewell/streamly](https://github.com/composewell/streamly) - High performance, streaming and concurrent functional programming abstractions
 - [jtdaugherty/brick](https://github.com/jtdaugherty/brick) - A declarative Unix terminal UI library written in Haskell
 - [chrisdone-archive/intero](https://github.com/chrisdone-archive/intero) - 
 - [cocreature/diagrams-miso](https://github.com/cocreature/diagrams-miso) - Miso backend for the diagrams Haskell graphics library
@@ -1926,6 +1928,7 @@
 
 ## others 
 
+- [dpella/mcp](https://github.com/dpella/mcp) - 
 - [denful/with-inputs](https://github.com/denful/with-inputs) - A flake-inputs adapter for Nix projects that don't use `flake.nix`.
 - [jappeace/hatter](https://github.com/jappeace/hatter) - Hatter is like flutter but instead of dart, haskell!
 - [nixos-lima/nixos-lima](https://github.com/nixos-lima/nixos-lima) - Create NixOS VMs on macOS or Linux using Lima
@@ -3396,6 +3399,7 @@
 
 ## rust 
 
+- [DecapodLabs/decapod](https://github.com/DecapodLabs/decapod) - Decapod is the daemonless, local-first control plane agents call on demand to converge on human intent, shape context before inference, enforce boundaries, and deliver proof-backed completion across c
 - [mfontanini/presenterm](https://github.com/mfontanini/presenterm) - A markdown terminal slideshow tool
 - [Jagalite/superseedr](https://github.com/Jagalite/superseedr) - A BitTorrent Client in your Terminal
 - [SeaDve/Kooha](https://github.com/SeaDve/Kooha) - Elegantly record your screen
