@@ -241,6 +241,7 @@
 
 ## ai 
 
+- [git-ai-project/git-ai](https://github.com/git-ai-project/git-ai) - A Git extension for tracking the AI-generated code in your repos
 - [DecapodLabs/decapod](https://github.com/DecapodLabs/decapod) - Decapod is the daemonless, local-first control plane agents call on demand to converge on human intent, shape context before inference, enforce boundaries, and deliver proof-backed completion across c
 - [skillsynchq/replay](https://github.com/skillsynchq/replay) - 
 - [collaborator-ai/collab-public](https://github.com/collaborator-ai/collab-public) - Collaborator is a place to create with agents.
@@ -1928,6 +1929,7 @@
 
 ## others 
 
+- [ryoppippi/ccusage](https://github.com/ryoppippi/ccusage) - A CLI tool for analyzing Claude Code/Codex CLI usage from local JSONL files.
 - [dpella/mcp](https://github.com/dpella/mcp) - 
 - [denful/with-inputs](https://github.com/denful/with-inputs) - A flake-inputs adapter for Nix projects that don't use `flake.nix`.
 - [jappeace/hatter](https://github.com/jappeace/hatter) - Hatter is like flutter but instead of dart, haskell!
