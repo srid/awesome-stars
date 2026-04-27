@@ -52,6 +52,7 @@
 - [dart](#dart)
 - [data](#data)
 - [data-analysis](#data-analysis)
+- [data-engineering](#data-engineering)
 - [data-science](#data-science)
 - [data-structures](#data-structures)
 - [data-visualization](#data-visualization)
@@ -241,6 +242,8 @@
 
 ## ai 
 
+- [cocoindex-io/cocoindex](https://github.com/cocoindex-io/cocoindex) - Incremental engine for long horizon agents 🌟 Star if you like it!
+- [alash3al/stash](https://github.com/alash3al/stash) - Stash — persistent memory layer for AI agents. Episodes, facts, and working context stored in Postgres. MCP server included. Self-hosted, single binary, no cloud required.
 - [git-ai-project/git-ai](https://github.com/git-ai-project/git-ai) - A Git extension for tracking the AI-generated code in your repos
 - [DecapodLabs/decapod](https://github.com/DecapodLabs/decapod) - Decapod is the daemonless, local-first control plane agents call on demand to converge on human intent, shape context before inference, enforce boundaries, and deliver proof-backed completion across c
 - [skillsynchq/replay](https://github.com/skillsynchq/replay) - 
@@ -257,6 +260,8 @@
 
 ## ai-agents 
 
+- [cocoindex-io/cocoindex](https://github.com/cocoindex-io/cocoindex) - Incremental engine for long horizon agents 🌟 Star if you like it!
+- [alash3al/stash](https://github.com/alash3al/stash) - Stash — persistent memory layer for AI agents. Episodes, facts, and working context stored in Postgres. MCP server included. Self-hosted, single binary, no cloud required.
 - [DecapodLabs/decapod](https://github.com/DecapodLabs/decapod) - Decapod is the daemonless, local-first control plane agents call on demand to converge on human intent, shape context before inference, enforce boundaries, and deliver proof-backed completion across c
 - [avivsinai/bitbucket-cli](https://github.com/avivsinai/bitbucket-cli) - Bitbucket CLI with gh-like ergonomics
 - [microsoft/apm](https://github.com/microsoft/apm) - Agent Package Manager
@@ -402,7 +407,7 @@
 
 ## c 
 
-- [emcrisostomo/fswatch](https://github.com/emcrisostomo/fswatch) - A cross-platform file change monitor with multiple backends: Apple macOS File System Events, *BSD kqueue, Solaris/Illumos File Events Notification, Linux inotify, Microsoft Windows and a stat()-based 
+- [emcrisostomo/fswatch](https://github.com/emcrisostomo/fswatch) - A cross-platform file change monitor with multiple backends: Apple macOS File System Events, *BSD kqueue, Solaris/Illumos File Events Notification, Linux inotify and fanotify, Microsoft Windows and a 
 - [extism/extism](https://github.com/extism/extism) - The framework for building with WebAssembly (wasm). Easily & securely load wasm modules, move data, call functions, and build extensible apps.
 - [rvaiya/warpd](https://github.com/rvaiya/warpd) - A modal keyboard-driven virtual pointer
 - [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - If you live in the terminal, kitty is made for you! Cross-platform, fast, feature-rich, GPU based.
@@ -415,7 +420,7 @@
 
 ## c-plus-plus 
 
-- [emcrisostomo/fswatch](https://github.com/emcrisostomo/fswatch) - A cross-platform file change monitor with multiple backends: Apple macOS File System Events, *BSD kqueue, Solaris/Illumos File Events Notification, Linux inotify, Microsoft Windows and a stat()-based 
+- [emcrisostomo/fswatch](https://github.com/emcrisostomo/fswatch) - A cross-platform file change monitor with multiple backends: Apple macOS File System Events, *BSD kqueue, Solaris/Illumos File Events Notification, Linux inotify and fanotify, Microsoft Windows and a 
 - [xbmc/xbmc](https://github.com/xbmc/xbmc) - Kodi is an award-winning free and open source home theater/media center software and entertainment hub for digital media. With its beautiful interface and powerful skinning engine, it's available for 
 - [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
 - [textmate/textmate](https://github.com/textmate/textmate) - TextMate is a graphical text editor for macOS 10.12 or later
@@ -450,7 +455,7 @@
 - [typefully/minimal-twitter](https://github.com/typefully/minimal-twitter) - Minimal Theme for Twitter - Refine and Declutter Your Twitter Web Experience
 - [notlmn/copy-as-markdown](https://github.com/notlmn/copy-as-markdown) - 📋 Browser extension to copy text as Markdown (with GFM and MathML support)
 - [dessant/web-archives](https://github.com/dessant/web-archives) - Browser extension for viewing archived and cached versions of web pages, available for Chrome, Edge and Safari
-- [kamranahmedse/githunt](https://github.com/kamranahmedse/githunt) - Hunt the most starred projects on any date on GitHub
+- [nilbuild/githunt](https://github.com/nilbuild/githunt) - Hunt the most starred projects on any date on GitHub
 
 ## claude-code 
 
@@ -467,6 +472,7 @@
 
 ## cli 
 
+- [mermaid-js/mermaid-cli](https://github.com/mermaid-js/mermaid-cli) - Command line tool for the Mermaid library
 - [mfontanini/presenterm](https://github.com/mfontanini/presenterm) - A markdown terminal slideshow tool
 - [avivsinai/bitbucket-cli](https://github.com/avivsinai/bitbucket-cli) - Bitbucket CLI with gh-like ergonomics
 - [bpauli/gccli](https://github.com/bpauli/gccli) - A command-line interface for Garmin Connect — activities, health, courses, workouts, devices, and more — with JSON output and secure credential storage.
@@ -665,6 +671,10 @@
 
 - [antonycourtney/tad](https://github.com/antonycourtney/tad) - A desktop application for viewing and analyzing tabular data
 - [GoogleCloudPlatform/DataflowJavaSDK](https://github.com/GoogleCloudPlatform/DataflowJavaSDK) - Google Cloud Dataflow provides a simple, powerful model for building both batch and streaming parallel data processing pipelines.
+
+## data-engineering 
+
+- [cocoindex-io/cocoindex](https://github.com/cocoindex-io/cocoindex) - Incremental engine for long horizon agents 🌟 Star if you like it!
 
 ## data-science 
 
@@ -1468,6 +1478,7 @@
 
 ## javascript 
 
+- [unifiedjs/unified](https://github.com/unifiedjs/unified) - Parse, inspect, transform, and serialize content with syntax trees
 - [biomejs/biome](https://github.com/biomejs/biome) - A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.
 - [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap) - The headless rich text editor framework for web artisans.
 - [solidjs/solid](https://github.com/solidjs/solid) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
@@ -1618,6 +1629,7 @@
 
 ## llm 
 
+- [cocoindex-io/cocoindex](https://github.com/cocoindex-io/cocoindex) - Incremental engine for long horizon agents 🌟 Star if you like it!
 - [MiniMax-AI/MiniMax-M2](https://github.com/MiniMax-AI/MiniMax-M2) - MiniMax-M2, a model built for Max coding & agentic workflows.
 - [zai-org/GLM-4.5](https://github.com/zai-org/GLM-4.5) - GLM-4.5: Agentic, Reasoning, and Coding (ARC) Foundation Models
 - [xynehq/xyne](https://github.com/xynehq/xyne) - AI-first Search & Answer Engine for work. Open-source alternative to Glean.
@@ -1934,6 +1946,10 @@
 
 ## others 
 
+- [sophronesis/peerix](https://github.com/sophronesis/peerix) - Peer2Peer Nix-Binary-Cache
+- [yizhiyanhua-ai/fireworks-tech-graph](https://github.com/yizhiyanhua-ai/fireworks-tech-graph) - Claude Code skill for generating production-quality SVG+PNG technical diagrams. Supports 8 diagram types, 5 visual styles, and deep AI/Agent domain knowledge.
+- [refactoringhq/tolaria](https://github.com/refactoringhq/tolaria) - Desktop app to manage markdown knowledge bases
+- [h4ckf0r0day/obscura](https://github.com/h4ckf0r0day/obscura) - The headless browser for AI agents and web scraping
 - [juspay/nixden](https://github.com/juspay/nixden) - Isolated NixOS-based devbox for Mac users and others
 - [pierrecomputer/pierre](https://github.com/pierrecomputer/pierre) - pierre’s open source code
 - [ryoppippi/ccusage](https://github.com/ryoppippi/ccusage) - A CLI tool for analyzing Claude Code/Codex CLI usage from local JSONL files.
@@ -3285,6 +3301,7 @@
 
 ## python 
 
+- [cocoindex-io/cocoindex](https://github.com/cocoindex-io/cocoindex) - Incremental engine for long horizon agents 🌟 Star if you like it!
 - [tcgoetz/GarminDB](https://github.com/tcgoetz/GarminDB) - Download and parse data from Garmin Connect or a Garmin watch, FitBit CSV, and MS Health CSV files into and analyze data in Sqlite serverless databases with Jupyter notebooks.
 - [3b1b/manim](https://github.com/3b1b/manim) - Animation engine for explanatory math videos
 - [utensils/mcp-nixos](https://github.com/utensils/mcp-nixos) - MCP-NixOS - Model Context Protocol Server for NixOS resources
@@ -3331,8 +3348,9 @@
 
 ## rag 
 
+- [cocoindex-io/cocoindex](https://github.com/cocoindex-io/cocoindex) - Incremental engine for long horizon agents 🌟 Star if you like it!
 - [xynehq/xyne](https://github.com/xynehq/xyne) - AI-first Search & Answer Engine for work. Open-source alternative to Glean.
-- [Anush008/fastembed-rs](https://github.com/Anush008/fastembed-rs) - Rust library for vector embeddings and reranking.
+- [Anush008/fastembed-rs](https://github.com/Anush008/fastembed-rs) - Rust library for generating vector embeddings, reranking locally!
 - [mem0ai/mem0](https://github.com/mem0ai/mem0) - Universal memory layer for AI Agents
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
 
@@ -3407,6 +3425,7 @@
 
 ## rust 
 
+- [cocoindex-io/cocoindex](https://github.com/cocoindex-io/cocoindex) - Incremental engine for long horizon agents 🌟 Star if you like it!
 - [DecapodLabs/decapod](https://github.com/DecapodLabs/decapod) - Decapod is the daemonless, local-first control plane agents call on demand to converge on human intent, shape context before inference, enforce boundaries, and deliver proof-backed completion across c
 - [mfontanini/presenterm](https://github.com/mfontanini/presenterm) - A markdown terminal slideshow tool
 - [Jagalite/superseedr](https://github.com/Jagalite/superseedr) - A BitTorrent Client in your Terminal
@@ -3931,7 +3950,7 @@
 ## windows 
 
 - [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm) - An open-source, AI-integrated, cross-platform terminal for seamless workflows
-- [emcrisostomo/fswatch](https://github.com/emcrisostomo/fswatch) - A cross-platform file change monitor with multiple backends: Apple macOS File System Events, *BSD kqueue, Solaris/Illumos File Events Notification, Linux inotify, Microsoft Windows and a stat()-based 
+- [emcrisostomo/fswatch](https://github.com/emcrisostomo/fswatch) - A cross-platform file change monitor with multiple backends: Apple macOS File System Events, *BSD kqueue, Solaris/Illumos File Events Notification, Linux inotify and fanotify, Microsoft Windows and a 
 - [Kareadita/Kavita](https://github.com/Kareadita/Kavita) - Kavita is a fast, feature rich, cross platform reading server. Built with the goal of being a full solution for all your reading needs. Setup your own server and share your reading collection with you
 - [X11Libre/xserver](https://github.com/X11Libre/xserver) - XLibre Xserver
 - [TechUnRestricted/WinDiskWriter](https://github.com/TechUnRestricted/WinDiskWriter) - 🖥 Windows Bootable USB creator for macOS. 🛠 Patches Windows 11 to bypass TPM and Secure Boot requirements. 👾 UEFI & Legacy Support
