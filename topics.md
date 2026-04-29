@@ -26,6 +26,7 @@
 - [blockchain](#blockchain)
 - [c](#c)
 - [c-plus-plus](#c-plus-plus)
+- [c-sharp](#c-sharp)
 - [chatbot](#chatbot)
 - [chatgpt](#chatgpt)
 - [chrome](#chrome)
@@ -424,6 +425,13 @@
 - [xbmc/xbmc](https://github.com/xbmc/xbmc) - Kodi is an award-winning free and open source home theater/media center software and entertainment hub for digital media. With its beautiful interface and powerful skinning engine, it's available for 
 - [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
 - [textmate/textmate](https://github.com/textmate/textmate) - TextMate is a graphical text editor for macOS 10.12 or later
+
+## c-sharp 
+
+- [icsharpcode/AvalonEdit](https://github.com/icsharpcode/AvalonEdit) - The WPF-based text editor component used in SharpDevelop
+- [AngleSharp/AngleSharp](https://github.com/AngleSharp/AngleSharp) - :angel: The ultimate angle brackets parser library parsing HTML5, MathML, SVG and CSS to construct a DOM based on the official W3C specifications.
+- [statiqdev/Statiq](https://github.com/statiqdev/Statiq) - Statiq is a flexible static site generator written in .NET.
+- [VsVim/VsVim](https://github.com/VsVim/VsVim) - Vim Emulator Plugin for Visual Studio 2015+
 
 ## chatbot 
 
@@ -835,6 +843,7 @@
 
 ## electron 
 
+- [webadderallorg/Recordly](https://github.com/webadderallorg/Recordly) - Create polished screen recordings for free. An open-source alternative to Screen Studio.
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 - [ganeshrvel/openmtp](https://github.com/ganeshrvel/openmtp) - OpenMTP  - Advanced Android File Transfer Application for macOS
 - [1943time/inkdown](https://github.com/1943time/inkdown) - Inkdown is a WYSIWYG editor and an LLM dialogue tool, fully compatible with GitHub Flavored Markdown Spec.
@@ -1594,6 +1603,7 @@
 
 ## linux 
 
+- [webadderallorg/Recordly](https://github.com/webadderallorg/Recordly) - Create polished screen recordings for free. An open-source alternative to Screen Studio.
 - [mohammedAcheddad/SSH_port_forwarding](https://github.com/mohammedAcheddad/SSH_port_forwarding) - a full tutorial on how to use ssh port forwarding with all its types
 - [FedoraQt/MediaWriter](https://github.com/FedoraQt/MediaWriter) - Fedora Media Writer - Write Fedora Images to Portable Media
 - [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm) - An open-source, AI-integrated, cross-platform terminal for seamless workflows
@@ -1668,6 +1678,7 @@
 
 ## macos 
 
+- [webadderallorg/Recordly](https://github.com/webadderallorg/Recordly) - Create polished screen recordings for free. An open-source alternative to Screen Studio.
 - [lima-vm/lima](https://github.com/lima-vm/lima) - Linux virtual machines, with a focus on running containers
 - [DamascenoRafael/reminders-menubar](https://github.com/DamascenoRafael/reminders-menubar) - Simple macOS menu bar application to view and interact with reminders. Developed with SwiftUI and using Apple Reminders as a source.
 - [SuperCmdLabs/SuperCmd](https://github.com/SuperCmdLabs/SuperCmd) - Powerful MacOS Launcher
@@ -1924,6 +1935,7 @@
 
 ## open-source 
 
+- [webadderallorg/Recordly](https://github.com/webadderallorg/Recordly) - Create polished screen recordings for free. An open-source alternative to Screen Studio.
 - [calcom/cal.diy](https://github.com/calcom/cal.diy) - Scheduling infrastructure for absolutely everyone.
 - [F1bonacc1/process-compose](https://github.com/F1bonacc1/process-compose) - Process Compose is a simple and flexible scheduler and orchestrator to manage non-containerized applications.
 - [lk-geimfari/awesomo](https://github.com/lk-geimfari/awesomo) - Cool open source projects. Choose your project and get involved in Open Source development now.
@@ -1946,6 +1958,7 @@
 
 ## others 
 
+- [kitlangton/ghui](https://github.com/kitlangton/ghui) - 
 - [sophronesis/peerix](https://github.com/sophronesis/peerix) - Peer2Peer Nix-Binary-Cache
 - [yizhiyanhua-ai/fireworks-tech-graph](https://github.com/yizhiyanhua-ai/fireworks-tech-graph) - Claude Code skill for generating production-quality SVG+PNG technical diagrams. Supports 8 diagram types, 5 visual styles, and deep AI/Agent domain knowledge.
 - [refactoringhq/tolaria](https://github.com/refactoringhq/tolaria) - Desktop app to manage markdown knowledge bases
@@ -2092,7 +2105,7 @@
 - [three-hs/three.hs](https://github.com/three-hs/three.hs) - 🎬 Haskell bindings to three.js
 - [Simre1/multitasking](https://github.com/Simre1/multitasking) - Easy concurrency in Haskell
 - [AnswerDotAI/llms-txt](https://github.com/AnswerDotAI/llms-txt) - The /llms.txt file, helping language models use your website
-- [seerge/g-helper](https://github.com/seerge/g-helper) - Lightweight, open-source control tool for ASUS laptops and ROG Ally. Manage performance modes, fans, GPU, battery, and RGB lighting across Zephyrus, Flow, TUF, Strix, Scar, and other models.
+- [seerge/g-helper](https://github.com/seerge/g-helper) - The control app every laptop should come with. G-Helper is a fast, native tool for tuning performance, fans, GPU, battery, and RGB on any Asus laptop or handheld - ROG Zephyrus, Flow, Strix, Scar, TUF
 - [Sikarugir-App/Sikarugir](https://github.com/Sikarugir-App/Sikarugir) - A user-friendly tool used to make wine wrapped ports of Windows software for macOS.
 - [tusharad/langchain-hs](https://github.com/tusharad/langchain-hs) - Haskell implementation of LangChain
 - [drshade/haskell-mcp-server](https://github.com/drshade/haskell-mcp-server) - An Awesome MCP Server Framework for Haskell
@@ -2563,7 +2576,6 @@
 - [srid/Feather](https://github.com/srid/Feather) - [Paused] Static site generator with customizable pipeline and live-reload
 - [fsharp/fslang-suggestions](https://github.com/fsharp/fslang-suggestions) - The place to make suggestions, discuss and vote on F# language and core library features
 - [scriban/scriban](https://github.com/scriban/scriban) - A fast, powerful, safe and lightweight scripting language and engine for .NET
-- [icsharpcode/AvalonEdit](https://github.com/icsharpcode/AvalonEdit) - The WPF-based text editor component used in SharpDevelop
 - [fsprojects/FSharp.Formatting](https://github.com/fsprojects/FSharp.Formatting) - F# tools for generating documentation (Markdown processor and F# code formatter)
 - [zzzprojects/html-agility-pack](https://github.com/zzzprojects/html-agility-pack) - Html Agility Pack (HAP) is a free and open-source HTML parser written in C# to read/write DOM and supports plain XPATH or XSLT. It is a .NET code library that allows you to parse "out of the web" HTML
 - [lexi-lambda/hackett](https://github.com/lexi-lambda/hackett) - WIP implementation of a Haskell-like Lisp in Racket
@@ -2577,7 +2589,6 @@
 - [dharmaturtle/CardOverflow](https://github.com/dharmaturtle/CardOverflow) - 
 - [rms-support-letter/rms-support-letter.github.io](https://github.com/rms-support-letter/rms-support-letter.github.io) - An open letter in support of Richard Matthew Stallman being reinstated by the Free Software Foundation
 - [dotnet-foundation/website](https://github.com/dotnet-foundation/website) - The .NET Foundation's website
-- [statiqdev/Statiq](https://github.com/statiqdev/Statiq) - Statiq is a flexible static site generator written in .NET.
 - [fsbolero/awesome-bolero](https://github.com/fsbolero/awesome-bolero) - A curated list of Bolero samples, community projects, blogs and tutorials
 - [Nhowka/Elmish.Bridge](https://github.com/Nhowka/Elmish.Bridge) - Create client-server Fable-Elmish apps keeping a single mindset
 - [DevrexLabs/memstate-tutorial](https://github.com/DevrexLabs/memstate-tutorial) - Course material for learning memstate
@@ -3425,6 +3436,7 @@
 
 ## rust 
 
+- [blitz/celler](https://github.com/blitz/celler) - Multi-tenant Nix Binary Cache
 - [cocoindex-io/cocoindex](https://github.com/cocoindex-io/cocoindex) - Incremental engine for long horizon agents 🌟 Star if you like it!
 - [DecapodLabs/decapod](https://github.com/DecapodLabs/decapod) - Decapod is the daemonless, local-first control plane agents call on demand to converge on human intent, shape context before inference, enforce boundaries, and deliver proof-backed completion across c
 - [mfontanini/presenterm](https://github.com/mfontanini/presenterm) - A markdown terminal slideshow tool
@@ -3949,6 +3961,7 @@
 
 ## windows 
 
+- [webadderallorg/Recordly](https://github.com/webadderallorg/Recordly) - Create polished screen recordings for free. An open-source alternative to Screen Studio.
 - [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm) - An open-source, AI-integrated, cross-platform terminal for seamless workflows
 - [emcrisostomo/fswatch](https://github.com/emcrisostomo/fswatch) - A cross-platform file change monitor with multiple backends: Apple macOS File System Events, *BSD kqueue, Solaris/Illumos File Events Notification, Linux inotify and fanotify, Microsoft Windows and a 
 - [Kareadita/Kavita](https://github.com/Kareadita/Kavita) - Kavita is a fast, feature rich, cross platform reading server. Built with the goal of being a full solution for all your reading needs. Setup your own server and share your reading collection with you
