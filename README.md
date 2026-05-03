@@ -2151,7 +2151,7 @@
 ## TypeScript 
 
 - [vercel-labs/portless](https://github.com/vercel-labs/portless) - Replace port numbers with stable, named local URLs. For humans and agents.
-- [webadderallorg/Recordly](https://github.com/webadderallorg/Recordly) - Create polished screen recordings for free. An open-source alternative to Screen Studio.
+- [webadderallorg/Recordly](https://github.com/webadderallorg/Recordly) - Create polished screen recordings without editing. Mac/Windows/Linux
 - [kitlangton/ghui](https://github.com/kitlangton/ghui) - 
 - [refactoringhq/tolaria](https://github.com/refactoringhq/tolaria) - Desktop app to manage markdown knowledge bases
 - [pierrecomputer/pierre](https://github.com/pierrecomputer/pierre) - pierre’s open source code
