@@ -797,7 +797,7 @@
 - [docker/compose](https://github.com/docker/compose) - Define and run multi-container applications with Docker
 - [gogs/gogs](https://github.com/gogs/gogs) - Gogs is a painless self-hosted Git service
 - [gliderlabs/logspout](https://github.com/gliderlabs/logspout) - Log routing for Docker container logs
-- [nginx-proxy/nginx-proxy](https://github.com/nginx-proxy/nginx-proxy) - Automated nginx proxy for Docker containers using docker-gen
+- [nginx-proxy/nginx-proxy](https://github.com/nginx-proxy/nginx-proxy) - Automated Nginx Reverse Proxy for Docker
 - [fsouza/go-dockerclient](https://github.com/fsouza/go-dockerclient) - Go client for the Docker Engine API.
 - [moby/moby](https://github.com/moby/moby) - The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
 - [tsuru/tsuru](https://github.com/tsuru/tsuru) - Open source and extensible Platform as a Service (PaaS).
@@ -1971,6 +1971,7 @@
 
 ## others 
 
+- [openclaw/gitcrawl](https://github.com/openclaw/gitcrawl) - Local-first GitHub issue and pull request crawler for maintainer triage
 - [Pagefind/pagefind](https://github.com/Pagefind/pagefind) - Static low-bandwidth search at scale
 - [vercel-labs/portless](https://github.com/vercel-labs/portless) - Replace port numbers with stable, named local URLs. For humans and agents.
 - [archie-judd/agent-sandbox.nix](https://github.com/archie-judd/agent-sandbox.nix) - Lightweight and declarative sandboxing for AI agents on Linux and macOS using Nix.
