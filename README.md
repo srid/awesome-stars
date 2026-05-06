@@ -378,6 +378,7 @@
 
 ## Go 
 
+- [openclaw/gitcrawl](https://github.com/openclaw/gitcrawl) - Local-first GitHub issue and pull request crawler for maintainer triage
 - [alash3al/stash](https://github.com/alash3al/stash) - Stash — persistent memory layer for AI agents. Episodes, facts, and working context stored in Postgres. MCP server included. Self-hosted, single binary, no cloud required.
 - [lima-vm/lima](https://github.com/lima-vm/lima) - Linux virtual machines, with a focus on running containers
 - [avivsinai/bitbucket-cli](https://github.com/avivsinai/bitbucket-cli) - Bitbucket CLI with gh-like ergonomics
@@ -1671,7 +1672,7 @@
 - [ActiveState/filearchive](https://github.com/ActiveState/filearchive) - Python module to work with file archives
 - [pallets/click](https://github.com/pallets/click) - Python composable command line interface toolkit
 - [srid/simplepaas](https://github.com/srid/simplepaas) - Simple PaaS for the lazy (work in progress)
-- [nginx-proxy/nginx-proxy](https://github.com/nginx-proxy/nginx-proxy) - Automated nginx proxy for Docker containers using docker-gen
+- [nginx-proxy/nginx-proxy](https://github.com/nginx-proxy/nginx-proxy) - Automated Nginx Reverse Proxy for Docker
 - [googlearchive/container-agent](https://github.com/googlearchive/container-agent) - Simple agent for running containers based on a declarative manifest.
 - [bcsaller/juju-docker](https://github.com/bcsaller/juju-docker) - A toy example showing off docker running under juju. This lets juju orchestrate an example docker service.
 - [kapouille/stackato-buildpack-python](https://github.com/kapouille/stackato-buildpack-python) - Stackato buildpack for Python
