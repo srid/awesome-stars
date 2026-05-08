@@ -2283,11 +2283,11 @@
 - [srid/dioxus-desktop-template](https://github.com/srid/dioxus-desktop-template) - A starter template for Dioxus Desktop apps w/ Tailwind & Nix
 - [DioxusLabs/sdk](https://github.com/DioxusLabs/sdk) - A library to provide abstractions to access common utilities when developing Dioxus applications.
 - [bitstein/justmeat.co](https://github.com/bitstein/justmeat.co) - Carnivorous eating, paleolithic ketogenic diet and medicine, and zero carb lifestyle. Don’t bother with vegetables. Just eat meat.
-- [Pitasi/rscx-mdx](https://github.com/Pitasi/rscx-mdx) - Supercharge your markdown including RSCx components.
+- [pitasi/rscx-mdx](https://github.com/pitasi/rscx-mdx) - Supercharge your markdown including RSCx components.
 - [nixified-ai/flake](https://github.com/nixified-ai/flake) - A Nix flake for many AI projects
 - [decomoraes/rust_struct_iterable](https://github.com/decomoraes/rust_struct_iterable) - 
 - [phindle/error-lens](https://github.com/phindle/error-lens) - Visual Studio Code extension which enhances the display of errors and warnings.
-- [Pitasi/leptos-mdx](https://github.com/Pitasi/leptos-mdx) - Supercharge your markdown including Leptos components.
+- [pitasi/leptos-mdx](https://github.com/pitasi/leptos-mdx) - Supercharge your markdown including Leptos components.
 - [JaniM/emergence](https://github.com/JaniM/emergence) - Short-form note-taking
 - [DeterminateSystems/flake-schemas](https://github.com/DeterminateSystems/flake-schemas) - Schemas for common flake output types
 - [dallasrust/website-dioxus](https://github.com/dallasrust/website-dioxus) - Dallas Rust User Meetup website using Dioxus
