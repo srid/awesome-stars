@@ -1894,9 +1894,9 @@
 - [marc2332/dioxus-query](https://github.com/marc2332/dioxus-query) - Fully-typed, async, reusable state management and synchronization for Dioxus 🧬
 - [michalvavra/tauri-leptos-example](https://github.com/michalvavra/tauri-leptos-example) - Tauri and Leptos example.
 - [josecelano/cargo-pretty-test](https://github.com/josecelano/cargo-pretty-test) - A Rust command that prettifies the ugly `cargo test` output into a beautiful one.
-- [Pitasi/rscx-mdx](https://github.com/Pitasi/rscx-mdx) - Supercharge your markdown including RSCx components.
+- [pitasi/rscx-mdx](https://github.com/pitasi/rscx-mdx) - Supercharge your markdown including RSCx components.
 - [decomoraes/rust_struct_iterable](https://github.com/decomoraes/rust_struct_iterable) - 
-- [Pitasi/leptos-mdx](https://github.com/Pitasi/leptos-mdx) - Supercharge your markdown including Leptos components.
+- [pitasi/leptos-mdx](https://github.com/pitasi/leptos-mdx) - Supercharge your markdown including Leptos components.
 - [JaniM/emergence](https://github.com/JaniM/emergence) - Short-form note-taking
 - [dallasrust/website-dioxus](https://github.com/dallasrust/website-dioxus) - Dallas Rust User Meetup website using Dioxus
 - [messense/leptos_sse](https://github.com/messense/leptos_sse) - Leptos server signals synced through Server-Sent-Events (SSE). Deprecated, use https://leptos-use.rs/network/use_event_source.html instead
