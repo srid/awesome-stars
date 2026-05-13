@@ -519,7 +519,7 @@
 - [ad-si/TaskLite](https://github.com/ad-si/TaskLite) - The CLI task manager for power users
 - [pimalaya/himalaya](https://github.com/pimalaya/himalaya) - CLI to manage emails
 - [tw-in-js/twind-cli](https://github.com/tw-in-js/twind-cli) - 
-- [zk-org/zk](https://github.com/zk-org/zk) - Plain text note-taking assistant
+- [zk-org/zk](https://github.com/zk-org/zk) - A plain text note-taking assistant for Zettelkasten or otherwise
 - [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better 'df' alternative
 - [BurntSushi/xsv](https://github.com/BurntSushi/xsv) - A fast CSV command line toolkit written in Rust.
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
@@ -1792,6 +1792,7 @@
 
 ## mcp 
 
+- [natsukium/mcp-servers-nix](https://github.com/natsukium/mcp-servers-nix) - A Nix-based configuration framework for Model Control Protocol (MCP) servers with ready-to-use packages.
 - [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) - Chrome DevTools for coding agents
 - [utensils/mcp-nixos](https://github.com/utensils/mcp-nixos) - MCP-NixOS - Model Context Protocol Server for NixOS resources
 - [github/github-mcp-server](https://github.com/github/github-mcp-server) - GitHub's official MCP Server
@@ -1968,6 +1969,7 @@
 
 ## others 
 
+- [juspay/nix-chrome-devtools-mcp](https://github.com/juspay/nix-chrome-devtools-mcp) - Nix-based launcher for chrome-devtools-mcp; shares Playwright's bundled Chrome-for-Testing.
 - [cetz-package/cetz](https://github.com/cetz-package/cetz) - CeTZ: ein Typst Zeichenpaket - A library for drawing stuff with Typst.
 - [openprose/prose](https://github.com/openprose/prose) - A new kind of language for a new kind of computer
 - [openclaw/gitcrawl](https://github.com/openclaw/gitcrawl) - Local-first GitHub issue and pull request crawler for maintainer triage
@@ -2119,7 +2121,7 @@
 - [Simre1/multitasking](https://github.com/Simre1/multitasking) - Easy concurrency in Haskell
 - [AnswerDotAI/llms-txt](https://github.com/AnswerDotAI/llms-txt) - The /llms.txt file, helping language models use your website
 - [seerge/g-helper](https://github.com/seerge/g-helper) - Lightweight Armoury Crate alternative for Asus laptops with nearly the same functionality. Works with ROG Zephyrus, Flow, TUF, Strix, Scar, ProArt, Vivobook, Zenbook, Expertbook, ROG Ally, and many mo
-- [Sikarugir-App/Sikarugir](https://github.com/Sikarugir-App/Sikarugir) - A user-friendly tool used to make wine wrapped ports of Windows software for macOS.
+- [Sikarugir-App/Sikarugir](https://github.com/Sikarugir-App/Sikarugir) - A tool used to make user-friendly wine wrapped ports of Windows software for macOS.
 - [tusharad/langchain-hs](https://github.com/tusharad/langchain-hs) - Haskell implementation of LangChain
 - [drshade/haskell-mcp-server](https://github.com/drshade/haskell-mcp-server) - An Awesome MCP Server Framework for Haskell
 - [apple/container](https://github.com/apple/container) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.
