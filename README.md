@@ -1233,6 +1233,7 @@
 
 ## Nix 
 
+- [kiriwalawren/nixflix](https://github.com/kiriwalawren/nixflix) - NixOS Media Server Configuration
 - [natsukium/mcp-servers-nix](https://github.com/natsukium/mcp-servers-nix) - A Nix-based configuration framework for Model Control Protocol (MCP) servers with ready-to-use packages.
 - [archie-judd/agent-sandbox.nix](https://github.com/archie-judd/agent-sandbox.nix) - Lightweight and declarative sandboxing for AI agents on Linux and macOS using Nix.
 - [denful/with-inputs](https://github.com/denful/with-inputs) - A flake-inputs adapter for Nix projects that don't use `flake.nix`.
@@ -1837,7 +1838,7 @@
 - [eboody/styled](https://github.com/eboody/styled) - Scoped CSS for Leptos with a small Rust-first API.
 - [Canop/bacon](https://github.com/Canop/bacon) - background code checker
 - [GitoxideLabs/prodash](https://github.com/GitoxideLabs/prodash) - report progress of concurrent applications and display it in various ways
-- [amber-lang/amber](https://github.com/amber-lang/amber) - 💎 Amber the programming language compiled to Bash
+- [amber-lang/amber](https://github.com/amber-lang/amber) - 💎 Amber the programming language compiled to Bash/Ksh/Zsh
 - [jonringer/basinix](https://github.com/jonringer/basinix) - (WIP) Nix CI pull request review website
 - [juspay/superposition](https://github.com/juspay/superposition) - Superposition is a context-based configuration management system designed to facilitate safe and flexible rollout of config changes
 - [trashhalo/obsidian-rust-plugin](https://github.com/trashhalo/obsidian-rust-plugin) - 
@@ -2020,6 +2021,7 @@
 
 ## Shell 
 
+- [sadjow/claude-code-nix](https://github.com/sadjow/claude-code-nix) - Always up-to-date Nix package for Claude Code with hourly updates from Anthropic's native releases
 - [juspay/nix-chrome-devtools-mcp](https://github.com/juspay/nix-chrome-devtools-mcp) - Nix-based launcher for chrome-devtools-mcp; shares Playwright's bundled Chrome-for-Testing.
 - [juspay/project-unknown](https://github.com/juspay/project-unknown) - TBD
 - [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) - Production-grade engineering skills for AI coding agents.
