@@ -1983,7 +1983,7 @@
 - [h4ckf0r0day/obscura](https://github.com/h4ckf0r0day/obscura) - The headless browser for AI agents and web scraping
 - [juspay/nixden](https://github.com/juspay/nixden) - Isolated NixOS-based devbox for Mac users and others
 - [pierrecomputer/pierre](https://github.com/pierrecomputer/pierre) - pierre’s open source code
-- [ryoppippi/ccusage](https://github.com/ryoppippi/ccusage) - A CLI tool for analyzing Claude Code/Codex CLI usage from local JSONL files.
+- [ryoppippi/ccusage](https://github.com/ryoppippi/ccusage) - Analyze coding (agent) CLI token usage and costs from local data.
 - [dpella/mcp](https://github.com/dpella/mcp) - 
 - [denful/with-inputs](https://github.com/denful/with-inputs) - A flake-inputs adapter for Nix projects that don't use `flake.nix`.
 - [jappeace/hatter](https://github.com/jappeace/hatter) - Hatter is like flutter but instead of dart, haskell!
