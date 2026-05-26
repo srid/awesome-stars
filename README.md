@@ -97,6 +97,7 @@
 ## C 
 
 - [nedimzecic/gammad](https://github.com/nedimzecic/gammad) - Modify gamma ramp (LUT) directly in DRM
+- [augustss/MicroHs](https://github.com/augustss/MicroHs) - Haskell implemented with combinators
 - [X11Libre/xserver](https://github.com/X11Libre/xserver) - XLibre Xserver
 - [HandBrake/HandBrake](https://github.com/HandBrake/HandBrake) - HandBrake's development repository
 - [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch) - A maintained, feature-rich and performance oriented, neofetch like system information tool.
@@ -618,7 +619,6 @@
 - [minad/persist](https://github.com/minad/persist) - Minimal binary serialization library with focus on performance
 - [jgm/typst-hs](https://github.com/jgm/typst-hs) - Haskell library for parsing and evaluating typst
 - [haskell-miso/miso-lynx](https://github.com/haskell-miso/miso-lynx) - :ramen: 🐈 A tasty Haskell mobile framework
-- [augustss/MicroHs](https://github.com/augustss/MicroHs) - Haskell implemented with combinators
 - [bellroy/github-actions](https://github.com/bellroy/github-actions) - A Haskell package for representing, serializing and deserializing Github Actions workflows.
 - [three-hs/three.hs](https://github.com/three-hs/three.hs) - 🎬 Haskell bindings to three.js
 - [Simre1/multitasking](https://github.com/Simre1/multitasking) - Easy concurrency in Haskell
@@ -1817,7 +1817,7 @@
 - [brioche-dev/brioche](https://github.com/brioche-dev/brioche) - A delicious package manager
 - [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep) - ⚡A CLI tool for code structural search, lint and rewriting. Written in Rust
 - [gak/hashmoji](https://github.com/gak/hashmoji) - hashmoji is a crate that generates unique emojis based on the hash of a value.
-- [faukah/dix](https://github.com/faukah/dix) - Diff Nix
+- [sisyphean-group/dix](https://github.com/sisyphean-group/dix) - A blazingly fast tool to diff Nix related things
 - [mikeleppane/chamber](https://github.com/mikeleppane/chamber) - A secure, local-first secrets manager built with Rust, featuring encrypted storage, intuitive terminal UI, and comprehensive import/export capabilities.
 - [Myriad-Dreamin/tinymist](https://github.com/Myriad-Dreamin/tinymist) - Tinymist [ˈtaɪni mɪst] is an integrated language service for Typst [taɪpst].
 - [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor.
