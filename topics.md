@@ -2092,7 +2092,7 @@
 - [cachix/haskell-release-action](https://github.com/cachix/haskell-release-action) - Automation for releasing haskell packages
 - [merijn/broadcast-chan](https://github.com/merijn/broadcast-chan) - Closable, fair, single-wakeup channel type that avoids 0 reader space leaks.
 - [snoyberg/why-you-should-use-stm](https://github.com/snoyberg/why-you-should-use-stm) - 
-- [faukah/dix](https://github.com/faukah/dix) - Diff Nix
+- [sisyphean-group/dix](https://github.com/sisyphean-group/dix) - A blazingly fast tool to diff Nix related things
 - [tobi/try](https://github.com/tobi/try) - fresh directories for every vibe
 - [bramus/chrome-dark-mode-toggle](https://github.com/bramus/chrome-dark-mode-toggle) - Real control over Light Mode / Dark Mode on a per-site basis!
 - [obsidiansystems/cli-nix](https://github.com/obsidiansystems/cli-nix) - 
