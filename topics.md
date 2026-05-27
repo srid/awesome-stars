@@ -764,6 +764,7 @@
 
 ## development 
 
+- [xtermjs/xterm.js](https://github.com/xtermjs/xterm.js) - A terminal for the web
 - [nickel-lang/organist](https://github.com/nickel-lang/organist) - Control all your tooling from a single console
 
 ## devops 
@@ -1497,6 +1498,7 @@
 
 ## javascript 
 
+- [xtermjs/xterm.js](https://github.com/xtermjs/xterm.js) - A terminal for the web
 - [unifiedjs/unified](https://github.com/unifiedjs/unified) - Parse, inspect, transform, and serialize content with syntax trees
 - [biomejs/biome](https://github.com/biomejs/biome) - A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.
 - [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap) - The headless rich text editor framework for web artisans.
@@ -2092,7 +2094,7 @@
 - [cachix/haskell-release-action](https://github.com/cachix/haskell-release-action) - Automation for releasing haskell packages
 - [merijn/broadcast-chan](https://github.com/merijn/broadcast-chan) - Closable, fair, single-wakeup channel type that avoids 0 reader space leaks.
 - [snoyberg/why-you-should-use-stm](https://github.com/snoyberg/why-you-should-use-stm) - 
-- [sisyphean-group/dix](https://github.com/sisyphean-group/dix) - A blazingly fast tool to diff Nix related things
+- [manic-systems/dix](https://github.com/manic-systems/dix) - A blazingly fast tool to diff Nix related things
 - [tobi/try](https://github.com/tobi/try) - fresh directories for every vibe
 - [bramus/chrome-dark-mode-toggle](https://github.com/bramus/chrome-dark-mode-toggle) - Real control over Light Mode / Dark Mode on a per-site basis!
 - [obsidiansystems/cli-nix](https://github.com/obsidiansystems/cli-nix) - 
@@ -3732,6 +3734,7 @@
 
 ## terminal 
 
+- [xtermjs/xterm.js](https://github.com/xtermjs/xterm.js) - A terminal for the web
 - [mfontanini/presenterm](https://github.com/mfontanini/presenterm) - A markdown terminal slideshow tool
 - [collaborator-ai/collab-public](https://github.com/collaborator-ai/collab-public) - Collaborator is a place to create with agents.
 - [coder/ghostty-web](https://github.com/coder/ghostty-web) - Ghostty for the web with xterm.js API compatibility
@@ -3828,6 +3831,7 @@
 
 ## typescript 
 
+- [xtermjs/xterm.js](https://github.com/xtermjs/xterm.js) - A terminal for the web
 - [biomejs/biome](https://github.com/biomejs/biome) - A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.
 - [google/clasp](https://github.com/google/clasp) - 🔗 Command Line Apps Script Projects
 - [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep) - ⚡A CLI tool for code structural search, lint and rewriting. Written in Rust
