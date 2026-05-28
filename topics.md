@@ -1833,7 +1833,7 @@
 ## mysql 
 
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.
-- [launchbadge/sqlx](https://github.com/launchbadge/sqlx) - 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.
+- [transact-rs/sqlx](https://github.com/transact-rs/sqlx) - 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.
 - [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data
 - [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
 - [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
@@ -3259,7 +3259,7 @@
 
 ## postgresql 
 
-- [launchbadge/sqlx](https://github.com/launchbadge/sqlx) - 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.
+- [transact-rs/sqlx](https://github.com/transact-rs/sqlx) - 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.
 - [calcom/cal.diy](https://github.com/calcom/cal.diy) - Scheduling infrastructure for absolutely everyone.
 - [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
 - [haskell-beam/beam](https://github.com/haskell-beam/beam) - A type-safe Haskell SQL library
@@ -3503,7 +3503,7 @@
 - [lsd-rs/lsd](https://github.com/lsd-rs/lsd) - The next gen ls command
 - [dioxus-community/dioxus-redux](https://github.com/dioxus-community/dioxus-redux) - State management for Dioxus 🧬
 - [mjovanc/awesome-tokio](https://github.com/mjovanc/awesome-tokio) - Awesome books, tutorials, courses, and resources for Tokio. ⚡
-- [launchbadge/sqlx](https://github.com/launchbadge/sqlx) - 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.
+- [transact-rs/sqlx](https://github.com/transact-rs/sqlx) - 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.
 - [marc2332/dioxus-query](https://github.com/marc2332/dioxus-query) - Fully-typed, async, reusable state management and synchronization for Dioxus 🧬
 - [michalvavra/tauri-leptos-example](https://github.com/michalvavra/tauri-leptos-example) - Tauri and Leptos example.
 - [oxalica/nocargo](https://github.com/oxalica/nocargo) - [alpha] Build Rust crates with Nix Build System.
@@ -3651,7 +3651,7 @@
 ## sql 
 
 - [Airsequel/AirGQL](https://github.com/Airsequel/AirGQL) - Automatically generate a GraphQL API for any SQLite database
-- [launchbadge/sqlx](https://github.com/launchbadge/sqlx) - 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.
+- [transact-rs/sqlx](https://github.com/transact-rs/sqlx) - 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.
 - [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data
 - [haskell-beam/beam](https://github.com/haskell-beam/beam) - A type-safe Haskell SQL library
 - [PostgREST/postgrest](https://github.com/PostgREST/postgrest) - REST API for any Postgres database
@@ -3666,7 +3666,7 @@
 - [tcgoetz/GarminDB](https://github.com/tcgoetz/GarminDB) - Download and parse data from Garmin Connect or a Garmin watch, FitBit CSV, and MS Health CSV files into and analyze data in Sqlite serverless databases with Jupyter notebooks.
 - [Airsequel/AirGQL](https://github.com/Airsequel/AirGQL) - Automatically generate a GraphQL API for any SQLite database
 - [usememos/memos](https://github.com/usememos/memos) - Open-source, self-hosted note-taking tool built for quick capture. Markdown-native, lightweight, and fully yours.
-- [launchbadge/sqlx](https://github.com/launchbadge/sqlx) - 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.
+- [transact-rs/sqlx](https://github.com/transact-rs/sqlx) - 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.
 - [ad-si/TaskLite](https://github.com/ad-si/TaskLite) - The CLI task manager for power users
 - [haskell-beam/beam](https://github.com/haskell-beam/beam) - A type-safe Haskell SQL library
 
