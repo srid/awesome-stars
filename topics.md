@@ -953,7 +953,7 @@
 
 ## framework 
 
-- [viz-rs/vidi.github.io](https://github.com/viz-rs/vidi.github.io) - The official documentation site for Viz.rs.
+- [viz-rs/vidi.github.io](https://github.com/viz-rs/vidi.github.io) - The official documentation site for Vidi.
 - [LukeMathWalker/pavex](https://github.com/LukeMathWalker/pavex) - A backend framework for Rust professionals
 - [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) - Documentation that simply works
 - [camlworks/dream](https://github.com/camlworks/dream) - Tidy, feature-complete Web framework
@@ -1972,6 +1972,7 @@
 
 ## others 
 
+- [srid/drishti](https://github.com/srid/drishti) - htop for your whole fleet — with nothing installed on the remote
 - [srid/anywhen](https://github.com/srid/anywhen) - The actualists' task manager
 - [juspay/bun2nix](https://github.com/juspay/bun2nix) - Fork of https://github.com/nix-community/bun2nix open to contributions
 - [sadjow/claude-code-nix](https://github.com/sadjow/claude-code-nix) - Always up-to-date Nix package for Claude Code with hourly updates from Anthropic's native releases
@@ -3469,7 +3470,7 @@
 - [alexpasmantier/television](https://github.com/alexpasmantier/television) - A very fast, portable and hackable fuzzy finder.
 - [abenz1267/walker](https://github.com/abenz1267/walker) - Multi-Purpose Launcher with a lot of features. Highly Customizable and fast.
 - [swsnr/mdcat](https://github.com/swsnr/mdcat) - cat for markdown
-- [viz-rs/vidi.github.io](https://github.com/viz-rs/vidi.github.io) - The official documentation site for Viz.rs.
+- [viz-rs/vidi.github.io](https://github.com/viz-rs/vidi.github.io) - The official documentation site for Vidi.
 - [Canop/bacon](https://github.com/Canop/bacon) - background code checker
 - [juspay/superposition](https://github.com/juspay/superposition) - Superposition is a context-based configuration management system designed to facilitate safe and flexible rollout of config changes
 - [NiklasEi/cinnog](https://github.com/NiklasEi/cinnog) - Experimental static site generator using Leptos with Bevy ECS as a data layer
@@ -3943,7 +3944,7 @@
 - [biomejs/biome](https://github.com/biomejs/biome) - A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.
 - [antithesishq/bombadil](https://github.com/antithesishq/bombadil) - Property-based testing for web UIs, autonomously exploring and validating correctness properties, finding harder bugs earlier
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
-- [viz-rs/vidi.github.io](https://github.com/viz-rs/vidi.github.io) - The official documentation site for Viz.rs.
+- [viz-rs/vidi.github.io](https://github.com/viz-rs/vidi.github.io) - The official documentation site for Vidi.
 - [LukeMathWalker/pavex](https://github.com/LukeMathWalker/pavex) - A backend framework for Rust professionals
 - [ekzhang/sshx](https://github.com/ekzhang/sshx) - Fast, collaborative live terminal sharing over the web
 - [greyblake/nutype](https://github.com/greyblake/nutype) - Rust newtype with guarantees  🇺🇦 🦀
