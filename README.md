@@ -1840,7 +1840,7 @@
 - [anyrun-org/anyrun](https://github.com/anyrun-org/anyrun) - A wayland native, highly customizable runner.
 - [swsnr/mdcat](https://github.com/swsnr/mdcat) - cat for markdown
 - [guilhermeprokisch/see](https://github.com/guilhermeprokisch/see) - A cute cat(1) for the terminal with advanced code viewing, Markdown rendering, 🌳  tree-sitter syntax highlighting, images view and more.
-- [viz-rs/vidi.github.io](https://github.com/viz-rs/vidi.github.io) - The official documentation site for Viz.rs.
+- [viz-rs/vidi.github.io](https://github.com/viz-rs/vidi.github.io) - The official documentation site for Vidi.
 - [eboody/styled](https://github.com/eboody/styled) - Scoped CSS for Leptos with a small Rust-first API.
 - [Canop/bacon](https://github.com/Canop/bacon) - background code checker
 - [GitoxideLabs/prodash](https://github.com/GitoxideLabs/prodash) - report progress of concurrent applications and display it in various ways
@@ -2161,6 +2161,7 @@
 
 ## TypeScript 
 
+- [srid/drishti](https://github.com/srid/drishti) - htop for your whole fleet — with nothing installed on the remote
 - [xtermjs/xterm.js](https://github.com/xtermjs/xterm.js) - A terminal for the web
 - [srid/anywhen](https://github.com/srid/anywhen) - The actualists' task manager
 - [openprose/prose](https://github.com/openprose/prose) - A new kind of language for a new kind of computer
