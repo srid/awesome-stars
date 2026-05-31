@@ -303,7 +303,7 @@
 - [manzaltu/claude-code-ide.el](https://github.com/manzaltu/claude-code-ide.el) - Claude Code IDE integration for Emacs
 - [abougouffa/minemacs](https://github.com/abougouffa/minemacs) - MinEmacs: an Emacs configuration framework for daily use
 - [copilot-emacs/copilot.el](https://github.com/copilot-emacs/copilot.el) - An unofficial Copilot plugin for Emacs.
-- [mclear-tools/tabspaces](https://github.com/mclear-tools/tabspaces) - 
+- [mclear-tools/tabspaces](https://github.com/mclear-tools/tabspaces) - MOVED TO CODEBERG (https://codeberg.org/mclear-tools/tabspaces). This GitHub repo is an archived mirror.
 - [rougier/nano-emacs](https://github.com/rougier/nano-emacs) - GNU Emacs / N Λ N O - Emacs made simple
 - [abo-abo/org-download](https://github.com/abo-abo/org-download) - Drag and drop images to Emacs org-mode
 - [minad/org-modern](https://github.com/minad/org-modern) - :unicorn: Modern Org Style
@@ -2166,7 +2166,7 @@
 - [srid/anywhen](https://github.com/srid/anywhen) - The actualists' task manager
 - [openprose/prose](https://github.com/openprose/prose) - A new kind of language for a new kind of computer
 - [vercel-labs/portless](https://github.com/vercel-labs/portless) - Replace port numbers with stable, named local URLs. For humans and agents.
-- [webadderallorg/Recordly](https://github.com/webadderallorg/Recordly) - Create polished screen recordings without editing. Mac/Windows/Linux
+- [webadderallorg/Recordly](https://github.com/webadderallorg/Recordly) - Create polished demo videos without editing skills. Mac/Windows/Linux
 - [kitlangton/ghui](https://github.com/kitlangton/ghui) - A GitHub TUI
 - [refactoringhq/tolaria](https://github.com/refactoringhq/tolaria) - Desktop app to manage markdown knowledge bases
 - [pierrecomputer/pierre](https://github.com/pierrecomputer/pierre) - pierre’s open source code
