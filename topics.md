@@ -1973,6 +1973,7 @@
 
 ## others 
 
+- [adisbladis/nix-cache-beacon](https://github.com/adisbladis/nix-cache-beacon) - mDNS discovery for Nix binary caches
 - [srid/drishti](https://github.com/srid/drishti) - htop for your whole fleet — with nothing installed on the remote
 - [srid/anywhen](https://github.com/srid/anywhen) - The actualists' task manager
 - [juspay/bun2nix](https://github.com/juspay/bun2nix) - Fork of https://github.com/nix-community/bun2nix open to contributions
