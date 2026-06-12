@@ -108,6 +108,7 @@
 - [davatorium/rofi](https://github.com/davatorium/rofi) - Rofi: A window switcher, application launcher and dmenu replacement
 - [mpv-player/mpv](https://github.com/mpv-player/mpv) - 🎥 Command line media player
 - [imbushuo/mac-precision-touchpad](https://github.com/imbushuo/mac-precision-touchpad) - Windows Precision Touchpad Driver Implementation for Apple MacBook / Magic Trackpad
+- [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows
 - [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
 - [jarun/nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager
 - [mwyborski/Linux-Magic-Trackpad-2-Driver](https://github.com/mwyborski/Linux-Magic-Trackpad-2-Driver) - 
@@ -148,7 +149,6 @@
 - [dotnet/interactive](https://github.com/dotnet/interactive) - .NET Interactive combines the power of .NET with many other languages to create notebooks, REPLs, and embedded coding experiences. Share code, explore data, write, and learn across your apps in ways y
 - [PowerShell/ConsoleGuiTools](https://github.com/PowerShell/ConsoleGuiTools) - Modules that mix PowerShell and GUIs/CUIs!
 - [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) - PowerShell for every system!
-- [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows
 - [m0ngr31/VirtualDesktopManager](https://github.com/m0ngr31/VirtualDesktopManager) - 
 
 ## C++ 
@@ -1794,7 +1794,7 @@
 - [biomejs/biome](https://github.com/biomejs/biome) - A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.
 - [git-ai-project/git-ai](https://github.com/git-ai-project/git-ai) - A Git extension for tracking the AI-generated code in your repos
 - [ccusage/ccusage](https://github.com/ccusage/ccusage) - Analyze coding (agent) CLI token usage and costs from local data.
-- [DecapodLabs/decapod](https://github.com/DecapodLabs/decapod) - Repo-native governance kernel that enriches context and turns natural-language intent into governed, proof-backed work across agent fleets. 🦀
+- [DecapodLabs/decapod](https://github.com/DecapodLabs/decapod) - Repo-native governance kernel that enriches context and turns natural-language intent into governed, proof-backed work across looping agent fleets. 🦀
 - [mfontanini/presenterm](https://github.com/mfontanini/presenterm) - A markdown terminal slideshow tool
 - [Ataraxy-Labs/opensessions](https://github.com/Ataraxy-Labs/opensessions) - tmux sidebar for coding agents — Amp, Claude Code, Codex, OpenCode. Per-thread markers, local HTTP API, live session state.
 - [nikstur/lon](https://github.com/nikstur/lon) - Lock & update Nix dependencies
