@@ -1993,7 +1993,7 @@
 - [refactoringhq/tolaria](https://github.com/refactoringhq/tolaria) - Desktop app to manage markdown knowledge bases
 - [juspay/nixden](https://github.com/juspay/nixden) - Isolated NixOS-based devbox for Mac users and others
 - [pierrecomputer/pierre](https://github.com/pierrecomputer/pierre) - pierre’s open source code
-- [ccusage/ccusage](https://github.com/ccusage/ccusage) - Analyze coding (agent) CLI token usage and costs from local data.
+- [ccusage/ccusage](https://github.com/ccusage/ccusage) - npx ccusage
 - [dpella/mcp](https://github.com/dpella/mcp) - 
 - [denful/with-inputs](https://github.com/denful/with-inputs) - A flake-inputs adapter for Nix projects that don't use `flake.nix`.
 - [jappeace/hatter](https://github.com/jappeace/hatter) - Hatter is like flutter but instead of dart, haskell!
@@ -2725,7 +2725,7 @@
 - [chrisdone/lucid](https://github.com/chrisdone/lucid) - Clear to write, read and edit DSL for writing HTML
 - [monadfix/jijo](https://github.com/monadfix/jijo) - Bidirectional JSON serialization
 - [patrickt/empathy](https://github.com/patrickt/empathy) - a modern library for typed path manipulation in Haskell
-- [jsonresume/resume-schema](https://github.com/jsonresume/resume-schema) - JSON-Schema is used here to define and validate our proposed resume json
+- [jsonresume/resume-schema](https://github.com/jsonresume/resume-schema) - MOVED to jsonresume/jsonresume.org (packages/schema) — npm @jsonresume/schema unchanged
 - [mstksg/typelits-witnesses](https://github.com/mstksg/typelits-witnesses) - Existential witnesses, singletons, and classes for operations on GHC TypeLits
 - [epicallan/hreq](https://github.com/epicallan/hreq) - A type dependent highlevel HTTP client library inspired by servant-client.
 - [graninas/Functional-Design-and-Architecture](https://github.com/graninas/Functional-Design-and-Architecture) - Code and materials for my book "Functional Design and Architecture"
@@ -4031,7 +4031,7 @@
 
 ## zig 
 
-- [neurosnap/zmx](https://github.com/neurosnap/zmx) - Session persistence for terminal processes
+- [neurosnap/zmx](https://github.com/neurosnap/zmx) - Session attach/detach for the terminal.
 - [extism/extism](https://github.com/extism/extism) - The framework for building with WebAssembly (wasm). Easily & securely load wasm modules, move data, call functions, and build extensible apps.
 
 ## zsh 
