@@ -1238,7 +1238,6 @@
 - [juspay/bun2nix](https://github.com/juspay/bun2nix) - Fork of https://github.com/nix-community/bun2nix open to contributions
 - [kiriwalawren/nixflix](https://github.com/kiriwalawren/nixflix) - NixOS Media Server Configuration
 - [natsukium/mcp-servers-nix](https://github.com/natsukium/mcp-servers-nix) - A Nix-based configuration framework for Model Control Protocol (MCP) servers with ready-to-use packages.
-- [archie-judd/agent-sandbox.nix](https://github.com/archie-judd/agent-sandbox.nix) - Lightweight and declarative sandboxing for AI agents on Linux and macOS using Nix.
 - [denful/with-inputs](https://github.com/denful/with-inputs) - A flake-inputs adapter for Nix projects that don't use `flake.nix`.
 - [nixos-lima/nixos-lima](https://github.com/nixos-lima/nixos-lima) - NixOS VMs on macOS or Linux using Lima
 - [DavHau/sbox](https://github.com/DavHau/sbox) - Like sudo, but in reverse
@@ -1885,7 +1884,7 @@
 - [zbirenbaum/copilot-rs](https://github.com/zbirenbaum/copilot-rs) - Copilot LSP implementation in Rust
 - [ekzhang/sshx](https://github.com/ekzhang/sshx) - Fast, collaborative live terminal sharing over the web
 - [tvlfyi/tvix](https://github.com/tvlfyi/tvix) - Tvix - A Rust implementation of Nix. Read-only mirror of https://code.tvl.fyi/tree/tvix
-- [zhaofengli/colmena](https://github.com/zhaofengli/colmena) - A simple, stateless NixOS deployment tool
+- [nix-community/colmena](https://github.com/nix-community/colmena) - A simple, stateless NixOS deployment tool
 - [leontoeides/indicium](https://github.com/leontoeides/indicium) - A simple in-memory search for collections and key-value stores.
 - [greyblake/nutype](https://github.com/greyblake/nutype) - Rust newtype with guarantees  🇺🇦 🦀
 - [Anush008/fastembed-rs](https://github.com/Anush008/fastembed-rs) - Rust library for generating vector embeddings, reranking locally!
@@ -2030,6 +2029,7 @@
 
 - [sadjow/claude-code-nix](https://github.com/sadjow/claude-code-nix) - Always up-to-date Nix package for Claude Code with hourly updates from Anthropic's native releases
 - [juspay/nix-chrome-devtools-mcp](https://github.com/juspay/nix-chrome-devtools-mcp) - Nix-based launcher for chrome-devtools-mcp; shares Playwright's bundled Chrome-for-Testing.
+- [archie-judd/agent-sandbox.nix](https://github.com/archie-judd/agent-sandbox.nix) - Lightweight and declarative sandboxing for AI agents on Linux and macOS using Nix.
 - [juspay/project-unknown](https://github.com/juspay/project-unknown) - TBD
 - [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) - Production-grade engineering skills for AI coding agents.
 - [nammayatri/claude-fleet](https://github.com/nammayatri/claude-fleet) - A parallel task orchestrator for running hundreds of [Claude Code](https://docs.anthropic.com/en/docs/claude-code) sessions concurrently. Maximize your Claude Max subscription by running audit, fix, a
@@ -2331,7 +2331,7 @@
 
 ## Zig 
 
-- [neurosnap/zmx](https://github.com/neurosnap/zmx) - Session attach/detach for the terminal.
+- [neurosnap/zmx](https://github.com/neurosnap/zmx) - Session attach/detach for the terminal
 - [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.
 
 ## hoon 
