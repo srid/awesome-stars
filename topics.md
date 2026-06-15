@@ -736,7 +736,7 @@
 ## deployment 
 
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.
-- [zhaofengli/colmena](https://github.com/zhaofengli/colmena) - A simple, stateless NixOS deployment tool
+- [nix-community/colmena](https://github.com/nix-community/colmena) - A simple, stateless NixOS deployment tool
 - [serokell/deploy-rs](https://github.com/serokell/deploy-rs) - A simple multi-profile Nix-flake deploy tool.
 
 ## design 
@@ -1975,6 +1975,7 @@
 
 ## others 
 
+- [mmonad/zmosh](https://github.com/mmonad/zmosh) - Session persistence with auto-reconnect for terminal processes. CLI + C library.
 - [juspay/odu](https://github.com/juspay/odu) - A CI runner you attach to
 - [adisbladis/nix-cache-beacon](https://github.com/adisbladis/nix-cache-beacon) - mDNS discovery for Nix binary caches
 - [srid/drishti](https://github.com/srid/drishti) - htop for your whole fleet — with nothing installed on the remote
@@ -4031,7 +4032,7 @@
 
 ## zig 
 
-- [neurosnap/zmx](https://github.com/neurosnap/zmx) - Session attach/detach for the terminal.
+- [neurosnap/zmx](https://github.com/neurosnap/zmx) - Session attach/detach for the terminal
 - [extism/extism](https://github.com/extism/extism) - The framework for building with WebAssembly (wasm). Easily & securely load wasm modules, move data, call functions, and build extensible apps.
 
 ## zsh 
