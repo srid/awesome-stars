@@ -1260,7 +1260,6 @@
 - [srid/nix-serve-cloudflared](https://github.com/srid/nix-serve-cloudflared) - Serve your Nix store as cache, behind Cloudflare Tunnel
 - [phaer/nixos-vm-on-macos](https://github.com/phaer/nixos-vm-on-macos) - Run #NixOS on darwin, including Rosetta 2 & virtiofs!
 - [nix-community/bun2nix](https://github.com/nix-community/bun2nix) - Generate a nix expression to build bun packages - similar to node2nix or yarn2nix [maintainer=@baileylu121]
-- [nixbuild/nix-quick-install-action](https://github.com/nixbuild/nix-quick-install-action) - 
 - [pietdevries94/playwright-web-flake](https://github.com/pietdevries94/playwright-web-flake) - 
 - [naminx/chrome-remote-desktop](https://github.com/naminx/chrome-remote-desktop) - 
 - [YPares/nushellWith](https://github.com/YPares/nushellWith) - Isolated nushell envs with specific plugins and libraries (with Nix)
@@ -1601,6 +1600,7 @@
 
 - [sophronesis/peerix](https://github.com/sophronesis/peerix) - Peer2Peer Nix-Binary-Cache
 - [yizhiyanhua-ai/fireworks-tech-graph](https://github.com/yizhiyanhua-ai/fireworks-tech-graph) - Generate production-quality SVG+PNG technical diagrams from natural language. 7 styles, UML support, and AI/Agent workflow patterns.
+- [cocoindex-io/cocoindex](https://github.com/cocoindex-io/cocoindex) - Incremental engine for long horizon agents 🌟 Star if you like it!
 - [microsoft/apm](https://github.com/microsoft/apm) - Agent Package Manager
 - [Weizhena/Deep-Research-skills](https://github.com/Weizhena/Deep-Research-skills) - Structured deep research skill for Claude Code/Open Code/Codex with human-in-the-loop control
 - [nrdxp/predicate](https://github.com/nrdxp/predicate) - Reusable agent predicates (rulesets) and workflows for agentic coding assistants.
@@ -1788,7 +1788,6 @@
 - [1jehuang/mermaid-rs-renderer](https://github.com/1jehuang/mermaid-rs-renderer) - A fast native Rust Mermaid diagram renderer. No browser required. 500-1000x faster than mermaid-cli.
 - [Pagefind/pagefind](https://github.com/Pagefind/pagefind) - Static low-bandwidth search at scale
 - [blitz/celler](https://github.com/blitz/celler) - Multi-tenant Nix Binary Cache
-- [cocoindex-io/cocoindex](https://github.com/cocoindex-io/cocoindex) - Incremental engine for long horizon agents 🌟 Star if you like it!
 - [h4ckf0r0day/obscura](https://github.com/h4ckf0r0day/obscura) - The headless browser for AI agents and web scraping
 - [biomejs/biome](https://github.com/biomejs/biome) - A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.
 - [git-ai-project/git-ai](https://github.com/git-ai-project/git-ai) - A Git extension for tracking the AI-generated code in your repos
@@ -1800,7 +1799,7 @@
 - [andir/npins](https://github.com/andir/npins) - Nix dependency pinning. Very similar to Niv but has a few features that I personally wanted.
 - [catenarytransit/rtc_quebec_proxy_zip](https://github.com/catenarytransit/rtc_quebec_proxy_zip) - 
 - [catenarytransit/rtc_quebec_gtfs_rt](https://github.com/catenarytransit/rtc_quebec_gtfs_rt) - Conversion de l'API RTC Québec en GTFS temps réel | Conversion of RTC Quebec API to GTFS realtime
-- [antithesishq/bombadil](https://github.com/antithesishq/bombadil) - Property-based testing for web UIs, autonomously exploring and validating correctness properties, finding harder bugs earlier
+- [antithesishq/bombadil](https://github.com/antithesishq/bombadil) - Property-based testing for web and terminal UIs
 - [MercuryTechnologies/ghciwatch](https://github.com/MercuryTechnologies/ghciwatch) - Load a GHCi session for a Haskell project and reload it when source files change
 - [raine/workmux](https://github.com/raine/workmux) - git worktrees + tmux windows for zero-friction parallel dev
 - [mozilla/uniffi-rs](https://github.com/mozilla/uniffi-rs) - a multi-language bindings generator for rust
@@ -2037,6 +2036,7 @@
 - [diet103/claude-code-infrastructure-showcase](https://github.com/diet103/claude-code-infrastructure-showcase) - Examples of my Claude Code infrastructure with skill auto-activation, hooks, and agents
 - [srid/nix-systems](https://github.com/srid/nix-systems) - 
 - [srid/master](https://github.com/srid/master) - Dethrone "main" and restore "master" to its rightful glory.
+- [nixbuild/nix-quick-install-action](https://github.com/nixbuild/nix-quick-install-action) - 
 - [tobi/try](https://github.com/tobi/try) - fresh directories for every vibe
 - [haskell-wasm/ghc-wasm-meta](https://github.com/haskell-wasm/ghc-wasm-meta) - Read-only mirror of ghc-wasm-meta on ghc gitlab
 - [basecamp/gh-signoff](https://github.com/basecamp/gh-signoff) - Local CI. Sign off on your own work.
