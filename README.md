@@ -97,7 +97,6 @@
 ## C 
 
 - [nedimzecic/gammad](https://github.com/nedimzecic/gammad) - Modify gamma ramp (LUT) directly in DRM
-- [augustss/MicroHs](https://github.com/augustss/MicroHs) - Haskell implemented with combinators
 - [X11Libre/xserver](https://github.com/X11Libre/xserver) - XLibre Xserver
 - [HandBrake/HandBrake](https://github.com/HandBrake/HandBrake) - HandBrake's development repository
 - [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch) - A maintained, feature-rich and performance oriented, neofetch like system information tool.
@@ -620,6 +619,7 @@
 - [minad/persist](https://github.com/minad/persist) - Minimal binary serialization library with focus on performance
 - [jgm/typst-hs](https://github.com/jgm/typst-hs) - Haskell library for parsing and evaluating typst
 - [haskell-miso/miso-lynx](https://github.com/haskell-miso/miso-lynx) - :ramen: 🐈 A tasty Haskell mobile framework
+- [augustss/MicroHs](https://github.com/augustss/MicroHs) - Haskell implemented with combinators
 - [bellroy/github-actions](https://github.com/bellroy/github-actions) - A Haskell package for representing, serializing and deserializing Github Actions workflows.
 - [three-hs/three.hs](https://github.com/three-hs/three.hs) - 🎬 Haskell bindings to three.js
 - [Simre1/multitasking](https://github.com/Simre1/multitasking) - Easy concurrency in Haskell
@@ -1887,7 +1887,7 @@
 - [leontoeides/indicium](https://github.com/leontoeides/indicium) - A simple in-memory search for collections and key-value stores.
 - [greyblake/nutype](https://github.com/greyblake/nutype) - Rust newtype with guarantees  🇺🇦 🦀
 - [Anush008/fastembed-rs](https://github.com/Anush008/fastembed-rs) - Rust library for generating vector embeddings, reranking locally!
-- [ex0dus-0x/microkv](https://github.com/ex0dus-0x/microkv) - Minimal and persistent key-value store designed with security in mind
+- [ex0dus-0x/microkv](https://github.com/ex0dus-0x/microkv) - secure minimal key-value store
 - [ctsrc/persistence](https://github.com/ctsrc/persistence) - Rust library providing mutable resizable arrays built on top of mmap
 - [spacejam/sled](https://github.com/spacejam/sled) - the champagne of beta embedded databases
 - [srid/felicity](https://github.com/srid/felicity) - A dumb mood tracker app
