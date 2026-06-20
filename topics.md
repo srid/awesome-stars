@@ -275,6 +275,7 @@
 - [DecapodLabs/decapod](https://github.com/DecapodLabs/decapod) - Repo-native governance kernel that enriches context and turns natural-language intent into governed, proof-backed work across looping agent fleets. 🦀
 - [avivsinai/bitbucket-cli](https://github.com/avivsinai/bitbucket-cli) - Bitbucket CLI with gh-like ergonomics
 - [microsoft/apm](https://github.com/microsoft/apm) - Agent Package Manager
+- [FootprintAI/Containarium](https://github.com/FootprintAI/Containarium) - The open-source, self-hostable, agent-native sandbox. Bring your own agent (Cursor, Claude Code, OpenCode); we run the box.
 - [Datron/jilebi](https://github.com/Datron/jilebi) - MCP runtime with javacript plugins
 - [mem0ai/mem0](https://github.com/mem0ai/mem0) - Universal memory layer for AI Agents
 - [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data
@@ -1650,6 +1651,7 @@
 ## llm 
 
 - [cocoindex-io/cocoindex](https://github.com/cocoindex-io/cocoindex) - Incremental engine for long horizon agents 🌟 Star if you like it!
+- [FootprintAI/Containarium](https://github.com/FootprintAI/Containarium) - The open-source, self-hostable, agent-native sandbox. Bring your own agent (Cursor, Claude Code, OpenCode); we run the box.
 - [MiniMax-AI/MiniMax-M2](https://github.com/MiniMax-AI/MiniMax-M2) - MiniMax-M2, a model built for Max coding & agentic workflows.
 - [zai-org/GLM-4.5](https://github.com/zai-org/GLM-4.5) - GLM-4.5: Agentic, Reasoning, and Coding (ARC) Foundation Models
 - [xynehq/xyne](https://github.com/xynehq/xyne) - AI-first Search & Answer Engine for work. Open-source alternative to Glean.
@@ -1796,6 +1798,7 @@
 
 - [natsukium/mcp-servers-nix](https://github.com/natsukium/mcp-servers-nix) - A Nix-based configuration framework for Model Control Protocol (MCP) servers with ready-to-use packages.
 - [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) - Chrome DevTools for coding agents
+- [FootprintAI/Containarium](https://github.com/FootprintAI/Containarium) - The open-source, self-hostable, agent-native sandbox. Bring your own agent (Cursor, Claude Code, OpenCode); we run the box.
 - [utensils/mcp-nixos](https://github.com/utensils/mcp-nixos) - MCP-NixOS - Model Context Protocol Server for NixOS resources
 - [github/github-mcp-server](https://github.com/github/github-mcp-server) - GitHub's official MCP Server
 - [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
@@ -2033,7 +2036,6 @@
 - [tobi/qmd](https://github.com/tobi/qmd) - mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local
 - [tldev/dorso](https://github.com/tldev/dorso) - A macOS app that blurs your screen when you slouch.
 - [Pankajtanwarbanna/stfu](https://github.com/Pankajtanwarbanna/stfu) - stfu
-- [FootprintAI/Containarium](https://github.com/FootprintAI/Containarium) - The open-source, self-hostable, agent-native sandbox. Bring your own agent (Cursor, Claude Code, OpenCode); we run the box.
 - [icloud-photos-downloader/icloud_photos_downloader](https://github.com/icloud-photos-downloader/icloud_photos_downloader) - A command-line tool to download photos from iCloud
 - [srid/openspatial](https://github.com/srid/openspatial) - A virtual space where distance disappears
 - [m4dc4p/claude-hls](https://github.com/m4dc4p/claude-hls) - 
@@ -3597,6 +3599,7 @@
 ## self-hosted 
 
 - [kiriwalawren/nixflix](https://github.com/kiriwalawren/nixflix) - NixOS Media Server Configuration
+- [FootprintAI/Containarium](https://github.com/FootprintAI/Containarium) - The open-source, self-hostable, agent-native sandbox. Bring your own agent (Cursor, Claude Code, OpenCode); we run the box.
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.
 - [henrygd/beszel](https://github.com/henrygd/beszel) - Lightweight server monitoring with historical data, docker stats, and alerts.
 - [Kareadita/Kavita](https://github.com/Kareadita/Kavita) - Kavita is a fast, feature rich, cross platform reading server. Built with the goal of being a full solution for all your reading needs. Setup your own server and share your reading collection with you
