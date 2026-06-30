@@ -1985,6 +1985,7 @@
 
 ## others 
 
+- [functional-architecture/functional-architecture.github.io](https://github.com/functional-architecture/functional-architecture.github.io) - www.functional-architecture.org website
 - [srid/llm-debate](https://github.com/srid/llm-debate) - Orchestrate debates between any number of LLMs
 - [mmonad/zmosh](https://github.com/mmonad/zmosh) - Session persistence with auto-reconnect for terminal processes. CLI + C library.
 - [juspay/odu](https://github.com/juspay/odu) - A CI runner you attach to
