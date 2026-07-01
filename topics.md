@@ -745,7 +745,7 @@
 ## deployment 
 
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.
-- [nix-community/colmena](https://github.com/nix-community/colmena) - A simple, stateless NixOS deployment tool
+- [nix-community/colmena](https://github.com/nix-community/colmena) - A simple, stateless NixOS deployment tool [maintainer=@zhaofengli, @stepbrobd, @NickCao]
 - [serokell/deploy-rs](https://github.com/serokell/deploy-rs) - A simple multi-profile Nix-flake deploy tool.
 
 ## design 
