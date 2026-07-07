@@ -254,7 +254,7 @@
 
 ## agents 
 
-- [DecapodLabs/decapod](https://github.com/DecapodLabs/decapod) - Repo-native governance kernel that enriches context and turns natural-language intent into governed, proof-backed work across looping agent fleets. 🦀
+- [DecapodLabs/decapod](https://github.com/DecapodLabs/decapod) - Repo-native governance kernel that turns natural-language intent into enriched context, bounded execution, and proof-backed work across looping AI agent fleets. 🦀
 - [collabs-inc/collab-public](https://github.com/collabs-inc/collab-public) - Collaborator is a place to create with agents.
 - [github/awesome-copilot](https://github.com/github/awesome-copilot) - Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.
 - [mem0ai/mem0](https://github.com/mem0ai/mem0) - Universal memory layer for AI Agents
@@ -266,7 +266,7 @@
 - [cocoindex-io/cocoindex](https://github.com/cocoindex-io/cocoindex) - Incremental engine for long horizon agents 🌟 Star if you like it!
 - [alash3al/stash](https://github.com/alash3al/stash) - Stash — persistent memory layer for AI agents. Episodes, facts, and working context stored in Postgres. MCP server included. Self-hosted, single binary, no cloud required.
 - [git-ai-project/git-ai](https://github.com/git-ai-project/git-ai) - A Git extension for tracking the AI-generated code in your repos
-- [DecapodLabs/decapod](https://github.com/DecapodLabs/decapod) - Repo-native governance kernel that enriches context and turns natural-language intent into governed, proof-backed work across looping agent fleets. 🦀
+- [DecapodLabs/decapod](https://github.com/DecapodLabs/decapod) - Repo-native governance kernel that turns natural-language intent into enriched context, bounded execution, and proof-backed work across looping AI agent fleets. 🦀
 - [collabs-inc/collab-public](https://github.com/collabs-inc/collab-public) - Collaborator is a place to create with agents.
 - [srid/agency](https://github.com/srid/agency) - My near-autonomous workflow for coding agents
 - [uditgoenka/autoresearch](https://github.com/uditgoenka/autoresearch) - Claude Autoresearch Skill — Autonomous goal-directed iteration for Claude Code. Inspired by Karpathy's autoresearch. Modify → Verify → Keep/Discard → Repeat forever.
@@ -283,7 +283,7 @@
 
 - [cocoindex-io/cocoindex](https://github.com/cocoindex-io/cocoindex) - Incremental engine for long horizon agents 🌟 Star if you like it!
 - [alash3al/stash](https://github.com/alash3al/stash) - Stash — persistent memory layer for AI agents. Episodes, facts, and working context stored in Postgres. MCP server included. Self-hosted, single binary, no cloud required.
-- [DecapodLabs/decapod](https://github.com/DecapodLabs/decapod) - Repo-native governance kernel that enriches context and turns natural-language intent into governed, proof-backed work across looping agent fleets. 🦀
+- [DecapodLabs/decapod](https://github.com/DecapodLabs/decapod) - Repo-native governance kernel that turns natural-language intent into enriched context, bounded execution, and proof-backed work across looping AI agent fleets. 🦀
 - [avivsinai/bitbucket-cli](https://github.com/avivsinai/bitbucket-cli) - Bitbucket CLI with gh-like ergonomics
 - [microsoft/apm](https://github.com/microsoft/apm) - Agent Package Manager
 - [FootprintAI/Containarium](https://github.com/FootprintAI/Containarium) - Open-source agent runtime — SSH-native isolation, eBPF egress policy, Kubernetes + LXC backends, GPU passthrough, MCP-native CLI
@@ -2007,6 +2007,7 @@
 
 ## others 
 
+- [divio/documentation-framework](https://github.com/divio/documentation-framework) - "The Grand Unified Theory of Documentation" (David Laing) - a popular and transformative documentation authoring framework
 - [functional-architecture/functional-architecture.github.io](https://github.com/functional-architecture/functional-architecture.github.io) - www.functional-architecture.org website
 - [srid/llm-debate](https://github.com/srid/llm-debate) - Orchestrate debates between any number of LLMs
 - [mmonad/zmosh](https://github.com/mmonad/zmosh) - Session persistence with auto-reconnect for terminal processes. CLI + C library.
@@ -3498,7 +3499,7 @@
 - [blitz/celler](https://github.com/blitz/celler) - Multi-tenant Nix Binary Cache
 - [cocoindex-io/cocoindex](https://github.com/cocoindex-io/cocoindex) - Incremental engine for long horizon agents 🌟 Star if you like it!
 - [h4ckf0r0day/obscura](https://github.com/h4ckf0r0day/obscura) - The headless browser for AI agents and web scraping
-- [DecapodLabs/decapod](https://github.com/DecapodLabs/decapod) - Repo-native governance kernel that enriches context and turns natural-language intent into governed, proof-backed work across looping agent fleets. 🦀
+- [DecapodLabs/decapod](https://github.com/DecapodLabs/decapod) - Repo-native governance kernel that turns natural-language intent into enriched context, bounded execution, and proof-backed work across looping AI agent fleets. 🦀
 - [mfontanini/presenterm](https://github.com/mfontanini/presenterm) - A markdown terminal slideshow tool
 - [Jagalite/superseedr](https://github.com/Jagalite/superseedr) - A BitTorrent Client in your Terminal
 - [SeaDve/Kooha](https://github.com/SeaDve/Kooha) - Elegantly record your screen
