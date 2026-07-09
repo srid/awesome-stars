@@ -2039,7 +2039,7 @@
 - [DavHau/sbox](https://github.com/DavHau/sbox) - Like sudo, but in reverse
 - [srid/hint-demo](https://github.com/srid/hint-demo) - Nix-based demo of Haskell's `hint` library
 - [juspay/kolu](https://github.com/juspay/kolu) - A terminal app built for scale and optimized for coding agents
-- [juspay/project-unknown](https://github.com/juspay/project-unknown) - TBD
+- [juspay/xyne-boxes](https://github.com/juspay/xyne-boxes) - Xyne Boxes CLI
 - [kunchenguid/gnhf](https://github.com/kunchenguid/gnhf) - Before I go to bed, I tell my agents: good night, have fun
 - [MercuryTechnologies/claude](https://github.com/MercuryTechnologies/claude) - Haskell bindings to Claude API
 - [adisbladis/adios](https://github.com/adisbladis/adios) - 
