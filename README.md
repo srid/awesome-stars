@@ -620,7 +620,7 @@
 - [tusharad/ollama-haskell](https://github.com/tusharad/ollama-haskell) - Ollama client for Haskell
 - [minad/persist](https://github.com/minad/persist) - Minimal binary serialization library with focus on performance
 - [jgm/typst-hs](https://github.com/jgm/typst-hs) - Haskell library for parsing and evaluating typst
-- [haskell-miso/miso-lynx](https://github.com/haskell-miso/miso-lynx) - :ramen: 🐈 A tasty mobile framework
+- [haskell-miso/miso-lynx](https://github.com/haskell-miso/miso-lynx) - :ramen: 🐈 A tasty Haskell mobile framework
 - [augustss/MicroHs](https://github.com/augustss/MicroHs) - Haskell implemented with combinators
 - [bellroy/github-actions](https://github.com/bellroy/github-actions) - A Haskell package for representing, serializing and deserializing Github Actions workflows.
 - [three-hs/three.hs](https://github.com/three-hs/three.hs) - 🎬 Haskell bindings to three.js
@@ -977,7 +977,7 @@
 - [ptigwe/hs-flatris](https://github.com/ptigwe/hs-flatris) - An implementation of Flatris using Haskell and Miso
 - [ghcjs/diagrams-ghcjs](https://github.com/ghcjs/diagrams-ghcjs) - diagrams backend that renders directly to an HTML5 canvas
 - [theam/haskell-do](https://github.com/theam/haskell-do) - :pencil2: :bar_chart: - The Haskell code editor focused on interactive development.
-- [dmjio/miso](https://github.com/dmjio/miso) - :ramen: A tasty web framework
+- [dmjio/miso](https://github.com/dmjio/miso) - :ramen: A tasty Haskell web framework
 - [hansroland/reflex-dom-inbits](https://github.com/hansroland/reflex-dom-inbits) - A tutorial for reflex-dom with small code bits
 - [snowleopard/alga](https://github.com/snowleopard/alga) - Algebraic graphs
 - [katychuang/getting-started-with-haskell](https://github.com/katychuang/getting-started-with-haskell) - notes on where to find Haskell tutorials and tips to complete them
