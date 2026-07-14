@@ -5,6 +5,7 @@
 
 ## Contents
 
+- [3d](#3d)
 - [agent](#agent)
 - [agent-skills](#agent-skills)
 - [agents](#agents)
@@ -240,6 +241,10 @@
 - [youtube](#youtube)
 - [zig](#zig)
 - [zsh](#zsh)
+
+## 3d 
+
+- [petergpt/lean-3d-game-axiom](https://github.com/petergpt/lean-3d-game-axiom) - A playable 3D voxel game built in Lean 4.
 
 ## agent 
 
@@ -989,6 +994,7 @@
 
 ## game 
 
+- [petergpt/lean-3d-game-axiom](https://github.com/petergpt/lean-3d-game-axiom) - A playable 3D voxel game built in Lean 4.
 - [pixijs/pixijs](https://github.com/pixijs/pixijs) - The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer.
 - [Whisky-App/Whisky](https://github.com/Whisky-App/Whisky) - A modern Wine wrapper for macOS built with SwiftUI
 - [ggez/ggez](https://github.com/ggez/ggez) - Rust library to create a Good Game Easily
