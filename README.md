@@ -1183,6 +1183,7 @@
 
 ## Lean 
 
+- [petergpt/lean-3d-game-axiom](https://github.com/petergpt/lean-3d-game-axiom) - A playable 3D voxel game built in Lean 4.
 - [leanprover/verso](https://github.com/leanprover/verso) - Lean documentation authoring tool
 
 ## Lua 
@@ -2035,7 +2036,6 @@
 - [nammayatri/claude-fleet](https://github.com/nammayatri/claude-fleet) - A parallel task orchestrator for running hundreds of [Claude Code](https://docs.anthropic.com/en/docs/claude-code) sessions concurrently. Maximize your Claude Max subscription by running audit, fix, a
 - [uditgoenka/autoresearch](https://github.com/uditgoenka/autoresearch) - Claude Autoresearch Skill — Autonomous goal-directed iteration for Claude Code. Inspired by Karpathy's autoresearch. Modify → Verify → Keep/Discard → Repeat forever.
 - [jdegoes/zproj](https://github.com/jdegoes/zproj) - Parallel workspaces with bare git worktrees and tmux
-- [diet103/claude-code-infrastructure-showcase](https://github.com/diet103/claude-code-infrastructure-showcase) - Examples of my Claude Code infrastructure with skill auto-activation, hooks, and agents
 - [srid/nix-systems](https://github.com/srid/nix-systems) - 
 - [srid/master](https://github.com/srid/master) - Dethrone "main" and restore "master" to its rightful glory.
 - [nixbuild/nix-quick-install-action](https://github.com/nixbuild/nix-quick-install-action) - 
@@ -2195,6 +2195,7 @@
 - [srid/openspatial](https://github.com/srid/openspatial) - A virtual space where distance disappears
 - [vkostyanetsky/ObsidianFastimer](https://github.com/vkostyanetsky/ObsidianFastimer) - Intermittent fasting tracker plugin for Obsidian
 - [tom-pollak/lazygit-vscode](https://github.com/tom-pollak/lazygit-vscode) - https://marketplace.visualstudio.com/items?itemName=TomPollak.lazygit-vscode
+- [diet103/claude-code-infrastructure-showcase](https://github.com/diet103/claude-code-infrastructure-showcase) - Examples of my Claude Code infrastructure with skill auto-activation, hooks, and agents
 - [google/clasp](https://github.com/google/clasp) - 🔗 Command Line Apps Script Projects
 - [anthropic-experimental/sandbox-runtime](https://github.com/anthropic-experimental/sandbox-runtime) - A lightweight sandboxing tool for enforcing filesystem and network restrictions on arbitrary processes at the OS level, without requiring a container.
 - [giscus/giscus](https://github.com/giscus/giscus) - A commenting system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:
