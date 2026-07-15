@@ -383,7 +383,7 @@
 - [alash3al/stash](https://github.com/alash3al/stash) - Stash — persistent memory layer for AI agents. Episodes, facts, and working context stored in Postgres. MCP server included. Self-hosted, single binary, no cloud required.
 - [lima-vm/lima](https://github.com/lima-vm/lima) - Linux virtual machines, with a focus on running containers
 - [avivsinai/bitbucket-cli](https://github.com/avivsinai/bitbucket-cli) - Bitbucket CLI with gh-like ergonomics
-- [bpauli/gccli](https://github.com/bpauli/gccli) - A command-line interface for Garmin Connect — activities, health, courses, workouts, devices, and more — with JSON output and secure credential storage.
+- [bpauli/gccli](https://github.com/bpauli/gccli) - A command-line interface for Garmin Connect - activities, health, workouts, devices, and more - with JSON output, secure credential storage, and a bundled agent skill for AI assistants like Claude Cod
 - [srid/localci](https://github.com/srid/localci) - Local CI with multi-system support
 - [Mic92/niks3](https://github.com/Mic92/niks3) - S3-backed Nix binary cache with garbage collection
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼
