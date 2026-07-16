@@ -2164,6 +2164,7 @@
 
 ## TypeScript 
 
+- [team-reflect/reflect-open](https://github.com/team-reflect/reflect-open) - Open-source Reflect rewrite
 - [juspay/odu](https://github.com/juspay/odu) - A CI runner you attach to
 - [srid/drishti](https://github.com/srid/drishti) - htop for your whole fleet — with nothing installed on the remote
 - [xtermjs/xterm.js](https://github.com/xtermjs/xterm.js) - A terminal for the web
