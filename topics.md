@@ -2020,6 +2020,7 @@
 
 ## others 
 
+- [team-reflect/reflect-open](https://github.com/team-reflect/reflect-open) - Open-source Reflect rewrite
 - [divio/documentation-framework](https://github.com/divio/documentation-framework) - "The Grand Unified Theory of Documentation" (David Laing) - a popular and transformative documentation authoring framework
 - [functional-architecture/functional-architecture.github.io](https://github.com/functional-architecture/functional-architecture.github.io) - www.functional-architecture.org website
 - [srid/llm-debate](https://github.com/srid/llm-debate) - Orchestrate debates between any number of LLMs
