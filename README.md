@@ -1867,7 +1867,7 @@
 - [mikedilger/gossip](https://github.com/mikedilger/gossip) - Gossip is a nostr client
 - [rust-windowing/softbuffer](https://github.com/rust-windowing/softbuffer) - Easily write an image to a window
 - [parasyte/pixels](https://github.com/parasyte/pixels) - A tiny hardware-accelerated pixel frame buffer. 🦀
-- [emoon/rust_minifb](https://github.com/emoon/rust_minifb) - Cross platfrom window and framebuffer crate for Rust
+- [emoon/rust_minifb](https://github.com/emoon/rust_minifb) - Cross platform window and framebuffer crate for Rust
 - [not-fl3/miniquad](https://github.com/not-fl3/miniquad) - Cross platform rendering in Rust
 - [juspay/nix-health](https://github.com/juspay/nix-health) - REPO MOVED https://github.com/juspay/omnix/tree/main/crates/omnix-health
 - [juspay/nix-rs](https://github.com/juspay/nix-rs) - REPO MOVED https://github.com/juspay/omnix/tree/main/crates/nix_rs
@@ -2164,7 +2164,7 @@
 
 ## TypeScript 
 
-- [team-reflect/reflect-open](https://github.com/team-reflect/reflect-open) - Open-source Reflect rewrite
+- [team-reflect/reflect-open](https://github.com/team-reflect/reflect-open) - Open-source Reflect rewrite: A local-first AI agent-friendly Markdown note-taking app
 - [juspay/odu](https://github.com/juspay/odu) - A CI runner you attach to
 - [srid/drishti](https://github.com/srid/drishti) - htop for your whole fleet — with nothing installed on the remote
 - [xtermjs/xterm.js](https://github.com/xtermjs/xterm.js) - A terminal for the web
