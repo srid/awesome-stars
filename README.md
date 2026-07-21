@@ -1183,6 +1183,7 @@
 
 ## Lean 
 
+- [TauCetiProject/TauCeti](https://github.com/TauCetiProject/TauCeti) - An AIs-welcome Lean library downstream of Mathlib: AI handle the implementation and review, humans write the roadmaps and review rubrics
 - [petergpt/lean-3d-game-axiom](https://github.com/petergpt/lean-3d-game-axiom) - A playable 3D voxel game built in Lean 4.
 - [leanprover/verso](https://github.com/leanprover/verso) - Lean documentation authoring tool
 
