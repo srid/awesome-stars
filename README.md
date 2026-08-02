@@ -1790,6 +1790,7 @@
 
 ## Rust 
 
+- [juspay/osfacts](https://github.com/juspay/osfacts) - Process + socket facts from the OS, nothing more.
 - [block/buzz](https://github.com/block/buzz) - A hive mind communication platform
 - [tokio-rs/topcoat](https://github.com/tokio-rs/topcoat) - A batteries-included framework for building web apps
 - [1jehuang/mermaid-rs-renderer](https://github.com/1jehuang/mermaid-rs-renderer) - A fast native Rust Mermaid diagram renderer. No browser required. 500-1000x faster than mermaid-cli.
