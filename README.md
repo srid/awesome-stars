@@ -1742,6 +1742,7 @@
 
 ## Racket 
 
+- [juspay/olai](https://github.com/juspay/olai) - WIP: AI-native tree-based memory system
 - [lexi-lambda/hackett](https://github.com/lexi-lambda/hackett) - WIP implementation of a Haskell-like Lisp in Racket
 - [lexi-lambda/lexi-lambda.github.io](https://github.com/lexi-lambda/lexi-lambda.github.io) - 
 - [racket/pict](https://github.com/racket/pict) - 
@@ -1802,7 +1803,7 @@
 - [biomejs/biome](https://github.com/biomejs/biome) - A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.
 - [git-ai-project/git-ai](https://github.com/git-ai-project/git-ai) - A Git extension for tracking the AI-generated code in your repos
 - [ccusage/ccusage](https://github.com/ccusage/ccusage) - npx ccusage
-- [DecapodLabs/decapod](https://github.com/DecapodLabs/decapod) - Repo-native governance kernel that turns natural-language intent into enriched context, bounded execution, and proof-backed work across coding agent graphs. 🦀
+- [DecapodLabs/decapod](https://github.com/DecapodLabs/decapod) - Repo-native governance kernel for bounded, convergent, proof-backed agent work.
 - [mfontanini/presenterm](https://github.com/mfontanini/presenterm) - A markdown terminal slideshow tool
 - [Ataraxy-Labs/opensessions](https://github.com/Ataraxy-Labs/opensessions) - tmux sidebar for coding agents — Amp, Claude Code, Codex, OpenCode. Per-thread markers, local HTTP API, live session state.
 - [nikstur/lon](https://github.com/nikstur/lon) - Lock & update Nix dependencies
