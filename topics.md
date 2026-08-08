@@ -2023,7 +2023,7 @@
 
 ## others 
 
-- [juspay/olai](https://github.com/juspay/olai) - WIP: AI-native tree-based memory system
+- [juspay/olai-racket](https://github.com/juspay/olai-racket) - WIP: AI-native tree-based memory system
 - [juspay/osfacts](https://github.com/juspay/osfacts) - Process + socket facts from the OS, nothing more.
 - [srid/Tend](https://github.com/srid/Tend) - Tend leanly
 - [block/buzz](https://github.com/block/buzz) - A hive mind communication platform
