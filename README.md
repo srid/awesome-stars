@@ -1742,7 +1742,7 @@
 
 ## Racket 
 
-- [juspay/olai](https://github.com/juspay/olai) - WIP: AI-native tree-based memory system
+- [juspay/olai-racket](https://github.com/juspay/olai-racket) - WIP: AI-native tree-based memory system
 - [lexi-lambda/hackett](https://github.com/lexi-lambda/hackett) - WIP implementation of a Haskell-like Lisp in Racket
 - [lexi-lambda/lexi-lambda.github.io](https://github.com/lexi-lambda/lexi-lambda.github.io) - 
 - [racket/pict](https://github.com/racket/pict) - 
