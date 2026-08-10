@@ -1742,7 +1742,6 @@
 
 ## Racket 
 
-- [juspay/olai-racket](https://github.com/juspay/olai-racket) - WIP: AI-native tree-based memory system
 - [lexi-lambda/hackett](https://github.com/lexi-lambda/hackett) - WIP implementation of a Haskell-like Lisp in Racket
 - [lexi-lambda/lexi-lambda.github.io](https://github.com/lexi-lambda/lexi-lambda.github.io) - 
 - [racket/pict](https://github.com/racket/pict) - 
@@ -2171,6 +2170,7 @@
 
 ## TypeScript 
 
+- [juspay/olai](https://github.com/juspay/olai) - WIP: AI-native tree-based memory system (Racket code in master-racket branch; TypeScript work happens on master)
 - [Effect-TS/effect](https://github.com/Effect-TS/effect) - Build production-ready applications in TypeScript
 - [rasendubi/uniorg](https://github.com/rasendubi/uniorg) - An accurate Org-mode parser for JavaScript/TypeScript
 - [cameronapak/dotflowy](https://github.com/cameronapak/dotflowy) - Dotflowy is the OSS Workflowy alternative. Free up your mind. Get your thoughts and tasks out. Organize them later, or don't. Agent-native.
@@ -2228,7 +2228,7 @@
 - [gpoore/codebraid-preview-vscode](https://github.com/gpoore/codebraid-preview-vscode) - Preview Pandoc Markdown in VS Code, and execute code blocks and inline code with Codebraid
 - [Aylur/ags](https://github.com/Aylur/ags) - Scaffolding CLI for Astal+Gnim
 - [dominiclet/obsidian-note-definitions](https://github.com/dominiclet/obsidian-note-definitions) - Obsidian plugin for seamless viewing of personal definitions
-- [nhannht/obsidian-historica](https://github.com/nhannht/obsidian-historica) - Not (smart) to help you create your timeline in obsidian like a ... bro
+- [nhannht/obsidian-historica](https://github.com/nhannht/obsidian-historica) - Turn prose into a timeline, automatically. An Obsidian plugin that reads your notes, finds every date with NLP, and renders an interactive timeline inside a code block.
 - [mark-when/obsidian-plugin](https://github.com/mark-when/obsidian-plugin) - Markwhen obsidian plugin
 - [filllabs/dependi](https://github.com/filllabs/dependi) - Dependi (formerly crates)
 - [satellite-earth/desktop](https://github.com/satellite-earth/desktop) - 
