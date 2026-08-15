@@ -2032,7 +2032,7 @@
 
 ## others 
 
-- [juspay/olai](https://github.com/juspay/olai) - WIP: AI-native tree-based memory system (Racket code in master-racket branch; TypeScript work happens on master)
+- [juspay/olai](https://github.com/juspay/olai) - AI-native tree-based memory system
 - [juspay/osfacts](https://github.com/juspay/osfacts) - Process + socket facts from the OS, nothing more.
 - [srid/Tend](https://github.com/srid/Tend) - Tend leanly
 - [block/buzz](https://github.com/block/buzz) - A hive mind communication platform
@@ -3869,7 +3869,7 @@
 ## tui 
 
 - [modem-dev/hunk](https://github.com/modem-dev/hunk) - Review-first terminal diff viewer for agentic coders
-- [anomalyco/opentui](https://github.com/anomalyco/opentui) - OpenTUI is a library for building terminal user interfaces (TUIs)
+- [anomalyco/opentui](https://github.com/anomalyco/opentui) - OpenTUI is a library to build terminal user interfaces (TUI)
 - [Jagalite/superseedr](https://github.com/Jagalite/superseedr) - A BitTorrent Client in your Terminal
 - [alexpasmantier/television](https://github.com/alexpasmantier/television) - A very fast, portable and hackable fuzzy finder.
 - [chshersh/github-tui](https://github.com/chshersh/github-tui) - 🌒 A TUI for GitHub
