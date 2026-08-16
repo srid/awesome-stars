@@ -2143,7 +2143,7 @@
 - [srid/haietmoba](https://github.com/srid/haietmoba) - 
 - [ndmitchell/record-hasfield](https://github.com/ndmitchell/record-hasfield) - A version of HasField that will be available in future GHC
 - [dharmx/walls](https://github.com/dharmx/walls) - All of my wallpapers in one repo.
-- [johansan/notebook-navigator](https://github.com/johansan/notebook-navigator) - A better file browser and calendar for Obsidian, inspired by Apple Notes, Bear, Evernote and Day One.
+- [johansan/notebook-navigator](https://github.com/johansan/notebook-navigator) - Copy images from Safari straight into your vault, paste links without tracking junk, fix broken terminal output, and clean up AI text. Just paste, and Better Paste handles the rest.
 - [phaer/nixos-vm-on-macos](https://github.com/phaer/nixos-vm-on-macos) - Run #NixOS on darwin, including Rosetta 2 & virtiofs!
 - [nix-community/bun2nix](https://github.com/nix-community/bun2nix) - Generate a nix expression to build bun packages - similar to node2nix or yarn2nix [maintainer=@baileylu121]
 - [cbasdev/dracula-purple-theme](https://github.com/cbasdev/dracula-purple-theme) - 💜 Extended dracula theme for vscode
