@@ -2030,6 +2030,7 @@
 
 ## others 
 
+- [juspay/xyne-spaces](https://github.com/juspay/xyne-spaces) - The AI Org-OS, a collaborative platform for humans and agents.
 - [juspay/olai](https://github.com/juspay/olai) - AI-native tree-based memory system
 - [juspay/osfacts](https://github.com/juspay/osfacts) - Process + socket facts from the OS, nothing more.
 - [srid/Tend](https://github.com/srid/Tend) - Tend leanly
