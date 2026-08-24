@@ -73,6 +73,7 @@
 - [documentation](#documentation)
 - [dotfiles](#dotfiles)
 - [dotnet](#dotnet)
+- [dsh-plugin](#dsh-plugin)
 - [education](#education)
 - [electron](#electron)
 - [elixir](#elixir)
@@ -292,6 +293,7 @@
 
 ## ai-agents 
 
+- [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) - DeepSeek Harness: Everything is a Plugin.
 - [juspay/xyne-spaces](https://github.com/juspay/xyne-spaces) - The AI Org-OS, a collaborative platform for humans and agents.
 - [cocoindex-io/cocoindex](https://github.com/cocoindex-io/cocoindex) - Incremental engine for long horizon agents 🌟 Star if you like it!
 - [alash3al/stash](https://github.com/alash3al/stash) - Stash — persistent memory layer for AI agents. Episodes, facts, and working context stored in Postgres. MCP server included. Self-hosted, single binary, no cloud required.
@@ -882,6 +884,10 @@
 - [fsprojects/Avalonia.FuncUI](https://github.com/fsprojects/Avalonia.FuncUI) - Develop cross-plattform GUI Applications using F# and Avalonia!
 - [SuaveIO/suave](https://github.com/SuaveIO/suave) - Suave is a simple web development F# library providing a lightweight web server and a set of combinators to manipulate route flow and task composition.
 - [dotnet/fsharp](https://github.com/dotnet/fsharp) - The F# compiler, F# core library, F# language service, and F# tooling integration for Visual Studio
+
+## dsh-plugin 
+
+- [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) - DeepSeek Harness: Everything is a Plugin.
 
 ## education 
 
@@ -2033,6 +2039,7 @@
 
 ## others 
 
+- [digitallyinduced/haskell-agent](https://github.com/digitallyinduced/haskell-agent) - an agent harness is just a monoid in the category of endofunctors
 - [juspay/olai](https://github.com/juspay/olai) - AI-native tree-based memory system
 - [juspay/osfacts](https://github.com/juspay/osfacts) - Process + socket facts from the OS, nothing more.
 - [srid/Tend](https://github.com/srid/Tend) - Tend leanly
@@ -2086,7 +2093,7 @@
 - [Mic92/niks3](https://github.com/Mic92/niks3) - S3-backed Nix binary cache with garbage collection
 - [juspay/skills](https://github.com/juspay/skills) - Various useful skills for development
 - [srid/opencode-haskell](https://github.com/srid/opencode-haskell) - Haskell client library for OpenCode
-- [juspay/AI](https://github.com/juspay/AI) - One-click AI agent for Juspay
+- [juspay/AI](https://github.com/juspay/AI) - One-click AI agent for Juspay (supports OpenCode & Pi)
 - [raine/workmux](https://github.com/raine/workmux) - git worktrees + tmux windows for zero-friction parallel dev
 - [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
 - [mozilla/uniffi-rs](https://github.com/mozilla/uniffi-rs) - a multi-language bindings generator for rust
