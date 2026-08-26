@@ -2039,6 +2039,7 @@
 
 ## others 
 
+- [ekala-project/ekapkgs](https://github.com/ekala-project/ekapkgs) - Default package set for Ekapkgs and EkaOS
 - [digitallyinduced/haskell-agent](https://github.com/digitallyinduced/haskell-agent) - an agent harness is just a monoid in the category of endofunctors
 - [juspay/olai](https://github.com/juspay/olai) - AI-native tree-based memory system
 - [juspay/osfacts](https://github.com/juspay/osfacts) - Process + socket facts from the OS, nothing more.
@@ -2462,7 +2463,6 @@
 - [Platonic-Systems/treefmt-flake](https://github.com/Platonic-Systems/treefmt-flake) - A `flake-parts` module to work with treefmt. No longer maintained; you should instead use https://github.com/numtide/treefmt-nix#flake-parts
 - [haskell-actions/hackage-publish](https://github.com/haskell-actions/hackage-publish) - A GitHub action for publishing packages on Hackage
 - [wolverian/agda-template](https://github.com/wolverian/agda-template) - A template for an Agda project with automatic GitHub Pages support
-- [viperML/home-manager-wsl](https://github.com/viperML/home-manager-wsl) - WSL distribution, including Nix + Home-manager + FHS Distro
 - [DavHau/cabal2json](https://github.com/DavHau/cabal2json) - zurihack experiment
 - [DeterminateSystems/update-flake-lock](https://github.com/DeterminateSystems/update-flake-lock) - Automatically refresh your Nix Flakes.
 - [abo-abo/org-download](https://github.com/abo-abo/org-download) - Drag and drop images to Emacs org-mode
