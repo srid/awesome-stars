@@ -1847,7 +1847,7 @@
 - [bjackman/limmat](https://github.com/bjackman/limmat) - Local Immediate Automated Testing
 - [wavelens/gradient](https://github.com/wavelens/gradient) - nix-based continuous integration system
 - [n3oney/anyrun-nixos-options](https://github.com/n3oney/anyrun-nixos-options) - An anyrun plugin that lets you search NixOS options.
-- [russelltg/wl-screenrec](https://github.com/russelltg/wl-screenrec) - High performance wlroots screen recording, featuring hardware encoding
+- [rosalyntg/wl-screenrec](https://github.com/rosalyntg/wl-screenrec) - High performance wlroots screen recording, featuring hardware encoding
 - [tweag/nix-remote-rust](https://github.com/tweag/nix-remote-rust) - 
 - [BeFunctional/haskell-rust-ffi](https://github.com/BeFunctional/haskell-rust-ffi) - 
 - [abenz1267/walker](https://github.com/abenz1267/walker) - Multi-Purpose Launcher with a lot of features. Highly Customizable and fast.
