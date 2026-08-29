@@ -2039,6 +2039,8 @@
 
 ## others 
 
+- [svkozak/pi-acp](https://github.com/svkozak/pi-acp) - ACP adapter for pi coding agent
+- [juspay/saatchi](https://github.com/juspay/saatchi) - photograph an app doing the thing
 - [ekala-project/ekapkgs](https://github.com/ekala-project/ekapkgs) - Default package set for Ekapkgs and EkaOS
 - [digitallyinduced/haskell-agent](https://github.com/digitallyinduced/haskell-agent) - an agent harness is just a monoid in the category of endofunctors
 - [juspay/olai](https://github.com/juspay/olai) - AI-native tree-based memory system
@@ -3460,7 +3462,7 @@
 - [cocoindex-io/cocoindex](https://github.com/cocoindex-io/cocoindex) - Incremental engine for long horizon agents 🌟 Star if you like it!
 - [bigwhite/issue2md](https://github.com/bigwhite/issue2md) - A tool to convert GitHub issue/discussion into Markdown.
 - [xynehq/xyne](https://github.com/xynehq/xyne) - AI-first Search & Answer Engine for work. Open-source alternative to Glean.
-- [Anush008/fastembed-rs](https://github.com/Anush008/fastembed-rs) - Rust library for generating vector embeddings, reranking locally!
+- [Anush008/fastembed-rs](https://github.com/Anush008/fastembed-rs) - Rust library for generating vector embeddings and reranking locally!
 - [mem0ai/mem0](https://github.com/mem0ai/mem0) - Universal memory layer for AI Agents
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
 
