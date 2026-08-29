@@ -1901,7 +1901,7 @@
 - [nix-community/colmena](https://github.com/nix-community/colmena) - A simple, stateless NixOS deployment tool [maintainer=@zhaofengli, @stepbrobd, @NickCao]
 - [leontoeides/indicium](https://github.com/leontoeides/indicium) - A simple in-memory search for collections and key-value stores.
 - [greyblake/nutype](https://github.com/greyblake/nutype) - Rust newtype with guarantees  🇺🇦 🦀
-- [Anush008/fastembed-rs](https://github.com/Anush008/fastembed-rs) - Rust library for generating vector embeddings, reranking locally!
+- [Anush008/fastembed-rs](https://github.com/Anush008/fastembed-rs) - Rust library for generating vector embeddings and reranking locally!
 - [ex0dus-0x/microkv](https://github.com/ex0dus-0x/microkv) - secure minimal key-value store
 - [ctsrc/persistence](https://github.com/ctsrc/persistence) - Rust library providing mutable resizable arrays built on top of mmap
 - [spacejam/sled](https://github.com/spacejam/sled) - the champagne of beta embedded databases
@@ -2174,6 +2174,8 @@
 
 ## TypeScript 
 
+- [svkozak/pi-acp](https://github.com/svkozak/pi-acp) - ACP adapter for pi coding agent
+- [juspay/saatchi](https://github.com/juspay/saatchi) - photograph an app doing the thing
 - [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) - DeepSeek Harness: Everything is a Plugin.
 - [juspay/xyne-spaces](https://github.com/juspay/xyne-spaces) - The AI Org-OS, a collaborative platform for humans and agents.
 - [juspay/olai](https://github.com/juspay/olai) - AI-native tree-based memory system
