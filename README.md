@@ -1501,7 +1501,7 @@
 - [HackerNews/API](https://github.com/HackerNews/API) - Documentation and Samples for the Official HN API
 - [IntersectMBO/essential-cardano](https://github.com/IntersectMBO/essential-cardano) - Repository for the Essential Cardano list
 - [SteveMCarroll/PronouncingNamesForEnglishSpeakers](https://github.com/SteveMCarroll/PronouncingNamesForEnglishSpeakers) - A practical guide to how to pronounce non-English names for English speakers
-- [gdamdam/awesome-decentralized-web](https://github.com/gdamdam/awesome-decentralized-web) - A curated list of peer-to-peer, federated, and local-first protocols, applications, and developer tools. Excludes cryptocurrency, token, and AI projects.
+- [gdamdam/awesome-decentralized-web](https://github.com/gdamdam/awesome-decentralized-web) - A curated list of peer-to-peer, federated, and local-first protocols, applications, and developer tools. Excludes cryptocurrency, tokens, and AI agents.
 - [mhadidg/software-architecture-books](https://github.com/mhadidg/software-architecture-books) - A comprehensive list of books on Software Architecture.
 - [Aspie96/Code-of-Merit](https://github.com/Aspie96/Code-of-Merit) - A meritocratic approach to project management and discussions.
 - [brave/brave-browser](https://github.com/brave/brave-browser) - Brave browser for Android, iOS, Linux, macOS, Windows.
