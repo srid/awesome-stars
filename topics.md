@@ -268,7 +268,7 @@
 - [collabs-inc/collab-public](https://github.com/collabs-inc/collab-public) - Collaborator is a place to create with agents.
 - [modem-dev/hunk](https://github.com/modem-dev/hunk) - Review-first terminal diff viewer for agentic coders
 - [github/awesome-copilot](https://github.com/github/awesome-copilot) - Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.
-- [mem0ai/mem0](https://github.com/mem0ai/mem0) - Universal memory layer for AI Agents
+- [mem0ai/mem0](https://github.com/mem0ai/mem0) - The Memory Layer for AI Agents - Drop-in memory infrastructure for AI agents and apps. Context that persists. Built for production.
 - [nikivdev/code](https://github.com/nikivdev/code) - 
 
 ## ai 
@@ -285,7 +285,7 @@
 - [Datron/jilebi](https://github.com/Datron/jilebi) - MCP runtime with javascript plugins
 - [coderamp-labs/gitingest](https://github.com/coderamp-labs/gitingest) - Replace 'hub' with 'ingest' in any GitHub URL to get a prompt-friendly extract of a codebase
 - [github/awesome-copilot](https://github.com/github/awesome-copilot) - Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.
-- [mem0ai/mem0](https://github.com/mem0ai/mem0) - Universal memory layer for AI Agents
+- [mem0ai/mem0](https://github.com/mem0ai/mem0) - The Memory Layer for AI Agents - Drop-in memory infrastructure for AI agents and apps. Context that persists. Built for production.
 - [pionxzh/chatgpt-exporter](https://github.com/pionxzh/chatgpt-exporter) - Export and Share your ChatGPT conversation history
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
 - [Gabriella439/grace](https://github.com/Gabriella439/grace) - A prompt engineering functional programming language
@@ -303,7 +303,7 @@
 - [bpauli/gccli](https://github.com/bpauli/gccli) - A command-line interface for Garmin Connect - activities, health, workouts, devices, and more - with JSON output, secure credential storage, and a bundled agent skill for AI assistants like Claude Cod
 - [FootprintAI/Containarium](https://github.com/FootprintAI/Containarium) - Open-source agent runtime — SSH-native isolation, eBPF egress policy, Kubernetes + LXC backends, GPU passthrough, MCP-native CLI
 - [Datron/jilebi](https://github.com/Datron/jilebi) - MCP runtime with javascript plugins
-- [mem0ai/mem0](https://github.com/mem0ai/mem0) - Universal memory layer for AI Agents
+- [mem0ai/mem0](https://github.com/mem0ai/mem0) - The Memory Layer for AI Agents - Drop-in memory infrastructure for AI agents and apps. Context that persists. Built for production.
 - [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data
 
 ## algorithm 
@@ -478,7 +478,7 @@
 
 ## chatgpt 
 
-- [mem0ai/mem0](https://github.com/mem0ai/mem0) - Universal memory layer for AI Agents
+- [mem0ai/mem0](https://github.com/mem0ai/mem0) - The Memory Layer for AI Agents - Drop-in memory infrastructure for AI agents and apps. Context that persists. Built for production.
 - [pionxzh/chatgpt-exporter](https://github.com/pionxzh/chatgpt-exporter) - Export and Share your ChatGPT conversation history
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
 
@@ -1711,7 +1711,7 @@
 - [xynehq/xyne](https://github.com/xynehq/xyne) - AI-first Search & Answer Engine for work. Open-source alternative to Glean.
 - [1943time/inkdown](https://github.com/1943time/inkdown) - Inkdown is a WYSIWYG editor and an LLM dialogue tool, fully compatible with GitHub Flavored Markdown Spec.
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.6, GLM-5.2, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
-- [mem0ai/mem0](https://github.com/mem0ai/mem0) - Universal memory layer for AI Agents
+- [mem0ai/mem0](https://github.com/mem0ai/mem0) - The Memory Layer for AI Agents - Drop-in memory infrastructure for AI agents and apps. Context that persists. Built for production.
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
 - [Gabriella439/grace](https://github.com/Gabriella439/grace) - A prompt engineering functional programming language
 
@@ -2135,7 +2135,7 @@
 - [hindsight-es/hindsight](https://github.com/hindsight-es/hindsight) - Type-safe event sourcing system for Haskell
 - [diet103/claude-code-infrastructure-showcase](https://github.com/diet103/claude-code-infrastructure-showcase) - Examples of my Claude Code infrastructure with skill auto-activation, hooks, and agents
 - [jmmv/ssh-agent-switcher](https://github.com/jmmv/ssh-agent-switcher) - SSH agent proxy for tmux
-- [anthropic-experimental/sandbox-runtime](https://github.com/anthropic-experimental/sandbox-runtime) - A lightweight sandboxing tool for enforcing filesystem and network restrictions on arbitrary processes at the OS level, without requiring a container.
+- [anthropics/sandbox-runtime](https://github.com/anthropics/sandbox-runtime) - A lightweight sandboxing tool for enforcing filesystem and network restrictions on arbitrary processes at the OS level, without requiring a container.
 - [nedimzecic/gammad](https://github.com/nedimzecic/gammad) - Modify gamma ramp (LUT) directly in DRM
 - [emrldnix/wrangler](https://github.com/emrldnix/wrangler) - Wrangler, the CLI for Cloudflare Workers, packaged as a nix flake
 - [ndmitchell/filepattern](https://github.com/ndmitchell/filepattern) - A file path matching library
@@ -3422,7 +3422,7 @@
 - [kellyjonbrazil/jc](https://github.com/kellyjonbrazil/jc) - CLI tool and python library that converts the output of popular command-line tools, file-types, and common strings to JSON, YAML, or Dictionaries. This allows piping of output to tools like jq and sim
 - [filllabs/dependi](https://github.com/filllabs/dependi) - Dependi (formerly crates)
 - [extism/extism](https://github.com/extism/extism) - The framework for building with WebAssembly (wasm). Easily & securely load wasm modules, move data, call functions, and build extensible apps.
-- [mem0ai/mem0](https://github.com/mem0ai/mem0) - Universal memory layer for AI Agents
+- [mem0ai/mem0](https://github.com/mem0ai/mem0) - The Memory Layer for AI Agents - Drop-in memory infrastructure for AI agents and apps. Context that persists. Built for production.
 - [d2l-ai/d2l-en](https://github.com/d2l-ai/d2l-en) - Interactive deep learning book with multi-framework code, math, and discussions. Adopted at 500 universities from 70 countries including Stanford, MIT, Harvard, and Cambridge.
 - [8go/matrix-nostr-bridge](https://github.com/8go/matrix-nostr-bridge) - Bridge between Matrix and Nostr communication protocols
 - [maubot/maubot](https://github.com/maubot/maubot) - A plugin-based Matrix bot system.
@@ -3464,7 +3464,7 @@
 - [bigwhite/issue2md](https://github.com/bigwhite/issue2md) - A tool to convert GitHub issue/discussion into Markdown.
 - [xynehq/xyne](https://github.com/xynehq/xyne) - AI-first Search & Answer Engine for work. Open-source alternative to Glean.
 - [Anush008/fastembed-rs](https://github.com/Anush008/fastembed-rs) - Rust library for generating vector embeddings and reranking locally!
-- [mem0ai/mem0](https://github.com/mem0ai/mem0) - Universal memory layer for AI Agents
+- [mem0ai/mem0](https://github.com/mem0ai/mem0) - The Memory Layer for AI Agents - Drop-in memory infrastructure for AI agents and apps. Context that persists. Built for production.
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
 
 ## rails 
