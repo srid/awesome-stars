@@ -979,7 +979,7 @@
 - [ptigwe/hs-flatris](https://github.com/ptigwe/hs-flatris) - An implementation of Flatris using Haskell and Miso
 - [ghcjs/diagrams-ghcjs](https://github.com/ghcjs/diagrams-ghcjs) - diagrams backend that renders directly to an HTML5 canvas
 - [theam/haskell-do](https://github.com/theam/haskell-do) - :pencil2: :bar_chart: - The Haskell code editor focused on interactive development.
-- [dmjio/miso](https://github.com/dmjio/miso) - :ramen: A tasty Haskell web framework
+- [dmjio/miso](https://github.com/dmjio/miso) - :ramen: A tasty Haskell web and mobile framework
 - [hansroland/reflex-dom-inbits](https://github.com/hansroland/reflex-dom-inbits) - A tutorial for reflex-dom with small code bits
 - [snowleopard/alga](https://github.com/snowleopard/alga) - Algebraic graphs
 - [katychuang/getting-started-with-haskell](https://github.com/katychuang/getting-started-with-haskell) - notes on where to find Haskell tutorials and tips to complete them
