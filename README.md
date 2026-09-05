@@ -2179,7 +2179,7 @@
 - [juspay/saatchi](https://github.com/juspay/saatchi) - photograph an app doing the thing
 - [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) - DeepSeek Harness: Everything is a Plugin.
 - [juspay/xyne-spaces](https://github.com/juspay/xyne-spaces) - The AI Org-OS, a collaborative platform for humans and agents.
-- [juspay/olai](https://github.com/juspay/olai) - AI-native tree-based memory system
+- [juspay/olai](https://github.com/juspay/olai) - AI-native tree-based memory system (WIP: backwards-compat not guaranteed yet)
 - [Effect-TS/effect](https://github.com/Effect-TS/effect) - Build production-ready applications in TypeScript
 - [rasendubi/uniorg](https://github.com/rasendubi/uniorg) - An accurate Org-mode parser for JavaScript/TypeScript
 - [cameronapak/dotflowy](https://github.com/cameronapak/dotflowy) - Dotflowy is the OSS Workflowy alternative. Free up your mind. Get your thoughts and tasks out. Organize them later, or don't. Agent-native.
