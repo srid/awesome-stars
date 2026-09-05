@@ -2048,7 +2048,7 @@
 - [juspay/saatchi](https://github.com/juspay/saatchi) - photograph an app doing the thing
 - [ekala-project/ekapkgs](https://github.com/ekala-project/ekapkgs) - Default package set for Ekapkgs and EkaOS
 - [digitallyinduced/haskell-agent](https://github.com/digitallyinduced/haskell-agent) - an agent harness is just a monoid in the category of endofunctors
-- [juspay/olai](https://github.com/juspay/olai) - AI-native tree-based memory system
+- [juspay/olai](https://github.com/juspay/olai) - AI-native tree-based memory system (WIP: backwards-compat not guaranteed yet)
 - [juspay/osfacts](https://github.com/juspay/osfacts) - Process + socket facts from the OS, nothing more.
 - [srid/Tend](https://github.com/srid/Tend) - Tend leanly
 - [block/buzz](https://github.com/block/buzz) - A hive mind communication platform
