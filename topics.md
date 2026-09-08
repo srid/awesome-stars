@@ -2216,7 +2216,7 @@
 - [three-hs/three.hs](https://github.com/three-hs/three.hs) - 🎬 Haskell bindings to three.js
 - [Simre1/multitasking](https://github.com/Simre1/multitasking) - Easy concurrency in Haskell
 - [AnswerDotAI/llms-txt](https://github.com/AnswerDotAI/llms-txt) - The /llms.txt file, helping language models use your website
-- [seerge/g-helper](https://github.com/seerge/g-helper) - Lightweight Armoury Crate alternative for Asus laptops with nearly the same functionality. Works with ROG Zephyrus, Flow, TUF, Strix, Scar, ProArt, Vivobook, Zenbook, Expertbook, ROG Ally, and many mo
+- [seerge/g-helper](https://github.com/seerge/g-helper) - Lightweight Armoury Crate alternative for Asus laptops with nearly the same functionality. Works with ROG Zephyrus, Flow, TUF, Strix, Scar, ProArt, Vivobook, Zenbook, Expertbook, ROG Ally, and more.
 - [Sikarugir-App/Sikarugir](https://github.com/Sikarugir-App/Sikarugir) - A tool used to make user-friendly wine wrapped ports of Windows software for macOS.
 - [tusharad/langchain-hs](https://github.com/tusharad/langchain-hs) - Haskell implementation of LangChain
 - [drshade/haskell-mcp-server](https://github.com/drshade/haskell-mcp-server) - An Awesome MCP Server Framework for Haskell
