@@ -2182,7 +2182,7 @@
 - [svkozak/pi-acp](https://github.com/svkozak/pi-acp) - ACP adapter for pi coding agent
 - [juspay/saatchi](https://github.com/juspay/saatchi) - photograph an app doing the thing
 - [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) - DeepSeek Harness: Everything is a Plugin.
-- [juspay/xyne-spaces](https://github.com/juspay/xyne-spaces) - The AI Org-OS, a collaborative platform for humans and agents.
+- [juspay/xyne-spaces](https://github.com/juspay/xyne-spaces) - The AI Org-OS — a collaborative platform for humans and agents. Explore: https://spaces.xyne.ai
 - [juspay/olai](https://github.com/juspay/olai) - AI-native tree-based memory system (WIP: backwards-compat not guaranteed yet)
 - [Effect-TS/effect](https://github.com/Effect-TS/effect) - Build production-ready applications in TypeScript
 - [rasendubi/uniorg](https://github.com/rasendubi/uniorg) - An accurate Org-mode parser for JavaScript/TypeScript
