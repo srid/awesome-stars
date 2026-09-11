@@ -743,7 +743,7 @@
 - [eskimor/purescript-bridge](https://github.com/eskimor/purescript-bridge) - Create PureScript datatypes from Haskell datatypes
 - [input-output-hk/plutus-pioneer-program](https://github.com/input-output-hk/plutus-pioneer-program) - This repository hosts the lectures of the Plutus Pioneers Program. This program is a training course that the IOG Education Team provides to recruit and train software developers in Plutus, the native
 - [well-typed/cborg](https://github.com/well-typed/cborg) - Binary serialisation in the CBOR format
-- [plaintextaccounting/hledger](https://github.com/plaintextaccounting/hledger) - Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces.
+- [hledgerorg/hledger](https://github.com/hledgerorg/hledger) - Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces.
 - [fumieval/extensible](https://github.com/fumieval/extensible) - Extensible records, variants, structs, effects, tangles
 - [willbasky/Awesome-list-of-Haskell-mentors](https://github.com/willbasky/Awesome-list-of-Haskell-mentors) - An amazing list of Haskell developers who would like to mentor beginner-contributors in open source projects.
 - [livmackintosh/matrix-sdk](https://github.com/livmackintosh/matrix-sdk) - Haskell SDK for [matrix]
@@ -1413,6 +1413,7 @@
 
 ## Nushell 
 
+- [Mic92/repkgs](https://github.com/Mic92/repkgs) - A package set on stock Nix: cheap eval, relocatable outputs, nushell builders, LLVM-only cross, compile cache in the compiler driver
 - [nushell/nu_scripts](https://github.com/nushell/nu_scripts) - A place to share Nushell scripts with each other
 - [shivaraj-bh/search-flake-inputs](https://github.com/shivaraj-bh/search-flake-inputs) - Recursively search for a flake input
 - [srid/nix-health](https://github.com/srid/nix-health) - 🩺 Check the health of your Nix install
@@ -1797,6 +1798,7 @@
 
 ## Rust 
 
+- [ekala-project/ekafleet](https://github.com/ekala-project/ekafleet) - Official deployment tool for EkaOS
 - [juspay/osfacts](https://github.com/juspay/osfacts) - Process + socket facts from the OS, nothing more.
 - [block/buzz](https://github.com/block/buzz) - A hive mind communication platform
 - [tokio-rs/topcoat](https://github.com/tokio-rs/topcoat) - A batteries-included framework for building web apps
