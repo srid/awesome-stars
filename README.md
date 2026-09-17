@@ -139,7 +139,7 @@
 - [zzzprojects/html-agility-pack](https://github.com/zzzprojects/html-agility-pack) - Html Agility Pack (HAP) is a free and open-source HTML parser written in C# to read/write DOM and supports plain XPATH or XSLT. It is a .NET code library that allows you to parse "out of the web" HTML
 - [AngleSharp/AngleSharp](https://github.com/AngleSharp/AngleSharp) - :angel: The ultimate angle brackets parser library parsing HTML5, MathML, SVG and CSS to construct a DOM based on the official W3C specifications.
 - [spectreconsole/spectre.console](https://github.com/spectreconsole/spectre.console) - A .NET library that makes it easier to create beautiful console applications.
-- [reactiveui/ReactiveUI](https://github.com/reactiveui/ReactiveUI) - An advanced, composable, functional reactive model-view-viewmodel framework for all .NET platforms that is inspired by functional reactive programming. ReactiveUI allows you to  abstract mutable state
+- [reactiveui/ReactiveUI](https://github.com/reactiveui/ReactiveUI) - A composable, cross-platform MVVM framework for .NET inspired by functional reactive programming. It moves mutable state out of the user interface, keeps each feature's logic in one readable place, an
 - [RolandPheasant/TailBlazer](https://github.com/RolandPheasant/TailBlazer) - A modern file tail utility based on Rx.Net which show cases reactive programming and Dynamic Data (see https://github.com/RolandPheasant/DynamicData)
 - [reactivemarbles/DynamicData](https://github.com/reactivemarbles/DynamicData) - Reactive collections based on Rx.Net
 - [dotnet/reactive](https://github.com/dotnet/reactive) - The Reactive Extensions for .NET
@@ -555,6 +555,7 @@
 
 ## HTML 
 
+- [ekala-project/twie](https://github.com/ekala-project/twie) - This week in Ekala blog
 - [juspay/nixden](https://github.com/juspay/nixden) - Isolated NixOS-based devbox for Mac users and others
 - [Pankajtanwarbanna/stfu](https://github.com/Pankajtanwarbanna/stfu) - stfu
 - [m4dc4p/claude-hls](https://github.com/m4dc4p/claude-hls) - 
