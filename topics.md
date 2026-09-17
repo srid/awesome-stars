@@ -328,7 +328,7 @@
 - [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, and mobile.
 - [android-password-store/Android-Password-Store](https://github.com/android-password-store/Android-Password-Store) - Android application compatible with ZX2C4's Pass command line application
 - [xbmc/xbmc](https://github.com/xbmc/xbmc) - Kodi is an award-winning free and open source home theater/media center software and entertainment hub for digital media. With its beautiful interface and powerful skinning engine, it's available for 
-- [reactiveui/ReactiveUI](https://github.com/reactiveui/ReactiveUI) - An advanced, composable, functional reactive model-view-viewmodel framework for all .NET platforms that is inspired by functional reactive programming. ReactiveUI allows you to  abstract mutable state
+- [reactiveui/ReactiveUI](https://github.com/reactiveui/ReactiveUI) - A composable, cross-platform MVVM framework for .NET inspired by functional reactive programming. It moves mutable state out of the user interface, keeps each feature's logic in one readable place, an
 - [iSoron/uhabits](https://github.com/iSoron/uhabits) - Loop Habit Tracker, a mobile app for creating and maintaining long-term positive habits
 - [jarun/nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager
 - [obsidiansystems/obelisk](https://github.com/obsidiansystems/obelisk) - Functional reactive web and mobile applications, with batteries included.
@@ -699,7 +699,7 @@
 - [filllabs/dependi](https://github.com/filllabs/dependi) - Dependi (formerly crates)
 - [extism/extism](https://github.com/extism/extism) - The framework for building with WebAssembly (wasm). Easily & securely load wasm modules, move data, call functions, and build extensible apps.
 - [spectreconsole/spectre.console](https://github.com/spectreconsole/spectre.console) - A .NET library that makes it easier to create beautiful console applications.
-- [reactiveui/ReactiveUI](https://github.com/reactiveui/ReactiveUI) - An advanced, composable, functional reactive model-view-viewmodel framework for all .NET platforms that is inspired by functional reactive programming. ReactiveUI allows you to  abstract mutable state
+- [reactiveui/ReactiveUI](https://github.com/reactiveui/ReactiveUI) - A composable, cross-platform MVVM framework for .NET inspired by functional reactive programming. It moves mutable state out of the user interface, keeps each feature's logic in one readable place, an
 - [reactivemarbles/DynamicData](https://github.com/reactivemarbles/DynamicData) - Reactive collections based on Rx.Net
 - [xoofx/markdig](https://github.com/xoofx/markdig) - A fast, powerful, CommonMark compliant, extensible Markdown processor for .NET
 - [quozd/awesome-dotnet](https://github.com/quozd/awesome-dotnet) - A collection of awesome .NET libraries, tools, frameworks and software
@@ -876,7 +876,7 @@
 - [extism/extism](https://github.com/extism/extism) - The framework for building with WebAssembly (wasm). Easily & securely load wasm modules, move data, call functions, and build extensible apps.
 - [sebastienros/fluid](https://github.com/sebastienros/fluid) - Fluid is an open-source .NET template engine based on the Liquid template language.
 - [spectreconsole/spectre.console](https://github.com/spectreconsole/spectre.console) - A .NET library that makes it easier to create beautiful console applications.
-- [reactiveui/ReactiveUI](https://github.com/reactiveui/ReactiveUI) - An advanced, composable, functional reactive model-view-viewmodel framework for all .NET platforms that is inspired by functional reactive programming. ReactiveUI allows you to  abstract mutable state
+- [reactiveui/ReactiveUI](https://github.com/reactiveui/ReactiveUI) - A composable, cross-platform MVVM framework for .NET inspired by functional reactive programming. It moves mutable state out of the user interface, keeps each feature's logic in one readable place, an
 - [reactivemarbles/DynamicData](https://github.com/reactivemarbles/DynamicData) - Reactive collections based on Rx.Net
 - [ionide/Fornax](https://github.com/ionide/Fornax) - Scriptable static site generator using type safe F# DSL to define page templates.
 - [xoofx/markdig](https://github.com/xoofx/markdig) - A fast, powerful, CommonMark compliant, extensible Markdown processor for .NET
@@ -1007,7 +1007,7 @@
 - [LukeMathWalker/pavex](https://github.com/LukeMathWalker/pavex) - A backend framework for Rust professionals
 - [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) - Documentation that simply works
 - [camlworks/dream](https://github.com/camlworks/dream) - Tidy, feature-complete Web framework
-- [reactiveui/ReactiveUI](https://github.com/reactiveui/ReactiveUI) - An advanced, composable, functional reactive model-view-viewmodel framework for all .NET platforms that is inspired by functional reactive programming. ReactiveUI allows you to  abstract mutable state
+- [reactiveui/ReactiveUI](https://github.com/reactiveui/ReactiveUI) - A composable, cross-platform MVVM framework for .NET inspired by functional reactive programming. It moves mutable state out of the user interface, keeps each feature's logic in one readable place, an
 - [jtdaugherty/brick](https://github.com/jtdaugherty/brick) - A declarative Unix terminal UI library written in Haskell
 - [guregu/kami](https://github.com/guregu/kami) - web "framework" with context
 - [lorien/grab](https://github.com/lorien/grab) - Web Scraping Framework
@@ -1256,7 +1256,7 @@
 - [ad-si/TaskLite](https://github.com/ad-si/TaskLite) - The CLI task manager for power users
 - [yewstack/yew](https://github.com/yewstack/yew) - Rust / Wasm framework for creating reliable and efficient web applications
 - [AngleSharp/AngleSharp](https://github.com/AngleSharp/AngleSharp) - :angel: The ultimate angle brackets parser library parsing HTML5, MathML, SVG and CSS to construct a DOM based on the official W3C specifications.
-- [reactiveui/ReactiveUI](https://github.com/reactiveui/ReactiveUI) - An advanced, composable, functional reactive model-view-viewmodel framework for all .NET platforms that is inspired by functional reactive programming. ReactiveUI allows you to  abstract mutable state
+- [reactiveui/ReactiveUI](https://github.com/reactiveui/ReactiveUI) - A composable, cross-platform MVVM framework for .NET inspired by functional reactive programming. It moves mutable state out of the user interface, keeps each feature's logic in one readable place, an
 - [reactivemarbles/DynamicData](https://github.com/reactivemarbles/DynamicData) - Reactive collections based on Rx.Net
 - [BamButz/msbuild-tailwindcss](https://github.com/BamButz/msbuild-tailwindcss) - Adds a build action to process stylesheets through postcss/tailwind
 - [litedb-org/LiteDB](https://github.com/litedb-org/LiteDB) - LiteDB - A .NET NoSQL Document Store in a single data file
@@ -1530,7 +1530,7 @@
 - [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, and mobile.
 - [Ranchero-Software/NetNewsWire](https://github.com/Ranchero-Software/NetNewsWire) - RSS reader for macOS and iOS.
 - [xbmc/xbmc](https://github.com/xbmc/xbmc) - Kodi is an award-winning free and open source home theater/media center software and entertainment hub for digital media. With its beautiful interface and powerful skinning engine, it's available for 
-- [reactiveui/ReactiveUI](https://github.com/reactiveui/ReactiveUI) - An advanced, composable, functional reactive model-view-viewmodel framework for all .NET platforms that is inspired by functional reactive programming. ReactiveUI allows you to  abstract mutable state
+- [reactiveui/ReactiveUI](https://github.com/reactiveui/ReactiveUI) - A composable, cross-platform MVVM framework for .NET inspired by functional reactive programming. It moves mutable state out of the user interface, keeps each feature's logic in one readable place, an
 - [obsidiansystems/obelisk](https://github.com/obsidiansystems/obelisk) - Functional reactive web and mobile applications, with batteries included.
 - [josh-/DictionaryPlusPlus](https://github.com/josh-/DictionaryPlusPlus) - Dictionary++ is a simple interface to iOS's system dictionary.
 - [matteocrippa/awesome-swift](https://github.com/matteocrippa/awesome-swift) - A collaborative list of awesome Swift libraries and resources. Feel free to contribute!
@@ -2051,6 +2051,7 @@
 
 ## others 
 
+- [ekala-project/twie](https://github.com/ekala-project/twie) - This week in Ekala blog
 - [theoriclabs/LeanDB](https://github.com/theoriclabs/LeanDB) - 
 - [mateusdcc/nixpi](https://github.com/mateusdcc/nixpi) - Declarative Nix configuration framework for the Pi coding agent
 - [duolahypercho/codex-router](https://github.com/duolahypercho/codex-router) - External-model router for Codex with guided Kimi OAuth/API, DeepSeek, safe migration, and rollback.
@@ -3519,7 +3520,7 @@
 
 ## reactiveui 
 
-- [reactiveui/ReactiveUI](https://github.com/reactiveui/ReactiveUI) - An advanced, composable, functional reactive model-view-viewmodel framework for all .NET platforms that is inspired by functional reactive programming. ReactiveUI allows you to  abstract mutable state
+- [reactiveui/ReactiveUI](https://github.com/reactiveui/ReactiveUI) - A composable, cross-platform MVVM framework for .NET inspired by functional reactive programming. It moves mutable state out of the user interface, keeps each feature's logic in one readable place, an
 
 ## reactjs 
 
@@ -4123,7 +4124,7 @@
 
 ## xamarin 
 
-- [reactiveui/ReactiveUI](https://github.com/reactiveui/ReactiveUI) - An advanced, composable, functional reactive model-view-viewmodel framework for all .NET platforms that is inspired by functional reactive programming. ReactiveUI allows you to  abstract mutable state
+- [reactiveui/ReactiveUI](https://github.com/reactiveui/ReactiveUI) - A composable, cross-platform MVVM framework for .NET inspired by functional reactive programming. It moves mutable state out of the user interface, keeps each feature's logic in one readable place, an
 
 ## xcode 
 
