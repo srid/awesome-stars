@@ -1248,6 +1248,7 @@
 
 ## Nix 
 
+- [juspay/agent-distro](https://github.com/juspay/agent-distro) - Build a coding-agent distribution: Oh My Pi, Codex, and Claude Code preloaded with a profile of Agent Plugins
 - [mateusdcc/nixpi](https://github.com/mateusdcc/nixpi) - Declarative Nix configuration framework for the Pi coding agent
 - [ekala-project/ekapkgs](https://github.com/ekala-project/ekapkgs) - Default package set for Ekapkgs and EkaOS
 - [juspay/bun2nix](https://github.com/juspay/bun2nix) - Fork of https://github.com/nix-community/bun2nix open to contributions
@@ -1802,6 +1803,7 @@
 
 ## Rust 
 
+- [cachix/nix-archive](https://github.com/cachix/nix-archive) - Byte-safe encoding, decoding, hashing, and restoration for Nix archive formats in pure Rust.
 - [ekala-project/ekafleet](https://github.com/ekala-project/ekafleet) - Official deployment tool for EkaOS
 - [juspay/osfacts](https://github.com/juspay/osfacts) - Process + socket facts from the OS, nothing more.
 - [block/buzz](https://github.com/block/buzz) - A hive mind communication platform
