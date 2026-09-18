@@ -2051,6 +2051,8 @@
 
 ## others 
 
+- [juspay/agent-distro](https://github.com/juspay/agent-distro) - Build a coding-agent distribution: Oh My Pi, Codex, and Claude Code preloaded with a profile of Agent Plugins
+- [cachix/nix-archive](https://github.com/cachix/nix-archive) - Byte-safe encoding, decoding, hashing, and restoration for Nix archive formats in pure Rust.
 - [ekala-project/twie](https://github.com/ekala-project/twie) - This week in Ekala blog
 - [theoriclabs/LeanDB](https://github.com/theoriclabs/LeanDB) - 
 - [mateusdcc/nixpi](https://github.com/mateusdcc/nixpi) - Declarative Nix configuration framework for the Pi coding agent
