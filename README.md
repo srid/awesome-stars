@@ -1188,6 +1188,7 @@
 
 ## Lean 
 
+- [theoriclabs/lean-react](https://github.com/theoriclabs/lean-react) - 
 - [theoriclabs/LeanDB](https://github.com/theoriclabs/LeanDB) - 
 - [srid/Tend](https://github.com/srid/Tend) - Tend leanly
 - [TauCetiProject/TauCeti](https://github.com/TauCetiProject/TauCeti) - An AIs-welcome Lean library downstream of Mathlib: AI handle the implementation and review, humans write the roadmaps and review rubrics
