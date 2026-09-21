@@ -1806,6 +1806,7 @@
 
 - [cachix/nix-archive](https://github.com/cachix/nix-archive) - Byte-safe encoding, decoding, hashing, and restoration for Nix archive formats in pure Rust.
 - [ekala-project/ekafleet](https://github.com/ekala-project/ekafleet) - Official deployment tool for EkaOS
+- [zvec-ai/zvec-grep](https://github.com/zvec-ai/zvec-grep) - Local-first search across your workspace, built for humans and AI agents.
 - [juspay/osfacts](https://github.com/juspay/osfacts) - Process + socket facts from the OS, nothing more.
 - [block/buzz](https://github.com/block/buzz) - A hive mind communication platform
 - [tokio-rs/topcoat](https://github.com/tokio-rs/topcoat) - A batteries-included framework for building web apps
@@ -2188,7 +2189,6 @@
 - [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) - ⌥ Coding agent with the IDE wired in
 - [agentclientprotocol/codex-acp](https://github.com/agentclientprotocol/codex-acp) - ACP server implementation that exposes Codex CLI functionality for smoother client and IDE integration.
 - [cordiverse/cordis](https://github.com/cordiverse/cordis) - Meta-Framework of Spatiotemporal Composability
-- [zvec-ai/zvec-grep](https://github.com/zvec-ai/zvec-grep) - Local-first search across your workspace, built for humans and AI agents.
 - [svkozak/pi-acp](https://github.com/svkozak/pi-acp) - ACP adapter for pi coding agent
 - [juspay/saatchi](https://github.com/juspay/saatchi) - photograph an app doing the thing
 - [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) - DeepSeek Harness: Everything is a Plugin.
