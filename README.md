@@ -157,6 +157,7 @@
 
 ## C++ 
 
+- [Mic92/nix-grpc-store](https://github.com/Mic92/nix-grpc-store) - Nix remote store and build farm over gRPC: faster nix copy than ssh-ng, with mTLS and a scheduler for builders
 - [love2d/love](https://github.com/love2d/love) - LÖVE is an awesome 2D game framework for Lua.
 - [FedoraQt/MediaWriter](https://github.com/FedoraQt/MediaWriter) - Fedora Media Writer - Write Fedora Images to Portable Media
 - [emcrisostomo/fswatch](https://github.com/emcrisostomo/fswatch) - A cross-platform file change monitor with multiple backends: Apple macOS File System Events, *BSD kqueue, Solaris/Illumos File Events Notification, Linux inotify and fanotify, Microsoft Windows and a 
@@ -2098,7 +2099,7 @@
 - [michaeldfallen/git-radar](https://github.com/michaeldfallen/git-radar) - A heads up display for git
 - [heroku/docker-python](https://github.com/heroku/docker-python) - [DEPRECATED] Docker image for Python (and Heroku).
 - [srid/heroku-buildpack-elm](https://github.com/srid/heroku-buildpack-elm) - Heroku buildpack for deploying Elm apps (NEEDS MAINTAINER)
-- [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Over 450 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTermin
+- [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Over 600 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTermin
 - [ActiveState/activepython-docker](https://github.com/ActiveState/activepython-docker) - ActivePython Docker image
 - [illusori/bash-itunes](https://github.com/illusori/bash-itunes) - Shell script to control iTunes from the command-line.
 - [babun/babun](https://github.com/babun/babun) - Babun - a Windows shell you will love!
@@ -2186,7 +2187,7 @@
 
 ## TypeScript 
 
-- [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) - ⌥ Coding agent with the IDE wired in
+- [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) - ⌥ Coding agent with the IDE wired in. Built by Stencil Labs.
 - [agentclientprotocol/codex-acp](https://github.com/agentclientprotocol/codex-acp) - ACP server implementation that exposes Codex CLI functionality for smoother client and IDE integration.
 - [cordiverse/cordis](https://github.com/cordiverse/cordis) - Meta-Framework of Spatiotemporal Composability
 - [svkozak/pi-acp](https://github.com/svkozak/pi-acp) - ACP adapter for pi coding agent
