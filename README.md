@@ -407,7 +407,7 @@
 - [nlewo/nix2container](https://github.com/nlewo/nix2container) - An archive-less dockerTools.buildImage implementation
 - [neuralink/tsui](https://github.com/neuralink/tsui) - An (experimental) elegant TUI for configuring Tailscale.
 - [elisescu/tty-share](https://github.com/elisescu/tty-share) - Share your linux or osx terminal over the Internet.
-- [usememos/memos](https://github.com/usememos/memos) - Open-source, self-hosted note-taking tool built for quick capture. Markdown-native, lightweight, and fully yours.
+- [usememos/memos](https://github.com/usememos/memos) - A personal timeline for quick notes. Write short memos, find them later by search, tag, or date. Open source and self-hosted.
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 - [git-bug/git-bug](https://github.com/git-bug/git-bug) - Distributed, offline-first bug tracker integrated in git
 - [matrix-org/pinecone](https://github.com/matrix-org/pinecone) - Peer-to-peer overlay routing for the Matrix ecosystem
@@ -1106,7 +1106,6 @@
 - [codemirror/dev](https://github.com/codemirror/dev) - Development repository for the CodeMirror editor project
 - [MaggieAppleton/digital-gardeners](https://github.com/MaggieAppleton/digital-gardeners) - Resources, links, projects, and ideas for gardeners tending their digital notes on the public interwebs
 - [GoogleChromeLabs/text-editor](https://github.com/GoogleChromeLabs/text-editor) - A text editor build on the Native File System APIs
-- [scratchfoundation/scratch-blocks](https://github.com/scratchfoundation/scratch-blocks) - Scratch Blocks is a library for building creative computing interfaces.
 - [jsonresume/resume-schema](https://github.com/jsonresume/resume-schema) - MOVED to jsonresume/jsonresume.org (packages/schema) — npm @jsonresume/schema unchanged
 - [MikeRogers0/LivePage](https://github.com/MikeRogers0/LivePage) - LivePage for Google Chrome reloads website resources (such as CSS, HTML and JavaScript) as they change on the server.
 - [ajnsit/concur](https://github.com/ajnsit/concur) - An unusual Web UI Framework for Haskell
@@ -1249,7 +1248,6 @@
 
 ## Nix 
 
-- [juspay/agent-distro](https://github.com/juspay/agent-distro) - Build a coding-agent distribution: Oh My Pi, Codex, and Claude Code preloaded with a profile of Agent Plugins
 - [mateusdcc/nixpi](https://github.com/mateusdcc/nixpi) - Declarative Nix configuration framework for the Pi coding agent
 - [ekala-project/ekapkgs](https://github.com/ekala-project/ekapkgs) - Default package set for Ekapkgs and EkaOS
 - [juspay/bun2nix](https://github.com/juspay/bun2nix) - Fork of https://github.com/nix-community/bun2nix open to contributions
@@ -1263,7 +1261,7 @@
 - [Mic92/adios-flake](https://github.com/Mic92/adios-flake) - Composable flake outputs using the adios module system — the ergonomics of flake-parts without the evaluation overhead.
 - [halfwhey/nix-apple-container](https://github.com/halfwhey/nix-apple-container) - 
 - [a-kenji/zellij-nix](https://github.com/a-kenji/zellij-nix) - Zellij Nix Environment
-- [juspay/AI](https://github.com/juspay/AI) - One-click AI agent for Juspay
+- [juspay/AI](https://github.com/juspay/AI) - One-click AI agent for Juspay; MOVED to https://github.com/juspay/agent-distro
 - [srid/hackage-publish](https://github.com/srid/hackage-publish) - A simple script to publish Haskell packages to Hackage with little fanfare.
 - [garnix-io/yensid](https://github.com/garnix-io/yensid) - A proxy for better Nix remote builds
 - [tomberek/-](https://github.com/tomberek/-) - 
@@ -1618,6 +1616,7 @@
 
 ## Python 
 
+- [juspay/agent-distro](https://github.com/juspay/agent-distro) - Build a coding-agent distribution: Oh My Pi, Codex, and Claude Code preloaded with a profile of Agent Plugins
 - [sophronesis/peerix](https://github.com/sophronesis/peerix) - Peer2Peer Nix-Binary-Cache
 - [yizhiyanhua-ai/fireworks-tech-graph](https://github.com/yizhiyanhua-ai/fireworks-tech-graph) - Generate production-quality SVG+PNG technical diagrams from natural language. 7 styles, UML support, and AI/Agent workflow patterns.
 - [microsoft/apm](https://github.com/microsoft/apm) - Agent Package Manager
@@ -2052,6 +2051,7 @@
 
 ## Shell 
 
+- [sadjow/codex-cli-nix](https://github.com/sadjow/codex-cli-nix) - Nix flake for OpenAI Codex CLI - native Rust binary, hourly updates, multi-platform caching
 - [srid/webput](https://github.com/srid/webput) - Upload a page to Cloudflare Pages
 - [sadjow/claude-code-nix](https://github.com/sadjow/claude-code-nix) - Always up-to-date Nix package for Claude Code with hourly updates from Anthropic's native releases
 - [juspay/nix-chrome-devtools-mcp](https://github.com/juspay/nix-chrome-devtools-mcp) - Nix-based launcher for chrome-devtools-mcp; shares Playwright's bundled Chrome-for-Testing.
@@ -2322,6 +2322,7 @@
 - [svsool/memo](https://github.com/svsool/memo) - Markdown knowledge base with bidirectional [[link]]s built on top of VSCode
 - [peaceiris/actions-gh-pages](https://github.com/peaceiris/actions-gh-pages) - GitHub Actions for GitHub Pages 🚀 Deploy static files and publish your site easily. Static-Site-Generators-friendly.
 - [laobubu/HyperMD](https://github.com/laobubu/HyperMD) - A WYSIWYG Markdown Editor for browsers. Break the Wall between writing and previewing.
+- [scratchfoundation/scratch-blocks](https://github.com/scratchfoundation/scratch-blocks) - Scratch Blocks is a library for building creative computing interfaces.
 - [urbit/sigil-js](https://github.com/urbit/sigil-js) - ~4.2 billion default profile pics
 - [reveddit/reveddit](https://github.com/reveddit/reveddit) - Review removed content on reddit. Uses the Pushshift API, built on code from removeddit.
 - [hasura/graphql-engine](https://github.com/hasura/graphql-engine) - Blazing fast, instant realtime GraphQL APIs on all your data with fine grained access control, also trigger webhooks on database events.
