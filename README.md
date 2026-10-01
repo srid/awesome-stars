@@ -1035,6 +1035,7 @@
 
 ## Java 
 
+- [ekmett/thc](https://github.com/ekmett/thc) - The Turbo Haskell Compiler
 - [processing/processing](https://github.com/processing/processing) - ⚠️ Processing moved to processing/processing4 ⚠️
 - [gocd/gocd](https://github.com/gocd/gocd) - GoCD - Continuous Delivery server main repository
 - [clojure/clojure](https://github.com/clojure/clojure) - The Clojure programming language
@@ -1616,7 +1617,7 @@
 
 ## Python 
 
-- [juspay/agent-distro](https://github.com/juspay/agent-distro) - Build a coding-agent distribution: Oh My Pi, Codex, and Claude Code preloaded with a profile of Agent Plugins
+- [juspay/agent-distro](https://github.com/juspay/agent-distro) - Your team's coding agents, in one command (powered by Nix)
 - [sophronesis/peerix](https://github.com/sophronesis/peerix) - Peer2Peer Nix-Binary-Cache
 - [yizhiyanhua-ai/fireworks-tech-graph](https://github.com/yizhiyanhua-ai/fireworks-tech-graph) - Generate production-quality SVG+PNG technical diagrams from natural language. 7 styles, UML support, and AI/Agent workflow patterns.
 - [microsoft/apm](https://github.com/microsoft/apm) - Agent Package Manager
