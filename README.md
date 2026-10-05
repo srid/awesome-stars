@@ -34,6 +34,7 @@
 - [Kotlin](#kotlin)
 - [Lean](#lean)
 - [Lua](#lua)
+- [Luau](#luau)
 - [MDX](#mdx)
 - [Makefile](#makefile)
 - [Markdown](#markdown)
@@ -157,6 +158,7 @@
 
 ## C++ 
 
+- [noctalia-dev/noctalia](https://github.com/noctalia-dev/noctalia) - A sleek, customizable desktop shell crafted for Wayland.
 - [Mic92/nix-grpc-store](https://github.com/Mic92/nix-grpc-store) - Nix remote store and build farm over gRPC: faster nix copy than ssh-ng, with mTLS and a scheduler for builders
 - [love2d/love](https://github.com/love2d/love) - LÖVE is an awesome 2D game framework for Lua.
 - [FedoraQt/MediaWriter](https://github.com/FedoraQt/MediaWriter) - Fedora Media Writer - Write Fedora Images to Portable Media
@@ -1200,7 +1202,7 @@
 - [obsidian-nvim/obsidian.nvim](https://github.com/obsidian-nvim/obsidian.nvim) - Obsidian 🤝 Neovim (actively maintained version)
 - [greggh/claude-code.nvim](https://github.com/greggh/claude-code.nvim) - Seamless integration between Claude Code AI assistant and Neovim
 - [hedyhli/outline.nvim](https://github.com/hedyhli/outline.nvim) - Fancy code outline sidebar to visualize and navigate code symbols in a tree hierarchy
-- [nvim-orgmode/orgmode](https://github.com/nvim-orgmode/orgmode) - Orgmode clone written in Lua for Neovim 0.11.0+.
+- [nvim-orgmode/orgmode](https://github.com/nvim-orgmode/orgmode) - Orgmode clone written in Lua for Neovim 0.12.0+.
 - [kdheepak/lazygit.nvim](https://github.com/kdheepak/lazygit.nvim) - Plugin for calling lazygit from within neovim.
 - [C0nw0nk/Nginx-Lua-Anti-DDoS](https://github.com/C0nw0nk/Nginx-Lua-Anti-DDoS) - A Anti-DDoS script to protect Nginx web servers using Lua with a HTML Javascript based authentication puzzle inspired by Cloudflare I am under attack mode an Anti-DDoS authentication page protect your
 - [nvim-telescope/telescope-file-browser.nvim](https://github.com/nvim-telescope/telescope-file-browser.nvim) - File Browser extension for telescope.nvim
@@ -1212,6 +1214,10 @@
 - [pyrho/nerveux.nvim](https://github.com/pyrho/nerveux.nvim) - A neovim plugin written in lua to interact with the neuron Zettelkasten software.
 - [omarish/pandoc-md-to-slack](https://github.com/omarish/pandoc-md-to-slack) - Pandoc extension to convert markdown to slack formatting.
 - [nathancahill/Anycomplete](https://github.com/nathancahill/Anycomplete) - The magic of Google Autocomplete while you're typing. Anywhere.
+
+## Luau 
+
+- [noctalia-dev/community-plugins](https://github.com/noctalia-dev/community-plugins) - Community plugins for Noctalia.
 
 ## MDX 
 
