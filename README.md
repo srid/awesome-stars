@@ -269,7 +269,6 @@
 ## Elm 
 
 - [am-on/work-timer](https://github.com/am-on/work-timer) - App for tracking work hours using Elm and Toggl.com
-- [ad-si/TaskLite](https://github.com/ad-si/TaskLite) - The CLI task manager for power users
 - [ghivert/fireblog](https://github.com/ghivert/fireblog) - Blog template in elm for easy deploy on Firebase!
 - [arturopala/elm-monocle](https://github.com/arturopala/elm-monocle) - Functional abstractions to manipulate complex records in Elm - Iso, Prism, Lens, Optional, Traversal.
 - [elm-community/parser-combinators](https://github.com/elm-community/parser-combinators) - A parser combinator library for Elm.
@@ -777,6 +776,7 @@
 - [j-mueller/ghci-websockets](https://github.com/j-mueller/ghci-websockets) - A websocket server in GHCi that survives reloads
 - [obsidiansystems/vessel](https://github.com/obsidiansystems/vessel) - Functor-parametric containers
 - [yesodweb/wai](https://github.com/yesodweb/wai) - Haskell Web Application Interface
+- [ad-si/TaskLite](https://github.com/ad-si/TaskLite) - The CLI task manager for power users
 - [waymonad/waymonad](https://github.com/waymonad/waymonad) - A wayland compositor based on ideas from and inspired by xmonad
 - [pkamenarsky/concur-static](https://github.com/pkamenarsky/concur-static) - Generate semi-dynamic UIs with Concur
 - [ekmett/propagators](https://github.com/ekmett/propagators) - The Art of the Propagator. See also:
