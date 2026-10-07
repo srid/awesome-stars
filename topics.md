@@ -1265,7 +1265,6 @@
 - [jugglerchris/rust-html2text](https://github.com/jugglerchris/rust-html2text) - Rust library to render HTML as text.
 - [gitui-org/gitui](https://github.com/gitui-org/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
 - [ad-si/TaskLite](https://github.com/ad-si/TaskLite) - The CLI task manager for power users
-- [yewstack/yew](https://github.com/yewstack/yew) - Rust / Wasm framework for creating reliable and efficient web applications
 - [AngleSharp/AngleSharp](https://github.com/AngleSharp/AngleSharp) - :angel: The ultimate angle brackets parser library parsing HTML5, MathML, SVG and CSS to construct a DOM based on the official W3C specifications.
 - [reactiveui/ReactiveUI](https://github.com/reactiveui/ReactiveUI) - A composable, cross-platform MVVM framework for .NET inspired by functional reactive programming. It moves mutable state out of the user interface, keeps each feature's logic in one readable place, an
 - [reactivemarbles/DynamicData](https://github.com/reactivemarbles/DynamicData) - Reactive collections based on Rx.Net
