@@ -1254,7 +1254,6 @@
 
 ## Nix 
 
-- [juspay/agent-distro](https://github.com/juspay/agent-distro) - Your team's coding agents, in one command (powered by Nix)
 - [mateusdcc/nixpi](https://github.com/mateusdcc/nixpi) - Declarative Nix configuration framework for the Pi coding agent
 - [ekala-project/ekapkgs](https://github.com/ekala-project/ekapkgs) - Default package set for Ekapkgs and EkaOS
 - [juspay/bun2nix](https://github.com/juspay/bun2nix) - Fork of https://github.com/nix-community/bun2nix open to contributions
@@ -2194,6 +2193,7 @@
 
 ## TypeScript 
 
+- [juspay/agent-distro](https://github.com/juspay/agent-distro) - Your team's coding agents, in one command (powered by Nix)
 - [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) - ⌥ Coding agent with the IDE wired in. Built by Stencil Labs.
 - [agentclientprotocol/codex-acp](https://github.com/agentclientprotocol/codex-acp) - ACP server implementation that exposes Codex CLI functionality for smoother client and IDE integration.
 - [cordiverse/cordis](https://github.com/cordiverse/cordis) - Meta-Framework of Spatiotemporal Composability
