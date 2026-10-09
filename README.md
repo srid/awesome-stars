@@ -1809,6 +1809,7 @@
 
 ## Rust 
 
+- [juspay/streamgres](https://github.com/juspay/streamgres) - A subscription-native sync engine for PostgreSQL.
 - [cachix/nix-archive](https://github.com/cachix/nix-archive) - Byte-safe encoding, decoding, hashing, and restoration for Nix archive formats in pure Rust.
 - [ekala-project/ekafleet](https://github.com/ekala-project/ekafleet) - Official deployment tool for EkaOS
 - [zvec-ai/zvec-grep](https://github.com/zvec-ai/zvec-grep) - Local-first search across your workspace, built for humans and AI agents.
