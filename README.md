@@ -1267,6 +1267,7 @@
 - [Mic92/adios-flake](https://github.com/Mic92/adios-flake) - Composable flake outputs using the adios module system — the ergonomics of flake-parts without the evaluation overhead.
 - [halfwhey/nix-apple-container](https://github.com/halfwhey/nix-apple-container) - 
 - [a-kenji/zellij-nix](https://github.com/a-kenji/zellij-nix) - Zellij Nix Environment
+- [juspay/skills](https://github.com/juspay/skills) - Various useful skills for development
 - [juspay/AI](https://github.com/juspay/AI) - One-click AI agent for Juspay; MOVED to https://github.com/juspay/agent-distro
 - [srid/hackage-publish](https://github.com/srid/hackage-publish) - A simple script to publish Haskell packages to Hackage with little fanfare.
 - [garnix-io/yensid](https://github.com/garnix-io/yensid) - A proxy for better Nix remote builds
@@ -1458,7 +1459,6 @@
 - [divio/documentation-framework](https://github.com/divio/documentation-framework) - "The Grand Unified Theory of Documentation" (David Laing) - a popular and transformative documentation authoring framework
 - [srid/llm-debate](https://github.com/srid/llm-debate) - Orchestrate debates between any number of LLMs
 - [mohammedAcheddad/SSH_port_forwarding](https://github.com/mohammedAcheddad/SSH_port_forwarding) - a full tutorial on how to use ssh port forwarding with all its types
-- [juspay/skills](https://github.com/juspay/skills) - Various useful skills for development
 - [Uzaaft/awesome-libghostty](https://github.com/Uzaaft/awesome-libghostty) - 
 - [MiniMax-AI/MiniMax-M2](https://github.com/MiniMax-AI/MiniMax-M2) - MiniMax-M2, a model built for Max coding & agentic workflows.
 - [dharmx/walls](https://github.com/dharmx/walls) - All of my wallpapers in one repo.
@@ -1622,6 +1622,7 @@
 
 ## Python 
 
+- [archie-judd/agent-sandbox.nix](https://github.com/archie-judd/agent-sandbox.nix) - Lightweight and declarative sandboxing for AI agents on Linux and macOS using Nix.
 - [sophronesis/peerix](https://github.com/sophronesis/peerix) - Peer2Peer Nix-Binary-Cache
 - [yizhiyanhua-ai/fireworks-tech-graph](https://github.com/yizhiyanhua-ai/fireworks-tech-graph) - Generate production-quality SVG+PNG technical diagrams from natural language. 7 styles, UML support, and AI/Agent workflow patterns.
 - [microsoft/apm](https://github.com/microsoft/apm) - Agent Package Manager
@@ -2062,7 +2063,6 @@
 - [srid/webput](https://github.com/srid/webput) - Upload a page to Cloudflare Pages
 - [sadjow/claude-code-nix](https://github.com/sadjow/claude-code-nix) - Always up-to-date Nix package for Claude Code with hourly updates from Anthropic's native releases
 - [juspay/nix-chrome-devtools-mcp](https://github.com/juspay/nix-chrome-devtools-mcp) - Nix-based launcher for chrome-devtools-mcp; shares Playwright's bundled Chrome-for-Testing.
-- [archie-judd/agent-sandbox.nix](https://github.com/archie-judd/agent-sandbox.nix) - Lightweight and declarative sandboxing for AI agents on Linux and macOS using Nix.
 - [nrdxp/predicate](https://github.com/nrdxp/predicate) - Reusable agent predicates (rulesets) and workflows for agentic coding assistants.
 - [nammayatri/claude-fleet](https://github.com/nammayatri/claude-fleet) - A parallel task orchestrator for running hundreds of [Claude Code](https://docs.anthropic.com/en/docs/claude-code) sessions concurrently. Maximize your Claude Max subscription by running audit, fix, a
 - [uditgoenka/autoresearch](https://github.com/uditgoenka/autoresearch) - Claude Autoresearch Skill — Autonomous goal-directed iteration for Claude Code. Inspired by Karpathy's autoresearch. Modify → Verify → Keep/Discard → Repeat forever.
@@ -2106,7 +2106,7 @@
 - [michaeldfallen/git-radar](https://github.com/michaeldfallen/git-radar) - A heads up display for git
 - [heroku/docker-python](https://github.com/heroku/docker-python) - [DEPRECATED] Docker image for Python (and Heroku).
 - [srid/heroku-buildpack-elm](https://github.com/srid/heroku-buildpack-elm) - Heroku buildpack for deploying Elm apps (NEEDS MAINTAINER)
-- [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Our next-generation, interactive app is currently in beta!  Come try it out at terminalthemes.com! Over 700 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, 
+- [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Our next-generation, interactive app is currently in beta!  Come try it out at terminalthemes.com! Over 750 terminal color schemes/themes for iTerm, with ports to Terminal, Konsole, PuTTY, Xresources,
 - [ActiveState/activepython-docker](https://github.com/ActiveState/activepython-docker) - ActivePython Docker image
 - [illusori/bash-itunes](https://github.com/illusori/bash-itunes) - Shell script to control iTunes from the command-line.
 - [babun/babun](https://github.com/babun/babun) - Babun - a Windows shell you will love!
@@ -2146,7 +2146,7 @@
 - [kitlangton/Hex](https://github.com/kitlangton/Hex) - Legacy Swift Hex app. Try the Rust rewrite at hex.kitlangton.com; new source at github.com/anomalyco/hex.
 - [DamascenoRafael/reminders-menubar](https://github.com/DamascenoRafael/reminders-menubar) - Simple macOS menu bar application to view and interact with reminders. Developed with SwiftUI and using Apple Reminders as a source.
 - [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) - Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Built for multitasking, organization, and programmability.
-- [tw93/MiaoYan](https://github.com/tw93/MiaoYan) - ⛷ Lightweight Markdown app to help you write great sentences.
+- [tw93/MiaoYan](https://github.com/tw93/MiaoYan) - ⛷ A quiet, distraction-free writing app to help you write great sentences.
 - [tldev/dorso](https://github.com/tldev/dorso) - A macOS app that blurs your screen when you slouch.
 - [Beingpax/VoiceInk](https://github.com/Beingpax/VoiceInk) - The best open-source alternative to Superwhisper & Wispr Flow. Voice-to-text app for macOS with no subscription
 - [iina/iina](https://github.com/iina/iina) - The modern video player for macOS.
