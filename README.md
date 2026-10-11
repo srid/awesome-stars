@@ -1651,6 +1651,7 @@
 - [mem0ai/mem0](https://github.com/mem0ai/mem0) - The Memory Layer for AI Agents - Drop-in memory infrastructure for AI agents and apps. Context that persists. Built for production.
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
 - [d2l-ai/d2l-en](https://github.com/d2l-ai/d2l-en) - Interactive deep learning book with multi-framework code, math, and discussions. Adopted at 500 universities from 70 countries including Stanford, MIT, Harvard, and Cambridge.
+- [devMEremenko/XcodeBenchmark](https://github.com/devMEremenko/XcodeBenchmark) - XcodeBenchmark measures the compilation time of a large codebase on iMac, MacBook, and Mac Pro
 - [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) - Documentation that simply works
 - [maubot/maubot](https://github.com/maubot/maubot) - A plugin-based Matrix bot system.
 - [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - If you live in the terminal, kitty is made for you! Cross-platform, fast, feature-rich, GPU based.
@@ -2160,7 +2161,6 @@
 - [thealpa/SaneSideButtons](https://github.com/thealpa/SaneSideButtons) - A macOS menu bar app that enables system-wide navigation functionality for side buttons on third-party mice.
 - [ealeksandrov/SomaFM-miniplayer](https://github.com/ealeksandrov/SomaFM-miniplayer) - Unofficial player that gives you minimal, background playback of SomaFM channels.
 - [openai/tart](https://github.com/openai/tart) - macOS and Linux VMs on Apple Silicon to use in CI and other automations
-- [devMEremenko/XcodeBenchmark](https://github.com/devMEremenko/XcodeBenchmark) - XcodeBenchmark measures the compilation time of a large codebase on iMac, MacBook, and Mac Pro
 - [Ranchero-Software/NetNewsWire](https://github.com/Ranchero-Software/NetNewsWire) - RSS reader for macOS and iOS.
 - [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.
 - [vincode-io/Zavala](https://github.com/vincode-io/Zavala) - A good, simple outliner for macOS, iPadOS, and iOS.
