@@ -858,7 +858,6 @@
 - [kowainik/summoner](https://github.com/kowainik/summoner) - 🔮 🔧 Tool for scaffolding batteries-included production-level Haskell projects
 - [obsidiansystems/which](https://github.com/obsidiansystems/which) - 
 - [srid/aoc2019](https://github.com/srid/aoc2019) - Srid's solutions to Advent of Code 2019 in Haskell
-- [chrisdone/lucid](https://github.com/chrisdone/lucid) - Clear to write, read and edit DSL for writing HTML
 - [monadfix/jijo](https://github.com/monadfix/jijo) - Bidirectional JSON serialization
 - [mmark-md/mmark-ext](https://github.com/mmark-md/mmark-ext) - Commonly useful extensions for the MMark markdown processor
 - [patrickt/empathy](https://github.com/patrickt/empathy) - a modern library for typed path manipulation in Haskell
