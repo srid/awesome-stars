@@ -771,6 +771,7 @@
 
 ## database 
 
+- [feldera/feldera](https://github.com/feldera/feldera) - The Feldera Incremental Computation Engine
 - [tcgoetz/GarminDB](https://github.com/tcgoetz/GarminDB) - Download and parse data from Garmin Connect or a Garmin watch, FitBit CSV, and MS Health CSV files into and analyze data in Sqlite serverless databases with Jupyter notebooks.
 - [spacejam/sled](https://github.com/spacejam/sled) - the champagne of beta embedded databases
 - [TheNeikos/rustbreak](https://github.com/TheNeikos/rustbreak) - A simple, fast and easy to use self-contained single file storage for Rust
@@ -843,7 +844,7 @@
 - [Jagalite/superseedr](https://github.com/Jagalite/superseedr) - A BitTorrent Client in your Terminal
 - [bigwhite/issue2md](https://github.com/bigwhite/issue2md) - A tool to convert GitHub issue/discussion into Markdown.
 - [nlewo/nix2container](https://github.com/nlewo/nix2container) - An archive-less dockerTools.buildImage implementation
-- [usememos/memos](https://github.com/usememos/memos) - A personal timeline for quick notes. Write short memos, find them later by search, tag, or date. Open source and self-hosted.
+- [usememos/memos](https://github.com/usememos/memos) - A timeline for your thoughts. Just type. It stays yours.
 - [F1bonacc1/process-compose](https://github.com/F1bonacc1/process-compose) - Process Compose is a simple and flexible scheduler and orchestrator to manage non-containerized applications.
 - [tazjin/nixery](https://github.com/tazjin/nixery) - Container registry which transparently builds images using the Nix package manager. Canonical repository is https://cs.tvl.fyi/depot/-/tree/tools/nixery
 - [hercules-ci/arion](https://github.com/hercules-ci/arion) - Run docker-compose with help from Nix/NixOS
@@ -1127,7 +1128,7 @@
 
 - [bigwhite/issue2md](https://github.com/bigwhite/issue2md) - A tool to convert GitHub issue/discussion into Markdown.
 - [elisescu/tty-share](https://github.com/elisescu/tty-share) - Share your linux or osx terminal over the Internet.
-- [usememos/memos](https://github.com/usememos/memos) - A personal timeline for quick notes. Write short memos, find them later by search, tag, or date. Open source and self-hosted.
+- [usememos/memos](https://github.com/usememos/memos) - A timeline for your thoughts. Just type. It stays yours.
 - [extism/extism](https://github.com/extism/extism) - The framework for building with WebAssembly (wasm). Easily & securely load wasm modules, move data, call functions, and build extensible apps.
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 - [YoSev/private-ghp](https://github.com/YoSev/private-ghp) - publish github pages privately secured by github sso (oauth2)
@@ -1815,7 +1816,7 @@
 - [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
 - [blinkospace/blinko](https://github.com/blinkospace/blinko) - An open-source, self-hosted personal AI note tool prioritizing privacy, built using TypeScript .
 - [swsnr/mdcat](https://github.com/swsnr/mdcat) - cat for markdown
-- [usememos/memos](https://github.com/usememos/memos) - A personal timeline for quick notes. Write short memos, find them later by search, tag, or date. Open source and self-hosted.
+- [usememos/memos](https://github.com/usememos/memos) - A timeline for your thoughts. Just type. It stays yours.
 - [1943time/inkdown](https://github.com/1943time/inkdown) - Inkdown is a WYSIWYG editor and an LLM dialogue tool, fully compatible with GitHub Flavored Markdown Spec.
 - [wooorm/markdown-rs](https://github.com/wooorm/markdown-rs) - CommonMark compliant markdown parser in Rust with ASTs and extensions
 - [mdzk-rs/mdzk](https://github.com/mdzk-rs/mdzk) - General-purpose interface to connected notes
@@ -2044,7 +2045,7 @@
 ## open-source 
 
 - [webadderallorg/Recordly](https://github.com/webadderallorg/Recordly) - Create polished demo videos without editing skills. Mac/Windows/Linux
-- [usememos/memos](https://github.com/usememos/memos) - A personal timeline for quick notes. Write short memos, find them later by search, tag, or date. Open source and self-hosted.
+- [usememos/memos](https://github.com/usememos/memos) - A timeline for your thoughts. Just type. It stays yours.
 - [calcom/cal.diy](https://github.com/calcom/cal.diy) - Scheduling infrastructure for absolutely everyone.
 - [F1bonacc1/process-compose](https://github.com/F1bonacc1/process-compose) - Process Compose is a simple and flexible scheduler and orchestrator to manage non-containerized applications.
 - [lk-geimfari/awesomo](https://github.com/lk-geimfari/awesomo) - Cool open source projects. Choose your project and get involved in Open Source development now.
@@ -3525,7 +3526,7 @@
 - [iconoir-icons/iconoir](https://github.com/iconoir-icons/iconoir) - An open source icons library with 1600+ icons, supporting React, React Native, Flutter, Vue, Figma, and Framer.
 - [ganeshrvel/openmtp](https://github.com/ganeshrvel/openmtp) - OpenMTP  - Advanced Android File Transfer Application for macOS
 - [blinkospace/blinko](https://github.com/blinkospace/blinko) - An open-source, self-hosted personal AI note tool prioritizing privacy, built using TypeScript .
-- [usememos/memos](https://github.com/usememos/memos) - A personal timeline for quick notes. Write short memos, find them later by search, tag, or date. Open source and self-hosted.
+- [usememos/memos](https://github.com/usememos/memos) - A timeline for your thoughts. Just type. It stays yours.
 - [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, and mobile.
 - [markdoc/markdoc](https://github.com/markdoc/markdoc) - A powerful, flexible, Markdown-based authoring framework.
 - [Emurgo/yoroi-frontend](https://github.com/Emurgo/yoroi-frontend) - Yoroi Wallet - Cardano ADA Wallet - Your gateway to the financial world (extension frontend)
@@ -3579,6 +3580,7 @@
 
 ## rust 
 
+- [feldera/feldera](https://github.com/feldera/feldera) - The Feldera Incremental Computation Engine
 - [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) - ⌥ Coding agent with the IDE wired in. Built by Stencil Labs.
 - [1jehuang/mermaid-rs-renderer](https://github.com/1jehuang/mermaid-rs-renderer) - A fast native Rust Mermaid diagram renderer. No browser required. 500-1000x faster than mermaid-cli.
 - [celler-cache/celler](https://github.com/celler-cache/celler) - Multi-tenant Nix Binary Cache
@@ -3726,7 +3728,7 @@
 - [blinkospace/blinko](https://github.com/blinkospace/blinko) - An open-source, self-hosted personal AI note tool prioritizing privacy, built using TypeScript .
 - [grocy/grocy](https://github.com/grocy/grocy) - ERP beyond your fridge - Grocy is a web-based self-hosted groceries & household management solution for your home
 - [traderepublic/Cilicon](https://github.com/traderepublic/Cilicon) - 🛠️ Self-Hosted ephemeral macOS CI on Apple Silicon
-- [usememos/memos](https://github.com/usememos/memos) - A personal timeline for quick notes. Write short memos, find them later by search, tag, or date. Open source and self-hosted.
+- [usememos/memos](https://github.com/usememos/memos) - A timeline for your thoughts. Just type. It stays yours.
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
 - [osmoscraft/osmosfeed](https://github.com/osmoscraft/osmosfeed) - Turn GitHub into an RSS reader
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
@@ -3775,6 +3777,7 @@
 
 ## sql 
 
+- [feldera/feldera](https://github.com/feldera/feldera) - The Feldera Incremental Computation Engine
 - [Airsequel/AirGQL](https://github.com/Airsequel/AirGQL) - Automatically generate a GraphQL API for any SQLite database
 - [transact-rs/sqlx](https://github.com/transact-rs/sqlx) - 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.
 - [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data
@@ -3790,7 +3793,7 @@
 
 - [tcgoetz/GarminDB](https://github.com/tcgoetz/GarminDB) - Download and parse data from Garmin Connect or a Garmin watch, FitBit CSV, and MS Health CSV files into and analyze data in Sqlite serverless databases with Jupyter notebooks.
 - [Airsequel/AirGQL](https://github.com/Airsequel/AirGQL) - Automatically generate a GraphQL API for any SQLite database
-- [usememos/memos](https://github.com/usememos/memos) - A personal timeline for quick notes. Write short memos, find them later by search, tag, or date. Open source and self-hosted.
+- [usememos/memos](https://github.com/usememos/memos) - A timeline for your thoughts. Just type. It stays yours.
 - [transact-rs/sqlx](https://github.com/transact-rs/sqlx) - 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.
 - [ad-si/TaskLite](https://github.com/ad-si/TaskLite) - The CLI task manager for power users
 - [haskell-beam/beam](https://github.com/haskell-beam/beam) - A type-safe Haskell SQL library
