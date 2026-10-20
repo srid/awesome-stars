@@ -408,7 +408,7 @@
 - [nlewo/nix2container](https://github.com/nlewo/nix2container) - An archive-less dockerTools.buildImage implementation
 - [neuralink/tsui](https://github.com/neuralink/tsui) - An (experimental) elegant TUI for configuring Tailscale.
 - [elisescu/tty-share](https://github.com/elisescu/tty-share) - Share your linux or osx terminal over the Internet.
-- [usememos/memos](https://github.com/usememos/memos) - A timeline for your thoughts. Just type. It stays yours.
+- [usememos/memos](https://github.com/usememos/memos) - Memos is an open-source, self-hosted note-taking app that brings your everyday thoughts together in a personal timeline. Your data stays yours, and you choose what to keep private or share.
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 - [git-bug/git-bug](https://github.com/git-bug/git-bug) - Distributed, offline-first bug tracker integrated in git
 - [matrix-org/pinecone](https://github.com/matrix-org/pinecone) - Peer-to-peer overlay routing for the Matrix ecosystem
@@ -1581,7 +1581,7 @@
 
 ## PHP 
 
-- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.
+- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 360+ one-click services on your own servers.
 - [BookStackApp/BookStack](https://github.com/BookStackApp/BookStack) - NOW MANAGED ON CODEBERG
 - [nadrad/h-m-m](https://github.com/nadrad/h-m-m) - h-m-m, or Hackers Mind Map, is a simple, fast, keyboard-centric terminal-based tool for working with mind maps.
 - [gharlan/alfred-github-workflow](https://github.com/gharlan/alfred-github-workflow) - GitHub Workflow for Alfred
@@ -1626,6 +1626,7 @@
 - [microsoft/apm](https://github.com/microsoft/apm) - Agent Package Manager
 - [Weizhena/Deep-Research-skills](https://github.com/Weizhena/Deep-Research-skills) - Structured deep research skill for Claude Code/Open Code/Codex with human-in-the-loop control
 - [icloud-photos-downloader/icloud_photos_downloader](https://github.com/icloud-photos-downloader/icloud_photos_downloader) - A command-line tool to download photos from iCloud
+- [Datron/jilebi](https://github.com/Datron/jilebi) - MCP runtime with javascript plugins
 - [simonw/claude-code-transcripts](https://github.com/simonw/claude-code-transcripts) - Tools for publishing transcripts for Claude Code sessions
 - [openai/whisper](https://github.com/openai/whisper) - Robust Speech Recognition via Large-Scale Weak Supervision
 - [zai-org/GLM-4.5](https://github.com/zai-org/GLM-4.5) - GLM-4.5: Agentic, Reasoning, and Coding (ARC) Foundation Models
@@ -1839,7 +1840,6 @@
 - [srid/disc-scrape](https://github.com/srid/disc-scrape) - Fetch Discourse posts as Markdown
 - [CryptoGladi/obsidian-parser](https://github.com/CryptoGladi/obsidian-parser) - Blazingly fast Obsidian vault parser with graph analysis
 - [nrdxp/sukr](https://github.com/nrdxp/sukr) - Minimal static site compiler — suckless, Rust, zero JS.
-- [Datron/jilebi](https://github.com/Datron/jilebi) - MCP runtime with javascript plugins
 - [aanderse/trix](https://github.com/aanderse/trix) - trick yourself into flakes
 - [chase/awrit](https://github.com/chase/awrit) - A full graphical web browser for Kitty terminal with mouse and keyboard support
 - [jmmv/ssh-agent-switcher](https://github.com/jmmv/ssh-agent-switcher) - SSH agent proxy for tmux
