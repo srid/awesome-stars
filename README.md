@@ -1266,7 +1266,6 @@
 - [Mic92/adios-flake](https://github.com/Mic92/adios-flake) - Composable flake outputs using the adios module system — the ergonomics of flake-parts without the evaluation overhead.
 - [halfwhey/nix-apple-container](https://github.com/halfwhey/nix-apple-container) - 
 - [a-kenji/zellij-nix](https://github.com/a-kenji/zellij-nix) - Zellij Nix Environment
-- [juspay/skills](https://github.com/juspay/skills) - Various useful skills for development
 - [juspay/AI](https://github.com/juspay/AI) - One-click AI agent for Juspay; MOVED to https://github.com/juspay/agent-distro
 - [srid/hackage-publish](https://github.com/srid/hackage-publish) - A simple script to publish Haskell packages to Hackage with little fanfare.
 - [garnix-io/yensid](https://github.com/garnix-io/yensid) - A proxy for better Nix remote builds
@@ -1457,6 +1456,7 @@
 - [divio/documentation-framework](https://github.com/divio/documentation-framework) - "The Grand Unified Theory of Documentation" (David Laing) - a popular and transformative documentation authoring framework
 - [srid/llm-debate](https://github.com/srid/llm-debate) - Orchestrate debates between any number of LLMs
 - [mohammedAcheddad/SSH_port_forwarding](https://github.com/mohammedAcheddad/SSH_port_forwarding) - a full tutorial on how to use ssh port forwarding with all its types
+- [juspay/skills](https://github.com/juspay/skills) - Various useful skills for development
 - [Uzaaft/awesome-libghostty](https://github.com/Uzaaft/awesome-libghostty) - 
 - [MiniMax-AI/MiniMax-M2](https://github.com/MiniMax-AI/MiniMax-M2) - MiniMax-M2, a model built for Max coding & agentic workflows.
 - [dharmx/walls](https://github.com/dharmx/walls) - All of my wallpapers in one repo.
