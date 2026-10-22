@@ -1256,7 +1256,7 @@
 - [idris-lang/Idris2](https://github.com/idris-lang/Idris2) - A purely functional programming language with first class types
 - [android-password-store/Android-Password-Store](https://github.com/android-password-store/Android-Password-Store) - Android application compatible with ZX2C4's Pass command line application
 - [purenix-org/purenix](https://github.com/purenix-org/purenix) - Nix backend for PureScript.  Transpile PureScript code to Nix.
-- [input-output-hk/haskell.nix](https://github.com/input-output-hk/haskell.nix) - Alternative Haskell Infrastructure for Nixpkgs
+- [ican-group/haskell.nix](https://github.com/ican-group/haskell.nix) - Alternative Haskell Infrastructure for Nixpkgs
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 - [xbmc/xbmc](https://github.com/xbmc/xbmc) - Kodi is an award-winning free and open source home theater/media center software and entertainment hub for digital media. With its beautiful interface and powerful skinning engine, it's available for 
 - [LBRYFoundation/Watch-on-LBRY](https://github.com/LBRYFoundation/Watch-on-LBRY) - Plugin for web browser that automatic check if YouTube video is on LBRY
@@ -1355,7 +1355,7 @@
 - [purenix-org/purenix](https://github.com/purenix-org/purenix) - Nix backend for PureScript.  Transpile PureScript code to Nix.
 - [saep/nvim-hs-ghcid](https://github.com/saep/nvim-hs-ghcid) - Ghcid integration plugin for nvim-hs
 - [dewey92/typed-fp-good-reads](https://github.com/dewey92/typed-fp-good-reads) - 📚 List of useful resources to learn typed FP
-- [input-output-hk/haskell.nix](https://github.com/input-output-hk/haskell.nix) - Alternative Haskell Infrastructure for Nixpkgs
+- [ican-group/haskell.nix](https://github.com/ican-group/haskell.nix) - Alternative Haskell Infrastructure for Nixpkgs
 - [well-typed/cborg](https://github.com/well-typed/cborg) - Binary serialisation in the CBOR format
 - [hledgerorg/hledger](https://github.com/hledgerorg/hledger) - Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces.
 - [fumieval/extensible](https://github.com/fumieval/extensible) - Extensible records, variants, structs, effects, tangles
