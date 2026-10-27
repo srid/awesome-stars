@@ -2075,6 +2075,8 @@
 
 ## others 
 
+- [juspay/video-evidence](https://github.com/juspay/video-evidence) - 
+- [numtide/iets](https://github.com/numtide/iets) - Fast Nix evaluator and remote-build client in Rust
 - [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) - A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings
 - [Taxuspt/garmin_mcp](https://github.com/Taxuspt/garmin_mcp) - MCP server to access Garmin data
 - [juspay/streamgres](https://github.com/juspay/streamgres) - A subscription-native sync engine for PostgreSQL.
