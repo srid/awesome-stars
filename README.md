@@ -557,6 +557,7 @@
 
 ## HTML 
 
+- [juspay/video-evidence](https://github.com/juspay/video-evidence) - 
 - [ekala-project/twie](https://github.com/ekala-project/twie) - This week in Ekala blog
 - [juspay/nixden](https://github.com/juspay/nixden) - Isolated NixOS-based devbox for Mac users and others
 - [Pankajtanwarbanna/stfu](https://github.com/Pankajtanwarbanna/stfu) - stfu
@@ -1812,6 +1813,7 @@
 
 ## Rust 
 
+- [numtide/iets](https://github.com/numtide/iets) - Fast Nix evaluator and remote-build client in Rust
 - [feldera/feldera](https://github.com/feldera/feldera) - The Feldera Incremental Computation Engine
 - [juspay/streamgres](https://github.com/juspay/streamgres) - A subscription-native sync engine for PostgreSQL.
 - [cachix/nix-archive](https://github.com/cachix/nix-archive) - Byte-safe encoding, decoding, hashing, and restoration for Nix archive formats in pure Rust.
