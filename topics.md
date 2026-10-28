@@ -203,6 +203,7 @@
 - [server](#server)
 - [serverless](#serverless)
 - [shell](#shell)
+- [skills](#skills)
 - [software](#software)
 - [spacevim](#spacevim)
 - [sql](#sql)
@@ -2075,6 +2076,7 @@
 
 ## others 
 
+- [dakra/ghostel](https://github.com/dakra/ghostel) - Terminal emulator powered by libghostty
 - [juspay/video-evidence](https://github.com/juspay/video-evidence) - 
 - [numtide/iets](https://github.com/numtide/iets) - Fast Nix evaluator and remote-build client in Rust
 - [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) - A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings
@@ -3779,6 +3781,11 @@
 - [elves/elvish](https://github.com/elves/elvish) - Powerful scripting language & versatile interactive shell
 - [koalaman/shellcheck](https://github.com/koalaman/shellcheck) - ShellCheck, a static analysis tool for shell scripts
 - [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell.
+
+## skills 
+
+- [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) - Production-grade engineering skills for AI coding agents.
+- [srid/agency](https://github.com/srid/agency) - My near-autonomous workflow for coding agents
 
 ## software 
 
