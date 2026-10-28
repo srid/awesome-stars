@@ -306,6 +306,7 @@
 
 ## Emacs Lisp 
 
+- [dakra/ghostel](https://github.com/dakra/ghostel) - Terminal emulator powered by libghostty
 - [manzaltu/claude-code-ide.el](https://github.com/manzaltu/claude-code-ide.el) - Claude Code IDE integration for Emacs
 - [abougouffa/minemacs](https://github.com/abougouffa/minemacs) - MinEmacs: an Emacs configuration framework for daily use
 - [copilot-emacs/copilot.el](https://github.com/copilot-emacs/copilot.el) - An unofficial Copilot plugin for Emacs.
