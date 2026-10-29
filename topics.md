@@ -2615,7 +2615,6 @@
 - [Plutonomicon/plutarch-plutus](https://github.com/Plutonomicon/plutarch-plutus) - Typed eDSL for writing UPLC  /ˈpluː.tɑːk/
 - [brandonchinn178/aeson-schemas](https://github.com/brandonchinn178/aeson-schemas) - Easily consume JSON data on-demand with type-safety
 - [madmalik/mononoki](https://github.com/madmalik/mononoki) - a programming typeface
-- [serokell/blog-posts](https://github.com/serokell/blog-posts) - The place for submitting new articles to the Serokell blog.
 - [meraymond2/idris-vscode](https://github.com/meraymond2/idris-vscode) - Idris front-end for VS Code
 - [bor0/gidti](https://github.com/bor0/gidti) - Book: Introduction to Dependent Types with Idris
 - [Plutonomicon/pluto](https://github.com/Plutonomicon/pluto) - An untyped Plutus Core assembler
