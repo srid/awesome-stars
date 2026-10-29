@@ -724,7 +724,6 @@
 - [srid/emanote](https://github.com/srid/emanote) - Emanate a structured view of your plain-text notes
 - [jonascarpay/apecs](https://github.com/jonascarpay/apecs) - a fast, extensible, type driven Haskell ECS framework for games
 - [brandonchinn178/aeson-schemas](https://github.com/brandonchinn178/aeson-schemas) - Easily consume JSON data on-demand with type-safety
-- [serokell/blog-posts](https://github.com/serokell/blog-posts) - The place for submitting new articles to the Serokell blog.
 - [Plutonomicon/pluto](https://github.com/Plutonomicon/pluto) - An untyped Plutus Core assembler
 - [cardano-foundation/cardano-wallet](https://github.com/cardano-foundation/cardano-wallet) - HTTP server & command-line for managing UTxOs and HD wallets in Cardano.
 - [srid/unionmount](https://github.com/srid/unionmount) - Union mount in Haskell, with fsnotify
