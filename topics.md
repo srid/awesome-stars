@@ -2085,6 +2085,8 @@
 
 ## others 
 
+- [srid/linux-omarchy-nix](https://github.com/srid/linux-omarchy-nix) - Nix packaging of the Omarchy kernel (linux-omarchy): mainline 7.2.15 + omarchy-pkgs' ~188 patches and config
+- [olafkfreund/nixarchy](https://github.com/olafkfreund/nixarchy) - Omarchy 4.x vendored for NixOS — the upstream tree packaged as a derivation, not reimplemented in Nix
 - [dakra/ghostel](https://github.com/dakra/ghostel) - Terminal emulator powered by libghostty
 - [juspay/video-evidence](https://github.com/juspay/video-evidence) - 
 - [numtide/iets](https://github.com/numtide/iets) - Fast Nix evaluator and remote-build client in Rust
@@ -2209,7 +2211,6 @@
 - [srid/sandnix](https://github.com/srid/sandnix) - A Nix flake-parts module for wrapping programs with a sandboxed environment using landrun (Landlock) on Linux, and sandbox-exec on macOS.
 - [Mic92/fast-flake-update](https://github.com/Mic92/fast-flake-update) - Update flake.lock with the latest commit of a local checkout
 - [Sveske-Juice/declarative-jellyfin](https://github.com/Sveske-Juice/declarative-jellyfin) - Nix flake to configure Jellyfin declaratively
-- [viperML/nix-maid](https://github.com/viperML/nix-maid) - [simpler dotfile management]
 - [Mic92/nix-fast-build](https://github.com/Mic92/nix-fast-build) - Combine the power of nix-eval-jobs with nix-output-monitor to speed-up your evaluation and building process.
 - [nixops4/nix-bindings-rust](https://github.com/nixops4/nix-bindings-rust) - Use the Nix package manager as a library
 - [srid/master](https://github.com/srid/master) - Dethrone "main" and restore "master" to its rightful glory.
