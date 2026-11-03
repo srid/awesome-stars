@@ -1255,6 +1255,8 @@
 
 ## Nix 
 
+- [srid/linux-omarchy-nix](https://github.com/srid/linux-omarchy-nix) - Nix packaging of the Omarchy kernel (linux-omarchy): mainline 7.2.15 + omarchy-pkgs' ~188 patches and config
+- [olafkfreund/nixarchy](https://github.com/olafkfreund/nixarchy) - Omarchy 4.x vendored for NixOS — the upstream tree packaged as a derivation, not reimplemented in Nix
 - [mateusdcc/nixpi](https://github.com/mateusdcc/nixpi) - Declarative Nix configuration framework for the Pi coding agent
 - [ekala-project/ekapkgs](https://github.com/ekala-project/ekapkgs) - Default package set for Ekapkgs and EkaOS
 - [juspay/bun2nix](https://github.com/juspay/bun2nix) - Fork of https://github.com/nix-community/bun2nix open to contributions
@@ -1278,7 +1280,6 @@
 - [nixpak/nixpak](https://github.com/nixpak/nixpak) - Runtime sandboxing for Nix
 - [srid/sandnix](https://github.com/srid/sandnix) - A Nix flake-parts module for wrapping programs with a sandboxed environment using landrun (Landlock) on Linux, and sandbox-exec on macOS.
 - [Sveske-Juice/declarative-jellyfin](https://github.com/Sveske-Juice/declarative-jellyfin) - Nix flake to configure Jellyfin declaratively
-- [viperML/nix-maid](https://github.com/viperML/nix-maid) - [simpler dotfile management]
 - [srid/nix-serve-cloudflared](https://github.com/srid/nix-serve-cloudflared) - Serve your Nix store as cache, behind Cloudflare Tunnel
 - [phaer/nixos-vm-on-macos](https://github.com/phaer/nixos-vm-on-macos) - Run #NixOS on darwin, including Rosetta 2 & virtiofs!
 - [nix-community/bun2nix](https://github.com/nix-community/bun2nix) - Generate a nix expression to build bun packages - similar to node2nix or yarn2nix [maintainer=@baileylu121]
