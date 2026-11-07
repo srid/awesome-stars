@@ -232,6 +232,7 @@
 - [vim](#vim)
 - [visual-studio-code](#visual-studio-code)
 - [visualization](#visualization)
+- [vscode](#vscode)
 - [vue](#vue)
 - [vuejs](#vuejs)
 - [web](#web)
@@ -1551,6 +1552,7 @@
 
 ## ios 
 
+- [tw93/MiaoYan](https://github.com/tw93/MiaoYan) - ⛷ A quiet, local-first Markdown writing app for Mac, iPhone and iPad, to help you write great sentences.
 - [haskell-miso/miso-lynx](https://github.com/haskell-miso/miso-lynx) - :ramen: 🐈 A tasty Haskell mobile framework
 - [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, and mobile.
 - [Ranchero-Software/NetNewsWire](https://github.com/Ranchero-Software/NetNewsWire) - RSS reader for macOS and iOS.
@@ -1673,6 +1675,7 @@
 
 ## latex 
 
+- [tw93/MiaoYan](https://github.com/tw93/MiaoYan) - ⛷ A quiet, local-first Markdown writing app for Mac, iPhone and iPad, to help you write great sentences.
 - [mathialo/simpleinvoice](https://github.com/mathialo/simpleinvoice) - LaTeX package for easily creating pretty invoices
 - [lua-vr/organon](https://github.com/lua-vr/organon) - 📖 view and generate static websites from your Org files  (WIP).
 - [lua-vr/ondim](https://github.com/lua-vr/ondim) - Multitype expansions for easy templating.
@@ -1786,7 +1789,7 @@
 - [DamascenoRafael/reminders-menubar](https://github.com/DamascenoRafael/reminders-menubar) - Simple macOS menu bar application to view and interact with reminders. Developed with SwiftUI and using Apple Reminders as a source.
 - [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) - Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Built for multitasking, organization, and programmability.
 - [SuperCmdLabs/SuperCmd](https://github.com/SuperCmdLabs/SuperCmd) - Powerful MacOS Launcher
-- [tw93/MiaoYan](https://github.com/tw93/MiaoYan) - ⛷ A quiet, local-first Markdown writing app for Mac, to help you write great sentences.
+- [tw93/MiaoYan](https://github.com/tw93/MiaoYan) - ⛷ A quiet, local-first Markdown writing app for Mac, iPhone and iPad, to help you write great sentences.
 - [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm) - An open-source, AI-integrated, cross-platform terminal for seamless workflows
 - [Beingpax/VoiceInk](https://github.com/Beingpax/VoiceInk) - The best open-source alternative to Superwhisper & Wispr Flow. Voice-to-text app for macOS with no subscription
 - [iina/iina](https://github.com/iina/iina) - The modern video player for macOS.
@@ -1824,7 +1827,7 @@
 
 - [team-reflect/reflect-open](https://github.com/team-reflect/reflect-open) - Open-source Reflect rewrite: A local-first AI agent-friendly Markdown note-taking app
 - [mfontanini/presenterm](https://github.com/mfontanini/presenterm) - A markdown terminal slideshow tool
-- [tw93/MiaoYan](https://github.com/tw93/MiaoYan) - ⛷ A quiet, local-first Markdown writing app for Mac, to help you write great sentences.
+- [tw93/MiaoYan](https://github.com/tw93/MiaoYan) - ⛷ A quiet, local-first Markdown writing app for Mac, iPhone and iPad, to help you write great sentences.
 - [bigwhite/issue2md](https://github.com/bigwhite/issue2md) - A tool to convert GitHub issue/discussion into Markdown.
 - [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
 - [blinkospace/blinko](https://github.com/blinkospace/blinko) - An open-source, self-hosted personal AI note tool prioritizing privacy, built using TypeScript .
@@ -2222,7 +2225,6 @@
 - [johansan/notebook-navigator](https://github.com/johansan/notebook-navigator) - A better file browser and calendar inspired by Apple Notes, Bear, Evernote and Day One.
 - [phaer/nixos-vm-on-macos](https://github.com/phaer/nixos-vm-on-macos) - Run #NixOS on darwin, including Rosetta 2 & virtiofs!
 - [nix-community/bun2nix](https://github.com/nix-community/bun2nix) - Generate a nix expression to build bun packages - similar to node2nix or yarn2nix [maintainer=@baileylu121]
-- [cbasdev/dracula-purple-theme](https://github.com/cbasdev/dracula-purple-theme) - 💜 Extended dracula theme for vscode
 - [gregwebs/Shelly.hs](https://github.com/gregwebs/Shelly.hs) - Haskell shell scripting
 - [nixbuild/nix-quick-install-action](https://github.com/nixbuild/nix-quick-install-action) - 
 - [leanprover/verso](https://github.com/leanprover/verso) - Lean documentation authoring tool
@@ -2524,8 +2526,6 @@
 - [aljazceru/awesome-nostr](https://github.com/aljazceru/awesome-nostr) - nostr.net - awesome-nostr is a collection of projects and resources built on nostr to help developers and users find new things
 - [YorikSar/nixos-vm-on-macos](https://github.com/YorikSar/nixos-vm-on-macos) - Run NixOS VMs on macOS! https://github.com/NixOS/nixpkgs/issues/108984
 - [aristanetworks/nix-serve-ng](https://github.com/aristanetworks/nix-serve-ng) - A drop-in replacement for nix-serve that is faster and more reliable
-- [ameertaweel/nix-vscode-marketplace](https://github.com/ameertaweel/nix-vscode-marketplace) - VSCode and OpenVSX extensions for Nix
-- [Phu1237/vscode-vs-browser](https://github.com/Phu1237/vscode-vs-browser) - Built-in browser for Visual Studio Code
 - [githubocto/flat-demo-google-sheets](https://github.com/githubocto/flat-demo-google-sheets) - A Flat Data GitHub Action demo repo
 - [Platonic-Systems/treefmt-flake](https://github.com/Platonic-Systems/treefmt-flake) - A `flake-parts` module to work with treefmt. No longer maintained; you should instead use https://github.com/numtide/treefmt-nix#flake-parts
 - [haskell-actions/hackage-publish](https://github.com/haskell-actions/hackage-publish) - A GitHub action for publishing packages on Hackage
@@ -2588,7 +2588,6 @@
 - [srid/tailwind-haskell](https://github.com/srid/tailwind-haskell) - A No-JavaScript Tailwind runner in Haskell
 - [NorfairKing/safe-coloured-text](https://github.com/NorfairKing/safe-coloured-text) - 
 - [idris-community/idris2-nvim](https://github.com/idris-community/idris2-nvim) - Simple configuration and extra tools for NVIM + LSP + Idris2
-- [antfu/vscode-browse-lite](https://github.com/antfu/vscode-browse-lite) - 🚀 An embedded browser in VS Code
 - [V0ldek/plutarch-examples](https://github.com/V0ldek/plutarch-examples) - Example contracts written with Plutarch and usual PlutusTx
 - [the1lab/1lab](https://github.com/the1lab/1lab) - A formalised, cross-linked reference resource for mathematics done in Homotopy Type Theory
 - [srid/haskell-ladder](https://github.com/srid/haskell-ladder) - WIP: Haskell Pedagogic Ladder (Run `nix run` to run the site locally)
@@ -2627,7 +2626,6 @@
 - [meraymond2/idris-vscode](https://github.com/meraymond2/idris-vscode) - Idris front-end for VS Code
 - [bor0/gidti](https://github.com/bor0/gidti) - Book: Introduction to Dependent Types with Idris
 - [Plutonomicon/pluto](https://github.com/Plutonomicon/pluto) - An untyped Plutus Core assembler
-- [banacorn/agda-mode-vscode](https://github.com/banacorn/agda-mode-vscode) - agda-mode on VS Code
 - [cardano-foundation/CIPs](https://github.com/cardano-foundation/CIPs) - Cardano Improvement Proposals (CIPs)
 - [uiuc-cs-zettelkasten/uiuc-cs-zettelkasten.github.io](https://github.com/uiuc-cs-zettelkasten/uiuc-cs-zettelkasten.github.io) - UIUC Computer Science Zettelkasten
 - [IntersectMBO/cardano-launcher](https://github.com/IntersectMBO/cardano-launcher) - Shelley cardano-node and cardano-wallet launcher for NodeJS applications
@@ -2647,7 +2645,6 @@
 - [tejasvi/markless](https://github.com/tejasvi/markless) - Preview markdown inline and extend the capabilities through VS Code extensions.
 - [tomferon/eventsourcing](https://github.com/tomferon/eventsourcing) - CQRS/ES library in Haskell
 - [alexkdeveloper/somafm](https://github.com/alexkdeveloper/somafm) - A simple radio with built-in stations from the website somafm.com
-- [gitpod-io/openvscode-server](https://github.com/gitpod-io/openvscode-server) - Run upstream VS Code on a remote machine with access through a modern web browser from any device, anywhere.
 - [microsoft/vscode-edge-devtools](https://github.com/microsoft/vscode-edge-devtools) - A VSCode extension that allows you to use browser devtools from within the editor. The devtools will connect to an instance of Microsoft Edge giving you the ability to alter CSS styling, perform diagn
 - [mlabs-haskell/awesome-plutus](https://github.com/mlabs-haskell/awesome-plutus) - 
 - [ongyiren1994/mermaid-hs](https://github.com/ongyiren1994/mermaid-hs) - 
@@ -2692,8 +2689,6 @@
 - [graninas/The-Voids-Of-Haskell](https://github.com/graninas/The-Voids-Of-Haskell) - 
 - [TaKO8Ki/awesome-alternatives-in-rust](https://github.com/TaKO8Ki/awesome-alternatives-in-rust) - A curated list of replacements for existing software written in Rust
 - [Daniel-Diaz/HaTeX](https://github.com/Daniel-Diaz/HaTeX) - The Haskell LaTeX library.
-- [BeardedBear/bearded-icons](https://github.com/BeardedBear/bearded-icons) - The icons with a long beard.
-- [BeardedBear/bearded-theme](https://github.com/BeardedBear/bearded-theme) - The themes with a long beard.
 - [tweag/inline-js](https://github.com/tweag/inline-js) - Call JavaScript from Haskell, and vice versa!
 - [rubik/argon](https://github.com/rubik/argon) - Monitor cyclomatic complexity in Haskell programs
 - [purescript-gjs/purescript-gjs](https://github.com/purescript-gjs/purescript-gjs) - GNOME JavaScript bindings for PureScript
@@ -2756,7 +2751,6 @@
 - [fsprojects/FSharp.UMX](https://github.com/fsprojects/FSharp.UMX) - F# units of measure for primitive non-numeric types
 - [ekmett/propagators](https://github.com/ekmett/propagators) - The Art of the Propagator. See also:
 - [barrucadu/nixfiles](https://github.com/barrucadu/nixfiles) - My NixOS configuration and assorted other crap.
-- [microsoft/codetour](https://github.com/microsoft/codetour) - VS Code extension that allows you to record and play back guided tours of codebases, directly within the editor.
 - [fsprojects/fsharp-companies](https://github.com/fsprojects/fsharp-companies) - Community curated list of companies that use F#
 - [Zaid-Ajaj/desktop-feliz-with-photino](https://github.com/Zaid-Ajaj/desktop-feliz-with-photino) - 
 - [fsbolero/Bolero](https://github.com/fsbolero/Bolero) - Bolero brings Blazor to F# developers with an easy to use Model-View-Update architecture, HTML combinators, hot reloaded templates, type-safe endpoints, advanced routing and remoting capabilities, and
@@ -2771,7 +2765,6 @@
 - [obsidiansystems/obelisk-systemd](https://github.com/obsidiansystems/obelisk-systemd) - Turn your obelisk app into a systemd service
 - [obsidiansystems/obelisk-tailwind-example](https://github.com/obsidiansystems/obelisk-tailwind-example) - An example project using Obelisk, PostCSS, and Tailwind CSS
 - [kritikaseen/defund-wikipedia](https://github.com/kritikaseen/defund-wikipedia) - Chrome Extension to delete notices on Wikipedia for donations for their biasedness and lack of desire to make amends.
-- [markmap/markmap-vscode](https://github.com/markmap/markmap-vscode) - Integrate markmap into VSCode
 - [JeffreyBenjaminBrown/hode](https://github.com/JeffreyBenjaminBrown/hode) - rslt, take five-ish
 - [obsidiansystems/cli-extras](https://github.com/obsidiansystems/cli-extras) - 
 - [sferik/x-cli](https://github.com/sferik/x-cli) - A command-line power tool for Twitter.
@@ -3849,7 +3842,7 @@
 
 - [kitlangton/Hex](https://github.com/kitlangton/Hex) - Archived: legacy Swift Hex app. New app and source: github.com/anomalyco/hex
 - [DamascenoRafael/reminders-menubar](https://github.com/DamascenoRafael/reminders-menubar) - Simple macOS menu bar application to view and interact with reminders. Developed with SwiftUI and using Apple Reminders as a source.
-- [tw93/MiaoYan](https://github.com/tw93/MiaoYan) - ⛷ A quiet, local-first Markdown writing app for Mac, to help you write great sentences.
+- [tw93/MiaoYan](https://github.com/tw93/MiaoYan) - ⛷ A quiet, local-first Markdown writing app for Mac, iPhone and iPad, to help you write great sentences.
 - [Beingpax/VoiceInk](https://github.com/Beingpax/VoiceInk) - The best open-source alternative to Superwhisper & Wispr Flow. Voice-to-text app for macOS with no subscription
 - [iina/iina](https://github.com/iina/iina) - The modern video player for macOS.
 - [nikitabobko/AeroSpace](https://github.com/nikitabobko/AeroSpace) - AeroSpace is an i3-like tiling window manager for macOS
@@ -4095,6 +4088,24 @@
 - [nhannht/obsidian-historica](https://github.com/nhannht/obsidian-historica) - Turn prose into a timeline, automatically. An Obsidian plugin that reads your notes, finds every date with NLP, and renders an interactive timeline inside a code block.
 - [ananthakumaran/paisa](https://github.com/ananthakumaran/paisa) - Paisa – Personal Finance Manager. https://paisa.fyi demo: https://demo.paisa.fyi
 - [motion-canvas/motion-canvas](https://github.com/motion-canvas/motion-canvas) - Visualize Your Ideas With Code
+
+## vscode 
+
+- [cbasdev/dracula-purple-theme](https://github.com/cbasdev/dracula-purple-theme) - 💜 Extended dracula theme for vscode
+- [direnv/direnv-vscode](https://github.com/direnv/direnv-vscode) - unclutter your .profile
+- [ameertaweel/nix-vscode-marketplace](https://github.com/ameertaweel/nix-vscode-marketplace) - VSCode and OpenVSX extensions for Nix
+- [Phu1237/vscode-vs-browser](https://github.com/Phu1237/vscode-vs-browser) - Built-in browser for Visual Studio Code
+- [srid/rust-nix-template](https://github.com/srid/rust-nix-template) - Rust project template with Nix (Flakes) and VSCode support
+- [antfu/vscode-browse-lite](https://github.com/antfu/vscode-browse-lite) - 🚀 An embedded browser in VS Code
+- [banacorn/agda-mode-vscode](https://github.com/banacorn/agda-mode-vscode) - agda-mode on VS Code
+- [gitpod-io/openvscode-server](https://github.com/gitpod-io/openvscode-server) - Run upstream VS Code on a remote machine with access through a modern web browser from any device, anywhere.
+- [mushanshitiancai/vscode-paste-image](https://github.com/mushanshitiancai/vscode-paste-image) - paste image from clipboard to markdown/asciidoc directly!
+- [BeardedBear/bearded-icons](https://github.com/BeardedBear/bearded-icons) - The icons with a long beard.
+- [BeardedBear/bearded-theme](https://github.com/BeardedBear/bearded-theme) - The themes with a long beard.
+- [kahole/edamagit](https://github.com/kahole/edamagit) - Magit for VSCode
+- [microsoft/codetour](https://github.com/microsoft/codetour) - VS Code extension that allows you to record and play back guided tours of codebases, directly within the editor.
+- [markmap/markmap-vscode](https://github.com/markmap/markmap-vscode) - Integrate markmap into VSCode
+- [haskell/vscode-haskell](https://github.com/haskell/vscode-haskell) - VS Code extension for Haskell, powered by haskell-language-server
 
 ## vue 
 
