@@ -140,6 +140,7 @@
 - [mastodon](#mastodon)
 - [material-design](#material-design)
 - [mcp](#mcp)
+- [mcp-server](#mcp-server)
 - [microservices](#microservices)
 - [microsoft](#microsoft)
 - [mongodb](#mongodb)
@@ -1552,7 +1553,7 @@
 
 ## ios 
 
-- [tw93/MiaoYan](https://github.com/tw93/MiaoYan) - ⛷ A quiet, local-first Markdown writing app for Mac, iPhone and iPad, to help you write great sentences.
+- [tw93/MiaoYan](https://github.com/tw93/MiaoYan) - ⛷ A light, native Markdown notebook for Mac, iPhone and iPad.
 - [haskell-miso/miso-lynx](https://github.com/haskell-miso/miso-lynx) - :ramen: 🐈 A tasty Haskell mobile framework
 - [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, and mobile.
 - [Ranchero-Software/NetNewsWire](https://github.com/Ranchero-Software/NetNewsWire) - RSS reader for macOS and iOS.
@@ -1675,7 +1676,7 @@
 
 ## latex 
 
-- [tw93/MiaoYan](https://github.com/tw93/MiaoYan) - ⛷ A quiet, local-first Markdown writing app for Mac, iPhone and iPad, to help you write great sentences.
+- [tw93/MiaoYan](https://github.com/tw93/MiaoYan) - ⛷ A light, native Markdown notebook for Mac, iPhone and iPad.
 - [mathialo/simpleinvoice](https://github.com/mathialo/simpleinvoice) - LaTeX package for easily creating pretty invoices
 - [lua-vr/organon](https://github.com/lua-vr/organon) - 📖 view and generate static websites from your Org files  (WIP).
 - [lua-vr/ondim](https://github.com/lua-vr/ondim) - Multitype expansions for easy templating.
@@ -1789,7 +1790,7 @@
 - [DamascenoRafael/reminders-menubar](https://github.com/DamascenoRafael/reminders-menubar) - Simple macOS menu bar application to view and interact with reminders. Developed with SwiftUI and using Apple Reminders as a source.
 - [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) - Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Built for multitasking, organization, and programmability.
 - [SuperCmdLabs/SuperCmd](https://github.com/SuperCmdLabs/SuperCmd) - Powerful MacOS Launcher
-- [tw93/MiaoYan](https://github.com/tw93/MiaoYan) - ⛷ A quiet, local-first Markdown writing app for Mac, iPhone and iPad, to help you write great sentences.
+- [tw93/MiaoYan](https://github.com/tw93/MiaoYan) - ⛷ A light, native Markdown notebook for Mac, iPhone and iPad.
 - [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm) - An open-source, AI-integrated, cross-platform terminal for seamless workflows
 - [Beingpax/VoiceInk](https://github.com/Beingpax/VoiceInk) - The best open-source alternative to Superwhisper & Wispr Flow. Voice-to-text app for macOS with no subscription
 - [iina/iina](https://github.com/iina/iina) - The modern video player for macOS.
@@ -1827,7 +1828,7 @@
 
 - [team-reflect/reflect-open](https://github.com/team-reflect/reflect-open) - Open-source Reflect rewrite: A local-first AI agent-friendly Markdown note-taking app
 - [mfontanini/presenterm](https://github.com/mfontanini/presenterm) - A markdown terminal slideshow tool
-- [tw93/MiaoYan](https://github.com/tw93/MiaoYan) - ⛷ A quiet, local-first Markdown writing app for Mac, iPhone and iPad, to help you write great sentences.
+- [tw93/MiaoYan](https://github.com/tw93/MiaoYan) - ⛷ A light, native Markdown notebook for Mac, iPhone and iPad.
 - [bigwhite/issue2md](https://github.com/bigwhite/issue2md) - A tool to convert GitHub issue/discussion into Markdown.
 - [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
 - [blinkospace/blinko](https://github.com/blinkospace/blinko) - An open-source, self-hosted personal AI note tool prioritizing privacy, built using TypeScript .
@@ -1900,6 +1901,13 @@
 - [utensils/mcp-nixos](https://github.com/utensils/mcp-nixos) - MCP-NixOS - Model Context Protocol Server for NixOS resources
 - [github/github-mcp-server](https://github.com/github/github-mcp-server) - GitHub's official MCP Server
 - [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
+
+## mcp-server 
+
+- [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) - Chrome DevTools for coding agents
+- [Datron/jilebi](https://github.com/Datron/jilebi) - MCP runtime with javascript plugins
+- [github/github-mcp-server](https://github.com/github/github-mcp-server) - GitHub's official MCP Server
+- [emicklei/melrose](https://github.com/emicklei/melrose) - interactive programming of melodies, producing MIDI
 
 ## microservices 
 
@@ -3842,7 +3850,7 @@
 
 - [kitlangton/Hex](https://github.com/kitlangton/Hex) - Archived: legacy Swift Hex app. New app and source: github.com/anomalyco/hex
 - [DamascenoRafael/reminders-menubar](https://github.com/DamascenoRafael/reminders-menubar) - Simple macOS menu bar application to view and interact with reminders. Developed with SwiftUI and using Apple Reminders as a source.
-- [tw93/MiaoYan](https://github.com/tw93/MiaoYan) - ⛷ A quiet, local-first Markdown writing app for Mac, iPhone and iPad, to help you write great sentences.
+- [tw93/MiaoYan](https://github.com/tw93/MiaoYan) - ⛷ A light, native Markdown notebook for Mac, iPhone and iPad.
 - [Beingpax/VoiceInk](https://github.com/Beingpax/VoiceInk) - The best open-source alternative to Superwhisper & Wispr Flow. Voice-to-text app for macOS with no subscription
 - [iina/iina](https://github.com/iina/iina) - The modern video player for macOS.
 - [nikitabobko/AeroSpace](https://github.com/nikitabobko/AeroSpace) - AeroSpace is an i3-like tiling window manager for macOS
