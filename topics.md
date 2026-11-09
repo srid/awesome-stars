@@ -122,6 +122,7 @@
 - [js](#js)
 - [json](#json)
 - [kali-linux](#kali-linux)
+- [knowledge-graph](#knowledge-graph)
 - [kotlin](#kotlin)
 - [kubernetes](#kubernetes)
 - [language](#language)
@@ -1645,6 +1646,12 @@
 ## kali-linux 
 
 - [morrownr/USB-WiFi](https://github.com/morrownr/USB-WiFi) - USB WiFi Adapter Information for Linux
+
+## knowledge-graph 
+
+- [cocoindex-io/cocoindex](https://github.com/cocoindex-io/cocoindex) - Incremental engine for long horizon agents 🌟 Star if you like it!
+- [CryptoGladi/obsidian-parser](https://github.com/CryptoGladi/obsidian-parser) - Blazingly fast Obsidian vault parser with graph analysis
+- [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: https://logseq.io/p/NX4mc_ggEV
 
 ## kotlin 
 
