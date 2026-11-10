@@ -462,6 +462,7 @@
 - [kelseyhightower/envconfig](https://github.com/kelseyhightower/envconfig) - Golang library for managing configuration data from environment variables
 - [constabulary/gb](https://github.com/constabulary/gb) - gb, the project based build tool for Go
 - [sirupsen/logrus](https://github.com/sirupsen/logrus) - Structured, pluggable logging for Go.
+- [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
 - [boltdb/bolt](https://github.com/boltdb/bolt) - An embedded key/value database for Go.
 - [dustin/go-humanize](https://github.com/dustin/go-humanize) - Go Humans! (formatters for units to human friendly sizes)
 - [rethinkdb/rethinkdb-go](https://github.com/rethinkdb/rethinkdb-go) - Go language driver for RethinkDB
@@ -2112,7 +2113,7 @@
 - [michaeldfallen/git-radar](https://github.com/michaeldfallen/git-radar) - A heads up display for git
 - [heroku/docker-python](https://github.com/heroku/docker-python) - [DEPRECATED] Docker image for Python (and Heroku).
 - [srid/heroku-buildpack-elm](https://github.com/srid/heroku-buildpack-elm) - Heroku buildpack for deploying Elm apps (NEEDS MAINTAINER)
-- [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Our next-generation, interactive app is currently in beta!  Come try it out at terminalthemes.com! Over 850 terminal color schemes/themes for iTerm, with ports to Terminal, Konsole, PuTTY, Xresources,
+- [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Our next-generation, interactive app is currently in beta!  Come try it out at terminalthemes.com! Over 900 terminal color schemes/themes for iTerm, with ports to Terminal, Konsole, PuTTY, Xresources,
 - [ActiveState/activepython-docker](https://github.com/ActiveState/activepython-docker) - ActivePython Docker image
 - [illusori/bash-itunes](https://github.com/illusori/bash-itunes) - Shell script to control iTunes from the command-line.
 - [babun/babun](https://github.com/babun/babun) - Babun - a Windows shell you will love!
@@ -2346,7 +2347,6 @@
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 - [atom-haskell/ide-haskell](https://github.com/atom-haskell/ide-haskell) - Haskell IDE plugin for Atom editor
 - [microsoft/TouchDevelop](https://github.com/microsoft/TouchDevelop) - TouchDevelop is a touch-friendly app creation environment for iPad, iPhone, Android, Windows, Mac, Linux. Our mobile-friendly editor makes coding fun, even on your phone or tablet!
-- [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
 - [sorskoot/WSaTypeScriptProjectTemplate](https://github.com/sorskoot/WSaTypeScriptProjectTemplate) - Windows Store app TypeScript Project Template
 - [GitbookIO/gitbook](https://github.com/GitbookIO/gitbook) - The open source frontend for GitBook doc sites
 - [emberjs/ember.js](https://github.com/emberjs/ember.js) - Ember.js - A JavaScript framework for creating ambitious web applications
