@@ -66,6 +66,7 @@
 - [data-visualization](#data-visualization)
 - [database](#database)
 - [deep-learning](#deep-learning)
+- [deno](#deno)
 - [deployment](#deployment)
 - [design](#design)
 - [developer-tools](#developer-tools)
@@ -675,6 +676,7 @@
 
 ## compiler 
 
+- [Millillion/lasm](https://github.com/Millillion/lasm) - Lean for JavaScript and WebAssembly runtimes
 - [ekmett/thc](https://github.com/ekmett/thc) - The Turbo Haskell Compiler
 - [LukeMathWalker/pavex](https://github.com/LukeMathWalker/pavex) - A backend framework for Rust professionals
 - [wooorm/markdown-rs](https://github.com/wooorm/markdown-rs) - CommonMark compliant markdown parser in Rust with ASTs and extensions
@@ -811,6 +813,10 @@
 
 - [sapientinc/HRM](https://github.com/sapientinc/HRM) - Hierarchical Reasoning Model Official Release
 - [d2l-ai/d2l-en](https://github.com/d2l-ai/d2l-en) - Interactive deep learning book with multi-framework code, math, and discussions. Adopted at 500 universities from 70 countries including Stanford, MIT, Harvard, and Cambridge.
+
+## deno 
+
+- [Millillion/lasm](https://github.com/Millillion/lasm) - Lean for JavaScript and WebAssembly runtimes
 
 ## deployment 
 
@@ -1582,6 +1588,7 @@
 
 ## javascript 
 
+- [Millillion/lasm](https://github.com/Millillion/lasm) - Lean for JavaScript and WebAssembly runtimes
 - [Effect-TS/effect](https://github.com/Effect-TS/effect) - Build production-ready applications in TypeScript
 - [xtermjs/xterm.js](https://github.com/xtermjs/xterm.js) - A terminal for the web
 - [unifiedjs/unified](https://github.com/unifiedjs/unified) - Parse, inspect, transform, and serialize content with syntax trees
@@ -2014,6 +2021,7 @@
 
 ## nodejs 
 
+- [Millillion/lasm](https://github.com/Millillion/lasm) - Lean for JavaScript and WebAssembly runtimes
 - [sadjow/codex-cli-nix](https://github.com/sadjow/codex-cli-nix) - Nix flake for OpenAI Codex CLI - native Rust binary, hourly updates, multi-platform caching
 - [cordiverse/cordis](https://github.com/cordiverse/cordis) - Meta-Framework of Spatiotemporal Composability
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 360+ one-click services on your own servers.
@@ -2128,7 +2136,7 @@
 - [juspay/saatchi](https://github.com/juspay/saatchi) - photograph an app doing the thing
 - [ekala-project/ekapkgs](https://github.com/ekala-project/ekapkgs) - Default package set for Ekapkgs and EkaOS
 - [digitallyinduced/haskell-agent](https://github.com/digitallyinduced/haskell-agent) - an agent harness is just a monoid in the category of endofunctors
-- [juspay/olai](https://github.com/juspay/olai) - AI-native tree-based memory system
+- [juspay/olai](https://github.com/juspay/olai) - AI-native personal knowledge management
 - [juspay/osfacts](https://github.com/juspay/osfacts) - Process + socket facts from the OS, nothing more.
 - [srid/Tend](https://github.com/srid/Tend) - Tend leanly
 - [block/buzz](https://github.com/block/buzz) - A hive mind communication platform
@@ -3774,6 +3782,7 @@
 
 ## serverless 
 
+- [Millillion/lasm](https://github.com/Millillion/lasm) - Lean for JavaScript and WebAssembly runtimes
 - [extism/extism](https://github.com/extism/extism) - The framework for building with WebAssembly (wasm). Easily & securely load wasm modules, move data, call functions, and build extensible apps.
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
 - [srid/fsharp-wasm-static-demo](https://github.com/srid/fsharp-wasm-static-demo) - A proof-of-concept demo of Bolero serverless SPA running on GitHub Pages using WebAssembly
