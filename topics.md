@@ -393,7 +393,7 @@
 
 ## awesome 
 
-- [wearetechnative/awesome-flake-parts](https://github.com/wearetechnative/awesome-flake-parts) - A curated list of awesome flake-parts resources, modules, and examples. Flake-parts is a framework for writing Nix Flakes.
+- [ekstranix/awesome-flake-parts](https://github.com/ekstranix/awesome-flake-parts) - A curated list of awesome flake-parts resources, modules, and examples. Flake-parts is a framework for writing Nix Flakes.
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 - [github/awesome-copilot](https://github.com/github/awesome-copilot) - Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.
 - [hyprland-community/awesome-hyprland](https://github.com/hyprland-community/awesome-hyprland) - Awesome list for Hyprland [maintainer=@yavko]
@@ -417,7 +417,7 @@
 
 ## awesome-list 
 
-- [wearetechnative/awesome-flake-parts](https://github.com/wearetechnative/awesome-flake-parts) - A curated list of awesome flake-parts resources, modules, and examples. Flake-parts is a framework for writing Nix Flakes.
+- [ekstranix/awesome-flake-parts](https://github.com/ekstranix/awesome-flake-parts) - A curated list of awesome flake-parts resources, modules, and examples. Flake-parts is a framework for writing Nix Flakes.
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 - [hyprland-community/awesome-hyprland](https://github.com/hyprland-community/awesome-hyprland) - Awesome list for Hyprland [maintainer=@yavko]
 - [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.
@@ -2111,6 +2111,7 @@
 
 ## others 
 
+- [agent-stacks/agent-pkgs](https://github.com/agent-stacks/agent-pkgs) - A Nix package collection of AI tools / plugins / skills / mcp / ...
 - [srid/linux-omarchy-nix](https://github.com/srid/linux-omarchy-nix) - Nix packaging of the Omarchy kernel (linux-omarchy): mainline 7.2.15 + omarchy-pkgs' ~188 patches and config
 - [olafkfreund/nixarchy](https://github.com/olafkfreund/nixarchy) - Omarchy 4.x vendored for NixOS — the upstream tree packaged as a derivation, not reimplemented in Nix
 - [dakra/ghostel](https://github.com/dakra/ghostel) - Terminal emulator powered by libghostty
