@@ -1550,7 +1550,6 @@
 - [jwbuurlage/category-theory-programmers](https://github.com/jwbuurlage/category-theory-programmers) - Category theory in the context of (functional) programming
 - [rainbyte/haskell-ide-chart](https://github.com/rainbyte/haskell-ide-chart) - Haskell state of editor/IDE support
 - [ch11ng/exwm](https://github.com/ch11ng/exwm) - Emacs X Window Manager
-- [ziishaned/learn-regex](https://github.com/ziishaned/learn-regex) - Learn regex the easy way
 - [stackblitz/core](https://github.com/stackblitz/core) - Online IDE powered by Visual Studio Code ⚡️
 - [davatron5000/can-i-subsystem-it](https://github.com/davatron5000/can-i-subsystem-it) - 
 - [sindresorhus/quick-look-plugins](https://github.com/sindresorhus/quick-look-plugins) - List of useful Quick Look plugins for developers
@@ -1685,6 +1684,7 @@
 - [python/cpython](https://github.com/python/cpython) - The Python programming language
 - [maxking/paper-to-git](https://github.com/maxking/paper-to-git) - Sync documents from Dropbox Paper to local/remote git repository.
 - [qfpl/hpython](https://github.com/qfpl/hpython) - Haskell language tools for Python
+- [ziishaned/learn-regex](https://github.com/ziishaned/learn-regex) - Learn regex the easy way
 - [w0lfschild/Flashlight](https://github.com/w0lfschild/Flashlight) - :mag_right: Enhance Spotlight with plugins on macOS
 - [niklasb/dryscrape](https://github.com/niklasb/dryscrape) - [not actively maintained] A lightweight Python library that uses Webkit to enable easy scraping of dynamic, Javascript-heavy web pages
 - [joeyespo/grip](https://github.com/joeyespo/grip) - Preview GitHub README.md files locally before committing them.
@@ -1813,6 +1813,7 @@
 
 ## Rust 
 
+- [manic-systems/tack](https://github.com/manic-systems/tack) - a full-featured nix pinning system
 - [numtide/iets](https://github.com/numtide/iets) - Fast Nix evaluator and remote-build client in Rust
 - [feldera/feldera](https://github.com/feldera/feldera) - The Feldera Incremental Computation Engine
 - [juspay/streamgres](https://github.com/juspay/streamgres) - A subscription-native sync engine for PostgreSQL.
